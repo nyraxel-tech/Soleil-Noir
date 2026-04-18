@@ -40,10 +40,33 @@ const ANIMES = [
   { titre:"Pokemon Horizons: The Series", titreJp:"Pocket Monsters (2023)", ep:133, ago:"6j", img:"9fsft", ahId:"9v661" },
 ];
 
-export default function handler(req, res) {
+export default async function handler(req, res) {
   res.setHeader("Access-Control-Allow-Origin", "*");
   res.setHeader("Access-Control-Allow-Methods", "GET, OPTIONS");
-  res.setHeader("Cache-Control", "s-maxage=3600");
   if (req.method === "OPTIONS") return res.status(200).end();
+
+  // Proxy mode : /api/anime?img=IMGCODE
+  const imgCode = req.query?.img;
+  if (imgCode) {
+    try {
+      const r = await fetch(`https://animeheaven.me/image.php?${imgCode}`, {
+        headers: {
+          "Referer": "https://animeheaven.me/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36",
+        },
+      });
+      if (!r.ok) throw new Error("img not found");
+      const buf = await r.arrayBuffer();
+      const ct = r.headers.get("content-type") || "image/jpeg";
+      res.setHeader("Content-Type", ct);
+      res.setHeader("Cache-Control", "s-maxage=86400");
+      return res.status(200).send(Buffer.from(buf));
+    } catch {
+      return res.status(404).end();
+    }
+  }
+
+  // Normal mode : return anime list
+  res.setHeader("Cache-Control", "s-maxage=3600");
   return res.status(200).json({ animes: ANIMES, updatedAt: "2026-04-18T10:00:00.000Z" });
 }
