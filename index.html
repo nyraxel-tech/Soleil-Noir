@@ -347,6 +347,8 @@ input[type=number]::-webkit-inner-spin-button { -webkit-appearance: none; }
 
 /* ── DESKTOP ADJUSTMENTS ── */
 @media (min-width: 768px) {
+  #auth-bar { display: none !important; }
+  #auth-btn-desktop { display: flex !important; }
   .bottom-nav { display: none; }
   body { padding-bottom: 0; }
   header { padding: 0 24px; justify-content: space-between; }
@@ -393,8 +395,17 @@ input[type=number]::-webkit-inner-spin-button { -webkit-appearance: none; }
     <button class="desktop-nav-btn" onclick="setTab('decouverte')">Ranking</button>
     <button class="desktop-nav-btn" onclick="setTab('liste')">Bibliothèque</button>
   </nav>
+  <button id="auth-btn-desktop" style="display:none;align-items:center;background:rgba(212,185,122,.08);border:1px solid rgba(212,185,122,.2);border-radius:2px;padding:4px 10px;font-family:inherit;font-size:10px;font-weight:700;color:var(--accent);cursor:pointer;letter-spacing:.5px;white-space:nowrap;">Connexion Google</button>
 </header>
 
+<!-- Auth bar -->
+<div id="auth-bar" style="background:rgba(212,185,122,.04);border-bottom:1px solid rgba(212,185,122,.08);padding:6px 16px;display:flex;align-items:center;justify-content:flex-end;">
+  <button id="auth-btn" style="display:flex;align-items:center;background:rgba(212,185,122,.08);border:1px solid rgba(212,185,122,.2);border-radius:2px;padding:5px 12px;font-family:inherit;font-size:10px;font-weight:700;color:var(--accent);cursor:pointer;letter-spacing:.5px;white-space:nowrap">Connexion Google</button>
+</div>
+<!-- Auth Bar -->
+<div id="auth-bar" style="background:rgba(212,185,122,.05);border-bottom:1px solid rgba(212,185,122,.1);padding:6px 16px;display:flex;align-items:center;justify-content:flex-end;">
+  <button id="auth-btn" style="display:flex;align-items:center;background:transparent;border:none;font-family:inherit;font-size:11px;font-weight:700;color:var(--accent);cursor:pointer;letter-spacing:.5px;gap:6px;padding:2px 0;">Connexion Google</button>
+</div>
 <main>
 
   <!-- NOUVEAUTÉS -->
@@ -518,6 +529,10 @@ input[type=number]::-webkit-inner-spin-button { -webkit-appearance: none; }
   </div>
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script>
+  const _supa = supabase.createClient('https://ciqrbqqocevcjxfmuhav.supabase.co', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNpcXJicXFvY2V2Y2p4Zm11aGF2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY1NTI4NjMsImV4cCI6MjA5MjEyODg2M30.g5x5-mAn_EU-3Pw0-xdJ6pFil0E1NZxf1eW4yk7ogmc');
+</script>
 <script>
 const GENRES = {
   isekai:  { label:"Isekai",      icon:`<svg width="13" height="13" viewBox="0 0 13 13" fill="none"><circle cx="6.5" cy="6.5" r="5.5" stroke="currentColor" stroke-width=".8"/><circle cx="6.5" cy="6.5" r="2.5" stroke="currentColor" stroke-width=".7" opacity=".6"/><line x1="6.5" y1="1" x2="6.5" y2="3.5" stroke="currentColor" stroke-width=".8"/><line x1="6.5" y1="9.5" x2="6.5" y2="12" stroke="currentColor" stroke-width=".8"/><line x1="1" y1="6.5" x2="3.5" y2="6.5" stroke="currentColor" stroke-width=".8"/><line x1="9.5" y1="6.5" x2="12" y2="6.5" stroke="currentColor" stroke-width=".8"/></svg>`, color:"#c084fc", keys:[
@@ -604,9 +619,73 @@ let ahData = [];
 let ahFilter = "tous";
 let currentPanelId = null;
 
-function save() { localStorage.setItem('anitrack-animes', JSON.stringify(animes)); }
+// ── AUTH & SYNC SUPABASE ──
+let _user = null;
+
+async function initAuth() {
+  const { data: { session } } = await _supa.auth.getSession();
+  _user = session?.user || null;
+  renderAuthUI();
+  if (_user) await loadFromCloud();
+}
+
+async function signInGoogle() {
+  await _supa.auth.signInWithOAuth({
+    provider: 'google',
+    options: { redirectTo: window.location.href }
+  });
+}
+
+async function signOut() {
+  await _supa.auth.signOut();
+  _user = null;
+  renderAuthUI();
+}
+
+function renderAuthUI() {
+  const btns = [document.getElementById('auth-btn'), document.getElementById('auth-btn-desktop')].filter(Boolean);
+  btns.forEach(btn => {
+    if (_user) {
+      btn.innerHTML = `<img src="${_user.user_metadata?.avatar_url || ''}" style="width:20px;height:20px;border-radius:50%;margin-right:5px;vertical-align:middle">${_user.user_metadata?.full_name?.split(' ')[0] || 'Mon compte'} <span style="opacity:.5;margin-left:4px;font-size:9px">▼</span>`;
+      btn.onclick = () => { if (confirm('Se déconnecter ?')) signOut(); };
+    } else {
+      btn.innerHTML = `<svg width="13" height="13" viewBox="0 0 24 24" fill="none" style="margin-right:5px;vertical-align:middle"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 3c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3zm0 14.2c-2.5 0-4.71-1.28-6-3.22.03-1.99 4-3.08 6-3.08 1.99 0 5.97 1.09 6 3.08-1.29 1.94-3.5 3.22-6 3.22z" fill="currentColor"/></svg>Connexion Google`;
+      btn.onclick = signInGoogle;
+    }
+  });
+}
+
+async function loadFromCloud() {
+  if (!_user) return;
+  const { data, error } = await _supa
+    .from('animes')
+    .select('data')
+    .eq('user_id', _user.id)
+    .single();
+  if (data?.data) {
+    animes = data.data;
+    localStorage.setItem('anitrack-animes', JSON.stringify(animes));
+    renderListe();
+    renderPosters();
+    renderRanking();
+  }
+}
+
+async function saveToCloud() {
+  if (!_user) return;
+  await _supa.from('animes').upsert({
+    user_id: _user.id,
+    data: animes,
+    updated_at: new Date().toISOString()
+  }, { onConflict: 'user_id' });
+}
+
+function save() {
+  localStorage.setItem('anitrack-animes', JSON.stringify(animes));
+  saveToCloud();
+}
 function imgUrl(c) { return c ? `https://anitrack-beige.vercel.app/api/anime?img=${c}` : null; }
-function pageUrl(id) { return id ? `https://animeheaven.me/anime.php?${id}` : null; }
+function pageUrl(id) { return id ? `https://animeheaven.me/anime.php?${id}=` : null; }
 function gId(titre) {
   const l = titre.toLowerCase();
   for (const [id,g] of Object.entries(GENRES)) if (g.keys.some(k => l.includes(k))) return id;
@@ -681,7 +760,7 @@ function renderPosters() {
   });
   document.getElementById('ah-count').textContent = filtered.length ? `· ${filtered.length} animés` : '';
   filtered.forEach(a => {
-    if (a.ahId) _ahMap[a.ahId] = a;
+    _ahMap[a.ahId] = a;
     const g = getG(gId(a.titre));
     const added = animes.some(x => x.titre.toLowerCase() === a.titre.toLowerCase());
     const url = imgUrl(a.img);
@@ -695,22 +774,22 @@ function renderPosters() {
       ${isNew(a) ? '<div class="poster-new">NEW</div>' : ''}
       <div class="poster-ep">Ep.${a.ep}</div>
       <div class="poster-bottom">
-        <div class="poster-title-s">${a.titre && a.titre !== '-' ? a.titre : (a.titreJp || '-')}</div>
+        <div class="poster-title-s">${a.titre}</div>
         <button class="poster-add ${added?'added':''}">
           ${added ? '✓ Vu' : 'À regarder'}
         </button>
       </div>
     `;
-    // Events — utilise directement `a` capturé en closure, sans passer par _ahMap
-    const captured = a;
+    // Events APRÈS innerHTML — récupère l'animé via ahId stocké dans dataset
+    const ahid = a.ahId;
     div.addEventListener('click', () => {
-      if (!captured.ahId) return;
-      window.open(pageUrl(captured.ahId), '_blank');
-      addFromAH(captured, true);
+      const anime = _ahMap[ahid];
+      if (anime.ahId) window.open(pageUrl(anime.ahId), '_blank');
+      addFromAH(anime, true);
     });
     div.querySelector('.poster-add').addEventListener('click', e => {
       e.stopPropagation();
-      addFromAH(captured, false);
+      addFromAH(_ahMap[ahid], false);
     });
     grid.appendChild(div);
   });
@@ -801,8 +880,8 @@ function renderGenreChips() {
   c.innerHTML = Object.entries(GENRES).map(([id,g]) => {
     const count = animes.filter(a=>a.genre===id).length;
     if (!count) return '';
-    return `<div class="genre-chip" style="border-color:${g.color}33" onclick="filterByGenre('${id}')">
-      <span style="color:${g.color};display:flex;align-items:center;gap:4px">${g.icon} ${g.label}</span>
+    return `<div class="genre-chip" style="border-color:rgba(212,185,122,.2)" onclick="filterByGenre('${id}')">
+      <span style="color:var(--accent);display:flex;align-items:center;gap:4px">${g.icon} ${g.label}</span>
       <span style="background:rgba(255,255,255,.07);padding:1px 6px;border-radius:10px;font-size:10px;font-weight:700;color:var(--muted)">${count}</span>
     </div>`;
   }).join('');
@@ -843,11 +922,11 @@ function renderListe() {
         <div class="anime-info">
           <div class="anime-name">${a.titre}</div>
           <div class="anime-tags">
-            <span class="tag" style="background:${g.color}20;color:${g.color}">${g.label}</span>
-            <span class="tag" style="background:${CS[a.statut]}20;color:${CS[a.statut]}">${a.statut}</span>
+            <span class="tag" style="background:rgba(212,185,122,.12);color:var(--accent)">${g.label}</span>
+            <span class="tag" style="background:rgba(212,185,122,.06);color:var(--muted)">${a.statut}</span>
           </div>
           <div class="anime-prog">
-            <div class="prog-bar"><div class="prog-fill" style="width:${pct}%;background:${g.color}"></div></div>
+            <div class="prog-bar"><div class="prog-fill" style="width:${pct}%;background:var(--accent)"></div></div>
             <span class="prog-txt">${w.length}/${a.totalEp}</span>
           </div>
         </div>
@@ -1194,6 +1273,7 @@ function reclassifyAll() {
 
 reclassifyAll();
 loadAH();
+initAuth();
 </script>
 </body>
 </html>
