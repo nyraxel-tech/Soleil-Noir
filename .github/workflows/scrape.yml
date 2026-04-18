@@ -51,12 +51,6 @@ jobs:
               const blocks = html.split('add.svg');
               console.log('Blocks:', blocks.length);
 
-              // DEBUG : 800 chars des blocs 1, 2, 3
-              for (let i = 1; i <= 3; i++) {
-                console.log(`--- BLOC ${i} ---`);
-                console.log(JSON.stringify(blocks[i].substring(0, 800)));
-              }
-
               const animes = [];
               const seen = new Set();
               const skipTitles = new Set(['New','Popular','Fall','Random','MORE','POPULAR','Tools','Anime Heaven','','-']);
@@ -65,15 +59,19 @@ jobs:
                 const b = blocks[i];
 
                 const idM    = b.match(/anime\.php[?='](\w+)/);
-                const imgM   = b.match(/image\.php[?'](\w+)/);
                 const titleM = b.match(/class='charttitle c'><a[^>]+>([^<]+)<\/a>/);
                 const epM    = b.match(/class='chartep[^']*'>\s*(\d+)\s*</);
                 const timeM  = b.match(/(\d+)\s*(h|d)\s*ago/);
 
-                if (!idM || !imgM) continue;
+                // L'image dans le bloc courant appartient à l'animé SUIVANT
+                // → on prend l'image depuis le bloc PRÉCÉDENT
+                const prevBlock = i > 1 ? blocks[i - 1] : '';
+                const imgM = prevBlock.match(/src='image\.php\?(\w+)'/);
 
-                const ahId  = idM[1];
-                const img   = imgM[1];
+                if (!idM) continue;
+
+                const ahId = idM[1];
+                const img  = imgM ? imgM[1] : null;
 
                 const jpM = b.match(/class='charttitlejp c'>([^<]+)</);
                 const titreJp = jpM && jpM[1].trim() !== '-' ? jpM[1].trim() : '';
