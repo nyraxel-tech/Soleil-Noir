@@ -51,6 +51,19 @@ jobs:
               const blocks = html.split('add.svg');
               console.log('Blocks:', blocks.length);
 
+              // DEBUG : affiche les 3 premiers blocs pour diagnostiquer le décalage
+              for (let i = 1; i <= Math.min(3, blocks.length - 1); i++) {
+                console.log(`\n=== BLOC ${i} (300 chars) ===`);
+                console.log(blocks[i].substring(0, 300));
+                console.log('---');
+                const idM    = blocks[i].match(/anime\.php[?='](\w+)/);
+                const imgM   = blocks[i].match(/image\.php[?'](\w+)/);
+                const titleM = blocks[i].match(/class='charttitle[^']*'>([^<]+)</) || blocks[i].match(/alt=['"]([^'"]+)['"]/);
+                console.log('  ahId :', idM ? idM[1] : 'NOT FOUND');
+                console.log('  img  :', imgM ? imgM[1] : 'NOT FOUND');
+                console.log('  titre:', titleM ? titleM[1] : 'NOT FOUND');
+              }
+
               const animes = [];
               const seen = new Set();
               const skipTitles = new Set(['New','Popular','Fall','Random','MORE','POPULAR','Tools','Anime Heaven','']);
@@ -60,12 +73,14 @@ jobs:
 
                 const idM    = b.match(/anime\.php[?='](\w+)/);
                 const imgM   = b.match(/image\.php[?'](\w+)/);
-                // Essaie la classe charttitle d'abord, fallback sur alt= si absent
                 const titleM = b.match(/class='charttitle[^']*'>([^<]+)</) || b.match(/alt=['"]([^'"]+)['"]/);
                 const epM    = b.match(/\n\s*(\d+)\s*\n/);
                 const timeM  = b.match(/(\d+)\s*(h|d)\s*ago/);
 
-                if (!idM || !imgM || !titleM) continue;
+                if (!idM || !imgM || !titleM) {
+                  console.log(`Bloc ${i} skippé — idM:${!!idM} imgM:${!!imgM} titleM:${!!titleM}`);
+                  continue;
+                }
 
                 const ahId  = idM[1];
                 const img   = imgM[1];
@@ -90,14 +105,15 @@ jobs:
                 if (animes.length >= 80) break;
               }
 
-              console.log('Found:', animes.length);
+              console.log('\nFound:', animes.length);
               if (animes.length > 0) {
-                console.log('First:', animes[0].titre);
+                console.log('First:', animes[0].titre, '| ahId:', animes[0].ahId);
+                console.log('Second:', animes[1]?.titre, '| ahId:', animes[1]?.ahId);
                 console.log('Last:', animes[animes.length-1].titre);
               }
 
               if (animes.length === 0) {
-                console.log('⚠️ 0 animés trouvés — data.json inchangé pour éviter d\'écraser les données');
+                console.log('0 animés trouvés — data.json inchangé');
                 process.exit(0);
               }
 
