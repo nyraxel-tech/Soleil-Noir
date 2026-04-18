@@ -570,10 +570,10 @@ function renderGenreFiltersAH() {
   };
   mk(`🌐 Tous (${ahData.length})`, 'tous');
   const todayCount = ahData.filter(a => isNew(a)).length;
-  if (todayCount > 0) mk(`🕐 Aujourd'hui (${todayCount})`, 'today');
+  if (todayCount > 0) mk(`Aujourd'hui (${todayCount})`, 'today');
   Object.entries(GENRES).forEach(([id,g]) => {
     const count = ahData.filter(a => gId(a.titre) === id).length;
-    if (count > 0) mk(`${g.icon} ${g.label}`, id);
+    if (count > 0) mk(`${g.label}`, id);
   });
 }
 
@@ -606,7 +606,7 @@ function renderPosters() {
       <div class="poster-bottom">
         <div class="poster-title-s">${a.titre}</div>
         <button class="poster-add ${added?'added':''}" onclick="event.stopPropagation();addFromAH(${JSON.stringify(a).replace(/"/g,'&quot;')})">
-          ${added ? '✓ Vu' : '👁 À regarder'}
+          ${added ? '✓ Vu' : 'À regarder'}
         </button>
       </div>
     `;
