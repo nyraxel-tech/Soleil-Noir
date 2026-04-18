@@ -48,8 +48,11 @@ jobs:
             res.on('end', () => {
               console.log('Size:', html.length);
 
-              // Construire d'abord un map ahId -> img en parsant toutes les balises coverimg
-              // Pattern observé : <a href='anime.php?AHID'><img class='coverimg' src='image.php?IMG' alt='TITRE'
+              // DEBUG : contexte autour de ccxi5
+              const idx = html.indexOf('ccxi5');
+              console.log('ccxi5 context:', JSON.stringify(html.substring(idx - 150, idx + 300)));
+
+              // Construire map ahId -> img depuis le pattern coverimg
               const imgMap = {};
               const coverRe = /href='anime\.php\?(\w+)'><img[^>]+src='image\.php\?(\w+)'/g;
               let m;
@@ -57,6 +60,7 @@ jobs:
                 imgMap[m[1]] = m[2];
               }
               console.log('imgMap entries:', Object.keys(imgMap).length);
+              console.log('ccxi5 in imgMap:', imgMap['ccxi5'] || 'NOT FOUND');
 
               const blocks = html.split('add.svg');
               console.log('Blocks:', blocks.length);
@@ -68,16 +72,15 @@ jobs:
               for (let i = 1; i < blocks.length; i++) {
                 const b = blocks[i];
 
-                const idM   = b.match(/anime\.php[?='](\w+)/);
+                const idM    = b.match(/anime\.php[?='](\w+)/);
                 const titleM = b.match(/class='charttitle c'><a[^>]+>([^<]+)<\/a>/);
-                const epM   = b.match(/class='chartep[^']*'>\s*(\d+)\s*</);
-                const timeM = b.match(/(\d+)\s*(h|d)\s*ago/);
+                const epM    = b.match(/class='chartep[^']*'>\s*(\d+)\s*</);
+                const timeM  = b.match(/(\d+)\s*(h|d)\s*ago/);
 
                 if (!idM) continue;
 
                 const ahId = idM[1];
-                // Image directement depuis le map construit par coverRe
-                const img = imgMap[ahId] || null;
+                const img  = imgMap[ahId] || null;
 
                 const jpM = b.match(/class='charttitlejp c'>([^<]+)</);
                 const titreJp = jpM && jpM[1].trim() !== '-' ? jpM[1].trim() : '';
