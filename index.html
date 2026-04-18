@@ -820,7 +820,7 @@ function addAnime() {
     totalEp:parseInt(document.getElementById('new-ep').value)||12,
     img:null, ahId:null, watched:[]
   });
-  save(); renderListe();
+  save(); renderListe(); renderArchives();
   document.getElementById('new-titre').value='';
   toggleForm();
 }
@@ -996,7 +996,7 @@ function setRank(animeId, rankId) {
   if (a) {
     a.rank = rankId;
     save();
-    renderRanking();
+    renderRanking(); renderArchives();
     // Si le panel épisodes est ouvert sur cet animé, on le rafraîchit aussi
     if (currentPanelId === animeId) renderPanel();
   }
