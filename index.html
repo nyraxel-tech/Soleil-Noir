@@ -427,7 +427,7 @@ input[type=number]::-webkit-inner-spin-button { -webkit-appearance: none; }
       <div class="genre-chips" id="genre-chips-liste"></div>
     </div>
     <div class="filter-bar">
-      <input type="search" id="search-input" class="filter-input" placeholder="🔍 Rechercher..." oninput="renderListe()">
+      <input type="search" id="search-input" class="filter-input" placeholder="Rechercher..." oninput="renderListe()" style="width:100%;font-size:16px;margin-bottom:10px">
       <select id="filter-statut" class="filter-select" onchange="renderListe()">
         <option value="tous">Tous</option>
         <option>Vu</option><option>En cours</option><option>À voir</option><option>Abandonné</option>
@@ -678,22 +678,37 @@ function addFromAH(a, allWatched = false) {
 }
 
 // ── STATS ──
+let statutFilter = 'tous';
+
+function setStatutFilter(val) {
+  statutFilter = statutFilter === val ? 'tous' : val;
+  renderStats();
+  renderListe();
+}
+
 function renderStats() {
   const vus = animes.filter(a=>a.statut==="Vu").length;
   const enCours = animes.filter(a=>a.statut==="En cours").length;
-  const aVoir = animes.filter(a=>a.statut==="À voir").length;
-  document.getElementById('stats-grid').innerHTML = [
-    {l:"Total",v:animes.length,c:"#c084fc",i:`<svg width="16" height="16" viewBox="0 0 16 16" fill="none"><rect x="1" y="3" width="14" height="10" stroke="currentColor" stroke-width=".9"/><line x1="5" y1="13" x2="11" y2="13" stroke="currentColor" stroke-width=".8"/><line x1="8" y1="13" x2="8" y2="15" stroke="currentColor" stroke-width=".8"/></svg>`},
-    {l:"Vus",v:vus,c:"#34d399",i:`<svg width="16" height="16" viewBox="0 0 16 16" fill="none"><polygon points="8,1 15,8 8,15 1,8" stroke="currentColor" stroke-width=".9" fill="none"/><polyline points="5,8 7,11 11,5" stroke="currentColor" stroke-width="1.2"/></svg>`},
-    {l:"En cours",v:enCours,c:"#fbbf24",i:`<svg width="16" height="16" viewBox="0 0 16 16" fill="none"><polygon points="4,2 14,8 4,14" stroke="currentColor" stroke-width=".9" fill="none"/><polygon points="4,4 12,8 4,12" fill="currentColor" opacity=".5"/></svg>`},
-    {l:"À voir",v:aVoir,c:"#60a5fa",i:`<svg width="16" height="16" viewBox="0 0 16 16" fill="none"><polygon points="3,1 13,1 13,14 8,10 3,14" stroke="currentColor" stroke-width=".9" fill="none"/><line x1="6" y1="5" x2="10" y2="5" stroke="currentColor" stroke-width=".7" opacity=".6"/></svg>`},
-  ].map(s=>`<div class="stat-card"><div style="width:20px;height:20px;margin:0 auto 4px;color:${s.c}">${s.i}</div><div class="stat-val" style="color:${s.c}">${s.v}</div><div class="stat-label">${s.l}</div></div>`).join('');
+  const abandonnes = animes.filter(a=>a.statut==="Abandonné").length;
+  const stats = [
+    {l:"Total",    v:animes.length, c:"#c084fc", key:"tous",      i:`<svg width="16" height="16" viewBox="0 0 16 16" fill="none"><rect x="1" y="3" width="14" height="10" stroke="currentColor" stroke-width=".9"/><line x1="5" y1="13" x2="11" y2="13" stroke="currentColor" stroke-width=".8"/><line x1="8" y1="13" x2="8" y2="15" stroke="currentColor" stroke-width=".8"/></svg>`},
+    {l:"Vus",      v:vus,           c:"#34d399", key:"Vu",        i:`<svg width="16" height="16" viewBox="0 0 16 16" fill="none"><polygon points="8,1 15,8 8,15 1,8" stroke="currentColor" stroke-width=".9" fill="none"/><polyline points="5,8 7,11 11,5" stroke="currentColor" stroke-width="1.2"/></svg>`},
+    {l:"En cours", v:enCours,       c:"#fbbf24", key:"En cours",  i:`<svg width="16" height="16" viewBox="0 0 16 16" fill="none"><polygon points="4,2 14,8 4,14" stroke="currentColor" stroke-width=".9" fill="none"/><polygon points="4,4 12,8 4,12" fill="currentColor" opacity=".5"/></svg>`},
+    {l:"Abandonné",v:abandonnes,    c:"#c4786a", key:"Abandonné", i:`<svg width="16" height="16" viewBox="0 0 16 16" fill="none"><line x1="2" y1="2" x2="14" y2="14" stroke="currentColor" stroke-width="1.2"/><line x1="14" y1="2" x2="2" y2="14" stroke="currentColor" stroke-width="1.2"/></svg>`},
+  ];
+  document.getElementById('stats-grid').innerHTML = stats.map(s => {
+    const active = statutFilter === s.key;
+    return `<div class="stat-card" onclick="setStatutFilter('${s.key}')" style="cursor:pointer;border-color:${active ? s.c : 'rgba(212,185,130,.12)'};background:${active ? s.c+'18' : 'rgba(212,185,130,.04)'}">
+      <div style="width:20px;height:20px;margin:0 auto 4px;color:${s.c}">${s.i}</div>
+      <div class="stat-val" style="color:${s.c}">${s.v}</div>
+      <div class="stat-label" style="color:${active ? s.c : ''}">${s.l}</div>
+    </div>`;
+  }).join('');
 }
 
 // ── GENRE CHIPS ──
 function renderGenreChips() {
   const c = document.getElementById('genre-chips-liste');
-  const fg = document.getElementById('filter-statut').value;
   c.innerHTML = Object.entries(GENRES).map(([id,g]) => {
     const count = animes.filter(a=>a.genre===id).length;
     if (!count) return '';
@@ -715,10 +730,9 @@ function filterByGenre(id) {
 function renderListe() {
   renderStats(); renderGenreChips();
   const search = document.getElementById('search-input').value.toLowerCase();
-  const fs = document.getElementById('filter-statut').value;
   const filtered = animes.filter(a =>
     (genreFilter==='tous'||a.genre===genreFilter) &&
-    (fs==='tous'||a.statut===fs) &&
+    (statutFilter==='tous'||a.statut===statutFilter) &&
     a.titre.toLowerCase().includes(search)
   );
   const list = document.getElementById('anime-list');
