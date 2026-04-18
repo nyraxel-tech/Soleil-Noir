@@ -44,52 +44,61 @@ jobs:
 
           animes = []
           seen = set()
-          skip = {"New","Popular","Fall","Random","MORE","POPULAR","Tools","Anime Heaven",""}
           banner_count = 0
-          blocks = html.split('add.svg')
+
+          # Nouveau parser basé sur la structure div CSS actuelle
+          # Chaque bloc animé est séparé par class='chart b' ou class='chart c'
+          blocks = re.split(r"class='chart [bc]'", html)
           print(f"Blocks found: {len(blocks)}")
 
-          # Debug: show first real block
-          if len(blocks) > 4:
-              print(f"Block 4 sample: {repr(blocks[4][:300])}")
+          skip_titles = {"New","Popular","Fall","Random","MORE","POPULAR","Tools","Anime Heaven",""}
 
-          for i in range(1, len(blocks)):
-              block = blocks[i]
-
-              id_match  = re.search(r'anime\.php\?(\w+)', block)
-              img_match = re.search(r'image\.php\?(\w+)', block)
-              alt_match = re.search(r'alt="([^"]+)"', block)
-              ep_match  = re.search(r'\n\s*(\d+)\s*\n', block)
-              time_match = re.search(r'(\d+)\s*(h|d)\s*ago', block)
-
-              if not id_match or not img_match or not alt_match:
+          for block in blocks[1:]:
+              # Titre depuis charttitle
+              title_match = re.search(r"class='charttitle c'><a href='anime\.php\?(\w+)'[^>]*>([^<]+)<", block)
+              if not title_match:
                   continue
 
-              ah_id = id_match.group(1)
-              img   = img_match.group(1)
-              titre = alt_match.group(1).strip()
+              ah_id = title_match.group(1)
+              titre = title_match.group(2).strip()
 
-              if not titre or titre in skip or ah_id in seen or len(ah_id) < 3:
-                  continue
-              if any(x in titre.lower() for x in ["logo","icon","burger","prev","next","sun","discord","twitter","banner"]):
+              if not titre or titre in skip_titles or ah_id in seen or len(ah_id) < 3:
                   continue
 
+              # Image
+              img_match = re.search(r"image\.php\?(\w+)", block)
+              if not img_match:
+                  continue
+              img = img_match.group(1)
+
+              # Titre JP
+              jp_match = re.search(r"class='charttitlejp c'>([^<]+)<", block)
+              titre_jp = jp_match.group(1).strip() if jp_match and jp_match.group(1) != "-" else ""
+
+              # Épisode
+              ep_match = re.search(r"class='chartep c2'>(\d+)<", block)
+              ep = int(ep_match.group(1)) if ep_match else 1
+
+              # Temps
+              time_match = re.search(r"class='charttimer c2'>(\d+)\s*(h|d)\s*ago<", block)
+              ago = f"{time_match.group(1)}{time_match.group(2)}" if time_match else "?"
+
+              # Skip bannières (3 premières)
               if banner_count < 3:
                   banner_count += 1
                   seen.add(ah_id)
                   continue
 
               seen.add(ah_id)
-              ep  = int(ep_match.group(1)) if ep_match else 1
-              ago = f"{time_match.group(1)}{time_match.group(2)}" if time_match else "?"
+              animes.append({"titre": titre, "titreJp": titre_jp, "ep": ep, "ago": ago, "img": img, "ahId": ah_id})
 
-              animes.append({"titre": titre, "titreJp": "", "ep": ep, "ago": ago, "img": img, "ahId": ah_id})
               if len(animes) >= 80:
                   break
 
           print(f"Found {len(animes)} animes")
           if animes:
               print(f"First: {animes[0]['titre']}")
+              print(f"Last:  {animes[-1]['titre']}")
 
           # Écriture data.json
           with open("data.json", "w") as f:
@@ -116,13 +125,23 @@ jobs:
           for a in animes:
               if a["ahId"] not in seen_ids:
                   seen_ids.add(a["ahId"])
-                  existing.append({"titre": a["titre"], "titreJp": "", "img": a["img"], "ahId": a["ahId"], "addedAt": datetime.now(timezone.utc).isoformat()})
+                  existing.append({
+                      "titre": a["titre"],
+                      "titreJp": a.get("titreJp", ""),
+                      "img": a["img"],
+                      "ahId": a["ahId"],
+                      "addedAt": datetime.now(timezone.utc).isoformat()
+                  })
                   new_entries += 1
 
           print(f"Archive: +{new_entries} → {len(existing)} total")
 
           with open("archive.json", "w") as f:
-              json.dump({"animes": existing, "updatedAt": datetime.now(timezone.utc).isoformat(), "count": len(existing)}, f, ensure_ascii=False, indent=2)
+              json.dump({
+                  "animes": existing,
+                  "updatedAt": datetime.now(timezone.utc).isoformat(),
+                  "count": len(existing)
+              }, f, ensure_ascii=False, indent=2)
 
           print("data.json + archive.json OK")
           PYEOF
