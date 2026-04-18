@@ -33,7 +33,7 @@ jobs:
             method: 'GET',
             headers: {
               'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36',
-              'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+              'Accept': 'text/html,application/xhtml+xml',
               'Accept-Language': 'en-US,en;q=0.9',
               'Referer': 'https://animeheaven.me/',
             }
@@ -44,118 +44,92 @@ jobs:
             let html = '';
             res.on('data', chunk => html += chunk);
             res.on('end', () => {
-              console.log('Size:', html.length, 'bytes');
+              console.log('Size:', html.length);
+
+              // DEBUG: affiche le contenu brut autour du premier animé
+              const idx = html.indexOf('add.svg');
+              console.log('=== BLOCK SAMPLE (chars 0-500 after first add.svg) ===');
+              console.log(JSON.stringify(html.substring(idx, idx + 500)));
+              console.log('=== END SAMPLE ===');
+
+              const blocks = html.split('add.svg');
+              console.log('Blocks:', blocks.length);
+
+              // Debug block 4
+              if (blocks[4]) {
+                console.log('=== BLOCK 4 ===');
+                console.log(JSON.stringify(blocks[4].substring(0, 400)));
+                console.log('=== END BLOCK 4 ===');
+              }
 
               const animes = [];
               const seen = new Set();
-              const skip = new Set(['New','Popular','Fall','Random','MORE','POPULAR','Tools','Anime Heaven','']);
-
-              // Split sur add.svg — méthode fiable basée sur la structure réelle
-              const blocks = html.split('add.svg');
-              console.log('Blocks found:', blocks.length);
-
               let bannerCount = 0;
+              const skipTitles = new Set(['New','Popular','Fall','Random','MORE','POPULAR','Tools','Anime Heaven','']);
 
               for (let i = 1; i < blocks.length; i++) {
-                const block = blocks[i];
+                const b = blocks[i];
 
-                // ahId
-                const idMatch = block.match(/anime\.php\?(\w+)/);
-                // image code
-                const imgMatch = block.match(/image\.php\?(\w+)/);
-                // titre depuis alt=""
-                const altMatch = block.match(/alt="([^"]+)"/);
-                // épisode — nombre seul sur une ligne
-                const epMatch = block.match(/\n\s*(\d+)\s*\n/);
-                // temps
-                const timeMatch = block.match(/(\d+)\s*(h|d)\s*ago/);
+                // Essaye toutes les variantes de quotes et formats
+                const idM   = b.match(/anime\.php[?=](\w+)/);
+                const imgM  = b.match(/image\.php[?=](\w+)/);
+                // alt avec guillemets simples ou doubles
+                const altM  = b.match(/alt=["']([^"']+)["']/);
+                const epM   = b.match(/\n\s*(\d+)\s*\n/);
+                const timeM = b.match(/(\d+)\s*(h|d)\s*ago/);
 
-                if (!idMatch || !imgMatch || !altMatch) continue;
+                if (!idM || !imgM || !altM) continue;
 
-                const ahId = idMatch[1];
-                const img = imgMatch[1];
-                const titre = altMatch[1].trim();
+                const ahId  = idM[1];
+                const img   = imgM[1];
+                const titre = altM[1].trim();
 
-                if (!titre || skip.has(titre) || seen.has(ahId) || ahId.length < 3) continue;
-                if (['logo','icon','burger','prev','next','sun','discord','twitter','banner']
-                    .some(x => titre.toLowerCase().includes(x))) continue;
+                if (!titre || skipTitles.has(titre) || seen.has(ahId) || ahId.length < 3) continue;
+                if (['logo','icon','burger','prev','next','sun','discord','twitter','banner'].some(x => titre.toLowerCase().includes(x))) continue;
 
-                // Skip 3 premières = bannières pub
-                if (bannerCount < 3) {
-                  bannerCount++;
-                  seen.add(ahId);
-                  continue;
-                }
+                if (bannerCount < 3) { bannerCount++; seen.add(ahId); continue; }
 
                 seen.add(ahId);
-
-                // Titre JP — ligne après le lien titre
-                const jpMatch = block.match(/\[([^\]]+)\]\(https:\/\/animeheaven\.me\/anime\.php\?\w+\)\s*\n\s*\n([^\n]+)\n/);
-                const titreJp = jpMatch && jpMatch[2] !== '-' ? jpMatch[2].trim() : '';
-
                 animes.push({
                   titre,
-                  titreJp,
-                  ep: epMatch ? parseInt(epMatch[1]) : 1,
-                  ago: timeMatch ? `${timeMatch[1]}${timeMatch[2]}` : '?',
+                  titreJp: '',
+                  ep: epM ? parseInt(epM[1]) : 1,
+                  ago: timeM ? `${timeM[1]}${timeM[2]}` : '?',
                   img,
                   ahId,
                 });
-
                 if (animes.length >= 80) break;
               }
 
-              console.log('Found:', animes.length, 'animes');
-              if (animes.length > 0) {
-                console.log('First:', animes[0].titre);
-                console.log('Last:', animes[animes.length-1].titre);
-              }
+              console.log('Found:', animes.length);
+              if (animes.length > 0) console.log('First:', animes[0].titre);
 
-              // Écriture data.json
-              const data = {
-                animes,
-                updatedAt: new Date().toISOString(),
-                source: 'github-actions',
-                count: animes.length,
-              };
-              fs.writeFileSync('data.json', JSON.stringify(data, null, 2));
+              // Écriture fichiers
+              fs.writeFileSync('data.json', JSON.stringify({
+                animes, updatedAt: new Date().toISOString(), source: 'github-actions', count: animes.length
+              }, null, 2));
 
-              // Accumulation archive.json
-              let existing = [];
-              let seenIds = new Set();
+              let existing = [], seenIds = new Set();
               try {
                 const arch = JSON.parse(fs.readFileSync('archive.json', 'utf8'));
                 existing = arch.animes || [];
                 seenIds = new Set(existing.map(a => a.ahId));
               } catch(e) {}
 
-              let newEntries = 0;
+              let added = 0;
               for (const a of animes) {
                 if (!seenIds.has(a.ahId)) {
                   seenIds.add(a.ahId);
-                  existing.push({
-                    titre: a.titre,
-                    titreJp: a.titreJp,
-                    img: a.img,
-                    ahId: a.ahId,
-                    addedAt: new Date().toISOString(),
-                  });
-                  newEntries++;
+                  existing.push({ titre: a.titre, titreJp: '', img: a.img, ahId: a.ahId, addedAt: new Date().toISOString() });
+                  added++;
                 }
               }
-
-              console.log(`Archive: +${newEntries} → ${existing.length} total`);
-              fs.writeFileSync('archive.json', JSON.stringify({
-                animes: existing,
-                updatedAt: new Date().toISOString(),
-                count: existing.length,
-              }, null, 2));
-
-              console.log('data.json + archive.json OK');
+              console.log(`Archive: +${added} → ${existing.length}`);
+              fs.writeFileSync('archive.json', JSON.stringify({ animes: existing, updatedAt: new Date().toISOString(), count: existing.length }, null, 2));
+              console.log('OK');
             });
           });
-
-          req.on('error', e => { console.error('Error:', e.message); process.exit(1); });
+          req.on('error', e => { console.error(e.message); process.exit(1); });
           req.end();
           EOF
 
@@ -168,6 +142,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes"
           else
-            git commit -m "🔄 Update data + archive - $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git commit -m "🔄 Update - $(date -u '+%Y-%m-%d %H:%M UTC')"
             git push
           fi
