@@ -1,0 +1,98 @@
+name: Scrape AnimeHeaven
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'  # Toutes les 10 minutes
+  workflow_dispatch:       # Déclenchement manuel possible
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Scrape AnimeHeaven
+        run: |
+          curl -s \
+            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36" \
+            -H "Accept: text/html,application/xhtml+xml" \
+            -H "Accept-Language: en-US,en;q=0.9" \
+            -H "Referer: https://animeheaven.me/" \
+            "https://animeheaven.me/new.php" > /tmp/ah.html
+          
+          node << 'EOF'
+          const fs = require('fs');
+          const html = fs.readFileSync('/tmp/ah.html', 'utf8');
+          
+          const animes = [];
+          const seen = new Set();
+          const blocks = html.split('/add.svg');
+          
+          for (let i = 1; i < blocks.length; i++) {
+            const block = blocks[i];
+            const idMatch   = block.match(/anime\.php\?(\w+)/);
+            const imgMatch  = block.match(/image\.php\?(\w+)/);
+            const titleMatch = block.match(/alt="([^"]+)"/);
+            const epMatch   = block.match(/^\s*(\d+)\s*$/m);
+            const timeMatch = block.match(/(\d+)\s*(h|d)\s*ago/);
+            
+            if (!idMatch || !imgMatch || !titleMatch || !timeMatch) continue;
+            
+            const ahId  = idMatch[1];
+            const titre = titleMatch[1].trim();
+            
+            if (seen.has(ahId)) continue;
+            if (titre.length < 2) continue;
+            if (["New","Popular","Fall","Random","MORE","POPULAR","Tools","Anime Heaven"].includes(titre)) continue;
+            if (titre.includes("logo") || titre.includes("burger") || titre.includes("icon")) continue;
+            
+            seen.add(ahId);
+            
+            // Titre JP
+            let titreJp = "";
+            const lines = block.split('\n').map(l => l.trim()).filter(Boolean);
+            for (let j = 0; j < lines.length; j++) {
+              if (lines[j].includes(titre) && lines[j+1]) {
+                const next = lines[j+1];
+                if (!next.match(/\d+\s*(h|d)\s*ago/) && next !== "-" && !next.startsWith("[") && !next.startsWith("!") && next.length > 1) {
+                  titreJp = next;
+                }
+                break;
+              }
+            }
+            
+            animes.push({
+              titre,
+              titreJp,
+              ep: epMatch ? parseInt(epMatch[1]) : 1,
+              ago: timeMatch[1] + timeMatch[2],
+              img: imgMatch[1],
+              ahId,
+            });
+            
+            if (animes.length >= 80) break;
+          }
+          
+          console.log(`Scraped ${animes.length} animes`);
+          
+          const output = {
+            animes,
+            updatedAt: new Date().toISOString(),
+            source: "github-actions",
+            count: animes.length,
+          };
+          
+          fs.writeFileSync('data.json', JSON.stringify(output, null, 2));
+          EOF
+
+      - name: Commit data.json
+        run: |
+          git config user.name "AniTrack Bot"
+          git config user.email "bot@anitrack.app"
+          git add data.json
+          git diff --staged --quiet || git commit -m "🔄 Update anime data - $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
