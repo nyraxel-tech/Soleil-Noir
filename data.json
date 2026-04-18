@@ -28,7 +28,7 @@
       "titre": "Agents of the Four Seasons: Dance of Spring",
       "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
       "ep": 4,
-      "ago": "2h",
+      "ago": "3h",
       "img": "fxza8",
       "ahId": "boii6"
     },
@@ -68,7 +68,7 @@
       "titre": "Kill Blue",
       "titreJp": "Kill Ao",
       "ep": 2,
-      "ago": "4h",
+      "ago": "5h",
       "img": "dns6b",
       "ahId": "y5v48"
     },
@@ -76,7 +76,7 @@
       "titre": "The Great Sage Ryddel and the Hands of Time",
       "titreJp": "Daikenja Riddle no Jikan Gyakko",
       "ep": 3,
-      "ago": "5h",
+      "ago": "6h",
       "img": "tl46m",
       "ahId": "rf6nw"
     },
@@ -84,7 +84,7 @@
       "titre": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
       "titreJp": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
       "ep": 4,
-      "ago": "5h",
+      "ago": "6h",
       "img": "hnxbm",
       "ahId": "ayudj"
     },
@@ -100,7 +100,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1198,
-      "ago": "7h",
+      "ago": "8h",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -116,7 +116,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 3,
-      "ago": "9h",
+      "ago": "10h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -545,7 +545,7 @@
       "ahId": "uni0y"
     }
   ],
-  "updatedAt": "2026-04-18T19:37:35.692Z",
+  "updatedAt": "2026-04-18T19:42:08.989Z",
   "source": "github-actions",
   "count": 68
 }
