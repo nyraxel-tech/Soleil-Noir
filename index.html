@@ -390,6 +390,7 @@ input[type=number]::-webkit-inner-spin-button { -webkit-appearance: none; }
   <nav class="desktop-nav">
     <button class="desktop-nav-btn active" onclick="setTab('nouveautes')">Nouveautés</button>
     <button class="desktop-nav-btn" onclick="setTab('decouverte')">Ranking</button>
+    <button class="desktop-nav-btn" onclick="setTab('archives')">Archives</button>
     <button class="desktop-nav-btn" onclick="setTab('liste')">Bibliothèque</button>
   </nav>
 </header>
@@ -463,6 +464,20 @@ input[type=number]::-webkit-inner-spin-button { -webkit-appearance: none; }
     <div class="anime-list" id="anime-list"></div>
   </div>
 
+
+  <!-- ARCHIVES -->
+  <div id="tab-archives" class="tab-content">
+    <div class="section-header">
+      <div class="section-title">Catalogue Complet</div>
+      <div class="section-sub" id="archive-status">Chargement...</div>
+    </div>
+    <div style="display:flex;gap:8px;margin-bottom:12px;flex-wrap:wrap">
+      <input type="search" id="archive-search" class="filter-input" placeholder="Rechercher dans les archives..." oninput="renderArchives()" style="flex:1;min-width:180px">
+    </div>
+    <div style="font-size:10px;color:var(--muted);font-weight:600;letter-spacing:1px;text-transform:uppercase;margin-bottom:12px" id="archive-count"></div>
+    <div class="poster-grid" id="archive-grid"></div>
+  </div>
+
 </main>
 
 <!-- Bottom Nav (mobile) -->
@@ -481,6 +496,16 @@ input[type=number]::-webkit-inner-spin-button { -webkit-appearance: none; }
   <polygon points="11,8 14,11 11,14 8,11" fill="currentColor"/>
 </svg></span>
     <span class="nav-label">Ranking</span>
+  </button>
+  <button class="nav-btn" onclick="setTab('archives')" data-tab="archives">
+    <span class="nav-icon"><svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="2" y="5" width="18" height="14" stroke="currentColor" stroke-width="1" fill="none"/>
+  <line x1="2" y1="9" x2="20" y2="9" stroke="currentColor" stroke-width=".7"/>
+  <rect x="7" y="2" width="8" height="3" stroke="currentColor" stroke-width=".8" fill="none"/>
+  <line x1="7" y1="13" x2="15" y2="13" stroke="currentColor" stroke-width=".7" opacity=".6"/>
+  <line x1="7" y1="16" x2="12" y2="16" stroke="currentColor" stroke-width=".7" opacity=".4"/>
+</svg></span>
+    <span class="nav-label">Archives</span>
   </button>
   <button class="nav-btn" onclick="setTab('liste')" data-tab="liste">
     <span class="nav-icon"><svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -532,6 +557,7 @@ const GENRES = {
 };
 const CS = {"Vu":"#34d399","En cours":"#fbbf24","À voir":"#60a5fa","Abandonné":"#f87171"};
 const BACKEND_URL = "https://anitrack-beige.vercel.app/api/anime";
+const ARCHIVE_URL = "https://raw.githubusercontent.com/nyraxel-tech/anitrack/main/archive.json";
 
 let animes = JSON.parse(localStorage.getItem('anitrack-animes') || 'null') || [
   {id:1,titre:"Re:Zero",genre:"isekai",statut:"Vu",note:9,img:"7tc0j",ahId:"ilp9j",totalEp:25,watched:[]},
@@ -1050,11 +1076,83 @@ function setTab(t) {
   document.querySelectorAll('.desktop-nav-btn').forEach(el => el.classList.remove('active'));
   document.querySelectorAll('.nav-btn').forEach(el => el.classList.remove('active'));
   document.getElementById('tab-' + t).classList.add('active');
-  document.querySelectorAll('.desktop-nav-btn')[['nouveautes','decouverte','liste'].indexOf(t)]?.classList.add('active');
+  document.querySelectorAll('.desktop-nav-btn')[['nouveautes','decouverte','archives','liste'].indexOf(t)]?.classList.add('active');
   document.querySelector(`.nav-btn[data-tab="${t}"]`)?.classList.add('active');
   if (t === 'liste') { renderStats(); renderGenreChips(); renderListe(); }
   if (t === 'decouverte') renderRanking();
+  if (t === 'archives') renderArchives();
 }
+
+
+// ── ARCHIVES ──
+let archiveData = [];
+let archiveLoaded = false;
+
+async function loadArchive() {
+  if (archiveLoaded) return;
+  document.getElementById('archive-status').textContent = 'Chargement du catalogue...';
+  try {
+    const r = await fetch(ARCHIVE_URL + '?t=' + Date.now());
+    const d = await r.json();
+    if (d.animes && d.animes.length > 0) {
+      archiveData = d.animes;
+      archiveLoaded = true;
+      const t = d.updatedAt ? new Date(d.updatedAt).toLocaleString('fr-FR',{day:'2-digit',month:'2-digit',year:'numeric'}) : '';
+      document.getElementById('archive-status').innerHTML = `<span style="color:var(--green)">● ${d.count} animés · Mis à jour le ${t}</span>`;
+    } else {
+      document.getElementById('archive-status').textContent = 'Archive non disponible';
+    }
+  } catch {
+    document.getElementById('archive-status').textContent = 'Erreur de chargement';
+  }
+  renderArchives();
+}
+
+function renderArchives() {
+  if (!archiveLoaded) { loadArchive(); return; }
+  const search = (document.getElementById('archive-search')?.value || '').toLowerCase();
+  const filtered = search
+    ? archiveData.filter(a => a.titre.toLowerCase().includes(search))
+    : archiveData;
+
+  document.getElementById('archive-count').textContent = `${filtered.length} animés`;
+  const grid = document.getElementById('archive-grid');
+  if (!grid) return;
+
+  // Limit display to 200 for performance, show more with search
+  const display = filtered.slice(0, search ? filtered.length : 200);
+  const hasMore = filtered.length > display.length;
+
+  grid.innerHTML = '';
+  display.forEach(a => {
+    const added = animes.some(x => x.titre.toLowerCase() === a.titre.toLowerCase());
+    const url = imgUrl(a.img);
+    const div = document.createElement('div');
+    div.className = 'poster-card';
+    div.onclick = () => { if (a.ahId) window.open(`https://animeheaven.me/anime.php?${a.ahId}=`, '_blank'); addFromAH(a, true); };
+    div.innerHTML = `
+      ${url ? `<img src="${url}" alt="${a.titre}" onerror="this.style.display='none'">` : ''}
+      <div class="poster-fallback" style="background:linear-gradient(135deg,rgba(212,185,122,.15),#080a08);${url?'display:none':''}">
+        <svg width="28" height="28" viewBox="0 0 28 28" fill="none"><polygon points="14,2 26,14 14,26 2,14" stroke="#d4b97a" stroke-width="1" fill="none" opacity=".4"/><polygon points="14,8 20,14 14,20 8,14" fill="#d4b97a" opacity=".3"/></svg>
+      </div>
+      <div class="poster-bottom">
+        <div class="poster-title-s">${a.titre}</div>
+        <button class="poster-add ${added?'added':''}" onclick="event.stopPropagation();addFromAH(${JSON.stringify(a).replace(/"/g,'&quot;')})">
+          ${added ? '✓ Vu' : 'À regarder'}
+        </button>
+      </div>
+    `;
+    grid.appendChild(div);
+  });
+
+  if (hasMore) {
+    const more = document.createElement('div');
+    more.style.cssText = 'grid-column:1/-1;text-align:center;padding:20px;color:var(--muted);font-size:12px;letter-spacing:1px';
+    more.textContent = `${filtered.length - display.length} animés supplémentaires — affinez votre recherche`;
+    grid.appendChild(more);
+  }
+}
+
 
 loadAH();
 </script>
