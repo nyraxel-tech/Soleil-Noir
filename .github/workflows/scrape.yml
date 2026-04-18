@@ -57,37 +57,80 @@ jobs:
 
               for (let i = 1; i < blocks.length; i++) {
                 const b = blocks[i];
-                const idM   = b.match(/anime\.php[?='](\w+)/);
-                const imgM  = b.match(/image\.php[?'](\w+)/);
-                const altM  = b.match(/alt=['"]([^'"]+)['"]/);
-                const epM   = b.match(/\n\s*(\d+)\s*\n/);
-                const timeM = b.match(/(\d+)\s*(h|d)\s*ago/);
 
-                if (!idM || !imgM || !altM) continue;
+                const idM    = b.match(/anime\.php[?='](\w+)/);
+                const imgM   = b.match(/image\.php[?'](\w+)/);
+                // Essaie la classe charttitle d'abord, fallback sur alt= si absent
+                const titleM = b.match(/class='charttitle[^']*'>([^<]+)</) || b.match(/alt=['"]([^'"]+)['"]/);
+                const epM    = b.match(/\n\s*(\d+)\s*\n/);
+                const timeM  = b.match(/(\d+)\s*(h|d)\s*ago/);
+
+                if (!idM || !imgM || !titleM) continue;
+
                 const ahId  = idM[1];
                 const img   = imgM[1];
-                const titre = altM[1].trim();
+                const titre = titleM[1].trim();
+
                 if (!titre || skipTitles.has(titre) || seen.has(ahId) || ahId.length < 3) continue;
-                // Filtre minimal - seulement les éléments de navigation évidents
-                if (['ah_logo','burger','add.svg','lists.svg','grid.svg'].some(x => titre.toLowerCase().includes(x))) continue;
+                if (['logo','icon','burger','prev','next','sun','discord','twitter','banner'].some(x => titre.toLowerCase().includes(x))) continue;
+
                 seen.add(ahId);
+
                 const jpM = b.match(/class='charttitlejp c'>([^<]+)</);
                 const titreJp = jpM && jpM[1].trim() !== '-' ? jpM[1].trim() : '';
-                animes.push({ titre, titreJp, ep: epM ? parseInt(epM[1]) : 1, ago: timeM ? `${timeM[1]}${timeM[2]}` : '?', img, ahId });
+
+                animes.push({
+                  titre,
+                  titreJp,
+                  ep: epM ? parseInt(epM[1]) : 1,
+                  ago: timeM ? `${timeM[1]}${timeM[2]}` : '?',
+                  img,
+                  ahId,
+                });
                 if (animes.length >= 80) break;
               }
 
               console.log('Found:', animes.length);
-              if (animes.length > 0) { console.log('First:', animes[0].titre); console.log('Last:', animes[animes.length-1].titre); }
+              if (animes.length > 0) {
+                console.log('First:', animes[0].titre);
+                console.log('Last:', animes[animes.length-1].titre);
+              }
 
-              fs.writeFileSync('data.json', JSON.stringify({ animes, updatedAt: new Date().toISOString(), source: 'github-actions', count: animes.length }, null, 2));
+              if (animes.length === 0) {
+                console.log('⚠️ 0 animés trouvés — data.json inchangé pour éviter d\'écraser les données');
+                process.exit(0);
+              }
+
+              fs.writeFileSync('data.json', JSON.stringify({
+                animes,
+                updatedAt: new Date().toISOString(),
+                source: 'github-actions',
+                count: animes.length
+              }, null, 2));
 
               let existing = [], seenIds = new Set();
-              try { const arch = JSON.parse(fs.readFileSync('archive.json', 'utf8')); existing = arch.animes || []; seenIds = new Set(existing.map(a => a.ahId)); } catch(e) {}
+              try {
+                const arch = JSON.parse(fs.readFileSync('archive.json', 'utf8'));
+                existing = arch.animes || [];
+                seenIds = new Set(existing.map(a => a.ahId));
+              } catch(e) {}
+
               let added = 0;
-              for (const a of animes) { if (!seenIds.has(a.ahId)) { seenIds.add(a.ahId); existing.push({ titre: a.titre, titreJp: a.titreJp, img: a.img, ahId: a.ahId, addedAt: new Date().toISOString() }); added++; } }
+              for (const a of animes) {
+                if (!seenIds.has(a.ahId)) {
+                  seenIds.add(a.ahId);
+                  existing.push({ titre: a.titre, titreJp: a.titreJp, img: a.img, ahId: a.ahId, addedAt: new Date().toISOString() });
+                  added++;
+                }
+              }
               console.log(`Archive: +${added} → ${existing.length} total`);
-              fs.writeFileSync('archive.json', JSON.stringify({ animes: existing, updatedAt: new Date().toISOString(), count: existing.length }, null, 2));
+
+              fs.writeFileSync('archive.json', JSON.stringify({
+                animes: existing,
+                updatedAt: new Date().toISOString(),
+                count: existing.length
+              }, null, 2));
+
               console.log('data.json + archive.json OK');
             });
           });
