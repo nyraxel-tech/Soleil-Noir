@@ -12,7 +12,7 @@
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 14,
-      "ago": "1h",
+      "ago": "2h",
       "img": "8mygl",
       "ahId": "oxx6c"
     },
@@ -36,7 +36,7 @@
       "titre": "Mistress Kanan is Devilishly Easy",
       "titreJp": "Kanan-sama wa Akumade Choroi",
       "ep": 3,
-      "ago": "2h",
+      "ago": "3h",
       "img": "dks5o",
       "ahId": "3uz6y"
     },
@@ -124,7 +124,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 134,
-      "ago": "11h",
+      "ago": "12h",
       "img": "ciyvs",
       "ahId": "9v661"
     },
@@ -537,7 +537,7 @@
       "ahId": "y98v5"
     }
   ],
-  "updatedAt": "2026-04-18T19:18:03.297Z",
+  "updatedAt": "2026-04-18T19:24:25.078Z",
   "source": "github-actions",
   "count": 67
 }
