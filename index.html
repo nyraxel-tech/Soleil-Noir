@@ -695,7 +695,7 @@ function renderPosters() {
       ${isNew(a) ? '<div class="poster-new">NEW</div>' : ''}
       <div class="poster-ep">Ep.${a.ep}</div>
       <div class="poster-bottom">
-        <div class="poster-title-s">${a.titre}</div>
+        <div class="poster-title-s">${a.titre && a.titre !== '-' ? a.titre : (a.titreJp || '-')}</div>
         <button class="poster-add ${added?'added':''}">
           ${added ? '✓ Vu' : 'À regarder'}
         </button>
