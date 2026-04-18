@@ -383,7 +383,8 @@ input[type=number]::-webkit-inner-spin-button { -webkit-appearance: none; }
       <div class="logo-sub">Animation Library</div>
     </div>
   </div>
-  <div class="header-live" id="header-live" style="display:none">
+  <button id="auth-btn" style="display:flex;align-items:center;background:rgba(212,185,122,.08);border:1px solid rgba(212,185,122,.2);border-radius:2px;padding:4px 10px;font-family:inherit;font-size:10px;font-weight:700;color:var(--accent);cursor:pointer;letter-spacing:.5px;white-space:nowrap;margin-right:6px">Connexion Google</button>
+<div class="header-live" id="header-live" style="display:none">
     <div class="live-dot"></div>
     <span id="live-time">Live</span>
   </div>
@@ -518,6 +519,10 @@ input[type=number]::-webkit-inner-spin-button { -webkit-appearance: none; }
   </div>
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script>
+  const _supa = supabase.createClient('https://ciqrbqqocevcjxfmuhav.supabase.co', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNpcXJicXFvY2V2Y2p4Zm11aGF2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY1NTI4NjMsImV4cCI6MjA5MjEyODg2M30.g5x5-mAn_EU-3Pw0-xdJ6pFil0E1NZxf1eW4yk7ogmc');
+</script>
 <script>
 const GENRES = {
   isekai:  { label:"Isekai",      icon:`<svg width="13" height="13" viewBox="0 0 13 13" fill="none"><circle cx="6.5" cy="6.5" r="5.5" stroke="currentColor" stroke-width=".8"/><circle cx="6.5" cy="6.5" r="2.5" stroke="currentColor" stroke-width=".7" opacity=".6"/><line x1="6.5" y1="1" x2="6.5" y2="3.5" stroke="currentColor" stroke-width=".8"/><line x1="6.5" y1="9.5" x2="6.5" y2="12" stroke="currentColor" stroke-width=".8"/><line x1="1" y1="6.5" x2="3.5" y2="6.5" stroke="currentColor" stroke-width=".8"/><line x1="9.5" y1="6.5" x2="12" y2="6.5" stroke="currentColor" stroke-width=".8"/></svg>`, color:"#c084fc", keys:[
@@ -604,7 +609,72 @@ let ahData = [];
 let ahFilter = "tous";
 let currentPanelId = null;
 
-function save() { localStorage.setItem('anitrack-animes', JSON.stringify(animes)); }
+// ── AUTH & SYNC SUPABASE ──
+let _user = null;
+
+async function initAuth() {
+  const { data: { session } } = await _supa.auth.getSession();
+  _user = session?.user || null;
+  renderAuthUI();
+  if (_user) await loadFromCloud();
+}
+
+async function signInGoogle() {
+  await _supa.auth.signInWithOAuth({
+    provider: 'google',
+    options: { redirectTo: window.location.href }
+  });
+}
+
+async function signOut() {
+  await _supa.auth.signOut();
+  _user = null;
+  renderAuthUI();
+}
+
+function renderAuthUI() {
+  const btn = document.getElementById('auth-btn');
+  if (!btn) return;
+  if (_user) {
+    btn.innerHTML = `<img src="${_user.user_metadata?.avatar_url || ''}" style="width:22px;height:22px;border-radius:50%;margin-right:6px;vertical-align:middle">${_user.user_metadata?.full_name?.split(' ')[0] || 'Mon compte'} <span style="opacity:.5;margin-left:4px;font-size:9px">▼</span>`;
+    btn.onclick = () => {
+      if (confirm('Se déconnecter ?')) signOut();
+    };
+  } else {
+    btn.innerHTML = `<svg width="14" height="14" viewBox="0 0 24 24" fill="none" style="margin-right:5px;vertical-align:middle"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 3c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3zm0 14.2c-2.5 0-4.71-1.28-6-3.22.03-1.99 4-3.08 6-3.08 1.99 0 5.97 1.09 6 3.08-1.29 1.94-3.5 3.22-6 3.22z" fill="currentColor"/></svg>Connexion Google`;
+    btn.onclick = signInGoogle;
+  }
+}
+
+async function loadFromCloud() {
+  if (!_user) return;
+  const { data, error } = await _supa
+    .from('animes')
+    .select('data')
+    .eq('user_id', _user.id)
+    .single();
+  if (data?.data) {
+    animes = data.data;
+    localStorage.setItem('anitrack-animes', JSON.stringify(animes));
+    renderListe();
+    renderPosters();
+    renderRanking();
+  }
+}
+
+async function saveToCloud() {
+  if (!_user) return;
+  await _supa.from('animes').upsert({
+    user_id: _user.id,
+    data: animes,
+    updated_at: new Date().toISOString()
+  }, { onConflict: 'user_id' });
+}
+
+function save() {
+  localStorage.setItem('anitrack-animes', JSON.stringify(animes));
+  saveToCloud();
+}
 function imgUrl(c) { return c ? `https://anitrack-beige.vercel.app/api/anime?img=${c}` : null; }
 function pageUrl(id) { return id ? `https://animeheaven.me/anime.php?${id}=` : null; }
 function gId(titre) {
@@ -838,7 +908,7 @@ function renderListe() {
     return `<div class="anime-card" onclick="openAnimeFromList(${a.id})" style="cursor:pointer">
       <div class="anime-card-inner">
         <div class="anime-thumb">
-          ${url?`<img src="${url}" onerror="this.style.display='none'">`:`<div class="anime-thumb-icon" style="background:rgba(212,185,122,.1)">${g.icon}</div>`}
+          ${url?`<img src="${url}" onerror="this.style.display='none'">`:`<div class="anime-thumb-icon" style="background:${g.color}18">${g.icon}</div>`}
         </div>
         <div class="anime-info">
           <div class="anime-name">${a.titre}</div>
@@ -1144,7 +1214,7 @@ function renderRanking() {
     const pct = a.totalEp > 0 ? Math.round(w.length / a.totalEp * 100) : 0;
     return `<div class="rank-card" style="border-color:${rank.color}44" onclick="openAnimeFromList(${a.id})">
       <div class="anime-thumb">
-        ${url ? `<img src="${url}" onerror="this.style.display='none'">` : `<div class="anime-thumb-icon" style="background:rgba(212,185,122,.1)">${g.icon}</div>`}
+        ${url ? `<img src="${url}" onerror="this.style.display='none'">` : `<div class="anime-thumb-icon" style="background:${g.color}18">${g.icon}</div>`}
       </div>
       <div style="flex:1;padding:10px 12px;min-width:0">
         <div class="anime-name">${a.titre}</div>
@@ -1194,6 +1264,7 @@ function reclassifyAll() {
 
 reclassifyAll();
 loadAH();
+initAuth();
 </script>
 </body>
 </html>
