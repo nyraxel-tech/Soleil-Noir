@@ -1,12 +1,12 @@
-name: Scrape AnimeHeaven
+name: Scrape AnimeHeaven Archive
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '0 3 * * *'  # Une fois par jour à 3h UTC
   workflow_dispatch:
 
 concurrency:
-  group: scrape
+  group: scrape-archive
   cancel-in-progress: false
 
 jobs:
@@ -24,97 +24,121 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4 --quiet
 
-      - name: Scrape AnimeHeaven
+      - name: Scrape AnimeHeaven Full Catalogue
         run: |
           python3 << 'PYEOF'
           import requests
           from bs4 import BeautifulSoup
-          import json, re
+          import json, re, time
           from datetime import datetime, timezone
 
-          headers = {
+          HEADERS = {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36",
               "Accept": "text/html,application/xhtml+xml",
               "Accept-Language": "en-US,en;q=0.9",
               "Referer": "https://animeheaven.me/",
           }
 
-          r = requests.get("https://animeheaven.me/new.php", headers=headers, timeout=15)
-          print(f"Status: {r.status_code}, Size: {len(r.text)} bytes")
+          def scrape_page(url):
+              try:
+                  r = requests.get(url, headers=HEADERS, timeout=15)
+                  if not r.ok:
+                      return []
+                  soup = BeautifulSoup(r.text, "html.parser")
+                  animes = []
+                  seen = set()
+                  skip = {"New","Popular","Fall","Random","MORE","POPULAR","Tools","Anime Heaven",""}
 
-          # Debug: show first anime.php occurrence
-          idx = r.text.find("anime.php")
-          print(f"First anime.php at index: {idx}")
-          if idx > 0:
-              print(f"Context: {r.text[idx-50:idx+100]}")
+                  for a_tag in soup.find_all("a", href=lambda h: h and "/anime.php?" in h):
+                      img = a_tag.find("img")
+                      if not img:
+                          continue
+                      titre = img.get("alt", "").strip()
+                      if not titre or titre in skip:
+                          continue
+                      if any(x in titre.lower() for x in ["logo","icon","burger","prev","next","sun","discord","twitter","banner"]):
+                          continue
+                      href = a_tag.get("href", "")
+                      ah_id = href.split("?")[-1].rstrip("=")
+                      src = img.get("src", "")
+                      img_code = src.split("?")[-1] if "?" in src else ""
+                      if not ah_id or not img_code or ah_id in seen or len(ah_id) < 3:
+                          continue
+                      seen.add(ah_id)
+                      animes.append({"titre": titre, "img": img_code, "ahId": ah_id})
+                  return animes
+              except Exception as e:
+                  print(f"Error scraping {url}: {e}")
+                  return []
 
-          soup = BeautifulSoup(r.text, "html.parser")
+          all_animes = []
+          seen_ids = set()
 
-          # Debug: count all links
-          all_links = soup.find_all("a")
-          print(f"Total links found: {len(all_links)}")
-          
-          # Show first 5 links
-          for i, a in enumerate(all_links[:5]):
-              print(f"Link {i}: href={a.get('href','')[:60]}")
+          # 1. Scrape popular page
+          print("Scraping popular...")
+          popular = scrape_page("https://animeheaven.me/popular.php")
+          for a in popular:
+              if a["ahId"] not in seen_ids:
+                  seen_ids.add(a["ahId"])
+                  all_animes.append(a)
+          print(f"  Popular: {len(popular)} animes")
 
-          animes = []
-          seen = set()
-          skip = {"New","Popular","Fall","Random","MORE","POPULAR","Tools","Anime Heaven",""}
-          banner_count = 0  # Les 3 premiers liens anime.php sont toujours des bannières
+          # 2. Scrape new episodes page (gives recent ones)
+          print("Scraping new...")
+          new = scrape_page("https://animeheaven.me/new.php")
+          for a in new:
+              if a["ahId"] not in seen_ids:
+                  seen_ids.add(a["ahId"])
+                  all_animes.append(a)
+          print(f"  New: {len(new)} animes")
 
-          for a_tag in all_links:
-              href = a_tag.get("href", "")
-              if "anime.php" not in href:
-                  continue
-              img = a_tag.find("img")
-              if not img:
-                  continue
-              titre = img.get("alt", "").strip()
-              if not titre or titre in skip:
-                  continue
-              if any(x in titre.lower() for x in ["logo","icon","burger","prev","next","sun","discord","twitter"]):
-                  continue
-              ah_id = href.split("?")[-1].rstrip("=")
-              src = img.get("src", "")
-              img_code = src.split("?")[-1] if "?" in src else ""
-              if not ah_id or not img_code or ah_id in seen or len(ah_id) < 3:
-                  continue
-              # Skip les 3 premières entrées = bannières publicitaires en haut de page
-              if banner_count < 3:
-                  banner_count += 1
-                  seen.add(ah_id)
-                  continue
-                  continue
-              seen.add(ah_id)
-              parent = a_tag.parent
-              text = parent.get_text(" ", strip=True) if parent else ""
-              ep_match = re.search(r'\b(\d+)\b', text)
-              ep = int(ep_match.group(1)) if ep_match else 1
-              time_match = re.search(r'(\d+)\s*(h|d)\s*ago', text)
-              ago = f"{time_match.group(1)}{time_match.group(2)}" if time_match else "1j"
-              animes.append({"titre": titre, "titreJp": "", "ep": ep, "ago": ago, "img": img_code, "ahId": ah_id})
-              if len(animes) >= 80:
-                  break
+          # 3. Scrape 2025 Fall season
+          print("Scraping fall 2025...")
+          fall = scrape_page("https://animeheaven.me/2025fall.php")
+          for a in fall:
+              if a["ahId"] not in seen_ids:
+                  seen_ids.add(a["ahId"])
+                  all_animes.append(a)
+          print(f"  Fall 2025: {len(fall)} animes")
 
-          print(f"Found {len(animes)} animes")
-          if animes:
-              print(f"First: {animes[0]['titre']}")
+          # 4. Try to scrape A-Z or search pages for broader coverage
+          seasons = ["2024summer", "2024fall", "2024winter", "2025winter", "2025spring", "2025summer"]
+          for season in seasons:
+              url = f"https://animeheaven.me/{season}.php"
+              print(f"Scraping {season}...")
+              results = scrape_page(url)
+              added = 0
+              for a in results:
+                  if a["ahId"] not in seen_ids:
+                      seen_ids.add(a["ahId"])
+                      all_animes.append(a)
+                      added += 1
+              print(f"  {season}: {added} new animes")
+              time.sleep(0.5)
 
-          with open("data.json", "w") as f:
-              json.dump({"animes": animes, "updatedAt": datetime.now(timezone.utc).isoformat(), "source": "github-actions", "count": len(animes)}, f, ensure_ascii=False, indent=2)
-          print("data.json written")
+          print(f"\nTotal unique animes: {len(all_animes)}")
+
+          out = {
+              "animes": all_animes,
+              "updatedAt": datetime.now(timezone.utc).isoformat(),
+              "count": len(all_animes),
+          }
+
+          with open("archive.json", "w") as f:
+              json.dump(out, f, ensure_ascii=False, indent=2)
+
+          print("archive.json written successfully")
           PYEOF
 
-      - name: Commit and push data.json
+      - name: Commit and push archive.json
         run: |
-          git config user.name "AniTrack Bot"
-          git config user.email "bot@anitrack.app"
+          git config user.name "Soleil Noir Bot"
+          git config user.email "bot@soleilnoir.app"
           git pull origin main
-          git add data.json
+          git add archive.json
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "🔄 Update anime data - $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git commit -m "📚 Update archive - $(date -u '+%Y-%m-%d %H:%M UTC')"
             git push
           fi
