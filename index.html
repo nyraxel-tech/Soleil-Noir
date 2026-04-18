@@ -606,7 +606,7 @@ let currentPanelId = null;
 
 function save() { localStorage.setItem('anitrack-animes', JSON.stringify(animes)); }
 function imgUrl(c) { return c ? `https://anitrack-beige.vercel.app/api/anime?img=${c}` : null; }
-function pageUrl(id) { return id ? `https://animeheaven.me/anime.php?a=${id}` : null; }
+function pageUrl(id) { return id ? `https://animeheaven.me/anime.php?${id}` : null; }
 function gId(titre) {
   const l = titre.toLowerCase();
   for (const [id,g] of Object.entries(GENRES)) if (g.keys.some(k => l.includes(k))) return id;
