@@ -5,6 +5,10 @@ on:
     - cron: '*/10 * * * *'
   workflow_dispatch:
 
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -25,7 +29,7 @@ jobs:
           python3 << 'PYEOF'
           import requests
           from bs4 import BeautifulSoup
-          import json
+          import json, re
           from datetime import datetime, timezone
 
           headers = {
@@ -39,105 +43,66 @@ jobs:
           print(f"Status: {r.status_code}, Size: {len(r.text)} bytes")
 
           soup = BeautifulSoup(r.text, "html.parser")
-
           animes = []
           seen = set()
           skip = {"New","Popular","Fall","Random","MORE","POPULAR","Tools","Anime Heaven",""}
 
-          # Trouve tous les liens d'animés avec leurs images
           for a_tag in soup.find_all("a", href=lambda h: h and "/anime.php?" in h):
               img = a_tag.find("img")
               if not img:
                   continue
-
               titre = img.get("alt", "").strip()
               if not titre or titre in skip:
                   continue
               if any(x in titre.lower() for x in ["logo","icon","burger","prev","next","sun","discord","twitter"]):
                   continue
-
-              # Extraire ahId et imgCode
               href = a_tag.get("href", "")
               ah_id = href.split("?")[-1]
               src = img.get("src", "")
               img_code = src.split("?")[-1] if "?" in src else ""
-
-              if not ah_id or not img_code or ah_id in seen:
+              if not ah_id or not img_code or ah_id in seen or len(ah_id) < 3:
                   continue
-              if len(ah_id) < 3:
-                  continue
-
               seen.add(ah_id)
-
-              # Trouver le nombre d'épisodes et le temps dans le parent
               parent = a_tag.parent
               text = parent.get_text(" ", strip=True) if parent else ""
-
-              # Episode number
-              ep = 1
-              import re
               ep_match = re.search(r'\b(\d+)\b', text)
-              if ep_match:
-                  ep = int(ep_match.group(1))
-
-              # Temps (Xh ago ou Xd ago)
+              ep = int(ep_match.group(1)) if ep_match else 1
               time_match = re.search(r'(\d+)\s*(h|d)\s*ago', text)
               ago = f"{time_match.group(1)}{time_match.group(2)}" if time_match else "1j"
-
-              # Titre JP (texte après le titre principal dans le parent élargi)
               titre_jp = ""
               grandparent = parent.parent if parent else None
               if grandparent:
-                  gtext = grandparent.get_text("\n", strip=True)
-                  lines = [l.strip() for l in gtext.split("\n") if l.strip()]
+                  lines = [l.strip() for l in grandparent.get_text("\n", strip=True).split("\n") if l.strip()]
                   try:
                       idx = next(i for i, l in enumerate(lines) if titre in l)
                       if idx + 1 < len(lines):
-                          candidate = lines[idx + 1]
-                          if not re.search(r'\d+\s*(h|d)\s*ago', candidate) and candidate != "-" and candidate != titre:
-                              titre_jp = candidate
+                          c = lines[idx + 1]
+                          if not re.search(r'\d+\s*(h|d)\s*ago', c) and c not in ["-", titre]:
+                              titre_jp = c
                   except StopIteration:
                       pass
-
-              animes.append({
-                  "titre": titre,
-                  "titreJp": titre_jp,
-                  "ep": ep,
-                  "ago": ago,
-                  "img": img_code,
-                  "ahId": ah_id,
-              })
-
+              animes.append({"titre": titre, "titreJp": titre_jp, "ep": ep, "ago": ago, "img": img_code, "ahId": ah_id})
               if len(animes) >= 80:
                   break
 
           print(f"Found {len(animes)} animes")
           if animes:
-              print(f"First: {animes[0]['titre']}")
-              print(f"Last: {animes[-1]['titre']}")
-
-          out = {
-              "animes": animes,
-              "updatedAt": datetime.now(timezone.utc).isoformat(),
-              "source": "github-actions",
-              "count": len(animes),
-          }
+              print(f"First: {animes[0]['titre']}, Last: {animes[-1]['titre']}")
 
           with open("data.json", "w") as f:
-              json.dump(out, f, ensure_ascii=False, indent=2)
-
-          print("data.json written successfully")
+              json.dump({"animes": animes, "updatedAt": datetime.now(timezone.utc).isoformat(), "source": "github-actions", "count": len(animes)}, f, ensure_ascii=False, indent=2)
+          print("data.json written")
           PYEOF
 
       - name: Commit and push data.json
         run: |
           git config user.name "AniTrack Bot"
           git config user.email "bot@anitrack.app"
+          git pull origin main
           git add data.json
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "🔄 Update anime data - $(date -u '+%Y-%m-%d %H:%M UTC')"
-            git pull --rebase origin main
             git push
           fi
