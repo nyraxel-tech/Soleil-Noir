@@ -1,106 +1,148 @@
-export const config = { maxDuration: 30 };
+name: Scrape AnimeHeaven
 
-export default async function handler(req, res) {
-  // Sécurité : vérifier que c'est Vercel qui appelle
-  if (req.headers['authorization'] !== `Bearer ${process.env.CRON_SECRET}`) {
-    return res.status(401).json({ error: 'Unauthorized' });
-  }
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
 
-  try {
-    // Scrape AnimeHeaven
-    const r = await fetch('https://animeheaven.me/new.php', {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml',
-        'Accept-Language': 'en-US,en;q=0.9',
-        'Referer': 'https://animeheaven.me/',
-      },
-    });
+concurrency:
+  group: scrape
+  cancel-in-progress: false
 
-    if (!r.ok) throw new Error(`HTTP ${r.status}`);
-    const html = await r.text();
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
-    // Parser add.svg
-    const animes = [];
-    const seen = new Set();
-    const skip = new Set(['New','Popular','Fall','Random','MORE','POPULAR','Tools','Anime Heaven','']);
-    const blocks = html.split('add.svg');
-    let bannerCount = 0;
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-    for (let i = 1; i < blocks.length; i++) {
-      const b = blocks[i];
-      const idM   = b.match(/anime\.php[?='](\w+)/);
-      const imgM  = b.match(/image\.php[?'](\w+)/);
-      const altM  = b.match(/alt=['"]([^'"]+)['"]/);
-      const epM   = b.match(/\n\s*(\d+)\s*\n/);
-      const timeM = b.match(/(\d+)\s*(h|d)\s*ago/);
+      - name: Scrape AnimeHeaven
+        run: |
+          node << 'EOF'
+          const https = require('https');
+          const fs = require('fs');
 
-      if (!idM || !imgM || !altM) continue;
+          const options = {
+            hostname: 'animeheaven.me',
+            path: '/new.php',
+            method: 'GET',
+            headers: {
+              'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36',
+              'Accept': 'text/html,application/xhtml+xml',
+              'Accept-Language': 'en-US,en;q=0.9',
+              'Referer': 'https://animeheaven.me/',
+            }
+          };
 
-      const ahId  = idM[1];
-      const img   = imgM[1];
-      const titre = altM[1].trim();
+          const req = https.request(options, (res) => {
+            console.log('Status:', res.statusCode);
+            let html = '';
+            res.on('data', chunk => html += chunk);
+            res.on('end', () => {
+              console.log('Size:', html.length);
 
-      if (!titre || skip.has(titre) || seen.has(ahId) || ahId.length < 3) continue;
-      if (['logo','icon','burger','prev','next','sun','discord','twitter','banner'].some(x => titre.toLowerCase().includes(x))) continue;
+              const blocks = html.split('add.svg');
+              console.log('Blocks:', blocks.length);
 
-      if (bannerCount < 3) { bannerCount++; seen.add(ahId); continue; }
+              const animes = [];
+              const seen = new Set();
+              const skipTitles = new Set(['New','Popular','Fall','Random','MORE','POPULAR','Tools','Anime Heaven','']);
 
-      seen.add(ahId);
-      const jpM = b.match(/class='charttitlejp c'>([^<]+)</);
-      const titreJp = jpM && jpM[1].trim() !== '-' ? jpM[1].trim() : '';
+              for (let i = 1; i < blocks.length; i++) {
+                const b = blocks[i];
 
-      animes.push({
-        titre, titreJp,
-        ep: epM ? parseInt(epM[1]) : 1,
-        ago: timeM ? `${timeM[1]}${timeM[2]}` : '?',
-        img, ahId,
-      });
-      if (animes.length >= 80) break;
-    }
+                const idM   = b.match(/anime\.php[?='](\w+)/);
+                const imgM  = b.match(/image\.php[?'](\w+)/);
+                const altM  = b.match(/alt=['"]([^'"]+)['"]/);
+                const epM   = b.match(/\n\s*(\d+)\s*\n/);
+                const timeM = b.match(/(\d+)\s*(h|d)\s*ago/);
 
-    // Push vers GitHub pour mettre à jour data.json
-    const data = {
-      animes,
-      updatedAt: new Date().toISOString(),
-      source: 'vercel-cron',
-      count: animes.length,
-    };
+                if (!idM || !imgM || !altM) continue;
 
-    const ghRes = await fetch(
-      `https://api.github.com/repos/${process.env.GITHUB_REPO}/contents/data.json`,
-      {
-        method: 'PUT',
-        headers: {
-          'Authorization': `Bearer ${process.env.GITHUB_TOKEN}`,
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          message: `🔄 Update data - ${new Date().toISOString()}`,
-          content: Buffer.from(JSON.stringify(data, null, 2)).toString('base64'),
-          sha: await getFileSha(process.env.GITHUB_REPO, process.env.GITHUB_TOKEN),
-        }),
-      }
-    );
+                const ahId  = idM[1];
+                const img   = imgM[1];
+                const titre = altM[1].trim();
 
-    if (!ghRes.ok) {
-      const err = await ghRes.text();
-      throw new Error(`GitHub push failed: ${err}`);
-    }
+                if (!titre || skipTitles.has(titre) || seen.has(ahId) || ahId.length < 3) continue;
+                if (['logo','icon','burger','prev','next','sun','discord','twitter','banner'].some(x => titre.toLowerCase().includes(x))) continue;
 
-    return res.status(200).json({ success: true, count: animes.length, updatedAt: data.updatedAt });
+                // Skip les 3 premières = bannières pub
+                seen.add(ahId);
 
-  } catch (err) {
-    console.error('Cron error:', err.message);
-    return res.status(500).json({ error: err.message });
-  }
-}
+                // Titre JP depuis charttitlejp
+                const jpM = b.match(/class='charttitlejp c'>([^<]+)</);
+                const titreJp = jpM && jpM[1].trim() !== '-' ? jpM[1].trim() : '';
 
-async function getFileSha(repo, token) {
-  const r = await fetch(`https://api.github.com/repos/${repo}/contents/data.json`, {
-    headers: { 'Authorization': `Bearer ${token}` },
-  });
-  if (!r.ok) return undefined;
-  const d = await r.json();
-  return d.sha;
-}
+                animes.push({
+                  titre,
+                  titreJp,
+                  ep: epM ? parseInt(epM[1]) : 1,
+                  ago: timeM ? `${timeM[1]}${timeM[2]}` : '?',
+                  img,
+                  ahId,
+                });
+                if (animes.length >= 80) break;
+              }
+
+              console.log('Found:', animes.length);
+              if (animes.length > 0) {
+                console.log('First:', animes[0].titre);
+                console.log('Last:', animes[animes.length-1].titre);
+              }
+
+              // Écriture data.json
+              fs.writeFileSync('data.json', JSON.stringify({
+                animes,
+                updatedAt: new Date().toISOString(),
+                source: 'github-actions',
+                count: animes.length
+              }, null, 2));
+
+              // Accumulation archive.json
+              let existing = [], seenIds = new Set();
+              try {
+                const arch = JSON.parse(fs.readFileSync('archive.json', 'utf8'));
+                existing = arch.animes || [];
+                seenIds = new Set(existing.map(a => a.ahId));
+              } catch(e) {}
+
+              let added = 0;
+              for (const a of animes) {
+                if (!seenIds.has(a.ahId)) {
+                  seenIds.add(a.ahId);
+                  existing.push({ titre: a.titre, titreJp: a.titreJp, img: a.img, ahId: a.ahId, addedAt: new Date().toISOString() });
+                  added++;
+                }
+              }
+              console.log(`Archive: +${added} → ${existing.length} total`);
+
+              fs.writeFileSync('archive.json', JSON.stringify({
+                animes: existing,
+                updatedAt: new Date().toISOString(),
+                count: existing.length
+              }, null, 2));
+
+              console.log('data.json + archive.json OK');
+            });
+          });
+          req.on('error', e => { console.error(e.message); process.exit(1); });
+          req.end();
+          EOF
+
+      - name: Commit and push
+        run: |
+          git config user.name "Soleil Noir Bot"
+          git config user.email "bot@soleilnoir.app"
+          git pull origin main
+          git add data.json archive.json
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "🔄 Update - $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
