@@ -1,13 +1,9 @@
-name: Scrape AnimeHeaven Archive
+name: Scrape AnimeHeaven
 
 on:
   schedule:
-    - cron: '0 3 * * *'  # Une fois par jour à 3h UTC
-  workflow_dispatch:
-
-concurrency:
-  group: scrape-archive
-  cancel-in-progress: false
+    - cron: '*/10 * * * *'  # Toutes les 10 minutes
+  workflow_dispatch:       # Déclenchement manuel possible
 
 jobs:
   scrape:
@@ -18,127 +14,85 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Install dependencies
-        run: pip install requests beautifulsoup4 --quiet
-
-      - name: Scrape AnimeHeaven Full Catalogue
+      - name: Scrape AnimeHeaven
         run: |
-          python3 << 'PYEOF'
-          import requests
-          from bs4 import BeautifulSoup
-          import json, re, time
-          from datetime import datetime, timezone
-
-          HEADERS = {
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36",
-              "Accept": "text/html,application/xhtml+xml",
-              "Accept-Language": "en-US,en;q=0.9",
-              "Referer": "https://animeheaven.me/",
+          curl -s \
+            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36" \
+            -H "Accept: text/html,application/xhtml+xml" \
+            -H "Accept-Language: en-US,en;q=0.9" \
+            -H "Referer: https://animeheaven.me/" \
+            "https://animeheaven.me/new.php" > /tmp/ah.html
+          
+          node << 'EOF'
+          const fs = require('fs');
+          const html = fs.readFileSync('/tmp/ah.html', 'utf8');
+          
+          const animes = [];
+          const seen = new Set();
+          const blocks = html.split('/add.svg');
+          
+          for (let i = 1; i < blocks.length; i++) {
+            const block = blocks[i];
+            const idMatch   = block.match(/anime\.php\?(\w+)/);
+            const imgMatch  = block.match(/image\.php\?(\w+)/);
+            const titleMatch = block.match(/alt="([^"]+)"/);
+            const epMatch   = block.match(/^\s*(\d+)\s*$/m);
+            const timeMatch = block.match(/(\d+)\s*(h|d)\s*ago/);
+            
+            if (!idMatch || !imgMatch || !titleMatch || !timeMatch) continue;
+            
+            const ahId  = idMatch[1];
+            const titre = titleMatch[1].trim();
+            
+            if (seen.has(ahId)) continue;
+            if (titre.length < 2) continue;
+            if (["New","Popular","Fall","Random","MORE","POPULAR","Tools","Anime Heaven"].includes(titre)) continue;
+            if (titre.includes("logo") || titre.includes("burger") || titre.includes("icon")) continue;
+            
+            seen.add(ahId);
+            
+            // Titre JP
+            let titreJp = "";
+            const lines = block.split('\n').map(l => l.trim()).filter(Boolean);
+            for (let j = 0; j < lines.length; j++) {
+              if (lines[j].includes(titre) && lines[j+1]) {
+                const next = lines[j+1];
+                if (!next.match(/\d+\s*(h|d)\s*ago/) && next !== "-" && !next.startsWith("[") && !next.startsWith("!") && next.length > 1) {
+                  titreJp = next;
+                }
+                break;
+              }
+            }
+            
+            animes.push({
+              titre,
+              titreJp,
+              ep: epMatch ? parseInt(epMatch[1]) : 1,
+              ago: timeMatch[1] + timeMatch[2],
+              img: imgMatch[1],
+              ahId,
+            });
+            
+            if (animes.length >= 80) break;
           }
+          
+          console.log(`Scraped ${animes.length} animes`);
+          
+          const output = {
+            animes,
+            updatedAt: new Date().toISOString(),
+            source: "github-actions",
+            count: animes.length,
+          };
+          
+          fs.writeFileSync('data.json', JSON.stringify(output, null, 2));
+          EOF
 
-          def scrape_page(url):
-              try:
-                  r = requests.get(url, headers=HEADERS, timeout=15)
-                  if not r.ok:
-                      return []
-                  soup = BeautifulSoup(r.text, "html.parser")
-                  animes = []
-                  seen = set()
-                  skip = {"New","Popular","Fall","Random","MORE","POPULAR","Tools","Anime Heaven",""}
-
-                  for a_tag in soup.find_all("a", href=lambda h: h and "/anime.php?" in h):
-                      img = a_tag.find("img")
-                      if not img:
-                          continue
-                      titre = img.get("alt", "").strip()
-                      if not titre or titre in skip:
-                          continue
-                      if any(x in titre.lower() for x in ["logo","icon","burger","prev","next","sun","discord","twitter","banner"]):
-                          continue
-                      href = a_tag.get("href", "")
-                      ah_id = href.split("?")[-1].rstrip("=")
-                      src = img.get("src", "")
-                      img_code = src.split("?")[-1] if "?" in src else ""
-                      if not ah_id or not img_code or ah_id in seen or len(ah_id) < 3:
-                          continue
-                      seen.add(ah_id)
-                      animes.append({"titre": titre, "img": img_code, "ahId": ah_id})
-                  return animes
-              except Exception as e:
-                  print(f"Error scraping {url}: {e}")
-                  return []
-
-          all_animes = []
-          seen_ids = set()
-
-          # 1. Scrape popular page
-          print("Scraping popular...")
-          popular = scrape_page("https://animeheaven.me/popular.php")
-          for a in popular:
-              if a["ahId"] not in seen_ids:
-                  seen_ids.add(a["ahId"])
-                  all_animes.append(a)
-          print(f"  Popular: {len(popular)} animes")
-
-          # 2. Scrape new episodes page (gives recent ones)
-          print("Scraping new...")
-          new = scrape_page("https://animeheaven.me/new.php")
-          for a in new:
-              if a["ahId"] not in seen_ids:
-                  seen_ids.add(a["ahId"])
-                  all_animes.append(a)
-          print(f"  New: {len(new)} animes")
-
-          # 3. Scrape 2025 Fall season
-          print("Scraping fall 2025...")
-          fall = scrape_page("https://animeheaven.me/2025fall.php")
-          for a in fall:
-              if a["ahId"] not in seen_ids:
-                  seen_ids.add(a["ahId"])
-                  all_animes.append(a)
-          print(f"  Fall 2025: {len(fall)} animes")
-
-          # 4. Try to scrape A-Z or search pages for broader coverage
-          seasons = ["2024summer", "2024fall", "2024winter", "2025winter", "2025spring", "2025summer"]
-          for season in seasons:
-              url = f"https://animeheaven.me/{season}.php"
-              print(f"Scraping {season}...")
-              results = scrape_page(url)
-              added = 0
-              for a in results:
-                  if a["ahId"] not in seen_ids:
-                      seen_ids.add(a["ahId"])
-                      all_animes.append(a)
-                      added += 1
-              print(f"  {season}: {added} new animes")
-              time.sleep(0.5)
-
-          print(f"\nTotal unique animes: {len(all_animes)}")
-
-          out = {
-              "animes": all_animes,
-              "updatedAt": datetime.now(timezone.utc).isoformat(),
-              "count": len(all_animes),
-          }
-
-          with open("archive.json", "w") as f:
-              json.dump(out, f, ensure_ascii=False, indent=2)
-
-          print("archive.json written successfully")
-          PYEOF
-
-      - name: Commit and push archive.json
+      - name: Commit data.json
         run: |
-          git config user.name "Soleil Noir Bot"
-          git config user.email "bot@soleilnoir.app"
-          git pull origin main
-          git add archive.json
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "📚 Update archive - $(date -u '+%Y-%m-%d %H:%M UTC')"
-            git push
-          fi
+          git config user.name "AniTrack Bot"
+          git config user.email "bot@anitrack.app"
+          git add data.json
+          git diff --staged --quiet || git commit -m "🔄 Update anime data - $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
