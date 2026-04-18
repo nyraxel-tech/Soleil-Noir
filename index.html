@@ -27,6 +27,7 @@
   --safe-top: env(safe-area-inset-top, 0px);
 }
 html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+input, select, textarea { font-size: 16px !important; }
 body {
   background: var(--bg); color: var(--text);
   font-family: 'Outfit', sans-serif;
@@ -196,13 +197,13 @@ main { padding: 16px; max-width: 900px; margin: 0 auto; }
 .filter-input {
   flex: 1; min-width: 120px; background: var(--surface); border: 1px solid var(--border);
   border-radius: 2px; padding: 9px 12px; color: var(--text);
-  font-family: inherit; font-size: 13px; outline: none;
+  font-family: inherit; font-size: 16px; outline: none;
   -webkit-appearance: none;
 }
 .filter-select {
   background: var(--surface); border: 1px solid var(--border);
   border-radius: 2px; padding: 9px 10px; color: var(--text);
-  font-family: inherit; font-size: 12px; outline: none; -webkit-appearance: none;
+  font-family: inherit; font-size: 16px; outline: none; -webkit-appearance: none;
   appearance: none;
 }
 .filter-input:focus, .filter-select:focus { border-color: var(--accent); }
