@@ -669,7 +669,6 @@ function renderGenreChips() {
     const count = animes.filter(a=>a.genre===id).length;
     if (!count) return '';
     return `<div class="genre-chip" style="border-color:${g.color}33" onclick="filterByGenre('${id}')">
-      <span>${g.icon}</span>
       <span style="color:${g.color}">${g.label}</span>
       <span style="background:rgba(255,255,255,.07);padding:1px 6px;border-radius:10px;font-size:10px;font-weight:700;color:var(--muted)">${count}</span>
     </div>`;
@@ -704,7 +703,7 @@ function renderListe() {
     const pct = a.totalEp>0 ? Math.round(w.length/a.totalEp*100) : 0;
     const lastW = w.length>0 ? Math.max(...w) : 0;
     const url = imgUrl(a.img);
-    return `<div class="anime-card">
+    return `<div class="anime-card" onclick="openAnimeFromList(${a.id})" style="cursor:pointer">
       <div class="anime-card-inner">
         <div class="anime-thumb">
           ${url?`<img src="${url}" onerror="this.style.display='none'">`:`<div class="anime-thumb-icon" style="background:${g.color}18">${g.icon}</div>`}
@@ -712,7 +711,7 @@ function renderListe() {
         <div class="anime-info">
           <div class="anime-name">${a.titre}</div>
           <div class="anime-tags">
-            <span class="tag" style="background:${g.color}20;color:${g.color}">${g.icon} ${g.label}</span>
+            <span class="tag" style="background:${g.color}20;color:${g.color}">${g.label}</span>
             <span class="tag" style="background:${CS[a.statut]}20;color:${CS[a.statut]}">${a.statut}</span>
           </div>
           <div class="anime-prog">
@@ -721,12 +720,26 @@ function renderListe() {
           </div>
         </div>
         <div class="anime-btns">
-          <button class="btn-ep" onclick="openPanel(${a.id})">📋</button>
-          <button class="btn-del" onclick="deleteAnime(${a.id})">🗑</button>
+          <button class="btn-ep" onclick="event.stopPropagation();openPanel(${a.id})">Épisodes</button>
+          <button class="btn-del" onclick="event.stopPropagation();deleteAnime(${a.id})">🗑</button>
         </div>
       </div>
     </div>`;
   }).join('');
+}
+
+function openAnimeFromList(id) {
+  const a = animes.find(x => x.id === id);
+  if (!a || !a.ahId) return;
+  // Ouvre AnimeHeaven
+  window.open(pageUrl(a.ahId), '_blank');
+  // Marque tous les épisodes comme vus (on considère qu'on vient de regarder le dernier)
+  const allWatched = Array.from({length: a.totalEp}, (_, i) => i + 1);
+  a.watched = [...new Set([...a.watched, ...allWatched])];
+  a.statut = a.watched.length >= a.totalEp ? "Vu" : "En cours";
+  save();
+  renderListe();
+  renderPosters();
 }
 
 function deleteAnime(id) {
