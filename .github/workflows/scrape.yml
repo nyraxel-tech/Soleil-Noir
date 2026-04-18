@@ -46,21 +46,8 @@ jobs:
             res.on('end', () => {
               console.log('Size:', html.length);
 
-              // DEBUG: affiche le contenu brut autour du premier animé
-              const idx = html.indexOf('add.svg');
-              console.log('=== BLOCK SAMPLE (chars 0-500 after first add.svg) ===');
-              console.log(JSON.stringify(html.substring(idx, idx + 500)));
-              console.log('=== END SAMPLE ===');
-
               const blocks = html.split('add.svg');
               console.log('Blocks:', blocks.length);
-
-              // Debug block 4
-              if (blocks[4]) {
-                console.log('=== BLOCK 4 ===');
-                console.log(JSON.stringify(blocks[4].substring(0, 400)));
-                console.log('=== END BLOCK 4 ===');
-              }
 
               const animes = [];
               const seen = new Set();
@@ -70,11 +57,9 @@ jobs:
               for (let i = 1; i < blocks.length; i++) {
                 const b = blocks[i];
 
-                // Essaye toutes les variantes de quotes et formats
-                const idM   = b.match(/anime\.php[?=](\w+)/);
-                const imgM  = b.match(/image\.php[?=](\w+)/);
-                // alt avec guillemets simples ou doubles
-                const altM  = b.match(/alt=["']([^"']+)["']/);
+                const idM   = b.match(/anime\.php[?='](\w+)/);
+                const imgM  = b.match(/image\.php[?'](\w+)/);
+                const altM  = b.match(/alt=['"]([^'"]+)['"]/);
                 const epM   = b.match(/\n\s*(\d+)\s*\n/);
                 const timeM = b.match(/(\d+)\s*(h|d)\s*ago/);
 
@@ -87,12 +72,18 @@ jobs:
                 if (!titre || skipTitles.has(titre) || seen.has(ahId) || ahId.length < 3) continue;
                 if (['logo','icon','burger','prev','next','sun','discord','twitter','banner'].some(x => titre.toLowerCase().includes(x))) continue;
 
+                // Skip les 3 premières = bannières pub
                 if (bannerCount < 3) { bannerCount++; seen.add(ahId); continue; }
 
                 seen.add(ahId);
+
+                // Titre JP depuis charttitlejp
+                const jpM = b.match(/class='charttitlejp c'>([^<]+)</);
+                const titreJp = jpM && jpM[1].trim() !== '-' ? jpM[1].trim() : '';
+
                 animes.push({
                   titre,
-                  titreJp: '',
+                  titreJp,
                   ep: epM ? parseInt(epM[1]) : 1,
                   ago: timeM ? `${timeM[1]}${timeM[2]}` : '?',
                   img,
@@ -102,13 +93,20 @@ jobs:
               }
 
               console.log('Found:', animes.length);
-              if (animes.length > 0) console.log('First:', animes[0].titre);
+              if (animes.length > 0) {
+                console.log('First:', animes[0].titre);
+                console.log('Last:', animes[animes.length-1].titre);
+              }
 
-              // Écriture fichiers
+              // Écriture data.json
               fs.writeFileSync('data.json', JSON.stringify({
-                animes, updatedAt: new Date().toISOString(), source: 'github-actions', count: animes.length
+                animes,
+                updatedAt: new Date().toISOString(),
+                source: 'github-actions',
+                count: animes.length
               }, null, 2));
 
+              // Accumulation archive.json
               let existing = [], seenIds = new Set();
               try {
                 const arch = JSON.parse(fs.readFileSync('archive.json', 'utf8'));
@@ -120,13 +118,19 @@ jobs:
               for (const a of animes) {
                 if (!seenIds.has(a.ahId)) {
                   seenIds.add(a.ahId);
-                  existing.push({ titre: a.titre, titreJp: '', img: a.img, ahId: a.ahId, addedAt: new Date().toISOString() });
+                  existing.push({ titre: a.titre, titreJp: a.titreJp, img: a.img, ahId: a.ahId, addedAt: new Date().toISOString() });
                   added++;
                 }
               }
-              console.log(`Archive: +${added} → ${existing.length}`);
-              fs.writeFileSync('archive.json', JSON.stringify({ animes: existing, updatedAt: new Date().toISOString(), count: existing.length }, null, 2));
-              console.log('OK');
+              console.log(`Archive: +${added} → ${existing.length} total`);
+
+              fs.writeFileSync('archive.json', JSON.stringify({
+                animes: existing,
+                updatedAt: new Date().toISOString(),
+                count: existing.length
+              }, null, 2));
+
+              console.log('data.json + archive.json OK');
             });
           });
           req.on('error', e => { console.error(e.message); process.exit(1); });
