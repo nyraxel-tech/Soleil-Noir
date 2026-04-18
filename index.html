@@ -297,6 +297,26 @@ main { padding: 16px; max-width: 900px; margin: 0 auto; }
 .empty { text-align: center; padding: 50px 20px; color: var(--muted); }
 .empty-icon { font-size: 40px; margin-bottom: 10px; }
 
+/* ── RANKING ── */
+.rank-badge {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 38px; height: 38px; border-radius: 10px;
+  font-size: 13px; font-weight: 900; flex-shrink: 0;
+  letter-spacing: .5px;
+}
+.rank-select {
+  background: rgba(255,255,255,.06); border: 1px solid rgba(255,255,255,.1);
+  border-radius: 8px; padding: 5px 8px; color: var(--text);
+  font-family: inherit; font-size: 12px; font-weight: 700;
+  outline: none; cursor: pointer; -webkit-appearance: none; appearance: none;
+}
+.rank-card {
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: 14px; overflow: hidden; display: flex; align-items: center;
+  gap: 0; margin-bottom: 8px; cursor: pointer; transition: border-color .2s;
+}
+.rank-card:active { opacity: .85; }
+
 /* ── SHIMMER ── */
 .shimmer { background: linear-gradient(90deg, rgba(255,255,255,.03) 25%, rgba(192,132,252,.07) 50%, rgba(255,255,255,.03) 75%); background-size: 200% 100%; animation: shim 1.5s infinite; border-radius: 12px; aspect-ratio: 2/3; }
 @keyframes shim { 0%{background-position:200% 0} 100%{background-position:-200% 0} }
@@ -344,9 +364,9 @@ input[type=number]::-webkit-inner-spin-button { -webkit-appearance: none; }
   </div>
   <!-- Desktop nav -->
   <nav class="desktop-nav">
-    <button class="desktop-nav-btn active" onclick="setTab('nouveautes')">🔥 Nouveautés</button>
-    <button class="desktop-nav-btn" onclick="setTab('decouverte')">✨ Découverte</button>
-    <button class="desktop-nav-btn" onclick="setTab('liste')">📚 Ma Liste</button>
+    <button class="desktop-nav-btn active" onclick="setTab('nouveautes')">✨ Nouveautés</button>
+    <button class="desktop-nav-btn" onclick="setTab('decouverte')">🏆 Ranking</button>
+    <button class="desktop-nav-btn" onclick="setTab('liste')">📖 Bibliothèque</button>
   </nav>
 </header>
 
@@ -362,36 +382,17 @@ input[type=number]::-webkit-inner-spin-button { -webkit-appearance: none; }
     <div class="poster-grid" id="poster-grid"></div>
   </div>
 
-  <!-- DÉCOUVERTE -->
+  <!-- RANKING -->
   <div id="tab-decouverte" class="tab-content">
     <div class="section-header">
-      <div class="section-title">✨ Suggestions IA</div>
-      <div class="section-sub">L'IA croise tes animés vus + les diffusions AnimeHeaven</div>
+      <div class="section-title">🏆 Ranking</div>
+      <div class="section-sub">Note tes animés et classe-les par rang</div>
     </div>
-    <div class="sug-control">
-      <div style="flex:1;min-width:140px">
-        <div style="font-size:10px;color:var(--muted);font-weight:700;text-transform:uppercase;letter-spacing:1px;margin-bottom:7px">Genre</div>
-        <select id="sug-genre" class="filter-select" style="width:100%">
-          <option value="isekai">⚡ Isekai</option>
-          <option value="shonen">🔥 Shōnen</option>
-          <option value="seinen">🌑 Seinen</option>
-          <option value="fantasy">🗡️ Fantasy</option>
-          <option value="romance">🌸 Romance / SoL</option>
-          <option value="horreur">💀 Horreur</option>
-          <option value="sport">⚽ Sport</option>
-          <option value="mecha">🤖 Mecha / Sci-Fi</option>
-        </select>
-      </div>
-      <button class="btn-primary" id="sug-btn" onclick="getSuggestions()" style="padding:11px 22px">🎯 Générer</button>
-    </div>
-    <div id="sug-loading" style="display:none" class="poster-grid">
-      <div class="shimmer"></div><div class="shimmer"></div><div class="shimmer"></div><div class="shimmer"></div>
-    </div>
-    <div class="sug-grid" id="sug-grid"></div>
-    <div id="sug-empty" class="empty">
-      <div class="empty-icon">🎯</div>
-      <div style="font-weight:700">Choisis un genre et génère tes suggestions</div>
-    </div>
+
+    <!-- Rank filter pills -->
+    <div class="genre-scroll" id="rank-filters"></div>
+
+    <div id="ranking-list"></div>
   </div>
 
   <!-- MA LISTE -->
@@ -443,16 +444,16 @@ input[type=number]::-webkit-inner-spin-button { -webkit-appearance: none; }
 <!-- Bottom Nav (mobile) -->
 <nav class="bottom-nav">
   <button class="nav-btn active" onclick="setTab('nouveautes')" data-tab="nouveautes">
-    <span class="nav-icon">🔥</span>
+    <span class="nav-icon">✨</span>
     <span class="nav-label">Nouveautés</span>
   </button>
   <button class="nav-btn" onclick="setTab('decouverte')" data-tab="decouverte">
-    <span class="nav-icon">✨</span>
-    <span class="nav-label">Découverte</span>
+    <span class="nav-icon">🏆</span>
+    <span class="nav-label">Ranking</span>
   </button>
   <button class="nav-btn" onclick="setTab('liste')" data-tab="liste">
-    <span class="nav-icon">📚</span>
-    <span class="nav-label">Ma Liste</span>
+    <span class="nav-icon">📖</span>
+    <span class="nav-label">Bibliothèque</span>
   </button>
 </nav>
 
@@ -908,6 +909,95 @@ document.getElementById('ep-panel').addEventListener('touchmove',e=>{
   const dy=e.touches[0].clientY-touchStartY;
   if(dy>60) document.getElementById('ep-overlay').classList.remove('open');
 },{passive:true});
+
+// ── RANKING ──
+const RANKS = [
+  { id:"norank", label:"No Rank", color:"#475569", bg:"rgba(71,85,105,.2)" },
+  { id:"E",      label:"E",       color:"#94a3b8", bg:"rgba(148,163,184,.15)" },
+  { id:"D",      label:"D",       color:"#a3e635", bg:"rgba(163,230,53,.15)" },
+  { id:"C",      label:"C",       color:"#4ade80", bg:"rgba(74,222,128,.15)" },
+  { id:"B",      label:"B",       color:"#60a5fa", bg:"rgba(96,165,250,.15)" },
+  { id:"A",      label:"A",       color:"#c084fc", bg:"rgba(192,132,252,.15)" },
+  { id:"A+",     label:"A+",      color:"#e879f9", bg:"rgba(232,121,249,.15)" },
+  { id:"S+",     label:"S+",      color:"#fbbf24", bg:"rgba(251,191,36,.15)" },
+  { id:"SSS",    label:"SSS",     color:"#f87171", bg:"rgba(248,113,113,.15)", glow:true },
+];
+
+let rankFilter = "tous";
+function getRank(a) { return a.rank || "norank"; }
+function getRankObj(id) { return RANKS.find(r => r.id === id) || RANKS[0]; }
+
+function setRank(animeId, rankId) {
+  const a = animes.find(x => x.id === animeId);
+  if (a) { a.rank = rankId; save(); renderRanking(); }
+}
+
+function renderRankFilters() {
+  const c = document.getElementById('rank-filters');
+  c.innerHTML = '';
+  const mk = (label, val) => {
+    const b = document.createElement('button');
+    b.className = 'genre-pill' + (rankFilter === val ? ' active' : '');
+    b.textContent = label;
+    b.onclick = () => { rankFilter = rankFilter === val ? 'tous' : val; renderRankFilters(); renderRanking(); };
+    c.appendChild(b);
+  };
+  mk(`Tous (${animes.length})`, 'tous');
+  RANKS.forEach(r => {
+    const count = animes.filter(a => getRank(a) === r.id).length;
+    if (count > 0) mk(`${r.label} (${count})`, r.id);
+  });
+}
+
+function renderRanking() {
+  renderRankFilters();
+  const rankOrder = RANKS.map(r => r.id).reverse();
+  const filtered = rankFilter === 'tous'
+    ? [...animes].sort((a,b) => rankOrder.indexOf(getRank(b)) - rankOrder.indexOf(getRank(a)))
+    : animes.filter(a => getRank(a) === rankFilter);
+
+  const list = document.getElementById('ranking-list');
+  if (!filtered.length) {
+    list.innerHTML = `<div class="empty"><div class="empty-icon">🏆</div><div style="font-weight:700">Aucun animé dans ta bibliothèque</div></div>`;
+    return;
+  }
+  list.innerHTML = filtered.map(a => {
+    const g = getG(a.genre);
+    const rank = getRankObj(getRank(a));
+    const url = imgUrl(a.img);
+    const w = a.watched || [];
+    const pct = a.totalEp > 0 ? Math.round(w.length / a.totalEp * 100) : 0;
+    return `<div class="rank-card" style="border-color:${rank.color}44" onclick="openAnimeFromList(${a.id})">
+      <div class="anime-thumb">
+        ${url ? `<img src="${url}" onerror="this.style.display='none'">` : `<div class="anime-thumb-icon" style="background:${g.color}18">${g.icon}</div>`}
+      </div>
+      <div style="flex:1;padding:10px 12px;min-width:0">
+        <div class="anime-name">${a.titre}</div>
+        <div style="display:flex;gap:5px;margin-bottom:6px;flex-wrap:wrap">
+          <span class="tag" style="background:${g.color}18;color:${g.color}">${g.label}</span>
+          <span class="tag" style="background:${CS[a.statut]}18;color:${CS[a.statut]}">${a.statut}</span>
+        </div>
+        <div class="anime-prog">
+          <div class="prog-bar"><div class="prog-fill" style="width:${pct}%;background:${g.color}"></div></div>
+          <span class="prog-txt">${w.length}/${a.totalEp}</span>
+        </div>
+      </div>
+      <div style="padding:0 12px;display:flex;flex-direction:column;align-items:center;gap:6px;flex-shrink:0" onclick="event.stopPropagation()">
+        <div class="rank-badge" style="background:${rank.bg};color:${rank.color};${rank.glow?`box-shadow:0 0 14px ${rank.color}66`:''}">${rank.label}</div>
+        <select class="rank-select" onchange="setRank(${a.id},this.value)" style="border-color:${rank.color}44">
+          ${RANKS.map(r => `<option value="${r.id}" ${getRank(a)===r.id?'selected':''}>${r.label}</option>`).join('')}
+        </select>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+// Render ranking when tab opens
+const _origSetTab = setTab;
+function setTab(t) {
+  _origSetTab(t);
+  if (t === 'decouverte') renderRanking();
+}
 
 loadAH();
 </script>
