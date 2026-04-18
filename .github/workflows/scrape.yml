@@ -51,40 +51,26 @@ jobs:
               const blocks = html.split('add.svg');
               console.log('Blocks:', blocks.length);
 
-              // DEBUG : affiche les 3 premiers blocs pour diagnostiquer le décalage
-              for (let i = 1; i <= Math.min(3, blocks.length - 1); i++) {
-                console.log(`\n=== BLOC ${i} (300 chars) ===`);
-                console.log(blocks[i].substring(0, 300));
-                console.log('---');
-                const idM    = blocks[i].match(/anime\.php[?='](\w+)/);
-                const imgM   = blocks[i].match(/image\.php[?'](\w+)/);
-                const titleM = blocks[i].match(/class='charttitle[^']*'>([^<]+)</) || blocks[i].match(/alt=['"]([^'"]+)['"]/);
-                console.log('  ahId :', idM ? idM[1] : 'NOT FOUND');
-                console.log('  img  :', imgM ? imgM[1] : 'NOT FOUND');
-                console.log('  titre:', titleM ? titleM[1] : 'NOT FOUND');
-              }
-
               const animes = [];
               const seen = new Set();
-              const skipTitles = new Set(['New','Popular','Fall','Random','MORE','POPULAR','Tools','Anime Heaven','']);
+              const skipTitles = new Set(['New','Popular','Fall','Random','MORE','POPULAR','Tools','Anime Heaven','','-']);
 
               for (let i = 1; i < blocks.length; i++) {
                 const b = blocks[i];
 
                 const idM    = b.match(/anime\.php[?='](\w+)/);
                 const imgM   = b.match(/image\.php[?'](\w+)/);
-                const titleM = b.match(/class='charttitle[^']*'>([^<]+)</) || b.match(/alt=['"]([^'"]+)['"]/);
-                const epM    = b.match(/\n\s*(\d+)\s*\n/);
+                // Exact match sur charttitle c (sans jp) pour éviter de capturer charttitlejp
+                const titleM = b.match(/class='charttitle c'><a[^>]+>([^<]+)<\/a>/);
+                const epM    = b.match(/class='chartep[^']*'>\s*(\d+)\s*</);
                 const timeM  = b.match(/(\d+)\s*(h|d)\s*ago/);
 
-                if (!idM || !imgM || !titleM) {
-                  console.log(`Bloc ${i} skippé — idM:${!!idM} imgM:${!!imgM} titleM:${!!titleM}`);
-                  continue;
-                }
+                if (!idM || !imgM || !titleM) continue;
 
                 const ahId  = idM[1];
                 const img   = imgM[1];
-                const titre = titleM[1].trim();
+                // Décoder les entités HTML (ex: &#039; → ')
+                const titre = titleM[1].trim().replace(/&#0*39;/g, "'").replace(/&amp;/g, '&').replace(/&quot;/g, '"');
 
                 if (!titre || skipTitles.has(titre) || seen.has(ahId) || ahId.length < 3) continue;
                 if (['logo','icon','burger','prev','next','sun','discord','twitter','banner'].some(x => titre.toLowerCase().includes(x))) continue;
@@ -105,7 +91,7 @@ jobs:
                 if (animes.length >= 80) break;
               }
 
-              console.log('\nFound:', animes.length);
+              console.log('Found:', animes.length);
               if (animes.length > 0) {
                 console.log('First:', animes[0].titre, '| ahId:', animes[0].ahId);
                 console.log('Second:', animes[1]?.titre, '| ahId:', animes[1]?.ahId);
