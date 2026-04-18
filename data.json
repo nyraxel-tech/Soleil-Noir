@@ -1,6 +1,14 @@
 {
   "animes": [
     {
+      "titre": "Detective Conan",
+      "titreJp": "",
+      "ep": 1198,
+      "ago": "1j",
+      "img": "lx86z",
+      "ahId": "y9prb"
+    },
+    {
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "",
       "ep": 3,
@@ -67,7 +75,7 @@
     {
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "",
-      "ep": 3,
+      "ep": 1,
       "ago": "1j",
       "img": "8ezmn",
       "ahId": "nv9bp"
@@ -535,17 +543,9 @@
       "ago": "1j",
       "img": "hnxbm",
       "ahId": "ayudj"
-    },
-    {
-      "titre": "Yowayowa Teacher",
-      "titreJp": "",
-      "ep": 1,
-      "ago": "1j",
-      "img": "b6f8i",
-      "ahId": "pijt4"
     }
   ],
-  "updatedAt": "2026-04-18T11:32:48.085681+00:00",
+  "updatedAt": "2026-04-18T12:03:02.331728+00:00",
   "source": "github-actions",
   "count": 68
 }
