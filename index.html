@@ -519,14 +519,77 @@ input[type=number]::-webkit-inner-spin-button { -webkit-appearance: none; }
 
 <script>
 const GENRES = {
-  isekai:  { label:"Isekai",      icon:`<svg width="13" height="13" viewBox="0 0 13 13" fill="none"><circle cx="6.5" cy="6.5" r="5.5" stroke="currentColor" stroke-width=".8"/><circle cx="6.5" cy="6.5" r="2.5" stroke="currentColor" stroke-width=".7" opacity=".6"/><line x1="6.5" y1="1" x2="6.5" y2="3.5" stroke="currentColor" stroke-width=".8"/><line x1="6.5" y1="9.5" x2="6.5" y2="12" stroke="currentColor" stroke-width=".8"/><line x1="1" y1="6.5" x2="3.5" y2="6.5" stroke="currentColor" stroke-width=".8"/><line x1="9.5" y1="6.5" x2="12" y2="6.5" stroke="currentColor" stroke-width=".8"/></svg>`, color:"#c084fc", keys:["isekai","reincarnated","another world","reborn","tensei","slime","farming life","vending machine","beginning after the end","petals of reincarnation"] },
-  shonen:  { label:"Shōnen",     icon:`<svg width="13" height="13" viewBox="0 0 13 13" fill="none"><polygon points="6.5,1 12,10 1,10" stroke="currentColor" stroke-width=".8" fill="none"/><polygon points="6.5,4 10,10 3,10" fill="currentColor" opacity=".4"/></svg>`, color:"#f87171", keys:["fist","north star","one piece","rooster","kill blue","monster eater","all you need is kill","diamond no ace","jojo","iruma"] },
-  seinen:  { label:"Seinen",      icon:`<svg width="13" height="13" viewBox="0 0 13 13" fill="none"><path d="M1.5 6.5 Q6.5 1 11.5 6.5 Q6.5 12 1.5 6.5Z" stroke="currentColor" stroke-width=".8" fill="none"/><circle cx="6.5" cy="6.5" r="2" fill="currentColor" opacity=".7"/></svg>`, color:"#94a3b8", keys:["classroom of the elite","dorohedoro","liar game","drops of god","eren","southpaw","needy girl","mao"] },
-  fantasy: { label:"Fantasy",     icon:`<svg width="13" height="13" viewBox="0 0 13 13" fill="none"><line x1="2" y1="2" x2="11" y2="11" stroke="currentColor" stroke-width=".9"/><line x1="11" y1="2" x2="2" y2="11" stroke="currentColor" stroke-width=".9"/><circle cx="6.5" cy="6.5" r="1.5" fill="currentColor"/><rect x="5.5" y="0" width="2" height="2" fill="currentColor" opacity=".5"/></svg>`, color:"#fbbf24", keys:["fantasy","adventure","sword","magic","witch","dungeon","sage","grancrest","wistoria","brave","scum","appraiser","stone","release that witch","great sage","ryddel","barbarian","record","daemons","shadow realm","digimon"] },
-  romance: { label:"Romance",     icon:`<svg width="13" height="13" viewBox="0 0 13 13" fill="none"><path d="M6.5 10.5 L2 5.5 Q2 2 5 2 Q6.5 3 6.5 4 Q6.5 3 8 2 Q11 2 11 5.5 Z" stroke="currentColor" stroke-width=".8" fill="none"/><path d="M6.5 8 L4 5.5 Q4 4 5.5 4 L6.5 5 L7.5 4 Q9 4 9 5.5 Z" fill="currentColor" opacity=".5"/></svg>`, color:"#f472b6", keys:["romance","love","girl","angel","girlfriend","villainess","marriage","bride","fiancée","koi","klutzy","replica","meter","rent","otonari","botan","observation log","haibara","awajima","food diary","maid","gals","otaku","kirio","kujima","yowayowa","nakamura","always a catch","marika","mistress kanan","pardon","intrusion","classroom of a black cat"] },
-  horreur: { label:"Horreur",     icon:`<svg width="13" height="13" viewBox="0 0 13 13" fill="none"><polygon points="6.5,1 12,7 10,12 3,12 1,7" stroke="currentColor" stroke-width=".8" fill="none"/><line x1="4" y1="9" x2="9" y2="9" stroke="currentColor" stroke-width=".7" opacity=".5"/><circle cx="4.5" cy="6.5" r="1" fill="currentColor" opacity=".7"/><circle cx="8.5" cy="6.5" r="1" fill="currentColor" opacity=".7"/></svg>`, color:"#818cf8", keys:["horror","thriller","murder","ghost","killed again","detective","beyond twilight","kusunoki","ingoku","deviant","conan","ghost concert"] },
-  sport:   { label:"Sport",       icon:`<svg width="13" height="13" viewBox="0 0 13 13" fill="none"><circle cx="6.5" cy="6.5" r="5.5" stroke="currentColor" stroke-width=".8"/><line x1="6.5" y1="1" x2="6.5" y2="12" stroke="currentColor" stroke-width=".6" opacity=".4"/><line x1="1" y1="6.5" x2="12" y2="6.5" stroke="currentColor" stroke-width=".6" opacity=".4"/><circle cx="6.5" cy="6.5" r="2" stroke="currentColor" stroke-width=".7"/></svg>`, color:"#34d399", keys:["sport","baseball","diamond","ace","nakamura","always a catch","southpaw","eren"] },
-  mecha:   { label:"Mecha/SF",    icon:`<svg width="13" height="13" viewBox="0 0 13 13" fill="none"><rect x="4" y="1" width="5" height="11" rx="0" stroke="currentColor" stroke-width=".8" fill="none"/><rect x="1" y="4" width="11" height="5" rx="0" stroke="currentColor" stroke-width=".8" fill="none"/><rect x="4" y="4" width="5" height="5" fill="currentColor" opacity=".4"/></svg>`, color:"#22d3ee", keys:["mecha","robot","science","pokemon","snowball earth","nippon sangoku","dr. stone","mission yozakura","ascendance","bookworm","agents","seasons"] },
+  isekai:  { label:"Isekai",      icon:`<svg width="13" height="13" viewBox="0 0 13 13" fill="none"><circle cx="6.5" cy="6.5" r="5.5" stroke="currentColor" stroke-width=".8"/><circle cx="6.5" cy="6.5" r="2.5" stroke="currentColor" stroke-width=".7" opacity=".6"/><line x1="6.5" y1="1" x2="6.5" y2="3.5" stroke="currentColor" stroke-width=".8"/><line x1="6.5" y1="9.5" x2="6.5" y2="12" stroke="currentColor" stroke-width=".8"/><line x1="1" y1="6.5" x2="3.5" y2="6.5" stroke="currentColor" stroke-width=".8"/><line x1="9.5" y1="6.5" x2="12" y2="6.5" stroke="currentColor" stroke-width=".8"/></svg>`, color:"#c084fc", keys:[
+    "isekai","reincarnated","reincarnation","another world","reborn","tensei","slime","farming life",
+    "vending machine","beginning after the end","petals of reincarnation","ascendance","bookworm",
+    "transferred","summoned","transported","parallel world","異世界","dungeon life","wander the dungeon",
+    "ribdiculous reincarnation","heretical","last boss","villainess reborn","second life","new game",
+    "most heretical","redo","restart","jobless","mushoku","overlord","rezero","re:zero","konosuba",
+    "tate no yuusha","shield hero","sword art","sao","log horizon","no game no life"
+  ]},
+  shonen:  { label:"Shōnen",     icon:`<svg width="13" height="13" viewBox="0 0 13 13" fill="none"><polygon points="6.5,1 12,10 1,10" stroke="currentColor" stroke-width=".8" fill="none"/><polygon points="6.5,4 10,10 3,10" fill="currentColor" opacity=".4"/></svg>`, color:"#f87171", keys:[
+    "fist","north star","hokuto","one piece","rooster","kill blue","monster eater","all you need is kill",
+    "diamond no ace","jojo","iruma","pokemon","horizons","pocket monster","naruto","bleach","dragon ball",
+    "hunter x hunter","fairy tail","my hero","boku no hero","demon slayer","kimetsu","jujutsu","attack on titan",
+    "shingeki","black clover","seven deadly sins","fire force","chainsaw","spy family","blue lock",
+    "kaiju","mashle","sakamoto days","agents of the four","four seasons","dance of spring","shunkashuutou",
+    "wistoria","scum of the brave","yuusha","rooster fighter","welcome to demon school","great sage ryddel",
+    "ichijouma","akane","digimon","beatbreak","nippon sangoku"
+  ]},
+  seinen:  { label:"Seinen",      icon:`<svg width="13" height="13" viewBox="0 0 13 13" fill="none"><path d="M1.5 6.5 Q6.5 1 11.5 6.5 Q6.5 12 1.5 6.5Z" stroke="currentColor" stroke-width=".8" fill="none"/><circle cx="6.5" cy="6.5" r="2" fill="currentColor" opacity=".7"/></svg>`, color:"#94a3b8", keys:[
+    "classroom of the elite","youkoso jitsuryoku","dorohedoro","liar game","drops of god","kami no shizuku",
+    "eren","southpaw","hidarikiki","needy girl","overdose","mao","vinland","berserk","vagabond",
+    "golden kamuy","dungeon meshi","delicious","hellsing","ghost in the shell","psycho-pass","monster",
+    "paranoia agent","ping pong","serial experiments","ergo proxy","text","joker game","91 days"
+  ]},
+  fantasy: { label:"Fantasy",     icon:`<svg width="13" height="13" viewBox="0 0 13 13" fill="none"><line x1="2" y1="2" x2="11" y2="11" stroke="currentColor" stroke-width=".9"/><line x1="11" y1="2" x2="2" y2="11" stroke="currentColor" stroke-width=".9"/><circle cx="6.5" cy="6.5" r="1.5" fill="currentColor"/><rect x="5.5" y="0" width="2" height="2" fill="currentColor" opacity=".5"/></svg>`, color:"#fbbf24", keys:[
+    "fantasy","adventure","sword","magic","witch","sage","grancrest","brave","appraiser",
+    "release that witch","great sage","ryddel","barbarian","record","daemons","shadow realm",
+    "witch hat","atelier","tongari","wand","shield","hero","quest","dragon","kingdom","empire",
+    "knight","paladin","sorcerer","mage","elf","dwarf","goblin","orc","demon king","maou",
+    "dark lord","chosen one","prophecy","ancient","ruin","artifact","crystal","abyss",
+    "grimoire","spell","enchant","mythical","legend","lore","realm","throne","crown",
+    "snowball earth","mission yozakura","daemons of the shadow","shadow realm"
+  ]},
+  romance: { label:"Romance",     icon:`<svg width="13" height="13" viewBox="0 0 13 13" fill="none"><path d="M6.5 10.5 L2 5.5 Q2 2 5 2 Q6.5 3 6.5 4 Q6.5 3 8 2 Q11 2 11 5.5 Z" stroke="currentColor" stroke-width=".8" fill="none"/><path d="M6.5 8 L4 5.5 Q4 4 5.5 4 L6.5 5 L7.5 4 Q9 4 9 5.5 Z" fill="currentColor" opacity=".5"/></svg>`, color:"#f472b6", keys:[
+    "romance","love","girlfriend","angel","villainess","marriage","bride","fiancée","koi",
+    "klutzy","replica","meter","rent-a","otonari","botan","observation log","haibara","awajima",
+    "food diary","maid","gals","otaku","kirio","kujima","yowayowa","nakamura","always a catch",
+    "marika","mistress kanan","pardon","intrusion","classroom of a black cat","spoils me",
+    "slice of life","sol","daily life","school life","kawaii","cute","sweet","fluffy",
+    "confession","date","couple","crush","jealous","heartbreak","second prettiest","pretty girl",
+    "100 scenes","hyakkei","marriagetoxin","love game","aishiteru","toradora","clannad",
+    "anohana","your lie","shigatsu","fruits basket","special a","ouran","kaichou","suki","daisuki",
+    "kanojo","kareshi","koibito","misaki","sakura","hanabi","bloom","petal","flower","spring love",
+    "ramparts of ice","koori","kirio fan","klutzy class","short skirt","ponkotsu","pardon the intrusion"
+  ]},
+  horreur: { label:"Horreur",     icon:`<svg width="13" height="13" viewBox="0 0 13 13" fill="none"><polygon points="6.5,1 12,7 10,12 3,12 1,7" stroke="currentColor" stroke-width=".8" fill="none"/><line x1="4" y1="9" x2="9" y2="9" stroke="currentColor" stroke-width=".7" opacity=".5"/><circle cx="4.5" cy="6.5" r="1" fill="currentColor" opacity=".7"/><circle cx="8.5" cy="6.5" r="1" fill="currentColor" opacity=".7"/></svg>`, color:"#818cf8", keys:[
+    "horror","thriller","murder","ghost","killed again","detective","beyond twilight","kusunoki",
+    "ingoku","deviant","conan","ghost concert","missing songs","supernatural","curse","haunted",
+    "mystery","suspense","psychological","dark","gore","blood","corpse","death game","survival",
+    "another","higurashi","umineko","promised neverland","attack","parasite","tokyo ghoul",
+    "deadman","elfen lied","shiki","hellsing","vampire","werewolf","zombie","undead","demon",
+    "occult","ritual","fear","panic","escape","trap","killer","serial","crime","investigation",
+    "twilight","hyakki","yokai","spirit","specter","omen","isekai of the dead","akane-banashi",
+    "beyond twilight","hyakki yakoushou","mao","liar game"
+  ]},
+  sport:   { label:"Sport",       icon:`<svg width="13" height="13" viewBox="0 0 13 13" fill="none"><circle cx="6.5" cy="6.5" r="5.5" stroke="currentColor" stroke-width=".8"/><line x1="6.5" y1="1" x2="6.5" y2="12" stroke="currentColor" stroke-width=".6" opacity=".4"/><line x1="1" y1="6.5" x2="12" y2="6.5" stroke="currentColor" stroke-width=".6" opacity=".4"/><circle cx="6.5" cy="6.5" r="2" stroke="currentColor" stroke-width=".7"/></svg>`, color:"#34d399", keys:[
+    "baseball","diamond no ace","southpaw","hidarikiki","tennis","soccer","football","basketball",
+    "volleyball","swimming","boxing","wrestling","martial arts","karate","judo","kendo","archery",
+    "cycling","racing","skating","skiing","golf","rugby","cricket","badminton","table tennis",
+    "haikyuu","kuroko","slam dunk","yowamushi","free","prince of tennis","major","cross game",
+    "ace of diamond","touch","captain tsubasa","days","inazuma","bluelock","blue lock",
+    "gym","athlete","tournament","championship","league","match","game","competition","team","coach"
+  ]},
+  mecha:   { label:"Mecha/SF",    icon:`<svg width="13" height="13" viewBox="0 0 13 13" fill="none"><rect x="4" y="1" width="5" height="11" rx="0" stroke="currentColor" stroke-width=".8" fill="none"/><rect x="1" y="4" width="11" height="5" rx="0" stroke="currentColor" stroke-width=".8" fill="none"/><rect x="4" y="4" width="5" height="5" fill="currentColor" opacity=".4"/></svg>`, color:"#22d3ee", keys:[
+    "mecha","robot","gundam","evangelion","macross","voltron","transformers","mechanic","pilot",
+    "science","dr. stone","science future","space","galaxy","planet","star","universe","cosmos",
+    "alien","android","cyborg","ai","artificial","clone","mutation","experiment","laboratory",
+    "future","dystopia","utopia","post-apocalyptic","apocalypse","steampunk","cyberpunk",
+    "time travel","dimension","parallel","quantum","nano","biotech","military","weapon","war",
+    "mission","operation","tactical","strategy","armor","exosuit","nippon sangoku","snowball earth",
+    "nippon","three nations","crimson sun","ghost in the shell","psycho-pass","darker than black"
+  ]},
 };
 const CS = {"Vu":"#34d399","En cours":"#fbbf24","À voir":"#60a5fa","Abandonné":"#f87171"};
 const BACKEND_URL = "https://anitrack-beige.vercel.app/api/anime";
@@ -1058,12 +1121,12 @@ function renderRanking() {
       <div style="flex:1;padding:10px 12px;min-width:0">
         <div class="anime-name">${a.titre}</div>
         <div style="display:flex;gap:5px;margin-bottom:6px;flex-wrap:wrap">
-          <span class="tag" style="background:${g.color}18;color:${g.color}">${g.label}</span>
-          <span class="tag" style="background:${CS[a.statut]}18;color:${CS[a.statut]}">${a.statut}</span>
+          <span class="tag" style="background:rgba(212,185,122,.12);color:var(--accent)">${g.label}</span>
+          <span class="tag" style="background:rgba(212,185,122,.06);color:var(--muted)">${a.statut}</span>
         </div>
         <div class="anime-prog">
-          <div class="prog-bar"><div class="prog-fill" style="width:${pct}%;background:${g.color}"></div></div>
-          <span class="prog-txt">${w.length}/${a.totalEp}</span>
+          <div class="prog-bar"><div class="prog-fill" style="width:${pct}%;background:${rank.color}"></div></div>
+          <span class="prog-txt" style="color:${rank.color}">${w.length}/${a.totalEp}</span>
         </div>
       </div>
       <div style="padding:0 12px;flex-shrink:0" onclick="event.stopPropagation()">
