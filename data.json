@@ -1,6 +1,14 @@
 {
   "animes": [
     {
+      "titre": "Kill Blue",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "dns6b",
+      "ahId": "y5v48"
+    },
+    {
       "titre": "The Great Sage Ryddel and the Hands of Time",
       "titreJp": "",
       "ep": 3,
@@ -73,14 +81,6 @@
       "ahId": "b0vsk"
     },
     {
-      "titre": "The Drops of God",
-      "titreJp": "",
-      "ep": 2,
-      "ago": "1j",
-      "img": "par8w",
-      "ahId": "m2zjn"
-    },
-    {
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "",
       "ep": 1,
@@ -111,6 +111,22 @@
       "ago": "1j",
       "img": "npea5",
       "ahId": "nzwhr"
+    },
+    {
+      "titre": "The Barbarian's Bride",
+      "titreJp": "",
+      "ep": 1,
+      "ago": "1j",
+      "img": "synxi",
+      "ahId": "hi6b1"
+    },
+    {
+      "titre": "The Drops of God",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "par8w",
+      "ahId": "m2zjn"
     },
     {
       "titre": "All You Need Is Kill",
@@ -191,14 +207,6 @@
       "ago": "1j",
       "img": "pv8qk",
       "ahId": "gbdj0"
-    },
-    {
-      "titre": "The Barbarian's Bride",
-      "titreJp": "",
-      "ep": 2,
-      "ago": "1j",
-      "img": "synxi",
-      "ahId": "hi6b1"
     },
     {
       "titre": "Record of Grancrest War",
@@ -535,17 +543,9 @@
       "ago": "1j",
       "img": "8q6wl",
       "ahId": "3uz6y"
-    },
-    {
-      "titre": "Daemons of The Shadow Realm",
-      "titreJp": "",
-      "ep": 2,
-      "ago": "1j",
-      "img": "dks5o",
-      "ahId": "pm96z"
     }
   ],
-  "updatedAt": "2026-04-18T14:27:05.662684+00:00",
+  "updatedAt": "2026-04-18T15:11:03.485666+00:00",
   "source": "github-actions",
   "count": 68
 }
