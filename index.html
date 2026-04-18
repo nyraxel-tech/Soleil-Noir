@@ -1150,6 +1150,21 @@ function setTab(t) {
   if (t === 'decouverte') renderRanking();
 }
 
+
+// ── MIGRATION : reclassifie tous les animés existants au chargement ──
+function reclassifyAll() {
+  let changed = false;
+  animes.forEach(a => {
+    const newGenre = gId(a.titre);
+    if (a.genre !== newGenre) {
+      a.genre = newGenre;
+      changed = true;
+    }
+  });
+  if (changed) save();
+}
+
+reclassifyAll();
 loadAH();
 </script>
 </body>
