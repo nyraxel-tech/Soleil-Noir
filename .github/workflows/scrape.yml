@@ -56,25 +56,23 @@ jobs:
               for (let i = 1; i < blocks.length; i++) {
                 const b = blocks[i];
 
-                const idM   = b.match(/anime\.php[?='](\w+)/);
-                const imgM  = b.match(/image\.php[?'](\w+)/);
-                const altM  = b.match(/alt=['"]([^'"]+)['"]/);
-                const epM   = b.match(/\n\s*(\d+)\s*\n/);
-                const timeM = b.match(/(\d+)\s*(h|d)\s*ago/);
+                const idM    = b.match(/anime\.php[?='](\w+)/);
+                const imgM   = b.match(/image\.php[?'](\w+)/);
+                const titleM = b.match(/class='charttitle[^']*'>([^<]+)</);
+                const epM    = b.match(/\n\s*(\d+)\s*\n/);
+                const timeM  = b.match(/(\d+)\s*(h|d)\s*ago/);
 
-                if (!idM || !imgM || !altM) continue;
+                if (!idM || !imgM || !titleM) continue;
 
                 const ahId  = idM[1];
                 const img   = imgM[1];
-                const titre = altM[1].trim();
+                const titre = titleM[1].trim();
 
                 if (!titre || skipTitles.has(titre) || seen.has(ahId) || ahId.length < 3) continue;
                 if (['logo','icon','burger','prev','next','sun','discord','twitter','banner'].some(x => titre.toLowerCase().includes(x))) continue;
 
-                // Skip les 3 premières = bannières pub
                 seen.add(ahId);
 
-                // Titre JP depuis charttitlejp
                 const jpM = b.match(/class='charttitlejp c'>([^<]+)</);
                 const titreJp = jpM && jpM[1].trim() !== '-' ? jpM[1].trim() : '';
 
@@ -95,7 +93,6 @@ jobs:
                 console.log('Last:', animes[animes.length-1].titre);
               }
 
-              // Écriture data.json
               fs.writeFileSync('data.json', JSON.stringify({
                 animes,
                 updatedAt: new Date().toISOString(),
@@ -103,7 +100,6 @@ jobs:
                 count: animes.length
               }, null, 2));
 
-              // Accumulation archive.json
               let existing = [], seenIds = new Set();
               try {
                 const arch = JSON.parse(fs.readFileSync('archive.json', 'utf8'));
