@@ -593,7 +593,11 @@ function renderPosters() {
     const url = imgUrl(a.img);
     const div = document.createElement('div');
     div.className = 'poster-card';
-    div.onclick = () => { if (a.ahId) window.open(pageUrl(a.ahId), '_blank'); };
+    div.onclick = () => {
+      if (a.ahId) window.open(pageUrl(a.ahId), '_blank');
+      // Ajoute automatiquement à Ma Liste avec tous les épisodes vus
+      addFromAH(a, true);
+    };
     div.innerHTML = `
       ${url ? `<img src="${url}" alt="${a.titre}" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">` : ''}
       <div class="poster-fallback" style="background:linear-gradient(135deg,${g.color}33,#0d0e1a);${url?'display:none':''}">${g.icon}</div>
@@ -610,28 +614,31 @@ function renderPosters() {
   });
 }
 
-function addFromAH(a) {
+function addFromAH(a, allWatched = false) {
   if (typeof a === 'string') a = JSON.parse(a);
   const existing = animes.find(x => x.titre.toLowerCase() === a.titre.toLowerCase());
 
+  // Épisodes à marquer : si allWatched=true (clic carte) → tous y compris le dernier
+  // si allWatched=false (bouton "+ Ma liste") → tous sauf le dernier (en cours)
+  const watchedUntil = allWatched ? a.ep : a.ep - 1;
+  const watched = watchedUntil > 0 ? Array.from({length: watchedUntil}, (_, i) => i + 1) : [];
+  const statut = allWatched
+    ? (a.ep === watched.length ? "Vu" : "En cours")
+    : (a.ep > 1 ? "En cours" : "À voir");
+
   if (existing) {
-    // Animé déjà dans la liste — on met à jour le total d'épisodes si AH en a plus
     if (a.ep > existing.totalEp) existing.totalEp = a.ep;
-    // Marque tous les épisodes précédents comme vus (sauf le dernier = en cours)
-    const watched = Array.from({length: a.ep - 1}, (_, i) => i + 1);
     existing.watched = [...new Set([...existing.watched, ...watched])];
-    existing.statut = existing.watched.length === existing.totalEp ? "Vu" : "En cours";
+    existing.statut = existing.watched.length >= existing.totalEp ? "Vu" : "En cours";
     save(); renderPosters();
     return;
   }
 
-  // Nouvel ajout : total = dernier épisode sorti, tous les précédents marqués vus
-  const watched = Array.from({length: a.ep - 1}, (_, i) => i + 1);
   animes.push({
     id: Date.now(),
     titre: a.titre,
     genre: gId(a.titre),
-    statut: a.ep > 1 ? "En cours" : "À voir",
+    statut,
     note: 7,
     img: a.img,
     ahId: a.ahId,
@@ -722,7 +729,12 @@ function renderListe() {
   }).join('');
 }
 
-function deleteAnime(id) { animes=animes.filter(a=>a.id!==id); save(); renderListe(); }
+function deleteAnime(id) {
+  animes = animes.filter(a => a.id !== id);
+  save();
+  renderListe();
+  renderPosters(); // Sync avec Nouveautés
+}
 
 // ── ADD FORM ──
 function toggleForm() {
