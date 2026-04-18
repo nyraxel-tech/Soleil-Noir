@@ -96,4 +96,5 @@ jobs:
           git config user.email "bot@anitrack.app"
           git add data.json
           git diff --staged --quiet || git commit -m "🔄 Update anime data - $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin main
           git push
