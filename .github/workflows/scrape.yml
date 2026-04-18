@@ -68,7 +68,8 @@ jobs:
                 const img   = imgM[1];
                 const titre = altM[1].trim();
                 if (!titre || skipTitles.has(titre) || seen.has(ahId) || ahId.length < 3) continue;
-                if (['logo','icon','burger','prev','next','sun','discord','twitter','banner'].some(x => titre.toLowerCase().includes(x))) continue;
+                // Filtre minimal - seulement les éléments de navigation évidents
+                if (['ah_logo','burger','add.svg','lists.svg','grid.svg'].some(x => titre.toLowerCase().includes(x))) continue;
                 seen.add(ahId);
                 const jpM = b.match(/class='charttitlejp c'>([^<]+)</);
                 const titreJp = jpM && jpM[1].trim() !== '-' ? jpM[1].trim() : '';
