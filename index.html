@@ -186,7 +186,7 @@ main { padding: 16px; max-width: 900px; margin: 0 auto; }
 }
 
 /* ── STATS ── */
-.stats-grid { display: grid; grid-template-columns: repeat(4,1fr); gap: 8px; margin-bottom: 14px; }
+.stats-grid { display: grid; grid-template-columns: repeat(4,1fr); gap: 6px; margin-bottom: 14px; }
 .stat-card { background: var(--surface); border: 1px solid var(--border); border-radius: 3px; padding: 12px 8px; text-align: center; }
 .stat-val { font-family: 'Cinzel', serif; font-size: 20px; font-weight: 700; }
 .stat-label { font-size: 8px; color: var(--muted); font-weight: 600; text-transform: uppercase; letter-spacing: 1.5px; }
@@ -421,18 +421,16 @@ input[type=number]::-webkit-inner-spin-button { -webkit-appearance: none; }
 
   <!-- MA LISTE -->
   <div id="tab-liste" class="tab-content">
-    <div class="stats-grid" id="stats-grid"></div>
+    <div style="display:flex;align-items:stretch;gap:8px;margin-bottom:14px">
+      <div class="stats-grid" id="stats-grid" style="flex:1;margin-bottom:0"></div>
+      <button class="btn-primary" onclick="toggleForm()" id="add-btn" style="padding:9px 14px;flex-shrink:0">＋</button>
+    </div>
     <div class="genre-chips-wrap">
       <div class="chips-title">Par genre</div>
       <div class="genre-chips" id="genre-chips-liste"></div>
     </div>
-    <div class="filter-bar">
-      <input type="search" id="search-input" class="filter-input" placeholder="Rechercher..." oninput="renderListe()" style="width:100%;font-size:16px;margin-bottom:10px">
-      <select id="filter-statut" class="filter-select" onchange="renderListe()">
-        <option value="tous">Tous</option>
-        <option>Vu</option><option>En cours</option><option>À voir</option><option>Abandonné</option>
-      </select>
-      <button class="btn-primary" onclick="toggleForm()" id="add-btn" style="padding:9px 14px">＋</button>
+    <div style="margin-bottom:12px">
+      <input type="search" id="search-input" class="filter-input" placeholder="Rechercher..." oninput="renderListe()" style="width:100%;font-size:16px">
     </div>
     <div class="add-form" id="add-form" style="display:none">
       <div class="add-form-title">Nouvel animé</div>
@@ -764,7 +762,7 @@ function renderListe() {
         </div>
         <div class="anime-btns">
           <button class="btn-ep" onclick="event.stopPropagation();openPanel(${a.id})">Épisodes</button>
-          <button class="btn-del" onclick="event.stopPropagation();deleteAnime(${a.id})"><svg width="12" height="12" viewBox="0 0 12 12" fill="none"><line x1="2" y1="2" x2="10" y2="10" stroke="currentColor" stroke-width="1.2"/><line x1="10" y1="2" x2="2" y2="10" stroke="currentColor" stroke-width="1.2"/></svg></button>
+          <button class="btn-del" onclick="event.stopPropagation();abandonAnime(${a.id})" title="Abandonner"><svg width="12" height="12" viewBox="0 0 12 12" fill="none"><line x1="2" y1="2" x2="10" y2="10" stroke="currentColor" stroke-width="1.2"/><line x1="10" y1="2" x2="2" y2="10" stroke="currentColor" stroke-width="1.2"/></svg></button>
         </div>
       </div>
     </div>`;
@@ -783,6 +781,22 @@ function openAnimeFromList(id) {
   save();
   renderListe();
   renderPosters();
+}
+
+function abandonAnime(id) {
+  const a = animes.find(x => x.id === id);
+  if (!a) return;
+  if (a.statut === "Abandonné") {
+    // Déjà abandonné → supprimer définitivement
+    animes = animes.filter(x => x.id !== id);
+  } else {
+    // Passer en abandonné
+    a.statut = "Abandonné";
+  }
+  save();
+  renderListe();
+  renderPosters();
+  renderArchives();
 }
 
 function deleteAnime(id) {
@@ -881,7 +895,10 @@ function toggleEp(n) {
   const a=animes.find(x=>x.id===currentPanelId); if(!a) return;
   const w=a.watched||[];
   a.watched=w.includes(n)?w.filter(x=>x!==n):[...w,n];
-  a.statut=a.watched.length===a.totalEp?"Vu":a.watched.length>0?"En cours":a.statut;
+  if (a.watched.length === a.totalEp) a.statut = "Vu";
+  else if (a.watched.length > 0) a.statut = "En cours";
+  // Si abandonné et on recoche un épisode → repasse en cours
+  else if (a.statut === "Abandonné") a.statut = "En cours";
   save(); renderPanel();
 }
 function toggleAllEp(val) {
