@@ -668,7 +668,9 @@ function renderGenreFiltersAH() {
 }
 
 // ── RENDER POSTERS ──
+const _ahMap = {};
 function renderPosters() {
+  // store all animes in map for reliable click access
   const grid = document.getElementById('poster-grid');
   grid.innerHTML = '';
   const filtered = ahData.filter(a => {
@@ -678,15 +680,17 @@ function renderPosters() {
   });
   document.getElementById('ah-count').textContent = filtered.length ? `· ${filtered.length} animés` : '';
   filtered.forEach(a => {
+    _ahMap[a.ahId] = a;
     const g = getG(gId(a.titre));
     const added = animes.some(x => x.titre.toLowerCase() === a.titre.toLowerCase());
     const url = imgUrl(a.img);
     const div = document.createElement('div');
     div.className = 'poster-card';
+    const _captured = a;
+    div.dataset.ahid = a.ahId;
     div.onclick = () => {
-      if (a.ahId) window.open(pageUrl(a.ahId), '_blank');
-      // Ajoute automatiquement à Ma Liste avec tous les épisodes vus
-      addFromAH(a, true);
+      if (_captured.ahId) window.open(pageUrl(_captured.ahId), '_blank');
+      addFromAH(_captured, true);
     };
     div.innerHTML = `
       ${url ? `<img src="${url}" alt="${a.titre}" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">` : ''}
@@ -695,7 +699,7 @@ function renderPosters() {
       <div class="poster-ep">Ep.${a.ep}</div>
       <div class="poster-bottom">
         <div class="poster-title-s">${a.titre}</div>
-        <button class="poster-add ${added?'added':''}" onclick="event.stopPropagation();addFromAH(${JSON.stringify(a).replace(/"/g,'&quot;')})">
+        <button class="poster-add ${added?'added':''}" onclick="event.stopPropagation();(function(el){const id=el.closest('.poster-card').dataset.ahid;addFromAH(_ahMap[id]);})(this)">
           ${added ? '✓ Vu' : 'À regarder'}
         </button>
       </div>
