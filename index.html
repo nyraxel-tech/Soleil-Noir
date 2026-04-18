@@ -732,7 +732,7 @@ function addFromAH(a, allWatched = false) {
     if (a.ep > existing.totalEp) existing.totalEp = a.ep;
     existing.watched = [...new Set([...existing.watched, ...watched])];
     existing.statut = existing.watched.length >= existing.totalEp ? "Vu" : "En cours";
-    save(); renderPosters();
+    save(); updatePosterButtons();
     return;
   }
 
@@ -747,7 +747,23 @@ function addFromAH(a, allWatched = false) {
     totalEp: a.ep,
     watched,
   });
-  save(); renderPosters();
+  save(); updatePosterButtons();
+}
+
+// Met à jour uniquement les boutons sans reconstruire la grille
+function updatePosterButtons() {
+  document.querySelectorAll('.poster-card').forEach(div => {
+    const ahid = div.dataset.ahid;
+    if (!ahid) return;
+    const a = _ahMap[ahid];
+    if (!a) return;
+    const added = animes.some(x => x.titre.toLowerCase() === a.titre.toLowerCase());
+    const btn = div.querySelector('.poster-add');
+    if (btn) {
+      btn.textContent = added ? '✓ Vu' : 'À regarder';
+      btn.className = 'poster-add' + (added ? ' added' : '');
+    }
+  });
 }
 
 // ── STATS ──
