@@ -1,6 +1,38 @@
 {
   "animes": [
     {
+      "titre": "Needy Girl Overdose",
+      "titreJp": "Kami no Niwatsuki Kusunoki-tei",
+      "ep": 1,
+      "ago": "?",
+      "img": "57g7m",
+      "ahId": "d696g"
+    },
+    {
+      "titre": "Agents of the Four Seasons: Dance of Spring",
+      "titreJp": "",
+      "ep": 1,
+      "ago": "?",
+      "img": "fxza8",
+      "ahId": "z320l"
+    },
+    {
+      "titre": "Mistress Kanan is Devilishly Easy",
+      "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
+      "ep": 1,
+      "ago": "?",
+      "img": "8q6wl",
+      "ahId": "boii6"
+    },
+    {
+      "titre": "Daemons of The Shadow Realm",
+      "titreJp": "Kanan-sama wa Akumade Choroi",
+      "ep": 1,
+      "ago": "1h",
+      "img": "dks5o",
+      "ahId": "3uz6y"
+    },
+    {
       "titre": "Akane-banashi",
       "titreJp": "Yomi no Tsugai",
       "ep": 1,
@@ -33,11 +65,11 @@
       "ahId": "y5v48"
     },
     {
-      "titre": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
+      "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Daikenja Riddle no Jikan Gyakko",
       "ep": 1,
       "ago": "3h",
-      "img": "hnxbm",
+      "img": "pjoyd",
       "ahId": "rf6nw"
     },
     {
@@ -49,11 +81,11 @@
       "ahId": "ayudj"
     },
     {
-      "titre": "That Time I Got Reincarnated as a Slime Season 4",
+      "titre": "Detective Conan",
       "titreJp": "Yowayowa Sensei",
       "ep": 1,
       "ago": "4h",
-      "img": "pjoyd",
+      "img": "lx86z",
       "ahId": "pijt4"
     },
     {
@@ -84,7 +116,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 1,
-      "ago": "9h",
+      "ago": "10h",
       "img": "ciyvs",
       "ahId": "9v661"
     },
@@ -503,25 +535,9 @@
       "ago": "6d",
       "img": "88ts8",
       "ahId": "uni0y"
-    },
-    {
-      "titre": "Ichijouma Mankitsugurashi!",
-      "titreJp": "",
-      "ep": 1,
-      "ago": "6d",
-      "img": "wm2v7",
-      "ahId": "kqa66"
-    },
-    {
-      "titre": "Scum of the Brave",
-      "titreJp": "",
-      "ep": 1,
-      "ago": "6d",
-      "img": "97302",
-      "ahId": "ccxi5"
     }
   ],
-  "updatedAt": "2026-04-18T17:14:10.575Z",
+  "updatedAt": "2026-04-18T17:28:22.120Z",
   "source": "github-actions",
-  "count": 65
+  "count": 67
 }
