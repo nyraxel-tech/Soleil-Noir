@@ -9,6 +9,14 @@
       "ahId": "ccxi5"
     },
     {
+      "titre": "Kusunoki&#039;s Garden of Gods",
+      "titreJp": "Yuusha no Kuzu",
+      "ep": 1,
+      "ago": "1h",
+      "img": "8mygl",
+      "ahId": "oxx6c"
+    },
+    {
       "titre": "Needy Girl Overdose",
       "titreJp": "Kami no Niwatsuki Kusunoki-tei",
       "ep": 1,
@@ -60,7 +68,7 @@
       "titre": "Kill Blue",
       "titreJp": "",
       "ep": 1,
-      "ago": "2h",
+      "ago": "3h",
       "img": "dns6b",
       "ahId": "qw2g9"
     },
@@ -159,6 +167,14 @@
       "ago": "1d",
       "img": "pjoyd",
       "ahId": "3kfyx"
+    },
+    {
+      "titre": "The Angel Next Door Spoils Me Rotten Season 2",
+      "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
+      "ep": 1,
+      "ago": "1d",
+      "img": "c3rqy",
+      "ahId": "aplyf"
     },
     {
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
@@ -505,6 +521,14 @@
       "ahId": "7p5hz"
     },
     {
+      "titre": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
+      "titreJp": "Maid-san wa Taberu dake",
+      "ep": 1,
+      "ago": "6d",
+      "img": "doqc0",
+      "ahId": "7b5z4"
+    },
+    {
       "titre": "Mission: Yozakura Family Season 2",
       "titreJp": "Nippon Sangoku",
       "ep": 1,
@@ -537,7 +561,7 @@
       "ahId": "y98v5"
     }
   ],
-  "updatedAt": "2026-04-18T19:00:24.032Z",
+  "updatedAt": "2026-04-18T19:06:12.694Z",
   "source": "github-actions",
-  "count": 67
+  "count": 70
 }
