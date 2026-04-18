@@ -6,14 +6,22 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="theme-color" content="#06070d">
-<title>AniTrack</title>
-<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<title>Orikin</title>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Outfit:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 <style>
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
 :root {
-  --bg: #06070d; --surface: rgba(255,255,255,.05); --border: rgba(255,255,255,.08);
-  --text: #e2e8f0; --muted: #4a5568; --accent: #c084fc; --accent-d: #7c3aed;
-  --green: #34d399; --yellow: #fbbf24; --blue: #60a5fa; --red: #f87171;
+  --bg: #080a08;
+  --surface: rgba(212,185,130,.04);
+  --border: rgba(212,185,130,.12);
+  --text: #e8dfc4;
+  --muted: #7a7060;
+  --accent: #d4b97a;
+  --accent-d: #a8893a;
+  --green: #8fbf8f;
+  --yellow: #d4b97a;
+  --blue: #8ab4c4;
+  --red: #c4786a;
   --nav-h: 64px; --header-h: 56px;
   --safe-bottom: env(safe-area-inset-bottom, 0px);
   --safe-top: env(safe-area-inset-top, 0px);
@@ -32,7 +40,7 @@ body {
 header {
   position: sticky; top: 0; top: var(--safe-top);
   z-index: 100; height: var(--header-h);
-  background: rgba(6,7,13,.95);
+  background: rgba(8,10,8,.97);
   -webkit-backdrop-filter: blur(16px);
   backdrop-filter: blur(16px);
   border-bottom: 1px solid var(--border);
@@ -40,12 +48,12 @@ header {
   padding: 0 16px; gap: 10px;
 }
 .logo { display: flex; align-items: center; gap: 8px; flex: 1; }
-.logo-jp { font-size: 20px; color: var(--accent); line-height: 1; }
-.logo-title { font-size: 17px; font-weight: 900; letter-spacing: -.4px; text-shadow: 0 0 20px rgba(192,132,252,.5); }
-.logo-sub { font-size: 9px; color: var(--muted); font-weight: 600; }
-.header-live { display: flex; align-items: center; gap: 5px; background: rgba(52,211,153,.1); border: 1px solid rgba(52,211,153,.25); border-radius: 20px; padding: 3px 9px; }
-.header-live span { font-size: 10px; font-weight: 700; color: var(--green); }
-.live-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--green); animation: blink 1.4s infinite; }
+.logo-jp { font-family: 'Cinzel', serif; font-size: 16px; color: var(--accent); line-height: 1; letter-spacing: 2px; }
+.logo-title { font-family: 'Cinzel', serif; font-size: 16px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: var(--accent); text-shadow: 0 0 20px rgba(212,185,122,.3); }
+.logo-sub { font-size: 8px; color: var(--muted); font-weight: 400; letter-spacing: 2px; text-transform: uppercase; }
+.header-live { display: flex; align-items: center; gap: 5px; background: rgba(212,185,122,.08); border: 1px solid rgba(212,185,122,.2); border-radius: 2px; padding: 3px 9px; }
+.header-live span { font-size: 9px; font-weight: 600; color: var(--accent); letter-spacing: 1px; text-transform: uppercase; }
+.live-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--accent); animation: blink 1.4s infinite; }
 @keyframes blink { 0%,100%{opacity:.4} 50%{opacity:1} }
 
 /* ── BOTTOM NAV ── */
@@ -54,10 +62,10 @@ header {
   z-index: 200;
   height: calc(var(--nav-h) + var(--safe-bottom));
   padding-bottom: var(--safe-bottom);
-  background: rgba(6,7,13,.97);
+  background: rgba(8,10,8,.97);
   -webkit-backdrop-filter: blur(20px);
   backdrop-filter: blur(20px);
-  border-top: 1px solid var(--border);
+  border-top: 1px solid rgba(212,185,122,.15);
   display: flex; align-items: flex-start; padding-top: 8px;
 }
 .nav-btn {
@@ -66,7 +74,8 @@ header {
   padding: 6px 0; touch-action: manipulation;
   -webkit-tap-highlight-color: transparent;
 }
-.nav-icon { font-size: 22px; line-height: 1; transition: transform .15s; }
+.nav-icon { width: 22px; height: 22px; display: flex; align-items: center; justify-content: center; line-height: 1; transition: transform .15s; color: var(--muted); }
+.nav-btn.active .nav-icon { color: var(--accent); }
 .nav-label { font-size: 10px; font-weight: 700; color: var(--muted); font-family: inherit; transition: color .15s; }
 .nav-btn.active .nav-icon { transform: scale(1.15); }
 .nav-btn.active .nav-label { color: var(--accent); }
@@ -79,8 +88,8 @@ main { padding: 16px; max-width: 900px; margin: 0 auto; }
 
 /* ── SECTION HEADER ── */
 .section-header { margin-bottom: 14px; }
-.section-title { font-size: 18px; font-weight: 900; display: flex; align-items: center; gap: 8px; margin-bottom: 3px; }
-.section-sub { font-size: 12px; color: var(--muted); }
+.section-title { font-family: 'Cinzel', serif; font-size: 15px; font-weight: 600; display: flex; align-items: center; gap: 8px; margin-bottom: 3px; letter-spacing: 2px; text-transform: uppercase; color: var(--accent); }
+.section-sub { font-size: 11px; color: var(--muted); letter-spacing: .5px; }
 
 /* ── GENRE FILTERS ── */
 .genre-scroll {
@@ -91,17 +100,17 @@ main { padding: 16px; max-width: 900px; margin: 0 auto; }
 .genre-pill {
   display: flex; align-items: center; gap: 5px; flex-shrink: 0;
   background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.1);
-  border-radius: 20px; padding: 6px 12px; cursor: pointer;
-  font-family: inherit; font-size: 12px; font-weight: 700; color: #94a3b8;
+  border-radius: 2px; padding: 6px 12px; cursor: pointer;
+  font-family: inherit; font-size: 12px; font-weight: 700; color: var(--muted);
   touch-action: manipulation; transition: all .15s;
   white-space: nowrap;
 }
-.genre-pill.active { background: rgba(192,132,252,.15); border-color: var(--accent); color: var(--accent); }
+.genre-pill.active { background: rgba(212,185,122,.12); border-color: var(--accent); color: var(--accent); }
 
 /* ── POSTER GRID ── */
 .poster-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(110px, 1fr)); gap: 10px; }
 .poster-card {
-  position: relative; border-radius: 12px; overflow: hidden;
+  position: relative; border-radius: 4px; overflow: hidden;
   aspect-ratio: 2/3; cursor: pointer;
   border: 1px solid rgba(255,255,255,.07);
   transition: transform .2s;
@@ -115,7 +124,7 @@ main { padding: 16px; max-width: 900px; margin: 0 auto; }
 }
 .poster-new {
   position: absolute; top: 6px; left: 6px; z-index: 2;
-  background: linear-gradient(90deg,#f87171,#fbbf24); color: #fff;
+  background: var(--accent); color: #0a0b08;
   font-size: 8px; font-weight: 800; padding: 2px 6px; border-radius: 20px;
 }
 .poster-ep {
@@ -126,24 +135,23 @@ main { padding: 16px; max-width: 900px; margin: 0 auto; }
 }
 .poster-bottom {
   position: absolute; bottom: 0; left: 0; right: 0; z-index: 3;
-  background: linear-gradient(to top, rgba(6,7,13,.95) 0%, transparent 100%);
+  background: linear-gradient(to top, rgba(8,10,8,.97) 0%, transparent 100%);
   padding: 24px 8px 8px;
 }
 .poster-title-s { font-size: 10px; font-weight: 700; color: #fff; line-height: 1.3; margin-bottom: 6px; }
 .poster-add {
-  width: 100%; padding: 5px 0; border-radius: 7px; border: none; cursor: pointer;
-  font-family: inherit; font-size: 10px; font-weight: 700;
-  background: rgba(192,132,252,.85); color: #fff;
-  touch-action: manipulation;
-  -webkit-tap-highlight-color: transparent;
+  width: 100%; padding: 5px 0; border-radius: 2px; border: 1px solid rgba(212,185,122,.35); cursor: pointer;
+  font-family: inherit; font-size: 10px; font-weight: 600; letter-spacing: .5px;
+  background: rgba(212,185,122,.12); color: var(--accent);
+  touch-action: manipulation; -webkit-tap-highlight-color: transparent;
 }
-.poster-add.added { background: rgba(52,211,153,.25); color: var(--green); }
+.poster-add.added { background: rgba(143,191,143,.12); color: var(--green); border-color: rgba(143,191,143,.3); }
 
 /* ── ANIME LIST ── */
 .anime-list { display: flex; flex-direction: column; gap: 8px; }
 .anime-card {
   background: var(--surface); border: 1px solid var(--border);
-  border-radius: 14px; overflow: hidden;
+  border-radius: 3px; overflow: hidden;
 }
 .anime-card-inner { display: flex; align-items: center; gap: 0; }
 .anime-thumb {
@@ -154,19 +162,20 @@ main { padding: 16px; max-width: 900px; margin: 0 auto; }
   width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; font-size: 22px;
 }
 .anime-info { flex: 1; padding: 10px 10px 10px 12px; min-width: 0; }
-.anime-name { font-size: 13px; font-weight: 700; margin-bottom: 5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.anime-name { font-size: 12px; font-weight: 600; margin-bottom: 5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; letter-spacing: .3px; }
 .anime-tags { display: flex; gap: 4px; flex-wrap: wrap; margin-bottom: 6px; }
-.tag { font-size: 9px; font-weight: 700; padding: 2px 7px; border-radius: 20px; }
+.tag { font-size: 9px; font-weight: 700; padding: 2px 7px; border-radius: 2px; }
 .anime-prog { display: flex; align-items: center; gap: 6px; }
 .prog-bar { flex: 1; height: 3px; background: rgba(255,255,255,.07); border-radius: 3px; overflow: hidden; }
 .prog-fill { height: 100%; border-radius: 3px; }
 .prog-txt { font-size: 10px; color: var(--muted); font-weight: 600; flex-shrink: 0; }
 .anime-btns { display: flex; align-items: center; gap: 6px; padding: 0 10px; flex-shrink: 0; }
 .btn-ep {
-  background: rgba(192,132,252,.15); color: var(--accent);
-  border: 1px solid rgba(192,132,252,.3); border-radius: 8px;
-  padding: 7px 10px; font-family: inherit; font-size: 11px; font-weight: 700;
+  background: rgba(212,185,122,.1); color: var(--accent);
+  border: 1px solid rgba(212,185,122,.25); border-radius: 3px;
+  padding: 7px 10px; font-family: inherit; font-size: 11px; font-weight: 600;
   cursor: pointer; touch-action: manipulation; white-space: nowrap;
+  letter-spacing: .5px;
 }
 .btn-del {
   background: rgba(248,113,113,.1); color: var(--red);
@@ -178,21 +187,21 @@ main { padding: 16px; max-width: 900px; margin: 0 auto; }
 
 /* ── STATS ── */
 .stats-grid { display: grid; grid-template-columns: repeat(4,1fr); gap: 8px; margin-bottom: 14px; }
-.stat-card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 12px 8px; text-align: center; }
-.stat-val { font-size: 22px; font-weight: 900; }
-.stat-label { font-size: 9px; color: var(--muted); font-weight: 700; text-transform: uppercase; letter-spacing: .5px; }
+.stat-card { background: var(--surface); border: 1px solid var(--border); border-radius: 3px; padding: 12px 8px; text-align: center; }
+.stat-val { font-family: 'Cinzel', serif; font-size: 20px; font-weight: 700; }
+.stat-label { font-size: 8px; color: var(--muted); font-weight: 600; text-transform: uppercase; letter-spacing: 1.5px; }
 
 /* ── FILTERS ── */
 .filter-bar { display: flex; gap: 7px; margin-bottom: 12px; flex-wrap: wrap; }
 .filter-input {
   flex: 1; min-width: 120px; background: var(--surface); border: 1px solid var(--border);
-  border-radius: 10px; padding: 9px 12px; color: var(--text);
+  border-radius: 2px; padding: 9px 12px; color: var(--text);
   font-family: inherit; font-size: 13px; outline: none;
   -webkit-appearance: none;
 }
 .filter-select {
   background: var(--surface); border: 1px solid var(--border);
-  border-radius: 10px; padding: 9px 10px; color: var(--text);
+  border-radius: 2px; padding: 9px 10px; color: var(--text);
   font-family: inherit; font-size: 12px; outline: none; -webkit-appearance: none;
   appearance: none;
 }
@@ -201,9 +210,9 @@ main { padding: 16px; max-width: 900px; margin: 0 auto; }
 /* ── ADD FORM ── */
 .add-form {
   background: rgba(192,132,252,.05); border: 1px solid rgba(192,132,252,.2);
-  border-radius: 14px; padding: 14px; margin-bottom: 12px;
+  border-radius: 3px; padding: 14px; margin-bottom: 12px;
 }
-.add-form-title { font-size: 13px; font-weight: 700; color: var(--accent); margin-bottom: 10px; }
+.add-form-title { font-family: 'Cinzel', serif; font-size: 11px; font-weight: 600; color: var(--accent); margin-bottom: 10px; letter-spacing: 1.5px; text-transform: uppercase; }
 .add-form-fields { display: flex; flex-direction: column; gap: 8px; margin-bottom: 10px; }
 .add-form-row { display: flex; gap: 7px; }
 .add-form-row .filter-input { flex: 2; }
@@ -212,25 +221,25 @@ main { padding: 16px; max-width: 900px; margin: 0 auto; }
 .add-form-small input { flex: 1; }
 .btn-primary {
   background: linear-gradient(135deg, var(--accent), var(--accent-d));
-  color: #fff; border: none; padding: 10px 18px; border-radius: 10px;
-  cursor: pointer; font-family: inherit; font-weight: 700; font-size: 13px;
-  touch-action: manipulation;
+  color: #0a0b08; border: none; padding: 10px 18px; border-radius: 2px;
+  cursor: pointer; font-family: inherit; font-weight: 700; font-size: 12px;
+  touch-action: manipulation; letter-spacing: 1px; text-transform: uppercase;
 }
 .btn-secondary {
-  background: var(--surface); color: #94a3b8; border: 1px solid var(--border);
-  padding: 9px 14px; border-radius: 10px; cursor: pointer;
+  background: var(--surface); color: var(--muted); border: 1px solid var(--border);
+  padding: 9px 14px; border-radius: 2px; cursor: pointer;
   font-family: inherit; font-size: 12px; font-weight: 700;
   touch-action: manipulation;
 }
 .btn-primary:disabled { opacity: .5; }
 
 /* ── GENRE CHIPS ── */
-.genre-chips-wrap { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 12px; margin-bottom: 12px; }
-.chips-title { font-size: 10px; color: var(--muted); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; }
+.genre-chips-wrap { background: var(--surface); border: 1px solid var(--border); border-radius: 3px; padding: 12px; margin-bottom: 12px; }
+.chips-title { font-family: 'Cinzel', serif; font-size: 9px; color: var(--muted); font-weight: 600; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 8px; }
 .genre-chips { display: flex; flex-wrap: wrap; gap: 6px; }
 .genre-chip {
   display: flex; align-items: center; gap: 4px;
-  padding: 5px 10px; border-radius: 20px; cursor: pointer;
+  padding: 5px 10px; border-radius: 2px; cursor: pointer;
   touch-action: manipulation; font-size: 11px; font-weight: 600; color: #64748b;
   border: 1px solid rgba(255,255,255,.07);
 }
@@ -247,7 +256,7 @@ main { padding: 16px; max-width: 900px; margin: 0 auto; }
 .ep-overlay.open { display: flex; }
 .ep-panel {
   width: 100%; max-width: 680px; max-height: 92dvh;
-  background: #0d0e1a; border-radius: 24px 24px 0 0;
+  background: #0a0b08; border-radius: 4px 4px 0 0; border-top: 1px solid rgba(212,185,122,.2);
   overflow: hidden; display: flex; flex-direction: column;
   padding-bottom: var(--safe-bottom);
 }
@@ -256,10 +265,10 @@ main { padding: 16px; max-width: 900px; margin: 0 auto; }
 .ep-header-bg { position: absolute; inset: 0; overflow: hidden; }
 .ep-header-bg img { width: 100%; height: 100%; object-fit: cover; opacity: .07; filter: blur(8px); transform: scale(1.1); }
 .ep-header-inner { position: relative; padding: 14px 16px 0; display: flex; gap: 12px; align-items: flex-start; }
-.ep-poster { width: 58px; height: 82px; border-radius: 10px; overflow: hidden; flex-shrink: 0; box-shadow: 0 6px 20px rgba(0,0,0,.6); }
+.ep-poster { width: 58px; height: 82px; border-radius: 3px; overflow: hidden; flex-shrink: 0; box-shadow: 0 4px 16px rgba(0,0,0,.8); }
 .ep-poster img { width: 100%; height: 100%; object-fit: cover; }
 .ep-info-block { flex: 1; min-width: 0; }
-.ep-title { font-size: 14px; font-weight: 900; line-height: 1.25; margin-bottom: 6px; color: #f1f5f9; }
+.ep-title { font-family: 'Cinzel', serif; font-size: 13px; font-weight: 600; line-height: 1.3; margin-bottom: 6px; color: var(--accent); letter-spacing: 1px; }
 .ep-tags { display: flex; gap: 4px; flex-wrap: wrap; margin-bottom: 8px; }
 .ep-prog { height: 4px; background: rgba(255,255,255,.08); border-radius: 4px; overflow: hidden; margin-bottom: 5px; }
 .ep-prog-fill { height: 100%; border-radius: 4px; transition: width .4s; }
@@ -271,14 +280,14 @@ main { padding: 16px; max-width: 900px; margin: 0 auto; }
 .ep-count-label { font-size: 10px; color: #475569; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 12px; }
 .ep-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(80px, 1fr)); gap: 7px; }
 .ep-btn {
-  position: relative; padding: 10px 6px; border-radius: 10px;
+  position: relative; padding: 10px 6px; border-radius: 3px;
   cursor: pointer; font-family: inherit; display: flex; flex-direction: column;
   align-items: center; gap: 5px; touch-action: manipulation;
   border: 2px solid rgba(255,255,255,.07); background: rgba(255,255,255,.025);
 }
 .ep-check { width: 28px; height: 28px; border-radius: 50%; border: 2px solid rgba(255,255,255,.1); display: flex; align-items: center; justify-content: center; font-size: 13px; }
 .ep-num { font-size: 11px; font-weight: 700; color: #475569; }
-.ep-next-badge { position: absolute; top: -6px; left: 50%; transform: translateX(-50%); background: var(--blue); color: #fff; font-size: 7px; font-weight: 800; padding: 1px 5px; border-radius: 20px; white-space: nowrap; }
+.ep-next-badge { position: absolute; top: -6px; left: 50%; transform: translateX(-50%); background: var(--accent); color: #0a0b08; font-size: 7px; font-weight: 800; padding: 1px 5px; border-radius: 2px; white-space: nowrap; }
 .ep-footer { padding: 10px 14px; border-top: 1px solid rgba(255,255,255,.06); display: flex; gap: 7px; background: rgba(0,0,0,.4); flex-shrink: 0; }
 .ep-footer button { flex: 1; padding: 11px 0; }
 
@@ -286,11 +295,11 @@ main { padding: 16px; max-width: 900px; margin: 0 auto; }
 .sug-control { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 14px; margin-bottom: 16px; display: flex; gap: 10px; align-items: flex-end; flex-wrap: wrap; }
 .sug-control select { flex: 1; min-width: 140px; }
 .sug-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 12px; }
-.sug-card { background: var(--surface); border-radius: 14px; overflow: hidden; padding: 13px; border: 1px solid var(--border); }
+.sug-card { background: var(--surface); border-radius: 3px; overflow: hidden; padding: 13px; border: 1px solid var(--border); }
 .sug-top { height: 3px; margin: -13px -13px 11px; }
 .sug-title { font-weight: 800; font-size: 13px; line-height: 1.3; margin-bottom: 7px; }
 .sug-meta { display: flex; gap: 3px; flex-wrap: wrap; margin-bottom: 7px; }
-.sug-synopsis { font-size: 11px; color: #94a3b8; line-height: 1.5; margin-bottom: 8px; }
+.sug-synopsis { font-size: 11px; color: var(--muted); line-height: 1.5; margin-bottom: 8px; }
 .sug-why { font-size: 10px; padding: 5px 8px; border-radius: 7px; margin-bottom: 10px; line-height: 1.4; }
 
 /* ── EMPTY ── */
@@ -300,9 +309,16 @@ main { padding: 16px; max-width: 900px; margin: 0 auto; }
 /* ── RANKING ── */
 .rank-badge {
   display: inline-flex; align-items: center; justify-content: center;
-  width: 38px; height: 38px; border-radius: 10px;
+  width: 38px; height: 38px; border-radius: 3px;
   font-size: 13px; font-weight: 900; flex-shrink: 0;
   letter-spacing: .5px;
+}
+.rank-select-big {
+  padding: 8px 12px; border-radius: 10px; border: 1px solid;
+  font-family: inherit; font-size: 13px; font-weight: 900;
+  cursor: pointer; -webkit-appearance: none; appearance: none;
+  text-align: center; min-width: 64px;
+  outline: none; letter-spacing: .5px;
 }
 .rank-select {
   background: rgba(255,255,255,.06); border: 1px solid rgba(255,255,255,.1);
@@ -312,13 +328,13 @@ main { padding: 16px; max-width: 900px; margin: 0 auto; }
 }
 .rank-card {
   background: var(--surface); border: 1px solid var(--border);
-  border-radius: 14px; overflow: hidden; display: flex; align-items: center;
+  border-radius: 3px; overflow: hidden; display: flex; align-items: center;
   gap: 0; margin-bottom: 8px; cursor: pointer; transition: border-color .2s;
 }
 .rank-card:active { opacity: .85; }
 
 /* ── SHIMMER ── */
-.shimmer { background: linear-gradient(90deg, rgba(255,255,255,.03) 25%, rgba(192,132,252,.07) 50%, rgba(255,255,255,.03) 75%); background-size: 200% 100%; animation: shim 1.5s infinite; border-radius: 12px; aspect-ratio: 2/3; }
+.shimmer { background: linear-gradient(90deg, rgba(255,255,255,.03) 25%, rgba(212,185,122,.07) 50%, rgba(255,255,255,.03) 75%); background-size: 200% 100%; animation: shim 1.5s infinite; border-radius: 12px; aspect-ratio: 2/3; }
 @keyframes shim { 0%{background-position:200% 0} 100%{background-position:-200% 0} }
 
 .pulsing { animation: pul 1.4s infinite; }
@@ -333,9 +349,9 @@ input[type=number]::-webkit-inner-spin-button { -webkit-appearance: none; }
   .bottom-nav { display: none; }
   body { padding-bottom: 0; }
   header { padding: 0 24px; justify-content: space-between; }
-  .desktop-nav { display: flex; gap: 3px; background: rgba(255,255,255,.04); padding: 4px; border-radius: 12px; border: 1px solid var(--border); }
-  .desktop-nav-btn { background: none; border: none; cursor: pointer; padding: 8px 16px; border-radius: 8px; font-family: inherit; font-size: 13px; font-weight: 700; color: var(--muted); transition: all .2s; }
-  .desktop-nav-btn.active { background: rgba(192,132,252,.14); color: var(--accent); border: 1px solid rgba(192,132,252,.28); }
+  .desktop-nav { display: flex; gap: 1px; background: rgba(212,185,122,.06); padding: 3px; border-radius: 2px; border: 1px solid var(--border); }
+  .desktop-nav-btn { background: none; border: none; border-bottom: 1px solid transparent; cursor: pointer; padding: 7px 14px; font-family: 'Cinzel', serif; font-size: 10px; font-weight: 600; color: var(--muted); transition: all .2s; letter-spacing: 1.5px; text-transform: uppercase; }
+  .desktop-nav-btn.active { background: rgba(212,185,122,.1); color: var(--accent); border-bottom: 1px solid var(--accent); }
   main { padding: 24px; }
   .poster-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 14px; }
   .ep-panel { border-radius: 24px; max-height: 88vh; margin: auto; }
@@ -352,10 +368,18 @@ input[type=number]::-webkit-inner-spin-button { -webkit-appearance: none; }
 <!-- Header -->
 <header>
   <div class="logo">
-    <div class="logo-jp">アニメ</div>
+    <svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg" style="flex-shrink:0">
+      <polygon points="14,1 27,14 14,27 1,14" stroke="#d4b97a" stroke-width="1" fill="none"/>
+      <polygon points="14,6 22,14 14,22 6,14" stroke="#d4b97a" stroke-width=".7" fill="none" opacity=".6"/>
+      <polygon points="14,10 18,14 14,18 10,14" fill="#d4b97a" opacity=".9"/>
+      <line x1="14" y1="1" x2="14" y2="6" stroke="#d4b97a" stroke-width=".7" opacity=".4"/>
+      <line x1="14" y1="22" x2="14" y2="27" stroke="#d4b97a" stroke-width=".7" opacity=".4"/>
+      <line x1="1" y1="14" x2="6" y2="14" stroke="#d4b97a" stroke-width=".7" opacity=".4"/>
+      <line x1="22" y1="14" x2="27" y2="14" stroke="#d4b97a" stroke-width=".7" opacity=".4"/>
+    </svg>
     <div>
-      <div class="logo-title">AniTrack</div>
-      <div class="logo-sub">AnimeHeaven.me</div>
+      <div class="logo-title">ORIKIN</div>
+      <div class="logo-sub">Animation Library</div>
     </div>
   </div>
   <div class="header-live" id="header-live" style="display:none">
@@ -364,9 +388,9 @@ input[type=number]::-webkit-inner-spin-button { -webkit-appearance: none; }
   </div>
   <!-- Desktop nav -->
   <nav class="desktop-nav">
-    <button class="desktop-nav-btn active" onclick="setTab('nouveautes')">✨ Nouveautés</button>
-    <button class="desktop-nav-btn" onclick="setTab('decouverte')">🏆 Ranking</button>
-    <button class="desktop-nav-btn" onclick="setTab('liste')">📖 Bibliothèque</button>
+    <button class="desktop-nav-btn active" onclick="setTab('nouveautes')">Nouveautés</button>
+    <button class="desktop-nav-btn" onclick="setTab('decouverte')">Ranking</button>
+    <button class="desktop-nav-btn" onclick="setTab('liste')">Bibliothèque</button>
   </nav>
 </header>
 
@@ -375,7 +399,7 @@ input[type=number]::-webkit-inner-spin-button { -webkit-appearance: none; }
   <!-- NOUVEAUTÉS -->
   <div id="tab-nouveautes" class="tab-content active">
     <div class="section-header">
-      <div class="section-title">🔥 Nouveautés <span id="ah-count" style="font-size:13px;color:var(--muted);font-weight:600"></span></div>
+      <div class="section-title">Nouveautés <span id="ah-count" style="font-size:13px;color:var(--muted);font-weight:600"></span></div>
       <div class="section-sub" id="ah-status">Chargement...</div>
     </div>
     <div class="genre-scroll" id="genre-filters-ah"></div>
@@ -385,7 +409,7 @@ input[type=number]::-webkit-inner-spin-button { -webkit-appearance: none; }
   <!-- RANKING -->
   <div id="tab-decouverte" class="tab-content">
     <div class="section-header">
-      <div class="section-title">🏆 Ranking</div>
+      <div class="section-title">Ranking</div>
       <div class="section-sub">Note tes animés et classe-les par rang</div>
     </div>
 
@@ -444,15 +468,29 @@ input[type=number]::-webkit-inner-spin-button { -webkit-appearance: none; }
 <!-- Bottom Nav (mobile) -->
 <nav class="bottom-nav">
   <button class="nav-btn active" onclick="setTab('nouveautes')" data-tab="nouveautes">
-    <span class="nav-icon">✨</span>
+    <span class="nav-icon"><svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="11,2 13,9 20,11 13,13 11,20 9,13 2,11 9,9" stroke="currentColor" stroke-width="1" fill="none"/>
+  <polygon points="11,6 12,9.5 15.5,11 12,12.5 11,16 10,12.5 6.5,11 10,9.5" fill="currentColor" opacity=".5"/>
+</svg></span>
     <span class="nav-label">Nouveautés</span>
   </button>
   <button class="nav-btn" onclick="setTab('decouverte')" data-tab="decouverte">
-    <span class="nav-icon">🏆</span>
+    <span class="nav-icon"><svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="11,1 21,11 11,21 1,11" stroke="currentColor" stroke-width="1" fill="none"/>
+  <polygon points="11,5 17,11 11,17 5,11" stroke="currentColor" stroke-width=".8" fill="none" opacity=".6"/>
+  <polygon points="11,8 14,11 11,14 8,11" fill="currentColor"/>
+</svg></span>
     <span class="nav-label">Ranking</span>
   </button>
   <button class="nav-btn" onclick="setTab('liste')" data-tab="liste">
-    <span class="nav-icon">📖</span>
+    <span class="nav-icon"><svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="4" y="2" width="14" height="18" rx="1" stroke="currentColor" stroke-width="1" fill="none"/>
+  <line x1="4" y1="6" x2="18" y2="6" stroke="currentColor" stroke-width=".7" opacity=".5"/>
+  <line x1="7" y1="10" x2="15" y2="10" stroke="currentColor" stroke-width=".7" opacity=".6"/>
+  <line x1="7" y1="13" x2="15" y2="13" stroke="currentColor" stroke-width=".7" opacity=".6"/>
+  <line x1="7" y1="16" x2="12" y2="16" stroke="currentColor" stroke-width=".7" opacity=".4"/>
+  <polygon points="11,2 12.5,4.5 11,7 9.5,4.5" fill="currentColor" opacity=".6"/>
+</svg></span>
     <span class="nav-label">Bibliothèque</span>
   </button>
 </nav>
@@ -909,14 +947,14 @@ document.getElementById('ep-panel').addEventListener('touchmove',e=>{
 
 // ── RANKING ──
 const RANKS = [
-  { id:"norank", label:"No Rank", color:"#475569", bg:"rgba(71,85,105,.2)" },
-  { id:"E",      label:"E",       color:"#94a3b8", bg:"rgba(148,163,184,.15)" },
-  { id:"D",      label:"D",       color:"#a3e635", bg:"rgba(163,230,53,.15)" },
-  { id:"C",      label:"C",       color:"#4ade80", bg:"rgba(74,222,128,.15)" },
-  { id:"B",      label:"B",       color:"#60a5fa", bg:"rgba(96,165,250,.15)" },
-  { id:"A",      label:"A",       color:"#c084fc", bg:"rgba(192,132,252,.15)" },
-  { id:"S",      label:"S",       color:"#e879f9", bg:"rgba(232,121,249,.15)" },
-  { id:"S+",     label:"S+",      color:"#fbbf24", bg:"rgba(251,191,36,.15)", glow:true },
+  { id:"norank", label:"No Rank", color:"#6b6050", bg:"rgba(107,96,80,.15)" },
+  { id:"E",      label:"E",       color:"#7a7060", bg:"rgba(122,112,96,.15)" },
+  { id:"D",      label:"D",       color:"#b8956a", bg:"rgba(184,149,106,.15)" },
+  { id:"C",      label:"C",       color:"#8fbf8f", bg:"rgba(143,191,143,.15)" },
+  { id:"B",      label:"B",       color:"#8ab4c4", bg:"rgba(138,180,196,.15)" },
+  { id:"A",      label:"A",       color:"#c4786a", bg:"rgba(196,120,106,.15)" },
+  { id:"S",      label:"S",       color:"#c4a0d4", bg:"rgba(196,160,212,.15)" },
+  { id:"S+",     label:"S+",      color:"#d4b97a", bg:"rgba(212,185,122,.18)", glow:true },
 ];
 
 // Ordre d'affichage : du plus élevé au plus faible
@@ -944,18 +982,24 @@ function setRank(animeId, rankId) {
 function renderRankFilters() {
   const c = document.getElementById('rank-filters');
   c.innerHTML = '';
-  const mk = (label, val) => {
+  const mk = (label, val, color) => {
     const b = document.createElement('button');
-    b.className = 'genre-pill' + (rankFilter === val ? ' active' : '');
+    const isActive = rankFilter === val;
+    b.className = 'genre-pill' + (isActive ? ' active' : '');
     b.textContent = label;
+    if (color) {
+      b.style.borderColor = isActive ? color : color + '44';
+      b.style.color = isActive ? color : color + 'aa';
+      if (isActive) b.style.background = color + '20';
+    }
     b.onclick = () => { rankFilter = rankFilter === val ? 'tous' : val; renderRankFilters(); renderRanking(); };
     c.appendChild(b);
   };
-  mk(`Tous (${animes.length})`, 'tous');
+  mk(`Tous (${animes.length})`, 'tous', '#94a3b8');
   RANK_DISPLAY_ORDER.forEach(id => {
     const r = getRankObj(id);
     const count = animes.filter(a => getRank(a) === id).length;
-    if (count > 0) mk(`${r.label} (${count})`, id);
+    if (count > 0) mk(`${r.label} (${count})`, id, r.color);
   });
 }
 
@@ -991,9 +1035,8 @@ function renderRanking() {
           <span class="prog-txt">${w.length}/${a.totalEp}</span>
         </div>
       </div>
-      <div style="padding:0 12px;display:flex;flex-direction:column;align-items:center;gap:6px;flex-shrink:0" onclick="event.stopPropagation()">
-        <div class="rank-badge" style="background:${rank.bg};color:${rank.color};${rank.glow?`box-shadow:0 0 14px ${rank.color}66`:''}">${rank.label}</div>
-        <select class="rank-select" onchange="setRank(${a.id},this.value)" style="border-color:${rank.color}44">
+      <div style="padding:0 12px;flex-shrink:0" onclick="event.stopPropagation()">
+        <select class="rank-select-big" onchange="setRank(${a.id},this.value)" style="background:${rank.bg};color:${rank.color};border-color:${rank.color}55;${rank.glow?`box-shadow:0 0 14px ${rank.color}44`:''}">
           ${RANKS.map(r => `<option value="${r.id}" ${getRank(a)===r.id?'selected':''}>${r.label}</option>`).join('')}
         </select>
       </div>
