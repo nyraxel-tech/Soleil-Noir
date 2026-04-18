@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Akane-banashi",
+      "titreJp": "Yomi no Tsugai",
+      "ep": 1,
+      "ago": "1h",
+      "img": "7j7kb",
+      "ahId": "pm96z"
+    },
+    {
       "titre": "MAO",
       "titreJp": "",
       "ep": 1,
-      "ago": "?",
+      "ago": "1h",
       "img": "topci",
       "ahId": "o8996"
     },
@@ -12,7 +20,7 @@
       "titre": "Kill Blue",
       "titreJp": "",
       "ep": 1,
-      "ago": "?",
+      "ago": "1h",
       "img": "dns6b",
       "ahId": "qw2g9"
     },
@@ -41,19 +49,19 @@
       "ahId": "ayudj"
     },
     {
-      "titre": "Detective Conan",
+      "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Yowayowa Sensei",
       "ep": 1,
-      "ago": "3h",
-      "img": "lx86z",
+      "ago": "4h",
+      "img": "pjoyd",
       "ahId": "pijt4"
     },
     {
-      "titre": "That Time I Got Reincarnated as a Slime Season 4",
+      "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1,
       "ago": "5h",
-      "img": "pjoyd",
+      "img": "lkpy4",
       "ahId": "y9prb"
     },
     {
@@ -84,7 +92,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 1,
-      "ago": "23h",
+      "ago": "1d",
       "img": "sbyve",
       "ahId": "fpnp2"
     },
@@ -156,7 +164,7 @@
       "titre": "A Hundred Scenes of AWAJIMA",
       "titreJp": "Haibara-kun no Tsuyokute Seishun New Game",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "r7ozz",
       "ahId": "7s4ze"
     },
@@ -164,7 +172,7 @@
       "titre": "Petals of Reincarnation",
       "titreJp": "Awajima Hyakkei",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "iideg",
       "ahId": "oh0q2"
     },
@@ -228,7 +236,7 @@
       "titre": "The Beginning After the End Season 2",
       "titreJp": "Ganbare! Nakamura-kun!!",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "zmy4z",
       "ahId": "1ijne"
     },
@@ -316,7 +324,7 @@
       "titre": "Eren the Southpaw",
       "titreJp": "Hyakki Yakoushou",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "w5epl",
       "ahId": "r32sr"
     },
@@ -380,7 +388,7 @@
       "titre": "Liar Game",
       "titreJp": "Fangkai Nage Nuwu",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "csbrl",
       "ahId": "fwe7e"
     },
@@ -420,7 +428,7 @@
       "titre": "Marika&#039;s Love Meter Malfunction",
       "titreJp": "Ingoku Danchi",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "33vsk",
       "ahId": "bgi3j"
     },
@@ -511,17 +519,9 @@
       "ago": "6d",
       "img": "97302",
       "ahId": "ccxi5"
-    },
-    {
-      "titre": "Needy Girl Overdose",
-      "titreJp": "Yuusha no Kuzu",
-      "ep": 1,
-      "ago": "6d",
-      "img": "57g7m",
-      "ahId": "oxx6c"
     }
   ],
-  "updatedAt": "2026-04-18T16:50:12.066Z",
+  "updatedAt": "2026-04-18T17:14:10.575Z",
   "source": "github-actions",
   "count": 65
 }
