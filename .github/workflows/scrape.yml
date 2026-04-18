@@ -46,16 +46,23 @@ jobs:
           seen = set()
           banner_count = 0
 
-          # Nouveau parser basé sur la structure div CSS actuelle
-          # Chaque bloc animé est séparé par class='chart b' ou class='chart c'
-          blocks = re.split(r"class='chart [bc]'", html)
+          # Parser basé sur la structure div CSS
+          # Split sur les blocs chart (guillemets simples ou doubles)
+          blocks = re.split(r'class=["\']chart [bc]["\']', html)
           print(f"Blocks found: {len(blocks)}")
+
+          # Debug block 4
+          if len(blocks) > 4:
+              print(f"Block 4: {repr(blocks[4][:400])}")
 
           skip_titles = {"New","Popular","Fall","Random","MORE","POPULAR","Tools","Anime Heaven",""}
 
           for block in blocks[1:]:
-              # Titre depuis charttitle
-              title_match = re.search(r"class='charttitle c'><a href='anime\.php\?(\w+)'[^>]*>([^<]+)<", block)
+              # Titre — guillemets simples ou doubles
+              title_match = re.search(r"""class=["']charttitle c["']><a href=["']anime\.php\?(\w+)["'][^>]*>([^<]+)<""", block)
+              if not title_match:
+                  # Try alternative pattern
+                  title_match = re.search(r"""href=["']anime\.php\?(\w+)["'][^>]*>([^<]+)<""", block)
               if not title_match:
                   continue
 
@@ -65,25 +72,22 @@ jobs:
               if not titre or titre in skip_titles or ah_id in seen or len(ah_id) < 3:
                   continue
 
-              # Image
               img_match = re.search(r"image\.php\?(\w+)", block)
               if not img_match:
                   continue
               img = img_match.group(1)
 
-              # Titre JP
-              jp_match = re.search(r"class='charttitlejp c'>([^<]+)<", block)
+              jp_match = re.search(r"""class=["']charttitlejp c["']>([^<]+)<""", block)
               titre_jp = jp_match.group(1).strip() if jp_match and jp_match.group(1) != "-" else ""
 
-              # Épisode
-              ep_match = re.search(r"class='chartep c2'>(\d+)<", block)
+              ep_match = re.search(r"""class=["']chartep c2["']>(\d+)<""", block)
               ep = int(ep_match.group(1)) if ep_match else 1
 
-              # Temps
-              time_match = re.search(r"class='charttimer c2'>(\d+)\s*(h|d)\s*ago<", block)
+              time_match = re.search(r"""class=["']charttimer c2["']>(\d+)\s*(h|d)\s*ago<""", block)
+              if not time_match:
+                  time_match = re.search(r'(\d+)\s*(h|d)\s*ago', block)
               ago = f"{time_match.group(1)}{time_match.group(2)}" if time_match else "?"
 
-              # Skip bannières (3 premières)
               if banner_count < 3:
                   banner_count += 1
                   seen.add(ah_id)
