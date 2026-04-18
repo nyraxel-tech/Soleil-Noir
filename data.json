@@ -20,7 +20,7 @@
       "titre": "-",
       "titreJp": "",
       "ep": 1,
-      "ago": "1h",
+      "ago": "2h",
       "img": "fxza8",
       "ahId": "z320l"
     },
@@ -44,7 +44,7 @@
       "titre": "Yomi no Tsugai",
       "titreJp": "Yomi no Tsugai",
       "ep": 1,
-      "ago": "2h",
+      "ago": "3h",
       "img": "7j7kb",
       "ahId": "pm96z"
     },
@@ -545,7 +545,7 @@
       "ahId": "y98v5"
     }
   ],
-  "updatedAt": "2026-04-18T19:10:10.436Z",
+  "updatedAt": "2026-04-18T19:15:40.501Z",
   "source": "github-actions",
   "count": 68
 }
