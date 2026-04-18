@@ -536,6 +536,17 @@ async function loadAH() {
       document.getElementById('ah-status').innerHTML = `<span style="color:var(--green)">● Live · ${t}</span>`;
       document.getElementById('live-time').textContent = t;
       document.getElementById('header-live').style.display = 'flex';
+
+      // Sync automatique : met à jour le total d'épisodes des animés déjà dans Ma Liste
+      let changed = false;
+      ahData.forEach(ah => {
+        const existing = animes.find(x => x.titre.toLowerCase() === ah.titre.toLowerCase());
+        if (existing && ah.ep > existing.totalEp) {
+          existing.totalEp = ah.ep;
+          changed = true;
+        }
+      });
+      if (changed) save();
     } else {
       document.getElementById('ah-status').textContent = 'Données indisponibles';
     }
@@ -552,11 +563,12 @@ function renderGenreFiltersAH() {
   c.innerHTML = '';
   const mk = (label, val) => {
     const b = document.createElement('button');
-    b.className = 'genre-pill' + (ahFilter === val ? ' active' : '');
+    b.className = 'genre-pill' + (ahFilter === val || (val === 'tous' && ahFilter === 'tous') ? ' active' : '');
     b.textContent = label;
     b.onclick = () => { ahFilter = ahFilter === val ? 'tous' : val; renderGenreFiltersAH(); renderPosters(); };
     c.appendChild(b);
   };
+  mk(`🌐 Tous (${ahData.length})`, 'tous');
   const todayCount = ahData.filter(a => isNew(a)).length;
   if (todayCount > 0) mk(`🕐 Aujourd'hui (${todayCount})`, 'today');
   Object.entries(GENRES).forEach(([id,g]) => {
@@ -600,8 +612,32 @@ function renderPosters() {
 
 function addFromAH(a) {
   if (typeof a === 'string') a = JSON.parse(a);
-  if (animes.some(x => x.titre.toLowerCase() === a.titre.toLowerCase())) return;
-  animes.push({id:Date.now(),titre:a.titre,genre:gId(a.titre),statut:"À voir",note:7,img:a.img,ahId:a.ahId,totalEp:a.ep,watched:[]});
+  const existing = animes.find(x => x.titre.toLowerCase() === a.titre.toLowerCase());
+
+  if (existing) {
+    // Animé déjà dans la liste — on met à jour le total d'épisodes si AH en a plus
+    if (a.ep > existing.totalEp) existing.totalEp = a.ep;
+    // Marque tous les épisodes précédents comme vus (sauf le dernier = en cours)
+    const watched = Array.from({length: a.ep - 1}, (_, i) => i + 1);
+    existing.watched = [...new Set([...existing.watched, ...watched])];
+    existing.statut = existing.watched.length === existing.totalEp ? "Vu" : "En cours";
+    save(); renderPosters();
+    return;
+  }
+
+  // Nouvel ajout : total = dernier épisode sorti, tous les précédents marqués vus
+  const watched = Array.from({length: a.ep - 1}, (_, i) => i + 1);
+  animes.push({
+    id: Date.now(),
+    titre: a.titre,
+    genre: gId(a.titre),
+    statut: a.ep > 1 ? "En cours" : "À voir",
+    note: 7,
+    img: a.img,
+    ahId: a.ahId,
+    totalEp: a.ep,
+    watched,
+  });
   save(); renderPosters();
 }
 
