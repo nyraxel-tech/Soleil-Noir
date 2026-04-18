@@ -1,6 +1,575 @@
 {
-  "animes": [],
-  "updatedAt": "2026-04-18T11:16:20.758557+00:00",
+  "animes": [
+    {
+      "titre": "Sakamoto Days Banner",
+      "titreJp": "",
+      "ep": 1,
+      "ago": "1j",
+      "img": "3bh1g",
+      "ahId": "5u8d5"
+    },
+    {
+      "titre": "Kaiju No. 8",
+      "titreJp": "",
+      "ep": 1,
+      "ago": "1j",
+      "img": "3wivr",
+      "ahId": "zr6gh"
+    },
+    {
+      "titre": "Mashle: Magic and Muscles 2nd Season",
+      "titreJp": "",
+      "ep": 1,
+      "ago": "1j",
+      "img": "k14mu",
+      "ahId": "22bkm"
+    },
+    {
+      "titre": "Welcome to Demon School, Iruma-kun 4",
+      "titreJp": "",
+      "ep": 3,
+      "ago": "1j",
+      "img": "lkpy4",
+      "ahId": "amsff"
+    },
+    {
+      "titre": "Ascendance of a Bookworm Season 4",
+      "titreJp": "",
+      "ep": 3,
+      "ago": "1j",
+      "img": "2m22z",
+      "ahId": "yeyrm"
+    },
+    {
+      "titre": "Pokemon Horizons: The Series",
+      "titreJp": "",
+      "ep": 134,
+      "ago": "1j",
+      "img": "9fsft",
+      "ahId": "9v661"
+    },
+    {
+      "titre": "Fist of the North Star (2026)",
+      "titreJp": "",
+      "ep": 4,
+      "ago": "1j",
+      "img": "ciyvs",
+      "ahId": "fpnp2"
+    },
+    {
+      "titre": "Botan Kamiina Fully Blossoms When Drunk",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "sbyve",
+      "ahId": "b0vsk"
+    },
+    {
+      "titre": "The Drops of God",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "par8w",
+      "ahId": "m2zjn"
+    },
+    {
+      "titre": "Snowball Earth",
+      "titreJp": "",
+      "ep": 3,
+      "ago": "1j",
+      "img": "g0kk7",
+      "ahId": "3kfyx"
+    },
+    {
+      "titre": "That Time I Got Reincarnated as a Slime Season 4",
+      "titreJp": "",
+      "ep": 3,
+      "ago": "1j",
+      "img": "pjoyd",
+      "ahId": "aplyf"
+    },
+    {
+      "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
+      "titreJp": "",
+      "ep": 3,
+      "ago": "1j",
+      "img": "8ezmn",
+      "ahId": "nv9bp"
+    },
+    {
+      "titre": "Classroom of the Elite 4th Season",
+      "titreJp": "",
+      "ep": 1,
+      "ago": "1j",
+      "img": "npea5",
+      "ahId": "nzwhr"
+    },
+    {
+      "titre": "The Barbarian's Bride",
+      "titreJp": "",
+      "ep": 1,
+      "ago": "1j",
+      "img": "synxi",
+      "ahId": "hi6b1"
+    },
+    {
+      "titre": "One Piece",
+      "titreJp": "",
+      "ep": 1,
+      "ago": "1j",
+      "img": "zbt7y",
+      "ahId": "1ht8d"
+    },
+    {
+      "titre": "All You Need Is Kill",
+      "titreJp": "",
+      "ep": 1,
+      "ago": "1j",
+      "img": "4kuek",
+      "ahId": "hev47"
+    },
+    {
+      "titre": "Monster Eater",
+      "titreJp": "",
+      "ep": 3,
+      "ago": "1j",
+      "img": "anfea",
+      "ahId": "pi6yi"
+    },
+    {
+      "titre": "Killed Again, Mr. Detective?",
+      "titreJp": "",
+      "ep": 3,
+      "ago": "1j",
+      "img": "j0cec",
+      "ahId": "0cwi8"
+    },
+    {
+      "titre": "Haibara’s Teenage New Game+",
+      "titreJp": "",
+      "ep": 3,
+      "ago": "1j",
+      "img": "dw9gn",
+      "ahId": "7s4ze"
+    },
+    {
+      "titre": "A Hundred Scenes of AWAJIMA",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "r7ozz",
+      "ahId": "oh0q2"
+    },
+    {
+      "titre": "Petals of Reincarnation",
+      "titreJp": "",
+      "ep": 3,
+      "ago": "1j",
+      "img": "iideg",
+      "ahId": "b2ybn"
+    },
+    {
+      "titre": "Kirio Fan Club",
+      "titreJp": "",
+      "ep": 3,
+      "ago": "1j",
+      "img": "f7jfv",
+      "ahId": "ji7g1"
+    },
+    {
+      "titre": "The Ramparts of Ice",
+      "titreJp": "",
+      "ep": 3,
+      "ago": "1j",
+      "img": "cs30h",
+      "ahId": "jx2jr"
+    },
+    {
+      "titre": "Dr. Stone: Science Future - Part III",
+      "titreJp": "",
+      "ep": 3,
+      "ago": "1j",
+      "img": "oxfds",
+      "ahId": "xvd0a"
+    },
+    {
+      "titre": "Kujima: Why Sing, When You Can Warble?",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "pv8qk",
+      "ahId": "gbdj0"
+    },
+    {
+      "titre": "Record of Grancrest War",
+      "titreJp": "",
+      "ep": 24,
+      "ago": "1j",
+      "img": "1zf4l",
+      "ahId": "lv7v8"
+    },
+    {
+      "titre": "Go For It, Nakamura!",
+      "titreJp": "",
+      "ep": 4,
+      "ago": "1j",
+      "img": "rf7eh",
+      "ahId": "1ijne"
+    },
+    {
+      "titre": "The Beginning After the End Season 2",
+      "titreJp": "",
+      "ep": 3,
+      "ago": "1j",
+      "img": "zmy4z",
+      "ahId": "fv1vj"
+    },
+    {
+      "titre": "Always a Catch!",
+      "titreJp": "",
+      "ep": 3,
+      "ago": "1j",
+      "img": "r9hz4",
+      "ahId": "frlld"
+    },
+    {
+      "titre": "Gals Can’t Be Kind to Otaku!?",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "j5umi",
+      "ahId": "kq3pz"
+    },
+    {
+      "titre": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season",
+      "titreJp": "",
+      "ep": 3,
+      "ago": "1j",
+      "img": "cirfw",
+      "ahId": "5iqzo"
+    },
+    {
+      "titre": "Dorohedoro 2",
+      "titreJp": "",
+      "ep": 5,
+      "ago": "1j",
+      "img": "t71fe",
+      "ahId": "pgjgh"
+    },
+    {
+      "titre": "Re:ZERO: Starting Life in Another World Season 4",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "7tc0j",
+      "ahId": "ilp9j"
+    },
+    {
+      "titre": "Rent-a-Girlfriend Season 5",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "7nqj7",
+      "ahId": "i0kd0"
+    },
+    {
+      "titre": "My Ribdiculous Reincarnation",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "27pp6",
+      "ahId": "xw4de"
+    },
+    {
+      "titre": "Pardon the Intrusion, I'm Home!",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "mwvn6",
+      "ahId": "c3nol"
+    },
+    {
+      "titre": "Beyond Twilight",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "0gwes",
+      "ahId": "r32sr"
+    },
+    {
+      "titre": "Eren the Southpaw",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "w5epl",
+      "ahId": "j26hl"
+    },
+    {
+      "titre": "I Made Friends with the Second Prettiest Girl in My Class",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "kfuf2",
+      "ahId": "3c38p"
+    },
+    {
+      "titre": "Marriagetoxin",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "ljkt9",
+      "ahId": "lf9gt"
+    },
+    {
+      "titre": "I Want to End This Love Game",
+      "titreJp": "",
+      "ep": 1,
+      "ago": "1j",
+      "img": "438x1",
+      "ahId": "jrvi5"
+    },
+    {
+      "titre": "Even a Replica Can Fall in Love",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "z35jq",
+      "ahId": "k662x"
+    },
+    {
+      "titre": "The Most Heretical Last Boss Queen: From Villainess to Savior 2nd Season",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "5zcck",
+      "ahId": "np9nt"
+    },
+    {
+      "titre": "Magical Sisters Lulutto Lilly",
+      "titreJp": "",
+      "ep": 1,
+      "ago": "1j",
+      "img": "g8cab",
+      "ahId": "gnqba"
+    },
+    {
+      "titre": "Release That Witch",
+      "titreJp": "",
+      "ep": 7,
+      "ago": "1j",
+      "img": "54d5g",
+      "ahId": "fwe7e"
+    },
+    {
+      "titre": "Liar Game",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "csbrl",
+      "ahId": "l3kxg"
+    },
+    {
+      "titre": "The Klutzy Class Monitor and the Girl with the Short Skirt",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "jh4do",
+      "ahId": "fcmyo"
+    },
+    {
+      "titre": "Witch Hat Atelier",
+      "titreJp": "",
+      "ep": 3,
+      "ago": "1j",
+      "img": "6rlo7",
+      "ahId": "df4in"
+    },
+    {
+      "titre": "Farming Life in Another World 2",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "b7en4",
+      "ahId": "fae6d"
+    },
+    {
+      "titre": "Ingoku Danchi: Deviant's Apartment Complex",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "4gqwj",
+      "ahId": "bgi3j"
+    },
+    {
+      "titre": "Marika's Love Meter Malfunction",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "33vsk",
+      "ahId": "fsi1m"
+    },
+    {
+      "titre": "Ghost Concert: Missing Songs",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "1ljqb",
+      "ahId": "8p2tr"
+    },
+    {
+      "titre": "The Classroom of a Black Cat and a Witch",
+      "titreJp": "",
+      "ep": 1,
+      "ago": "1j",
+      "img": "cs0bn",
+      "ahId": "7p5hz"
+    },
+    {
+      "titre": "The Food Diary of Miss Maid",
+      "titreJp": "",
+      "ep": 3,
+      "ago": "1j",
+      "img": "w1qq7",
+      "ahId": "7b5z4"
+    },
+    {
+      "titre": "Mission: Yozakura Family Season 2",
+      "titreJp": "",
+      "ep": 1,
+      "ago": "1j",
+      "img": "rgi7x",
+      "ahId": "feqdi"
+    },
+    {
+      "titre": "Ace of the Diamond: Act II 2nd Season",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "c50pz",
+      "ahId": "dd464"
+    },
+    {
+      "titre": "Wistoria: Wand and Sword 2nd Season",
+      "titreJp": "",
+      "ep": 1,
+      "ago": "1j",
+      "img": "h6l0c",
+      "ahId": "y98v5"
+    },
+    {
+      "titre": "Rooster Fighter",
+      "titreJp": "",
+      "ep": 5,
+      "ago": "1j",
+      "img": "vy576",
+      "ahId": "uni0y"
+    },
+    {
+      "titre": "Digimon Beatbreak",
+      "titreJp": "",
+      "ep": 26,
+      "ago": "1j",
+      "img": "88ts8",
+      "ahId": "kqa66"
+    },
+    {
+      "titre": "The Great Sage Ryddel and the Hands of Time",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "tl46m",
+      "ahId": "rf6nw"
+    },
+    {
+      "titre": "Ichijouma Mankitsugurashi!",
+      "titreJp": "",
+      "ep": 1,
+      "ago": "1j",
+      "img": "wm2v7",
+      "ahId": "ccxi5"
+    },
+    {
+      "titre": "Akane-banashi",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "7j7kb",
+      "ahId": "o8996"
+    },
+    {
+      "titre": "MAO",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "topci",
+      "ahId": "qw2g9"
+    },
+    {
+      "titre": "Scum of the Brave",
+      "titreJp": "",
+      "ep": 13,
+      "ago": "1j",
+      "img": "97302",
+      "ahId": "oxx6c"
+    },
+    {
+      "titre": "Needy Girl Overdose",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "57g7m",
+      "ahId": "z320l"
+    },
+    {
+      "titre": "Agents of the Four Seasons: Dance of Spring",
+      "titreJp": "",
+      "ep": 3,
+      "ago": "1j",
+      "img": "fxza8",
+      "ahId": "boii6"
+    },
+    {
+      "titre": "Mistress Kanan is Devilishly Easy",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "8q6wl",
+      "ahId": "3uz6y"
+    },
+    {
+      "titre": "Daemons of The Shadow Realm",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "dks5o",
+      "ahId": "pm96z"
+    },
+    {
+      "titre": "Kill Blue",
+      "titreJp": "",
+      "ep": 1,
+      "ago": "1j",
+      "img": "dns6b",
+      "ahId": "y5v48"
+    },
+    {
+      "titre": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
+      "titreJp": "",
+      "ep": 3,
+      "ago": "1j",
+      "img": "hnxbm",
+      "ahId": "ayudj"
+    },
+    {
+      "titre": "Yowayowa Teacher",
+      "titreJp": "",
+      "ep": 1,
+      "ago": "1j",
+      "img": "b6f8i",
+      "ahId": "pijt4"
+    }
+  ],
+  "updatedAt": "2026-04-18T11:19:10.785694+00:00",
   "source": "github-actions",
-  "count": 0
+  "count": 71
 }
