@@ -1,0 +1,812 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AniTrack — Ton univers animé</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Noto+Serif+JP:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg: #06070d;
+    --surface: rgba(255,255,255,.035);
+    --border: rgba(255,255,255,.07);
+    --text: #e2e8f0;
+    --muted: #4a5568;
+    --accent: #c084fc;
+    --accent-d: #7c3aed;
+    --green: #34d399;
+    --yellow: #fbbf24;
+    --blue: #60a5fa;
+    --red: #f87171;
+    --pink: #f472b6;
+  }
+  html { scroll-behavior: smooth; }
+  body { background: var(--bg); color: var(--text); font-family: 'Outfit', sans-serif; min-height: 100vh; overflow-x: hidden; }
+  ::-webkit-scrollbar { width: 5px; }
+  ::-webkit-scrollbar-track { background: #0a0b14; }
+  ::-webkit-scrollbar-thumb { background: var(--accent-d); border-radius: 3px; }
+
+  /* Glow orbs */
+  .orb { position: fixed; border-radius: 50%; filter: blur(100px); pointer-events: none; z-index: 0; }
+  .orb1 { width: 600px; height: 600px; background: rgba(124,58,237,.06); top: -200px; right: -200px; }
+  .orb2 { width: 400px; height: 400px; background: rgba(192,132,252,.04); bottom: 0; left: -100px; }
+
+  /* Header */
+  header {
+    position: sticky; top: 0; z-index: 100;
+    background: rgba(6,7,13,.93); backdrop-filter: blur(14px);
+    border-bottom: 1px solid var(--border);
+    padding: 15px 22px;
+    display: flex; align-items: center; justify-content: space-between;
+  }
+  .logo { display: flex; align-items: center; gap: 11px; }
+  .logo-jp { font-family: 'Noto Serif JP', serif; font-size: 21px; color: var(--accent); }
+  .logo-title { font-size: 18px; font-weight: 900; letter-spacing: -.5px; line-height: 1; text-shadow: 0 0 30px rgba(192,132,252,.5); }
+  .logo-sub { font-size: 9px; color: var(--muted); font-weight: 500; }
+
+  /* Nav tabs */
+  nav { display: flex; gap: 3px; background: rgba(255,255,255,.03); padding: 4px; border-radius: 12px; border: 1px solid var(--border); }
+  .tab-btn { background: none; border: none; cursor: pointer; padding: 9px 15px; border-radius: 8px; font-family: inherit; font-size: 13px; font-weight: 600; transition: all .2s; color: var(--muted); }
+  .tab-btn.active { background: rgba(192,132,252,.14); color: var(--accent); border: 1px solid rgba(192,132,252,.28); }
+  .tab-btn:hover:not(.active) { color: #94a3b8; }
+
+  /* Main */
+  main { padding: 20px 22px; max-width: 1200px; margin: 0 auto; position: relative; z-index: 1; }
+  .tab-content { display: none; }
+  .tab-content.active { display: block; animation: fadeIn .35s ease; }
+  @keyframes fadeIn { from { opacity:0; transform:translateY(7px); } to { opacity:1; transform:translateY(0); } }
+  @keyframes pulse { 0%,100%{opacity:.55} 50%{opacity:1} }
+  @keyframes shimmer { 0%{background-position:200% 0} 100%{background-position:-200% 0} }
+
+  /* Cards */
+  .card { background: var(--surface); border: 1px solid var(--border); border-radius: 16px; padding: 15px; transition: all .25s; }
+  .card:hover { background: rgba(255,255,255,.055); border-color: rgba(192,132,252,.2); }
+
+  /* Buttons */
+  .btn-primary { background: linear-gradient(135deg, var(--accent), var(--accent-d)); color: #fff; border: none; padding: 9px 17px; border-radius: 10px; cursor: pointer; font-family: inherit; font-weight: 700; font-size: 13px; transition: all .2s; }
+  .btn-primary:hover { transform: translateY(-1px); box-shadow: 0 4px 18px rgba(192,132,252,.4); }
+  .btn-primary:disabled { opacity: .5; cursor: not-allowed; transform: none; }
+  .btn-secondary { background: rgba(255,255,255,.04); color: #94a3b8; border: 1px solid rgba(255,255,255,.08); padding: 6px 12px; border-radius: 8px; cursor: pointer; font-family: inherit; font-size: 12px; font-weight: 600; transition: all .2s; }
+  .btn-secondary:hover { background: rgba(255,255,255,.09); color: var(--text); }
+
+  /* Inputs */
+  input, select {
+    background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.1);
+    border-radius: 10px; padding: 9px 12px; color: var(--text);
+    font-family: inherit; font-size: 13px; outline: none; transition: border-color .2s;
+  }
+  input:focus, select:focus { border-color: var(--accent); }
+  select option { background: #1a1b2e; }
+
+  /* Badge */
+  .badge { display: inline-block; padding: 2px 9px; border-radius: 20px; font-size: 10px; font-weight: 700; letter-spacing: .4px; }
+  .live-badge { font-size: 10px; color: var(--green); background: rgba(52,211,153,.1); padding: 2px 8px; border-radius: 20px; font-weight: 700; border: 1px solid rgba(52,211,153,.2); }
+
+  /* Stats grid */
+  .stats-grid { display: grid; grid-template-columns: repeat(4,1fr); gap: 11px; margin-bottom: 18px; }
+  .stat-card { background: var(--surface); border: 1px solid var(--border); border-radius: 16px; padding: 15px; text-align: center; }
+  .stat-val { font-size: 24px; font-weight: 900; }
+  .stat-label { font-size: 11px; color: var(--muted); font-weight: 600; }
+
+  /* Poster grid */
+  .poster-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(148px, 1fr)); gap: 13px; }
+  .poster-card { position: relative; border-radius: 14px; overflow: hidden; aspect-ratio: 2/3; cursor: pointer; border: 1px solid rgba(255,255,255,.07); transition: all .25s; }
+  .poster-card:hover { transform: translateY(-4px) scale(1.02); }
+  .poster-card img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .poster-fallback { width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; font-size: 40px; position: absolute; top: 0; left: 0; }
+  .poster-new { position: absolute; top: 8px; left: 8px; background: linear-gradient(90deg,#f87171,#fbbf24); color: #fff; font-size: 9px; font-weight: 800; padding: 2px 7px; border-radius: 20px; z-index: 2; }
+  .poster-ep { position: absolute; top: 8px; right: 8px; background: rgba(0,0,0,.72); backdrop-filter: blur(6px); color: #fff; font-size: 10px; font-weight: 700; padding: 2px 7px; border-radius: 20px; border: 1px solid rgba(255,255,255,.1); z-index: 2; }
+  .poster-overlay { position: absolute; inset: 0; background: linear-gradient(to top, rgba(6,7,13,.97) 0%, rgba(6,7,13,.55) 55%, transparent 100%); opacity: 0; transition: opacity .25s; display: flex; flex-direction: column; justify-content: flex-end; padding: 12px; z-index: 3; }
+  .poster-card:hover .poster-overlay { opacity: 1; }
+  .poster-label { position: absolute; bottom: 0; left: 0; right: 0; height: 50%; background: linear-gradient(to top, rgba(6,7,13,.88), transparent); pointer-events: none; z-index: 1; transition: opacity .25s; }
+  .poster-card:hover .poster-label { opacity: 0; }
+  .poster-title-static { position: absolute; bottom: 9px; left: 10px; right: 10px; font-size: 11px; font-weight: 700; color: var(--text); line-height: 1.3; }
+  .poster-title { font-size: 12px; font-weight: 800; color: #fff; line-height: 1.3; margin-bottom: 3px; }
+  .poster-jp { font-size: 10px; color: #94a3b8; margin-bottom: 7px; font-style: italic; }
+  .poster-actions { display: flex; gap: 6px; }
+
+  /* Anime list cards */
+  .anime-list { display: flex; flex-direction: column; gap: 8px; }
+  .anime-card { background: var(--surface); border: 1px solid var(--border); border-radius: 16px; overflow: hidden; transition: all .25s; }
+  .anime-card:hover { background: rgba(255,255,255,.055); border-color: rgba(192,132,252,.2); }
+  .anime-card-inner { display: flex; align-items: center; }
+  .anime-poster-strip { width: 56px; height: 80px; flex-shrink: 0; position: relative; overflow: hidden; }
+  .anime-poster-strip img { width: 100%; height: 100%; object-fit: cover; }
+  .anime-poster-strip-fade { position: absolute; inset: 0; background: linear-gradient(to right, transparent 60%, rgba(6,7,13,.85)); }
+  .anime-info { flex: 1; padding: 11px 13px; min-width: 0; }
+  .anime-title { font-weight: 700; font-size: 14px; margin-bottom: 4px; }
+  .anime-badges { display: flex; gap: 5px; flex-wrap: wrap; margin-bottom: 6px; }
+  .anime-progress { display: flex; align-items: center; gap: 7px; }
+  .progress-bar { flex: 1; height: 3px; background: rgba(255,255,255,.07); border-radius: 3px; overflow: hidden; }
+  .progress-fill { height: 100%; border-radius: 3px; transition: width .5s; }
+  .progress-text { font-size: 10px; color: var(--muted); font-weight: 600; flex-shrink: 0; }
+  .progress-next { font-size: 10px; color: var(--blue); font-weight: 700; flex-shrink: 0; }
+  .anime-actions { display: flex; align-items: center; gap: 7px; padding: 0 13px; flex-shrink: 0; }
+  .anime-score { color: var(--yellow); font-weight: 900; font-size: 15px; }
+
+  /* Suggestion cards */
+  .sug-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 14px; }
+  .sug-card { background: var(--surface); border-radius: 16px; overflow: hidden; padding: 15px; transition: all .25s; }
+  .sug-card:hover { background: rgba(255,255,255,.055); }
+  .sug-top { height: 3px; margin: -15px -15px 13px; }
+  .sug-title { font-weight: 800; font-size: 14px; line-height: 1.3; margin-bottom: 8px; }
+  .sug-meta { display: flex; gap: 4px; flex-wrap: wrap; margin-bottom: 8px; }
+  .sug-synopsis { font-size: 11px; color: #94a3b8; line-height: 1.5; margin-bottom: 9px; }
+  .sug-why { font-size: 11px; padding: 5px 9px; border-radius: 8px; margin-bottom: 11px; line-height: 1.4; }
+
+  /* Episode panel */
+  .ep-overlay { position: fixed; inset: 0; z-index: 300; background: rgba(6,7,13,.9); backdrop-filter: blur(20px); display: flex; align-items: center; justify-content: center; padding: 20px; display: none; }
+  .ep-overlay.open { display: flex; }
+  .ep-panel { width: 100%; max-width: 660px; max-height: 90vh; background: #0d0e1a; border-radius: 24px; overflow: hidden; display: flex; flex-direction: column; }
+  .ep-header { position: relative; flex-shrink: 0; }
+  .ep-header-bg { position: absolute; inset: 0; overflow: hidden; border-radius: 24px 24px 0 0; }
+  .ep-header-bg img { width: 100%; height: 100%; object-fit: cover; opacity: .08; filter: blur(8px); transform: scale(1.08); }
+  .ep-header-inner { position: relative; padding: 22px 22px 0; display: flex; gap: 16px; align-items: flex-start; }
+  .ep-poster { width: 66px; height: 94px; border-radius: 11px; overflow: hidden; flex-shrink: 0; box-shadow: 0 8px 28px rgba(0,0,0,.7); }
+  .ep-poster img, .ep-poster-fallback { width: 100%; height: 100%; object-fit: cover; display: flex; align-items: center; justify-content: center; font-size: 26px; }
+  .ep-info { flex: 1; min-width: 0; padding-top: 2px; }
+  .ep-anime-title { font-size: 16px; font-weight: 900; line-height: 1.25; margin-bottom: 7px; color: #f1f5f9; }
+  .ep-progress-bar { height: 5px; background: rgba(255,255,255,.08); border-radius: 4px; overflow: hidden; }
+  .ep-progress-fill { height: 100%; border-radius: 4px; transition: width .5s ease; }
+  .ep-close { background: rgba(255,255,255,.07); border: 1px solid rgba(255,255,255,.1); color: #64748b; width: 32px; height: 32px; border-radius: 50%; cursor: pointer; font-size: 14px; font-family: inherit; flex-shrink: 0; display: flex; align-items: center; justify-content: center; }
+  .ep-note-row { position: relative; padding: 14px 22px 18px; display: flex; align-items: center; gap: 8px; }
+  .ep-note-btn { width: 26px; height: 26px; border-radius: 6px; border: none; cursor: pointer; font-family: inherit; font-size: 11px; font-weight: 700; transition: all .15s; }
+  .ep-body { overflow-y: auto; flex: 1; padding: 16px 20px 10px; }
+  .ep-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 8px; }
+  .ep-btn { position: relative; padding: 12px 8px; border-radius: 12px; cursor: pointer; font-family: inherit; display: flex; flex-direction: column; align-items: center; gap: 7px; transition: all .18s; border: 2px solid rgba(255,255,255,.07); background: rgba(255,255,255,.025); }
+  .ep-btn:hover { background: rgba(255,255,255,.05) !important; }
+  .ep-check { width: 32px; height: 32px; border-radius: 50%; border: 2px solid rgba(255,255,255,.1); display: flex; align-items: center; justify-content: center; font-size: 15px; transition: all .18s; background: rgba(255,255,255,.06); color: #2d3748; }
+  .ep-num { font-size: 12px; font-weight: 700; color: #475569; }
+  .ep-next-badge { position: absolute; top: -7px; left: 50%; transform: translateX(-50%); background: var(--blue); color: #fff; font-size: 8px; font-weight: 800; padding: 1px 6px; border-radius: 20px; white-space: nowrap; letter-spacing: .3px; }
+  .ep-footer { padding: 14px 22px; border-top: 1px solid rgba(255,255,255,.06); display: flex; gap: 8px; background: rgba(0,0,0,.4); flex-shrink: 0; }
+
+  /* Genre chips */
+  .genre-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  .genre-chip { display: flex; align-items: center; gap: 5px; background: rgba(255,255,255,.04); padding: 4px 11px; border-radius: 20px; cursor: pointer; transition: all .2s; }
+
+  /* Filter row */
+  .filter-row { display: flex; gap: 8px; margin-bottom: 13px; flex-wrap: wrap; }
+  .filter-row input { max-width: 220px; }
+
+  /* Form */
+  .add-form { background: rgba(192,132,252,.05); border: 1px solid rgba(192,132,252,.25); border-radius: 16px; padding: 15px; margin-bottom: 13px; }
+  .add-form-grid { display: grid; grid-template-columns: 2fr 1fr 1fr 65px 65px; gap: 7px; margin-bottom: 9px; }
+
+  /* Empty state */
+  .empty { text-align: center; padding: 50px 20px; color: var(--muted); }
+  .empty-icon { font-size: 36px; margin-bottom: 10px; }
+
+  /* Shimmer */
+  .shimmer { background: linear-gradient(90deg, rgba(255,255,255,.03) 25%, rgba(192,132,252,.07) 50%, rgba(255,255,255,.03) 75%); background-size: 200% 100%; animation: shimmer 1.5s infinite; border-radius: 14px; aspect-ratio: 2/3; }
+
+  /* Pulsing */
+  .pulsing { animation: pulse 1.4s ease-in-out infinite; }
+
+  /* Filters button group */
+  .filter-btns { display: flex; gap: 5px; flex-wrap: wrap; }
+
+  a { text-decoration: none; }
+
+  @media (max-width: 600px) {
+    .stats-grid { grid-template-columns: repeat(2,1fr); }
+    .add-form-grid { grid-template-columns: 1fr 1fr; }
+    nav .tab-btn { padding: 8px 10px; font-size: 12px; }
+    .poster-grid { grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); }
+  }
+</style>
+</head>
+<body>
+
+<div class="orb orb1"></div>
+<div class="orb orb2"></div>
+
+<!-- Header -->
+<header>
+  <div class="logo">
+    <div class="logo-jp">アニメ</div>
+    <div>
+      <div class="logo-title">AniTrack</div>
+      <div class="logo-sub">AnimeHeaven.me</div>
+    </div>
+  </div>
+  <nav>
+    <button class="tab-btn active" onclick="setTab('nouveautes')">🔥 Nouveautés</button>
+    <button class="tab-btn" onclick="setTab('decouverte')">✨ Découverte</button>
+    <button class="tab-btn" onclick="setTab('liste')">📚 Ma Liste</button>
+  </nav>
+</header>
+
+<main>
+
+  <!-- ══ NOUVEAUTÉS ══ -->
+  <div id="tab-nouveautes" class="tab-content active">
+    <div style="display:flex;justify-content:space-between;align-items:flex-end;margin-bottom:16px;flex-wrap:wrap;gap:12px">
+      <div>
+        <div style="display:flex;align-items:center;gap:9px;margin-bottom:4px">
+          <h2 style="font-size:19px;font-weight:900">🔥 Nouveautés AnimeHeaven</h2>
+          <span class="live-badge">● LIVE</span>
+        </div>
+        <p style="color:var(--muted);font-size:12px" id="ah-status">Chargement...</p>
+      </div>
+      <div class="filter-btns" id="genre-filters-ah"></div>
+    </div>
+    <div style="font-size:11px;color:var(--muted);font-weight:700;margin-bottom:13px;letter-spacing:1px;text-transform:uppercase" id="ah-count"></div>
+    <div class="poster-grid" id="poster-grid"></div>
+  </div>
+
+  <!-- ══ DÉCOUVERTE ══ -->
+  <div id="tab-decouverte" class="tab-content">
+    <div style="margin-bottom:18px">
+      <h2 style="font-size:19px;font-weight:900;margin-bottom:5px">✨ Suggestions IA</h2>
+      <p style="color:var(--muted);font-size:13px">L'IA croise tes animés vus + les diffusions AnimeHeaven.</p>
+    </div>
+    <div class="card" style="margin-bottom:18px;display:flex;gap:12px;align-items:flex-end;flex-wrap:wrap;background:rgba(192,132,252,.04);border-color:rgba(192,132,252,.2)">
+      <div style="flex:1;min-width:160px">
+        <div style="font-size:11px;color:var(--muted);margin-bottom:6px;font-weight:700;text-transform:uppercase;letter-spacing:1px">Genre</div>
+        <select id="sug-genre" style="width:100%">
+          <option value="isekai">⚡ Isekai</option>
+          <option value="shonen">🔥 Shōnen</option>
+          <option value="seinen">🌑 Seinen</option>
+          <option value="fantasy">🗡️ Fantasy / Aventure</option>
+          <option value="romance">🌸 Romance / SoL</option>
+          <option value="horreur">💀 Horreur / Thriller</option>
+          <option value="sport">⚽ Sport</option>
+          <option value="mecha">🤖 Mecha / Sci-Fi</option>
+        </select>
+      </div>
+      <button class="btn-primary" id="sug-btn" onclick="getSuggestions()" style="padding:11px 26px;font-size:14px">🎯 Générer</button>
+    </div>
+    <div id="sug-loading" style="display:none" class="poster-grid">
+      <div class="shimmer"></div><div class="shimmer"></div><div class="shimmer"></div>
+      <div class="shimmer"></div><div class="shimmer"></div><div class="shimmer"></div>
+    </div>
+    <div class="sug-grid" id="sug-grid"></div>
+    <div id="sug-empty" class="empty">
+      <div class="empty-icon">🎯</div>
+      <div style="font-size:15px;font-weight:700">Choisis un genre et génère tes suggestions</div>
+    </div>
+  </div>
+
+  <!-- ══ MA LISTE ══ -->
+  <div id="tab-liste" class="tab-content">
+    <div class="stats-grid" id="stats-grid"></div>
+    <div class="card" style="margin-bottom:13px;padding:12px 15px">
+      <div style="font-size:11px;color:var(--muted);font-weight:700;margin-bottom:8px;letter-spacing:1px;text-transform:uppercase">Par genre</div>
+      <div class="genre-chips" id="genre-chips-liste"></div>
+    </div>
+    <div class="filter-row">
+      <input type="text" id="search-input" placeholder="🔍 Rechercher..." oninput="renderListe()" style="max-width:220px">
+      <select id="filter-genre" onchange="renderListe()">
+        <option value="tous">Tous les genres</option>
+        <option value="isekai">⚡ Isekai</option>
+        <option value="shonen">🔥 Shōnen</option>
+        <option value="seinen">🌑 Seinen</option>
+        <option value="fantasy">🗡️ Fantasy / Aventure</option>
+        <option value="romance">🌸 Romance / SoL</option>
+        <option value="horreur">💀 Horreur / Thriller</option>
+        <option value="sport">⚽ Sport</option>
+        <option value="mecha">🤖 Mecha / Sci-Fi</option>
+      </select>
+      <select id="filter-statut" onchange="renderListe()">
+        <option value="tous">Tous les statuts</option>
+        <option>Vu</option><option>En cours</option><option>À voir</option><option>Abandonné</option>
+      </select>
+      <button class="btn-primary" onclick="toggleForm()" style="margin-left:auto" id="add-btn">+ Ajouter</button>
+    </div>
+    <div class="add-form" id="add-form" style="display:none">
+      <div style="font-size:13px;font-weight:700;margin-bottom:10px;color:var(--accent)">✨ Nouvel animé</div>
+      <div class="add-form-grid">
+        <input type="text" id="new-titre" placeholder="Titre...">
+        <select id="new-genre">
+          <option value="isekai">⚡ Isekai</option>
+          <option value="shonen">🔥 Shōnen</option>
+          <option value="seinen">🌑 Seinen</option>
+          <option value="fantasy">🗡️ Fantasy</option>
+          <option value="romance">🌸 Romance</option>
+          <option value="horreur">💀 Horreur</option>
+          <option value="sport">⚽ Sport</option>
+          <option value="mecha">🤖 Mecha</option>
+        </select>
+        <select id="new-statut">
+          <option>À voir</option><option>En cours</option><option>Vu</option><option>Abandonné</option>
+        </select>
+        <input type="number" id="new-note" min="1" max="10" placeholder="/10" value="7">
+        <input type="number" id="new-ep" min="1" placeholder="Ep." value="12">
+      </div>
+      <button class="btn-primary" onclick="addAnime()">Ajouter ✓</button>
+    </div>
+    <div class="anime-list" id="anime-list"></div>
+  </div>
+
+</main>
+
+<!-- Episode Panel -->
+<div class="ep-overlay" id="ep-overlay" onclick="closePanel(event)">
+  <div class="ep-panel" id="ep-panel">
+    <div class="ep-header" id="ep-header">
+      <div class="ep-header-bg"><img id="ep-bg-img" src="" alt=""></div>
+      <div class="ep-header-inner">
+        <div class="ep-poster" id="ep-poster"></div>
+        <div class="ep-info" id="ep-info"></div>
+        <button class="ep-close" onclick="document.getElementById('ep-overlay').classList.remove('open')">✕</button>
+      </div>
+      <div class="ep-note-row" id="ep-note-row"></div>
+    </div>
+    <div class="ep-body">
+      <div style="font-size:11px;color:#475569;font-weight:700;letter-spacing:1px;text-transform:uppercase;margin-bottom:14px" id="ep-count-label"></div>
+      <div class="ep-grid" id="ep-grid"></div>
+    </div>
+    <div class="ep-footer">
+      <button class="btn-primary" style="flex:1;padding:10px 0" onclick="toggleAllEp('all')">✓ Tout marquer vu</button>
+      <button class="btn-secondary" style="flex:1;padding:10px 0" onclick="toggleAllEp('none')">○ Tout effacer</button>
+    </div>
+  </div>
+</div>
+
+<script>
+// ══ DATA ══
+const GENRES = {
+  isekai:  { label:"Isekai",            icon:"⚡", color:"#c084fc", keys:["isekai","reincarnated","another world","reborn","tensei","slime","farming life","vending machine","beginning after the end","petals of reincarnation"] },
+  shonen:  { label:"Shōnen",            icon:"🔥", color:"#f87171", keys:["fist","north star","one piece","rooster","kill blue","monster eater","all you need is kill","diamond no ace","jojo"] },
+  seinen:  { label:"Seinen",            icon:"🌑", color:"#94a3b8", keys:["classroom of the elite","dorohedoro","liar game","drops of god","eren","southpaw","needy girl"] },
+  fantasy: { label:"Fantasy / Aventure",icon:"🗡️", color:"#fbbf24", keys:["fantasy","adventure","sword","magic","witch","dungeon","sage","grancrest","wistoria","brave","scum","appraiser","stone","release that witch","great sage","ryddel","barbarian","record","daemons","shadow realm"] },
+  romance: { label:"Romance / SoL",     icon:"🌸", color:"#f472b6", keys:["romance","love","girl","angel","girlfriend","villainess","marriage","bride","fiancée","koi","pretty","klutzy","replica","meter","rent","otonari","botan","observation log","haibara","awajima","food diary","maid","gals","otaku","kirio","kujima","yowayowa","nakamura","always a catch","marika","mistress kanan"] },
+  horreur: { label:"Horreur / Thriller",icon:"💀", color:"#818cf8", keys:["horror","thriller","murder","ghost","killed again","detective","beyond twilight","kusunoki","ingoku","deviant","liar game","conan","mao"] },
+  sport:   { label:"Sport",             icon:"⚽", color:"#34d399", keys:["sport","baseball","diamond","ace","nakamura","always a catch"] },
+  mecha:   { label:"Mecha / Sci-Fi",    icon:"🤖", color:"#22d3ee", keys:["mecha","robot","science","digimon","pokemon","snowball earth","nippon sangoku","dr. stone","mission yozakura"] },
+};
+const CS = { "Vu":"#34d399","En cours":"#fbbf24","À voir":"#60a5fa","Abandonné":"#f87171" };
+const BACKEND_URL = "https://anitrack-beige.vercel.app/api/anime";
+
+const AH_FALLBACK = [
+  { titre:"Fist of the North Star (2026)", titreJp:"Hokuto no Ken", ep:4, ago:"8h", img:"ciyvs", ahId:"fpnp2" },
+  { titre:"Botan Kamiina Fully Blossoms When Drunk", titreJp:"Kamiina Botan, Yoeru Sugata wa Yuri no Hana", ep:2, ago:"8h", img:"sbyve", ahId:"b0vsk" },
+  { titre:"The Drops of God", titreJp:"Kami no Shizuku", ep:2, ago:"9h", img:"par8w", ahId:"m2zjn" },
+  { titre:"Snowball Earth", titreJp:"", ep:3, ago:"9h", img:"g0kk7", ahId:"3kfyx" },
+  { titre:"That Time I Got Reincarnated as a Slime Season 4", titreJp:"Tensei Shitara Slime Datta Ken S4", ep:3, ago:"10h", img:"pjoyd", ahId:"aplyf" },
+  { titre:"The Angel Next Door Spoils Me Rotten Season 2", titreJp:"Otonari no Tenshi-sama S2", ep:3, ago:"10h", img:"c3rqy", ahId:"ttcnk" },
+  { titre:"An Observation Log of My Fiancée Who Calls Herself a Villainess", titreJp:"Jishou Akuyaku Reijou na Konyakusha", ep:3, ago:"12h", img:"8ezmn", ahId:"nv9bp" },
+  { titre:"All You Need Is Kill", titreJp:"", ep:1, ago:"1j", img:"4kuek", ahId:"hev47" },
+  { titre:"Monster Eater", titreJp:"Mamonogurai no Boukensha", ep:3, ago:"1j", img:"anfea", ahId:"pi6yi" },
+  { titre:"Killed Again, Mr. Detective?", titreJp:"Mata Korosarete Shimatta", ep:3, ago:"1j", img:"j0cec", ahId:"0cwi8" },
+  { titre:"Haibara's Teenage New Game+", titreJp:"Haibara-kun no Tsuyokute Seishun New Game", ep:3, ago:"1j", img:"dw9gn", ahId:"7s4ze" },
+  { titre:"Petals of Reincarnation", titreJp:"Reincarnation no Kaben", ep:3, ago:"1j", img:"iideg", ahId:"b2ybn" },
+  { titre:"Dr. Stone: Science Future - Part III", titreJp:"", ep:3, ago:"1j", img:"oxfds", ahId:"xvd0a" },
+  { titre:"The Barbarian's Bride", titreJp:"Himekishi wa Barbaroi no Yome", ep:2, ago:"1j", img:"synxi", ahId:"hi6b1" },
+  { titre:"Record of Grancrest War", titreJp:"Grancrest Senki", ep:24, ago:"2j", img:"1zf4l", ahId:"lv7v8" },
+  { titre:"The Beginning After the End Season 2", titreJp:"Saikyou no Ousama S2", ep:3, ago:"2j", img:"zmy4z", ahId:"fv1vj" },
+  { titre:"Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season", titreJp:"Jidouhanbaiki ni Umarekawatta S3", ep:3, ago:"2j", img:"cirfw", ahId:"5iqzo" },
+  { titre:"Dorohedoro 2", titreJp:"", ep:5, ago:"2j", img:"t71fe", ahId:"pgjgh" },
+  { titre:"Re:ZERO: Starting Life in Another World Season 4", titreJp:"Re:Zero kara Hajimeru Isekai Seikatsu S4", ep:2, ago:"2j", img:"7tc0j", ahId:"ilp9j" },
+  { titre:"Rent-a-Girlfriend Season 5", titreJp:"Kanojo, Okarishimasu 5th Season", ep:2, ago:"2j", img:"7nqj7", ahId:"i0kd0" },
+  { titre:"Classroom of the Elite 4th Season", titreJp:"Youkoso Jitsuryoku Shijou S4", ep:6, ago:"2j", img:"npea5", ahId:"nzwhr" },
+  { titre:"My Ribdiculous Reincarnation", titreJp:"Megami Isekai Tensei", ep:2, ago:"3j", img:"27pp6", ahId:"xw4de" },
+  { titre:"Release That Witch", titreJp:"Fangkai Nage Nuwu", ep:7, ago:"4j", img:"54d5g", ahId:"fwe7e" },
+  { titre:"Witch Hat Atelier", titreJp:"Tongari Boushi no Atelier", ep:3, ago:"4j", img:"6rlo7", ahId:"df4in" },
+  { titre:"Farming Life in Another World 2", titreJp:"Isekai Nonbiri Nouka 2", ep:2, ago:"4j", img:"b7en4", ahId:"fae6d" },
+  { titre:"One Piece", titreJp:"", ep:1157, ago:"5j", img:"zbt7y", ahId:"1ht8d" },
+  { titre:"Wistoria: Wand and Sword 2nd Season", titreJp:"Tsue to Tsurugi no Wistoria S2", ep:1, ago:"5j", img:"h6l0c", ahId:"y98v5" },
+  { titre:"Rooster Fighter", titreJp:"Niwatori Fighter", ep:5, ago:"5j", img:"vy576", ahId:"uni0y" },
+  { titre:"Scum of the Brave", titreJp:"Yuusha no Kuzu", ep:13, ago:"6j", img:"97302", ahId:"oxx6c" },
+  { titre:"Daemons of The Shadow Realm", titreJp:"Yomi no Tsugai", ep:2, ago:"6j", img:"dks5o", ahId:"pm96z" },
+  { titre:"Kill Blue", titreJp:"Kill Ao", ep:1, ago:"6j", img:"dns6b", ahId:"y5v48" },
+  { titre:"Welcome to Demon School, Iruma-kun 4", titreJp:"Mairimashita! Iruma-kun 4", ep:2, ago:"6j", img:"lkpy4", ahId:"amsff" },
+  { titre:"Detective Conan", titreJp:"Meitantei Conan", ep:1197, ago:"6j", img:"lx86z", ahId:"y9prb" },
+];
+
+let animes = JSON.parse(localStorage.getItem('anitrack-animes') || 'null') || [
+  { id:1, titre:"Re:Zero", genre:"isekai", statut:"Vu", note:9, img:"7tc0j", ahId:"ilp9j", totalEp:25, watched:[] },
+  { id:2, titre:"Sword Art Online", genre:"isekai", statut:"Vu", note:7, img:null, ahId:null, totalEp:25, watched:[] },
+  { id:3, titre:"That Time I Got Reincarnated as a Slime S4", genre:"isekai", statut:"En cours", note:8, img:"pjoyd", ahId:"aplyf", totalEp:3, watched:[1,2] },
+  { id:4, titre:"Attack on Titan", genre:"shonen", statut:"Vu", note:10, img:null, ahId:null, totalEp:87, watched:[] },
+  { id:5, titre:"Jujutsu Kaisen", genre:"shonen", statut:"En cours", note:9, img:null, ahId:null, totalEp:23, watched:[1,2,3,4,5,6,7,8,9,10] },
+];
+
+let ahData = AH_FALLBACK;
+let ahFilter = "tous";
+let currentPanelId = null;
+
+// ══ UTILS ══
+function save() { localStorage.setItem('anitrack-animes', JSON.stringify(animes)); }
+function imgUrl(c) { return c ? `https://anitrack-beige.vercel.app/api/anime?img=${c}` : null; }
+function getJikanImg(titre) { return `https://img.anili.st/media/${encodeURIComponent(titre)}`; }
+function pageUrl(id) { return id ? `https://animeheaven.me/anime.php?${id}=` : null; }
+function gId(titre) {
+  const l = titre.toLowerCase();
+  for (const [id, g] of Object.entries(GENRES)) if (g.keys.some(k => l.includes(k))) return id;
+  return "fantasy";
+}
+function isNew(a) { return a.ago && a.ago.includes("h"); }
+function getG(id) { return GENRES[id] || GENRES.fantasy; }
+
+// ══ TABS ══
+function setTab(t) {
+  document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
+  document.querySelectorAll('.tab-btn').forEach(el => el.classList.remove('active'));
+  document.getElementById('tab-' + t).classList.add('active');
+  document.querySelectorAll('.tab-btn')[['nouveautes','decouverte','liste'].indexOf(t)].classList.add('active');
+  if (t === 'liste') { renderStats(); renderGenreChips(); renderListe(); }
+}
+
+// ══ LOAD AH DATA ══
+async function loadAH() {
+  document.getElementById('ah-status').textContent = 'Chargement live...';
+  try {
+    const r = await fetch(BACKEND_URL);
+    const d = await r.json();
+    if (d.animes && d.animes.length > 0) {
+      ahData = d.animes;
+      const t = d.updatedAt ? new Date(d.updatedAt).toLocaleString('fr-FR',{day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'}) : '';
+      document.getElementById('ah-status').innerHTML = `<span style="color:#34d399">● Live${t ? ' · ' + t : ''}</span>`;
+    } else {
+      document.getElementById('ah-status').innerHTML = `<span style="color:#64748b">Données du 18/04/2026</span>`;
+    }
+  } catch {
+    document.getElementById('ah-status').innerHTML = `<span style="color:#64748b">Données du 18/04/2026</span>`;
+  }
+  renderGenreFiltersAH();
+  renderPosters();
+}
+
+// ══ GENRE FILTERS (Nouveautés) ══
+function renderGenreFiltersAH() {
+  const c = document.getElementById('genre-filters-ah');
+  c.innerHTML = '';
+  const btn = (label, val) => {
+    const b = document.createElement('button');
+    b.className = 'btn-secondary';
+    b.textContent = label;
+    b.style.borderColor = ahFilter === val ? '#f87171' : '';
+    b.style.color = ahFilter === val ? '#f87171' : '';
+    b.onclick = () => { ahFilter = ahFilter === val ? 'tous' : val; renderGenreFiltersAH(); renderPosters(); };
+    c.appendChild(b);
+  };
+  btn(`🕐 Aujourd'hui (${ahData.filter(a=>isNew(a)).length})`, 'today');
+  Object.entries(GENRES).forEach(([id,g]) => btn(`${g.icon} ${g.label}`, id));
+  if (ahFilter !== 'tous') btn('✕ Tout', '__clear__');
+}
+
+// ══ RENDER POSTERS ══
+function renderPosters() {
+  const grid = document.getElementById('poster-grid');
+  grid.innerHTML = '';
+  const filtered = ahData.filter(a => {
+    if (ahFilter === 'today') return isNew(a);
+    if (ahFilter !== 'tous' && ahFilter !== '__clear__') return gId(a.titre) === ahFilter;
+    return true;
+  });
+  document.getElementById('ah-count').textContent = `${filtered.length} animés`;
+  filtered.forEach((a, i) => {
+    const g = getG(gId(a.titre));
+    const added = animes.some(x => x.titre.toLowerCase() === a.titre.toLowerCase());
+    const div = document.createElement('div');
+    div.className = 'poster-card';
+    div.style.animationDelay = `${Math.min(i * .025, .6)}s`;
+    div.style.boxShadow = `0 4px 14px rgba(0,0,0,.5)`;
+    div.onmouseenter = () => { div.style.boxShadow = `0 20px 50px rgba(0,0,0,.7), 0 0 24px ${g.color}33`; div.style.borderColor = g.color + '88'; };
+    div.onmouseleave = () => { div.style.boxShadow = `0 4px 14px rgba(0,0,0,.5)`; div.style.borderColor = 'rgba(255,255,255,.07)'; };
+
+    const url = imgUrl(a.img);
+    div.innerHTML = `
+      ${url ? `<img src="${url}" alt="${a.titre}" onerror="this.style.display='none'">` : ''}
+      <div class="poster-fallback" style="background:linear-gradient(135deg,${g.color}33,#0d0e1a);${url?'display:none':''}">${g.icon}</div>
+      ${isNew(a) ? '<div class="poster-new">NEW</div>' : ''}
+      <div class="poster-ep">Ep.${a.ep}</div>
+      <div class="poster-overlay">
+        <div class="poster-title">${a.titre}</div>
+        ${a.titreJp ? `<div class="poster-jp">${a.titreJp}</div>` : ''}
+        <div style="display:flex;gap:5px;margin-bottom:9px">
+          <span class="badge" style="background:${g.color}33;color:${g.color}">${g.icon} ${g.label}</span>
+          <span class="badge" style="background:rgba(255,255,255,.08);color:#94a3b8">il y a ${a.ago}</span>
+        </div>
+        <div class="poster-actions">
+          <button class="btn-primary" style="flex:1;padding:8px 0;font-size:11px;${added?'background:rgba(52,211,153,.2);color:#34d399;border:1px solid rgba(52,211,153,.3)':''}"
+            onclick="event.stopPropagation();addFromAH(${JSON.stringify(a).replace(/"/g,'&quot;')})">
+            ${added ? '✓ Ajouté' : '+ Ma liste'}
+          </button>
+          <button onclick="event.stopPropagation();watchOnAH(${JSON.stringify(a).replace(/"/g,'&quot;')})"
+            style="width:36px;display:flex;align-items:center;justify-content:center;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.15);border-radius:9px;color:#fff;font-size:14px;cursor:pointer;font-family:inherit"
+            title="Ouvrir sur AH + marquer épisodes vus">🔗</button>
+        </div>
+      </div>
+      <div class="poster-label"><div class="poster-title-static">${a.titre}</div></div>
+    `;
+    grid.appendChild(div);
+  });
+}
+
+// ══ ADD FROM AH ══
+function addFromAH(a) {
+  if (typeof a === 'string') a = JSON.parse(a);
+  if (animes.some(x => x.titre.toLowerCase() === a.titre.toLowerCase())) return;
+  animes.push({ id: Date.now(), titre: a.titre, genre: gId(a.titre), statut: "À voir", note: 7, img: a.img, ahId: a.ahId, totalEp: a.ep, watched: [] });
+  save(); renderPosters();
+}
+
+function watchOnAH(a) {
+  if (typeof a === 'string') a = JSON.parse(a);
+  window.open(pageUrl(a.ahId), '_blank');
+  const allW = Array.from({length: a.ep}, (_, i) => i + 1);
+  const existing = animes.find(x => x.titre.toLowerCase() === a.titre.toLowerCase());
+  if (existing) { existing.watched = allW; existing.statut = "En cours"; }
+  else animes.push({ id: Date.now(), titre: a.titre, genre: gId(a.titre), statut: "En cours", note: 7, img: a.img, ahId: a.ahId, totalEp: a.ep, watched: allW });
+  save(); renderPosters();
+}
+
+// ══ STATS ══
+function renderStats() {
+  const vus = animes.filter(a=>a.statut==="Vu").length;
+  const enCours = animes.filter(a=>a.statut==="En cours").length;
+  const aVoir = animes.filter(a=>a.statut==="À voir").length;
+  document.getElementById('stats-grid').innerHTML = [
+    {l:"Total",v:animes.length,c:"#c084fc",i:"📺"},
+    {l:"Vus",v:vus,c:"#34d399",i:"✅"},
+    {l:"En cours",v:enCours,c:"#fbbf24",i:"▶️"},
+    {l:"À voir",v:aVoir,c:"#60a5fa",i:"🔖"},
+  ].map(s => `<div class="stat-card"><div style="font-size:20px;margin-bottom:3px">${s.i}</div><div class="stat-val" style="color:${s.c}">${s.v}</div><div class="stat-label">${s.l}</div></div>`).join('');
+}
+
+// ══ GENRE CHIPS ══
+function renderGenreChips() {
+  const c = document.getElementById('genre-chips-liste');
+  const fg = document.getElementById('filter-genre').value;
+  c.innerHTML = Object.entries(GENRES).map(([id,g]) => {
+    const count = animes.filter(a=>a.genre===id).length;
+    const active = fg === id;
+    return `<div class="genre-chip" style="border:1px solid ${active?g.color:g.color+'22'}" onclick="document.getElementById('filter-genre').value='${active?'tous':id}';renderListe();renderGenreChips()">
+      <span style="font-size:11px">${g.icon}</span>
+      <span style="font-size:11px;font-weight:600;color:${active?g.color:'#64748b'}">${g.label}</span>
+      <span style="font-size:11px;color:var(--muted);background:rgba(255,255,255,.06);padding:0 5px;border-radius:10px;font-weight:700">${count}</span>
+    </div>`;
+  }).join('');
+}
+
+// ══ RENDER LISTE ══
+function renderListe() {
+  renderStats(); renderGenreChips();
+  const search = document.getElementById('search-input').value.toLowerCase();
+  const fg = document.getElementById('filter-genre').value;
+  const fs = document.getElementById('filter-statut').value;
+  const filtered = animes.filter(a =>
+    (fg==='tous'||a.genre===fg) && (fs==='tous'||a.statut===fs) && a.titre.toLowerCase().includes(search)
+  );
+  const list = document.getElementById('anime-list');
+  if (filtered.length === 0) {
+    list.innerHTML = `<div class="empty"><div class="empty-icon">📭</div><div style="font-weight:600">Aucun animé trouvé.</div></div>`;
+    return;
+  }
+  list.innerHTML = filtered.map(a => {
+    const g = getG(a.genre);
+    const w = a.watched || [];
+    const pct = a.totalEp > 0 ? Math.round(w.length / a.totalEp * 100) : 0;
+    const lastW = w.length > 0 ? Math.max(...w) : 0;
+    const url = imgUrl(a.img);
+    return `<div class="anime-card">
+      <div class="anime-card-inner">
+        <div class="anime-poster-strip">
+          ${url ? `<img src="${url}" onerror="this.style.display='none'">` : `<div style="width:100%;height:100%;background:${g.color}22;display:flex;align-items:center;justify-content:center;font-size:20px">${g.icon}</div>`}
+          <div class="anime-poster-strip-fade"></div>
+        </div>
+        <div class="anime-info">
+          <div class="anime-title">${a.titre}</div>
+          <div class="anime-badges">
+            <span class="badge" style="background:${g.color}22;color:${g.color}">${g.icon} ${g.label}</span>
+            <span class="badge" style="background:${CS[a.statut]}22;color:${CS[a.statut]}">${a.statut}</span>
+          </div>
+          <div class="anime-progress">
+            <div class="progress-bar"><div class="progress-fill" style="width:${pct}%;background:${g.color}"></div></div>
+            <span class="progress-text">${w.length}/${a.totalEp} ep.</span>
+            ${lastW > 0 && lastW < a.totalEp ? `<span class="progress-next">→ Ép.${lastW+1}</span>` : ''}
+          </div>
+        </div>
+        <div class="anime-actions">
+          <div class="anime-score">⭐ ${a.note}</div>
+          <button class="btn-primary" style="padding:7px 13px;font-size:12px;white-space:nowrap" onclick="openPanel(${a.id})">📋 Épisodes</button>
+          <button onclick="deleteAnime(${a.id})" style="background:rgba(248,113,113,.08);color:#f87171;border:1px solid rgba(248,113,113,.2);width:30px;height:30px;border-radius:8px;cursor:pointer;font-family:inherit;font-size:13px;display:flex;align-items:center;justify-content:center">🗑</button>
+        </div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function deleteAnime(id) { animes = animes.filter(a => a.id !== id); save(); renderListe(); }
+
+// ══ ADD ANIME ══
+function toggleForm() {
+  const f = document.getElementById('add-form');
+  const b = document.getElementById('add-btn');
+  const open = f.style.display !== 'none';
+  f.style.display = open ? 'none' : 'block';
+  b.textContent = open ? '+ Ajouter' : '✕ Annuler';
+}
+function addAnime() {
+  const titre = document.getElementById('new-titre').value.trim();
+  if (!titre) return;
+  const ahM = AH_FALLBACK.find(x => x.titre.toLowerCase().includes(titre.toLowerCase().slice(0,12)));
+  animes.push({
+    id: Date.now(), titre,
+    genre: document.getElementById('new-genre').value,
+    statut: document.getElementById('new-statut').value,
+    note: parseInt(document.getElementById('new-note').value) || 7,
+    totalEp: parseInt(document.getElementById('new-ep').value) || 12,
+    img: ahM?.img || null, ahId: ahM?.ahId || null, watched: []
+  });
+  save(); renderListe();
+  document.getElementById('new-titre').value = '';
+  toggleForm();
+}
+
+// ══ EPISODE PANEL ══
+function openPanel(id) {
+  currentPanelId = id;
+  renderPanel();
+  document.getElementById('ep-overlay').classList.add('open');
+}
+function closePanel(e) {
+  if (e.target === document.getElementById('ep-overlay')) document.getElementById('ep-overlay').classList.remove('open');
+}
+function renderPanel() {
+  const a = animes.find(x => x.id === currentPanelId);
+  if (!a) return;
+  const g = getG(a.genre);
+  const w = a.watched || [];
+  const lastW = w.length > 0 ? Math.max(...w) : 0;
+  const pct = a.totalEp > 0 ? Math.round(w.length / a.totalEp * 100) : 0;
+  const nextEp = lastW < a.totalEp ? lastW + 1 : null;
+  const url = imgUrl(a.img);
+
+  // Panel border
+  document.getElementById('ep-panel').style.border = `1px solid ${g.color}44`;
+  document.getElementById('ep-panel').style.boxShadow = `0 0 80px ${g.color}15, 0 40px 80px rgba(0,0,0,.9)`;
+
+  // Header bg
+  document.getElementById('ep-header').style.background = `linear-gradient(135deg,${g.color}18,transparent 60%)`;
+  const bgImg = document.getElementById('ep-bg-img');
+  if (url) { bgImg.src = url; bgImg.style.display = ''; } else bgImg.style.display = 'none';
+
+  // Poster
+  document.getElementById('ep-poster').style.border = `2px solid ${g.color}55`;
+  document.getElementById('ep-poster').innerHTML = url
+    ? `<img src="${url}" alt="${a.titre}" style="width:100%;height:100%;object-fit:cover">`
+    : `<div style="width:100%;height:100%;background:${g.color}22;display:flex;align-items:center;justify-content:center;font-size:26px">${g.icon}</div>`;
+
+  // Info
+  document.getElementById('ep-info').innerHTML = `
+    <div class="ep-anime-title">${a.titre}</div>
+    <div style="display:flex;gap:5px;flex-wrap:wrap;margin-bottom:12px">
+      <span class="badge" style="background:${g.color}22;color:${g.color}">${g.icon} ${g.label}</span>
+      <span class="badge" style="background:${CS[a.statut]}22;color:${CS[a.statut]}">${a.statut}</span>
+      ${a.ahId ? `<a href="${pageUrl(a.ahId)}" target="_blank" onclick="toggleAllEp('all')" class="badge" style="background:rgba(255,255,255,.06);color:#94a3b8;cursor:pointer">🔗 AnimeHeaven</a>` : ''}
+    </div>
+    <div style="margin-bottom:8px">
+      <div style="display:flex;justify-content:space-between;font-size:11px;color:#64748b;margin-bottom:4px">
+        <span>${w.length} / ${a.totalEp} épisodes vus</span>
+        <span style="color:${pct===100?'#34d399':g.color};font-weight:700">${pct}%</span>
+      </div>
+      <div class="ep-progress-bar"><div class="ep-progress-fill" style="width:${pct}%;background:linear-gradient(90deg,${g.color},${g.color}88)"></div></div>
+    </div>
+    ${nextEp ? `<div style="font-size:11px;color:#60a5fa;font-weight:600">→ Prochain : Épisode ${nextEp}</div>` : ''}
+  `;
+
+  // Note
+  document.getElementById('ep-note-row').innerHTML = `
+    <span style="font-size:11px;color:#64748b;font-weight:600;flex-shrink:0">Note :</span>
+    ${[1,2,3,4,5,6,7,8,9,10].map(n => `
+      <button class="ep-note-btn" onclick="updateNote(${n})"
+        style="background:${n<=a.note?g.color:'rgba(255,255,255,.06)'};color:${n<=a.note?'#fff':'#475569'}">${n}</button>
+    `).join('')}
+  `;
+
+  // Episodes
+  document.getElementById('ep-count-label').textContent = `${a.totalEp} épisodes — coche ceux que tu as regardés`;
+  const grid = document.getElementById('ep-grid');
+  grid.innerHTML = '';
+  for (let n = 1; n <= a.totalEp; n++) {
+    const seen = w.includes(n);
+    const isNext = n === nextEp;
+    const btn = document.createElement('button');
+    btn.className = 'ep-btn';
+    btn.style.border = `2px solid ${seen ? g.color : isNext ? 'rgba(96,165,250,.35)' : 'rgba(255,255,255,.07)'}`;
+    btn.style.background = seen ? `${g.color}18` : isNext ? 'rgba(96,165,250,.07)' : 'rgba(255,255,255,.025)';
+    btn.innerHTML = `
+      ${isNext ? '<span class="ep-next-badge">SUIVANT</span>' : ''}
+      <div class="ep-check" style="background:${seen?g.color:'rgba(255,255,255,.06)'};border-color:${seen?g.color:isNext?'rgba(96,165,250,.4)':'rgba(255,255,255,.1)'};color:${seen?'#fff':isNext?'#60a5fa':'#2d3748'}">
+        ${seen ? '✓' : '○'}
+      </div>
+      <span class="ep-num" style="color:${seen?g.color:isNext?'#60a5fa':'#475569'}">Ép. ${n}</span>
+    `;
+    btn.onclick = () => toggleEp(n);
+    grid.appendChild(btn);
+  }
+}
+
+function toggleEp(n) {
+  const a = animes.find(x => x.id === currentPanelId);
+  if (!a) return;
+  const w = a.watched || [];
+  a.watched = w.includes(n) ? w.filter(x => x !== n) : [...w, n];
+  const allDone = a.watched.length === a.totalEp;
+  a.statut = allDone ? "Vu" : a.watched.length > 0 ? "En cours" : a.statut;
+  save(); renderPanel();
+}
+
+function toggleAllEp(val) {
+  const a = animes.find(x => x.id === currentPanelId);
+  if (!a) return;
+  if (val === 'all') { a.watched = Array.from({length:a.totalEp},(_,i)=>i+1); a.statut = "Vu"; }
+  else { a.watched = []; a.statut = "À voir"; }
+  save(); renderPanel();
+}
+
+function updateNote(n) {
+  const a = animes.find(x => x.id === currentPanelId);
+  if (a) { a.note = n; save(); renderPanel(); }
+}
+
+// ══ SUGGESTIONS IA ══
+async function getSuggestions() {
+  const btn = document.getElementById('sug-btn');
+  const loading = document.getElementById('sug-loading');
+  const grid = document.getElementById('sug-grid');
+  const empty = document.getElementById('sug-empty');
+  btn.disabled = true; btn.innerHTML = '<span class="pulsing">⚡ Génération...</span>';
+  loading.style.display = 'grid'; grid.innerHTML = ''; empty.style.display = 'none';
+
+  const sugG = document.getElementById('sug-genre').value;
+  const g = getG(sugG);
+  const vus = animes.filter(a=>a.statut==="Vu").map(a=>a.titre).join(', ') || 'aucun';
+  const ahList = ahData.filter(a=>gId(a.titre)===sugG).map(a=>a.titre).slice(0,5).join(', ');
+  const prompt = `Tu es un expert anime. Suggère 6 animés du genre "${g.label}" à quelqu'un qui a vu : ${vus}. En cours sur AnimeHeaven : ${ahList||'aucun'}. Réponds UNIQUEMENT en JSON tableau sans markdown : [{"titre":"...","annee":2025,"studio":"...","episodes":12,"synopsis":"1-2 phrases","pourquoi":"raison courte","note":8.5,"enCours":true}]`;
+
+  try {
+    const res = await fetch("https://api.anthropic.com/v1/messages", {
+      method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ model:"claude-sonnet-4-20250514", max_tokens:1200, messages:[{role:"user",content:prompt}] })
+    });
+    const d = await res.json();
+    const raw = d.content?.map(b=>b.text||'').join('') || '[]';
+    const sug = JSON.parse(raw.replace(/```json|```/g,'').trim());
+    loading.style.display = 'none';
+    grid.innerHTML = sug.map(s => {
+      const added = animes.some(a => a.titre.toLowerCase() === s.titre?.toLowerCase());
+      return `<div class="sug-card" style="border:1px solid ${g.color}33">
+        <div class="sug-top" style="background:linear-gradient(90deg,${g.color},transparent)"></div>
+        <div style="display:flex;justify-content:space-between;margin-bottom:8px">
+          <div class="sug-title">${s.titre}</div>
+          <div style="display:flex;flex-direction:column;align-items:flex-end;gap:3px;flex-shrink:0">
+            ${s.enCours?'<span class="badge" style="background:linear-gradient(90deg,#f87171,#fbbf24);color:#fff;font-size:9px">LIVE</span>':''}
+            ${s.note>0?`<span style="color:#fbbf24;font-weight:800;font-size:13px">⭐${s.note}</span>`:''}
+          </div>
+        </div>
+        <div class="sug-meta">
+          ${[s.annee,s.studio,s.episodes?s.episodes+' ep.':null].filter(Boolean).map(x=>`<span class="badge" style="background:rgba(255,255,255,.06);color:#94a3b8">${x}</span>`).join('')}
+        </div>
+        <p class="sug-synopsis">${s.synopsis}</p>
+        ${s.pourquoi?`<div class="sug-why" style="color:${g.color};background:${g.color}11">💡 ${s.pourquoi}</div>`:''}
+        <button class="btn-primary" style="width:100%;padding:8px;font-size:12px;${added?'opacity:.5':''}" ${added?'disabled':''} onclick="addFromSug(${JSON.stringify(s).replace(/"/g,'&quot;')})">
+          ${added?'✓ Dans ta liste':'+ Ajouter'}
+        </button>
+      </div>`;
+    }).join('');
+  } catch {
+    loading.style.display = 'none';
+    grid.innerHTML = '<div style="color:#f87171;padding:20px">Erreur. Réessaie !</div>';
+  }
+  btn.disabled = false; btn.textContent = '🎯 Générer';
+}
+
+function addFromSug(s) {
+  if (typeof s === 'string') s = JSON.parse(s);
+  if (animes.some(a => a.titre.toLowerCase() === s.titre?.toLowerCase())) return;
+  const sugG = document.getElementById('sug-genre').value;
+  animes.push({ id:Date.now(), titre:s.titre, genre:sugG, statut:"À voir", note:Math.round(s.note)||7, img:null, ahId:null, totalEp:s.episodes||12, watched:[] });
+  save();
+}
+
+// ══ INIT ══
+loadAH();
+</script>
+</body>
+</html>
