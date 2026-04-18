@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "MAO",
+      "titreJp": "",
+      "ep": 1,
+      "ago": "?",
+      "img": "topci",
+      "ahId": "o8996"
+    },
+    {
+      "titre": "Kill Blue",
+      "titreJp": "",
+      "ep": 1,
+      "ago": "?",
+      "img": "dns6b",
+      "ahId": "qw2g9"
+    },
+    {
+      "titre": "The Great Sage Ryddel and the Hands of Time",
+      "titreJp": "Kill Ao",
+      "ep": 1,
+      "ago": "2h",
+      "img": "tl46m",
+      "ahId": "y5v48"
+    },
+    {
       "titre": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
       "titreJp": "Daikenja Riddle no Jikan Gyakko",
       "ep": 1,
-      "ago": "2h",
+      "ago": "3h",
       "img": "hnxbm",
       "ahId": "rf6nw"
     },
@@ -12,7 +36,7 @@
       "titre": "Yowayowa Teacher",
       "titreJp": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
       "ep": 1,
-      "ago": "2h",
+      "ago": "3h",
       "img": "b6f8i",
       "ahId": "ayudj"
     },
@@ -25,18 +49,18 @@
       "ahId": "pijt4"
     },
     {
-      "titre": "Welcome to Demon School, Iruma-kun 4",
+      "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1,
-      "ago": "4h",
-      "img": "lkpy4",
+      "ago": "5h",
+      "img": "pjoyd",
       "ahId": "y9prb"
     },
     {
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 1,
-      "ago": "5h",
+      "ago": "6h",
       "img": "2m22z",
       "ahId": "amsff"
     },
@@ -44,16 +68,16 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 1,
-      "ago": "6h",
+      "ago": "7h",
       "img": "9fsft",
       "ahId": "yeyrm"
     },
     {
-      "titre": "That Time I Got Reincarnated as a Slime Season 4",
+      "titre": "Fist of the North Star (2026)",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 1,
-      "ago": "8h",
-      "img": "pjoyd",
+      "ago": "9h",
+      "img": "ciyvs",
       "ahId": "9v661"
     },
     {
@@ -68,7 +92,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 1,
-      "ago": "23h",
+      "ago": "1d",
       "img": "par8w",
       "ahId": "b0vsk"
     },
@@ -148,7 +172,7 @@
       "titre": "Kirio Fan Club",
       "titreJp": "Reincarnation no Kaben",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "f7jfv",
       "ahId": "b2ybn"
     },
@@ -156,7 +180,7 @@
       "titre": "The Ramparts of Ice",
       "titreJp": "",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "cs30h",
       "ahId": "ji7g1"
     },
@@ -212,7 +236,7 @@
       "titre": "Always a Catch!",
       "titreJp": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "r9hz4",
       "ahId": "fv1vj"
     },
@@ -220,7 +244,7 @@
       "titre": "Gals Can’t Be Kind to Otaku!?",
       "titreJp": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "j5umi",
       "ahId": "frlld"
     },
@@ -364,7 +388,7 @@
       "titre": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "titreJp": "",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "jh4do",
       "ahId": "l3kxg"
     },
@@ -404,7 +428,7 @@
       "titre": "One Piece",
       "titreJp": "Marika-chan no Koukando wa Bukkowareteiru",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "zbt7y",
       "ahId": "fsi1m"
     },
@@ -412,7 +436,7 @@
       "titre": "Ghost Concert: Missing Songs",
       "titreJp": "",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "1ljqb",
       "ahId": "1ht8d"
     },
@@ -495,25 +519,9 @@
       "ago": "6d",
       "img": "57g7m",
       "ahId": "oxx6c"
-    },
-    {
-      "titre": "Agents of the Four Seasons: Dance of Spring",
-      "titreJp": "Kami no Niwatsuki Kusunoki-tei",
-      "ep": 1,
-      "ago": "6d",
-      "img": "fxza8",
-      "ahId": "d696g"
-    },
-    {
-      "titre": "Mistress Kanan is Devilishly Easy",
-      "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
-      "ep": 1,
-      "ago": "6d",
-      "img": "8q6wl",
-      "ahId": "boii6"
     }
   ],
-  "updatedAt": "2026-04-18T16:09:34.069Z",
+  "updatedAt": "2026-04-18T16:50:12.066Z",
   "source": "github-actions",
-  "count": 64
+  "count": 65
 }
