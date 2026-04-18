@@ -18,4 +18,4 @@ Application de suivi d'animés avec scraping automatique d'AnimeHeaven.
 
 ## Déploiement
 
-Hébergé sur [Vercel](https://anitrack-beige.vercel.app) · Scraping automatique via GitHub Actions
+Hébergé sur [Vercel](https://anitrack-beige.vercel.app) · Scraping automatique via GitHub  Actions
