@@ -2,8 +2,8 @@ name: Scrape AnimeHeaven
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # Toutes les 10 minutes
-  workflow_dispatch:       # Déclenchement manuel possible
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
 
 jobs:
   scrape:
@@ -15,79 +15,80 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Scrape AnimeHeaven
+      - name: Scrape and parse AnimeHeaven
         run: |
           curl -s \
-            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36" \
+            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36" \
             -H "Accept: text/html,application/xhtml+xml" \
             -H "Accept-Language: en-US,en;q=0.9" \
             -H "Referer: https://animeheaven.me/" \
             "https://animeheaven.me/new.php" > /tmp/ah.html
           
-          node << 'EOF'
+          echo "HTML size: $(wc -c < /tmp/ah.html) bytes"
+          
+          node - << 'NODEEOF'
           const fs = require('fs');
           const html = fs.readFileSync('/tmp/ah.html', 'utf8');
           
+          console.log('HTML length:', html.length);
+          console.log('add.svg count:', (html.match(/add\.svg/g) || []).length);
+          
           const animes = [];
           const seen = new Set();
-          const blocks = html.split('/add.svg');
           
-          for (let i = 1; i < blocks.length; i++) {
-            const block = blocks[i];
-            const idMatch   = block.match(/anime\.php\?(\w+)/);
-            const imgMatch  = block.match(/image\.php\?(\w+)/);
-            const titleMatch = block.match(/alt="([^"]+)"/);
-            const epMatch   = block.match(/^\s*(\d+)\s*$/m);
-            const timeMatch = block.match(/(\d+)\s*(h|d)\s*ago/);
+          // Pattern direct: image.php?IMG suivi de anime.php?ID suivi du titre alt
+          const re = /image\.php\?(\w+)[^>]*>\s*\n(\d+)\]\(https:\/\/animeheaven\.me\/anime\.php\?(\w+)\)\s*\n\n!\[\]\(https:\/\/animeheaven\.me\/add\.svg\)\s*\n\n\d+\s*\n\n\[([^\]]+)\]/g;
+          
+          // Approche alternative: extraire tous les blocs entre add.svg
+          const parts = html.split('add.svg');
+          console.log('Parts count:', parts.length);
+          
+          for (let i = 1; i < parts.length; i++) {
+            const part = parts[i];
             
-            if (!idMatch || !imgMatch || !titleMatch || !timeMatch) continue;
+            // ID anime
+            const idM = part.match(/anime\.php\?(\w+)/);
+            // Image
+            const imgM = part.match(/image\.php\?(\w+)/);
+            // Alt title (le plus fiable)
+            const altM = part.match(/alt="([^"]+)"/);
+            // Episode number
+            const epM = part.match(/\n(\d+)\n/);
+            // Time
+            const timeM = part.match(/(\d+) (h|d) ago/);
             
-            const ahId  = idMatch[1];
-            const titre = titleMatch[1].trim();
+            if (!idM || !imgM || !altM || !timeM) continue;
+            
+            const ahId = idM[1];
+            const img = imgM[1];
+            const titre = altM[1].trim();
+            const ep = epM ? parseInt(epM[1]) : 1;
+            const ago = timeM[1] + timeM[2];
             
             if (seen.has(ahId)) continue;
             if (titre.length < 2) continue;
-            if (["New","Popular","Fall","Random","MORE","POPULAR","Tools","Anime Heaven"].includes(titre)) continue;
-            if (titre.includes("logo") || titre.includes("burger") || titre.includes("icon")) continue;
+            if (['Anime Heaven', 'burger icon', 'prev', 'next', 'lists', 'list', 'grid', 'add', 'sun'].includes(titre)) continue;
+            if (titre.includes('logo') || titre.includes('icon') || titre.includes('svg')) continue;
             
             seen.add(ahId);
-            
-            // Titre JP
-            let titreJp = "";
-            const lines = block.split('\n').map(l => l.trim()).filter(Boolean);
-            for (let j = 0; j < lines.length; j++) {
-              if (lines[j].includes(titre) && lines[j+1]) {
-                const next = lines[j+1];
-                if (!next.match(/\d+\s*(h|d)\s*ago/) && next !== "-" && !next.startsWith("[") && !next.startsWith("!") && next.length > 1) {
-                  titreJp = next;
-                }
-                break;
-              }
-            }
-            
-            animes.push({
-              titre,
-              titreJp,
-              ep: epMatch ? parseInt(epMatch[1]) : 1,
-              ago: timeMatch[1] + timeMatch[2],
-              img: imgMatch[1],
-              ahId,
-            });
+            animes.push({ titre, titreJp: '', ep, ago, img, ahId });
             
             if (animes.length >= 80) break;
           }
           
-          console.log(`Scraped ${animes.length} animes`);
+          console.log('Animes found:', animes.length);
+          if (animes.length > 0) console.log('First:', animes[0].titre);
           
-          const output = {
+          const out = {
             animes,
             updatedAt: new Date().toISOString(),
-            source: "github-actions",
+            source: 'github-actions',
             count: animes.length,
           };
           
-          fs.writeFileSync('data.json', JSON.stringify(output, null, 2));
-          EOF
+          fs.writeFileSync('data.json', JSON.stringify(out, null, 2));
+          console.log('data.json written');
+          NODEEOF
 
       - name: Commit data.json
         run: |
