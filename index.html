@@ -516,16 +516,6 @@ function isNew(a) { return a.ago && a.ago.includes("h"); }
 function getG(id) { return GENRES[id] || GENRES.fantasy; }
 
 // ── TABS ──
-function setTab(t) {
-  document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
-  document.querySelectorAll('.desktop-nav-btn').forEach(el => el.classList.remove('active'));
-  document.querySelectorAll('.nav-btn').forEach(el => el.classList.remove('active'));
-  document.getElementById('tab-' + t).classList.add('active');
-  document.querySelectorAll('.desktop-nav-btn')[['nouveautes','decouverte','liste'].indexOf(t)]?.classList.add('active');
-  document.querySelector(`.nav-btn[data-tab="${t}"]`)?.classList.add('active');
-  if (t === 'liste') { renderStats(); renderGenreChips(); renderListe(); }
-}
-
 // ── LOAD DATA ──
 async function loadAH() {
   try {
@@ -806,11 +796,13 @@ function renderPanel() {
   `;
 
   document.getElementById('ep-note-row').innerHTML = `
-    <span style="font-size:10px;color:#64748b;font-weight:700">Note :</span>
-    ${[1,2,3,4,5,6,7,8,9,10].map(n=>`
-      <button class="ep-note-btn" onclick="updateNote(${n})"
-        style="background:${n<=a.note?g.color:'rgba(255,255,255,.07)'};color:${n<=a.note?'#fff':'#475569'}">${n}</button>
-    `).join('')}
+    <span style="font-size:10px;color:#64748b;font-weight:700;flex-shrink:0">Rang :</span>
+    <div class="rank-badge" style="background:${getRankObj(getRank(a)).bg};color:${getRankObj(getRank(a)).color};${getRankObj(getRank(a)).glow?`box-shadow:0 0 14px ${getRankObj(getRank(a)).color}66`:''}">
+      ${getRankObj(getRank(a)).label}
+    </div>
+    <select class="rank-select" onchange="setRankFromPanel(${a.id}, this.value)" style="border-color:${getRankObj(getRank(a)).color}44">
+      ${RANKS.map(r => `<option value="${r.id}" ${getRank(a)===r.id?'selected':''}>${r.label}</option>`).join('')}
+    </select>
   `;
 
   document.getElementById('ep-count-label').textContent = `${a.totalEp} épisodes`;
@@ -846,9 +838,14 @@ function toggleAllEp(val) {
   a.statut=val==='all'?"Vu":"À voir";
   save(); renderPanel();
 }
-function updateNote(n) {
-  const a=animes.find(x=>x.id===currentPanelId);
-  if(a){a.note=n;save();renderPanel();}
+function setRankFromPanel(animeId, rankId) {
+  const a = animes.find(x => x.id === animeId);
+  if (a) {
+    a.rank = rankId;
+    save();
+    renderPanel();   // Met à jour le panel épisodes
+    renderRanking(); // Met à jour le ranking
+  }
 }
 
 // ── SUGGESTIONS IA ──
@@ -918,18 +915,30 @@ const RANKS = [
   { id:"C",      label:"C",       color:"#4ade80", bg:"rgba(74,222,128,.15)" },
   { id:"B",      label:"B",       color:"#60a5fa", bg:"rgba(96,165,250,.15)" },
   { id:"A",      label:"A",       color:"#c084fc", bg:"rgba(192,132,252,.15)" },
-  { id:"A+",     label:"A+",      color:"#e879f9", bg:"rgba(232,121,249,.15)" },
-  { id:"S+",     label:"S+",      color:"#fbbf24", bg:"rgba(251,191,36,.15)" },
-  { id:"SSS",    label:"SSS",     color:"#f87171", bg:"rgba(248,113,113,.15)", glow:true },
+  { id:"S",      label:"S",       color:"#e879f9", bg:"rgba(232,121,249,.15)" },
+  { id:"S+",     label:"S+",      color:"#fbbf24", bg:"rgba(251,191,36,.15)", glow:true },
 ];
 
+// Ordre d'affichage : du plus élevé au plus faible
+const RANK_DISPLAY_ORDER = ["S+","S","A","B","C","D","E","norank"];
+
 let rankFilter = "tous";
-function getRank(a) { return a.rank || "norank"; }
+function getRank(a) {
+  const r = a.rank || "norank";
+  // Fallback : si le rang n'existe plus dans RANKS, on repasse à norank
+  return RANKS.find(x => x.id === r) ? r : "norank";
+}
 function getRankObj(id) { return RANKS.find(r => r.id === id) || RANKS[0]; }
 
 function setRank(animeId, rankId) {
   const a = animes.find(x => x.id === animeId);
-  if (a) { a.rank = rankId; save(); renderRanking(); }
+  if (a) {
+    a.rank = rankId;
+    save();
+    renderRanking();
+    // Si le panel épisodes est ouvert sur cet animé, on le rafraîchit aussi
+    if (currentPanelId === animeId) renderPanel();
+  }
 }
 
 function renderRankFilters() {
@@ -943,17 +952,17 @@ function renderRankFilters() {
     c.appendChild(b);
   };
   mk(`Tous (${animes.length})`, 'tous');
-  RANKS.forEach(r => {
-    const count = animes.filter(a => getRank(a) === r.id).length;
-    if (count > 0) mk(`${r.label} (${count})`, r.id);
+  RANK_DISPLAY_ORDER.forEach(id => {
+    const r = getRankObj(id);
+    const count = animes.filter(a => getRank(a) === id).length;
+    if (count > 0) mk(`${r.label} (${count})`, id);
   });
 }
 
 function renderRanking() {
   renderRankFilters();
-  const rankOrder = RANKS.map(r => r.id).reverse();
   const filtered = rankFilter === 'tous'
-    ? [...animes].sort((a,b) => rankOrder.indexOf(getRank(b)) - rankOrder.indexOf(getRank(a)))
+    ? [...animes].sort((a,b) => RANK_DISPLAY_ORDER.indexOf(getRank(a)) - RANK_DISPLAY_ORDER.indexOf(getRank(b)))
     : animes.filter(a => getRank(a) === rankFilter);
 
   const list = document.getElementById('ranking-list');
@@ -993,9 +1002,14 @@ function renderRanking() {
 }
 
 // Render ranking when tab opens
-const _origSetTab = setTab;
 function setTab(t) {
-  _origSetTab(t);
+  document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
+  document.querySelectorAll('.desktop-nav-btn').forEach(el => el.classList.remove('active'));
+  document.querySelectorAll('.nav-btn').forEach(el => el.classList.remove('active'));
+  document.getElementById('tab-' + t).classList.add('active');
+  document.querySelectorAll('.desktop-nav-btn')[['nouveautes','decouverte','liste'].indexOf(t)]?.classList.add('active');
+  document.querySelector(`.nav-btn[data-tab="${t}"]`)?.classList.add('active');
+  if (t === 'liste') { renderStats(); renderGenreChips(); renderListe(); }
   if (t === 'decouverte') renderRanking();
 }
 
