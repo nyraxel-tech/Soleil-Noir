@@ -58,7 +58,7 @@ jobs:
               ep_match   = re.search(r'\n(\d+)\n', block)
               time_match = re.search(r'(\d+) (h|d) ago', block)
 
-              if not id_match or not img_match or not alt_match or not time_match:
+              if not id_match or not img_match or not alt_match:
                   continue
 
               ah_id = id_match.group(1)
@@ -78,7 +78,7 @@ jobs:
 
               seen.add(ah_id)
               ep  = int(ep_match.group(1)) if ep_match else 1
-              ago = f"{time_match.group(1)}{time_match.group(2)}"
+              ago = f"{time_match.group(1)}{time_match.group(2)}" if time_match else "?"
 
               animes.append({"titre": titre, "titreJp": "", "ep": ep, "ago": ago, "img": img, "ahId": ah_id})
               if len(animes) >= 80:
