@@ -1,6 +1,30 @@
 {
   "animes": [
     {
+      "titre": "The Great Sage Ryddel and the Hands of Time",
+      "titreJp": "",
+      "ep": 3,
+      "ago": "1j",
+      "img": "tl46m",
+      "ahId": "rf6nw"
+    },
+    {
+      "titre": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
+      "titreJp": "",
+      "ep": 4,
+      "ago": "1j",
+      "img": "hnxbm",
+      "ahId": "ayudj"
+    },
+    {
+      "titre": "Yowayowa Teacher",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "b6f8i",
+      "ahId": "pijt4"
+    },
+    {
       "titre": "Detective Conan",
       "titreJp": "",
       "ep": 1198,
@@ -57,20 +81,20 @@
       "ahId": "m2zjn"
     },
     {
-      "titre": "Snowball Earth",
-      "titreJp": "",
-      "ep": 3,
-      "ago": "1j",
-      "img": "g0kk7",
-      "ahId": "3kfyx"
-    },
-    {
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "",
-      "ep": 3,
+      "ep": 1,
       "ago": "1j",
       "img": "pjoyd",
       "ahId": "aplyf"
+    },
+    {
+      "titre": "Snowball Earth",
+      "titreJp": "",
+      "ep": 1,
+      "ago": "1j",
+      "img": "g0kk7",
+      "ahId": "3kfyx"
     },
     {
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
@@ -87,22 +111,6 @@
       "ago": "1j",
       "img": "npea5",
       "ahId": "nzwhr"
-    },
-    {
-      "titre": "The Barbarian's Bride",
-      "titreJp": "",
-      "ep": 1,
-      "ago": "1j",
-      "img": "synxi",
-      "ahId": "hi6b1"
-    },
-    {
-      "titre": "One Piece",
-      "titreJp": "",
-      "ep": 1,
-      "ago": "1j",
-      "img": "zbt7y",
-      "ahId": "1ht8d"
     },
     {
       "titre": "All You Need Is Kill",
@@ -183,6 +191,14 @@
       "ago": "1j",
       "img": "pv8qk",
       "ahId": "gbdj0"
+    },
+    {
+      "titre": "The Barbarian's Bride",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1j",
+      "img": "synxi",
+      "ahId": "hi6b1"
     },
     {
       "titre": "Record of Grancrest War",
@@ -393,6 +409,14 @@
       "ahId": "fsi1m"
     },
     {
+      "titre": "One Piece",
+      "titreJp": "",
+      "ep": 1157,
+      "ago": "1j",
+      "img": "zbt7y",
+      "ahId": "1ht8d"
+    },
+    {
       "titre": "Ghost Concert: Missing Songs",
       "titreJp": "",
       "ep": 2,
@@ -457,14 +481,6 @@
       "ahId": "kqa66"
     },
     {
-      "titre": "The Great Sage Ryddel and the Hands of Time",
-      "titreJp": "",
-      "ep": 2,
-      "ago": "1j",
-      "img": "tl46m",
-      "ahId": "rf6nw"
-    },
-    {
       "titre": "Ichijouma Mankitsugurashi!",
       "titreJp": "",
       "ep": 1,
@@ -527,25 +543,9 @@
       "ago": "1j",
       "img": "dks5o",
       "ahId": "pm96z"
-    },
-    {
-      "titre": "Kill Blue",
-      "titreJp": "",
-      "ep": 1,
-      "ago": "1j",
-      "img": "dns6b",
-      "ahId": "y5v48"
-    },
-    {
-      "titre": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
-      "titreJp": "",
-      "ep": 3,
-      "ago": "1j",
-      "img": "hnxbm",
-      "ahId": "ayudj"
     }
   ],
-  "updatedAt": "2026-04-18T12:03:02.331728+00:00",
+  "updatedAt": "2026-04-18T14:27:05.662684+00:00",
   "source": "github-actions",
   "count": 68
 }
