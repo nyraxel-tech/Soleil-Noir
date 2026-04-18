@@ -606,7 +606,7 @@ function renderPosters() {
       <div class="poster-bottom">
         <div class="poster-title-s">${a.titre}</div>
         <button class="poster-add ${added?'added':''}" onclick="event.stopPropagation();addFromAH(${JSON.stringify(a).replace(/"/g,'&quot;')})">
-          ${added ? '✓ Ajouté' : '+ Ma liste'}
+          ${added ? '✓ Vu' : '👁 À regarder'}
         </button>
       </div>
     `;
