@@ -1,4 +1,109 @@
-const ANIMES = [
+export default async function handler(req, res) {
+  res.setHeader("Access-Control-Allow-Origin", "*");
+  res.setHeader("Access-Control-Allow-Methods", "GET, OPTIONS");
+  if (req.method === "OPTIONS") return res.status(200).end();
+
+  // ── Image proxy : /api/anime?img=XXXX ──────────────────────────────────────
+  const imgCode = req.query?.img;
+  if (imgCode) {
+    try {
+      const r = await fetch(`https://animeheaven.me/image.php?${imgCode}`, {
+        headers: {
+          "Referer": "https://animeheaven.me/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36",
+        },
+      });
+      if (!r.ok) throw new Error("img not found");
+      const buf = await r.arrayBuffer();
+      const ct = r.headers.get("content-type") || "image/jpeg";
+      res.setHeader("Content-Type", ct);
+      res.setHeader("Cache-Control", "s-maxage=86400");
+      return res.status(200).send(Buffer.from(buf));
+    } catch {
+      return res.status(404).end();
+    }
+  }
+
+  // ── Scraping AnimeHeaven toutes les 30 min ──────────────────────────────────
+  try {
+    const r = await fetch("https://animeheaven.me/new.php", {
+      headers: {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://animeheaven.me/",
+        "Cache-Control": "no-cache",
+      },
+    });
+
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    const html = await r.text();
+    const animes = parseAnimes(html);
+
+    if (animes.length === 0) throw new Error("Parsing returned 0 results");
+
+    // Cache 30 minutes
+    res.setHeader("Cache-Control", "s-maxage=1800, stale-while-revalidate=300");
+    return res.status(200).json({ animes, updatedAt: new Date().toISOString(), source: "live" });
+
+  } catch (err) {
+    // Fallback sur les données statiques si le scraping échoue
+    res.setHeader("Cache-Control", "s-maxage=300");
+    return res.status(200).json({ animes: FALLBACK, updatedAt: new Date().toISOString(), source: "fallback", error: err.message });
+  }
+}
+
+// ── Parser HTML AnimeHeaven ──────────────────────────────────────────────────
+function parseAnimes(html) {
+  const animes = [];
+  const seen = new Set();
+
+  // Chaque bloc animé contient une image, un lien anime.php, un titre, ep count, time ago
+  // Pattern: on split sur les balises img qui contiennent image.php
+  const blockRegex = /<a[^>]+href="\/anime\.php\?(\w+)"[^>]*>\s*<img[^>]+src="\/image\.php\?(\w+)"[^>]+alt="([^"]+)"/g;
+  const timeRegex = /(\d+)\s*(h|d)\s*ago/g;
+  const epRegex = /<a[^>]+href="\/anime\.php\?(\w+)"[^>]*>\s*\n\s*(\d+)\s*\n/g;
+
+  // Map episode counts by ahId
+  const epMap = {};
+  let epMatch;
+  while ((epMatch = epRegex.exec(html)) !== null) {
+    epMap[epMatch[1]] = parseInt(epMatch[2]);
+  }
+
+  // Extract times
+  const times = [];
+  let tMatch;
+  const timeRegex2 = /(\d+)\s*(h|d)\s*ago/g;
+  while ((tMatch = timeRegex2.exec(html)) !== null) {
+    times.push(`${tMatch[1]}${tMatch[2]}`);
+  }
+
+  let timeIdx = 0;
+  let blockMatch;
+  while ((blockMatch = blockRegex.exec(html)) !== null) {
+    const ahId = blockMatch[1];
+    const img = blockMatch[2];
+    const titre = blockMatch[3].trim();
+
+    if (!titre || titre.length < 2) continue;
+    if (["Sakamoto Days", "Kaiju No. 8", "Mashle"].some(x => titre.includes(x) && timeIdx === 0)) continue; // skip banner images
+    if (seen.has(ahId)) continue;
+    seen.add(ahId);
+
+    const ep = epMap[ahId] || 1;
+    const ago = times[timeIdx] || "1j";
+    timeIdx++;
+
+    animes.push({ titre, titreJp: "", ep, ago, img, ahId });
+    if (animes.length >= 65) break;
+  }
+
+  return animes;
+}
+
+// ── Fallback statique (18 avril 2026) ───────────────────────────────────────
+const FALLBACK = [
   { titre:"Fist of the North Star (2026)", titreJp:"Hokuto no Ken", ep:4, ago:"8h", img:"ciyvs", ahId:"fpnp2" },
   { titre:"Botan Kamiina Fully Blossoms When Drunk", titreJp:"Kamiina Botan, Yoeru Sugata wa Yuri no Hana", ep:2, ago:"8h", img:"sbyve", ahId:"b0vsk" },
   { titre:"The Drops of God", titreJp:"Kami no Shizuku", ep:2, ago:"9h", img:"par8w", ahId:"m2zjn" },
@@ -20,53 +125,15 @@ const ANIMES = [
   { titre:"Re:ZERO: Starting Life in Another World Season 4", titreJp:"Re:Zero kara Hajimeru Isekai Seikatsu S4", ep:2, ago:"2j", img:"7tc0j", ahId:"ilp9j" },
   { titre:"Rent-a-Girlfriend Season 5", titreJp:"Kanojo, Okarishimasu 5th Season", ep:2, ago:"2j", img:"7nqj7", ahId:"i0kd0" },
   { titre:"Classroom of the Elite 4th Season", titreJp:"Youkoso Jitsuryoku Shijou S4", ep:6, ago:"2j", img:"npea5", ahId:"nzwhr" },
-  { titre:"My Ribdiculous Reincarnation", titreJp:"Megami Isekai Tensei", ep:2, ago:"3j", img:"27pp6", ahId:"xw4de" },
-  { titre:"Even a Replica Can Fall in Love", titreJp:"Replica datte, Koi wo Suru.", ep:2, ago:"3j", img:"z35jq", ahId:"k662x" },
-  { titre:"The Most Heretical Last Boss Queen S2", titreJp:"Higeki no Genkyou to Naru S2", ep:2, ago:"3j", img:"5zcck", ahId:"np9nt" },
   { titre:"Release That Witch", titreJp:"Fangkai Nage Nuwu", ep:7, ago:"4j", img:"54d5g", ahId:"fwe7e" },
   { titre:"Witch Hat Atelier", titreJp:"Tongari Boushi no Atelier", ep:3, ago:"4j", img:"6rlo7", ahId:"df4in" },
   { titre:"Farming Life in Another World 2", titreJp:"Isekai Nonbiri Nouka 2", ep:2, ago:"4j", img:"b7en4", ahId:"fae6d" },
   { titre:"One Piece", titreJp:"", ep:1157, ago:"5j", img:"zbt7y", ahId:"1ht8d" },
-  { titre:"Mission: Yozakura Family Season 2", titreJp:"Yozakura-san Chi no Daisakusen S2", ep:1, ago:"5j", img:"rgi7x", ahId:"feqdi" },
-  { titre:"Ace of the Diamond: Act II 2nd Season", titreJp:"Diamond no Ace: Act II 2nd Season", ep:2, ago:"5j", img:"c50pz", ahId:"dd464" },
   { titre:"Wistoria: Wand and Sword 2nd Season", titreJp:"Tsue to Tsurugi no Wistoria S2", ep:1, ago:"5j", img:"h6l0c", ahId:"y98v5" },
   { titre:"Rooster Fighter", titreJp:"Niwatori Fighter", ep:5, ago:"5j", img:"vy576", ahId:"uni0y" },
   { titre:"Welcome to Demon School, Iruma-kun 4", titreJp:"Mairimashita! Iruma-kun 4", ep:2, ago:"6j", img:"lkpy4", ahId:"amsff" },
   { titre:"Scum of the Brave", titreJp:"Yuusha no Kuzu", ep:13, ago:"6j", img:"97302", ahId:"oxx6c" },
   { titre:"Daemons of The Shadow Realm", titreJp:"Yomi no Tsugai", ep:2, ago:"6j", img:"dks5o", ahId:"pm96z" },
-  { titre:"Kill Blue", titreJp:"Kill Ao", ep:1, ago:"6j", img:"dns6b", ahId:"y5v48" },
-  { titre:"The Strongest Job is an Appraiser!", titreJp:"Saikyou no Shokugyou wa Kanteishi (Kari)", ep:3, ago:"6j", img:"hnxbm", ahId:"ayudj" },
   { titre:"Detective Conan", titreJp:"Meitantei Conan", ep:1197, ago:"6j", img:"lx86z", ahId:"y9prb" },
   { titre:"Pokemon Horizons: The Series", titreJp:"Pocket Monsters (2023)", ep:133, ago:"6j", img:"9fsft", ahId:"9v661" },
 ];
-
-export default async function handler(req, res) {
-  res.setHeader("Access-Control-Allow-Origin", "*");
-  res.setHeader("Access-Control-Allow-Methods", "GET, OPTIONS");
-  if (req.method === "OPTIONS") return res.status(200).end();
-
-  // Proxy mode : /api/anime?img=IMGCODE
-  const imgCode = req.query?.img;
-  if (imgCode) {
-    try {
-      const r = await fetch(`https://animeheaven.me/image.php?${imgCode}`, {
-        headers: {
-          "Referer": "https://animeheaven.me/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36",
-        },
-      });
-      if (!r.ok) throw new Error("img not found");
-      const buf = await r.arrayBuffer();
-      const ct = r.headers.get("content-type") || "image/jpeg";
-      res.setHeader("Content-Type", ct);
-      res.setHeader("Cache-Control", "s-maxage=86400");
-      return res.status(200).send(Buffer.from(buf));
-    } catch {
-      return res.status(404).end();
-    }
-  }
-
-  // Normal mode : return anime list
-  res.setHeader("Cache-Control", "s-maxage=3600");
-  return res.status(200).json({ animes: ANIMES, updatedAt: "2026-04-18T10:00:00.000Z" });
-}
