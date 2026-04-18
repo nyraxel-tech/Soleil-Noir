@@ -29,7 +29,7 @@ jobs:
           python3 << 'PYEOF'
           import requests
           from bs4 import BeautifulSoup
-          import json, re
+          import json, re, os
           from datetime import datetime, timezone
 
           headers = {
@@ -42,31 +42,13 @@ jobs:
           r = requests.get("https://animeheaven.me/new.php", headers=headers, timeout=15)
           print(f"Status: {r.status_code}, Size: {len(r.text)} bytes")
 
-          # Debug: show first anime.php occurrence
-          idx = r.text.find("anime.php")
-          print(f"First anime.php at index: {idx}")
-          if idx > 0:
-              print(f"Context: {r.text[idx-50:idx+100]}")
-
           soup = BeautifulSoup(r.text, "html.parser")
-
-          # Debug: count all links
-          all_links = soup.find_all("a")
-          print(f"Total links found: {len(all_links)}")
-          
-          # Show first 5 links
-          for i, a in enumerate(all_links[:5]):
-              print(f"Link {i}: href={a.get('href','')[:60]}")
-
           animes = []
           seen = set()
           skip = {"New","Popular","Fall","Random","MORE","POPULAR","Tools","Anime Heaven",""}
-          banner_count = 0  # Les 3 premiers liens anime.php sont toujours des bannières
+          banner_count = 0
 
-          for a_tag in all_links:
-              href = a_tag.get("href", "")
-              if "anime.php" not in href:
-                  continue
+          for a_tag in soup.find_all("a", href=lambda h: h and "/anime.php?" in h):
               img = a_tag.find("img")
               if not img:
                   continue
@@ -75,16 +57,15 @@ jobs:
                   continue
               if any(x in titre.lower() for x in ["logo","icon","burger","prev","next","sun","discord","twitter"]):
                   continue
+              href = a_tag.get("href", "")
               ah_id = href.split("?")[-1].rstrip("=")
               src = img.get("src", "")
               img_code = src.split("?")[-1] if "?" in src else ""
               if not ah_id or not img_code or ah_id in seen or len(ah_id) < 3:
                   continue
-              # Skip les 3 premières entrées = bannières publicitaires en haut de page
               if banner_count < 3:
                   banner_count += 1
                   seen.add(ah_id)
-                  continue
                   continue
               seen.add(ah_id)
               parent = a_tag.parent
@@ -98,23 +79,53 @@ jobs:
                   break
 
           print(f"Found {len(animes)} animes")
-          if animes:
-              print(f"First: {animes[0]['titre']}")
 
+          # ── Écriture data.json ──
           with open("data.json", "w") as f:
               json.dump({"animes": animes, "updatedAt": datetime.now(timezone.utc).isoformat(), "source": "github-actions", "count": len(animes)}, f, ensure_ascii=False, indent=2)
-          print("data.json written")
+
+          # ── Mise à jour cumulative de archive.json ──
+          existing = []
+          seen_ids = set()
+          if os.path.exists("archive.json"):
+              try:
+                  with open("archive.json") as f:
+                      d = json.load(f)
+                      existing = d.get("animes", [])
+                      seen_ids = {a["ahId"] for a in existing}
+              except:
+                  pass
+
+          new_entries = 0
+          for a in animes:
+              if a["ahId"] not in seen_ids:
+                  seen_ids.add(a["ahId"])
+                  existing.append({
+                      "titre": a["titre"],
+                      "titreJp": a.get("titreJp", ""),
+                      "img": a["img"],
+                      "ahId": a["ahId"],
+                      "addedAt": datetime.now(timezone.utc).isoformat()
+                  })
+                  new_entries += 1
+
+          print(f"Archive: +{new_entries} nouveaux → {len(existing)} total")
+
+          with open("archive.json", "w") as f:
+              json.dump({"animes": existing, "updatedAt": datetime.now(timezone.utc).isoformat(), "count": len(existing)}, f, ensure_ascii=False, indent=2)
+
+          print("data.json + archive.json written")
           PYEOF
 
       - name: Commit and push data.json
         run: |
-          git config user.name "AniTrack Bot"
-          git config user.email "bot@anitrack.app"
+          git config user.name "Soleil Noir Bot"
+          git config user.email "bot@soleilnoir.app"
           git pull origin main
-          git add data.json
+          git add data.json archive.json
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "🔄 Update anime data - $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git commit -m "🔄 Update data + archive - $(date -u '+%Y-%m-%d %H:%M UTC')"
             git push
           fi
