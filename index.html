@@ -687,12 +687,8 @@ function renderPosters() {
     const url = imgUrl(a.img);
     const div = document.createElement('div');
     div.className = 'poster-card';
-    const _captured = a;
     div.dataset.ahid = a.ahId;
-    div.onclick = () => {
-      if (_captured.ahId) window.open(pageUrl(_captured.ahId), '_blank');
-      addFromAH(_captured, true);
-    };
+    // innerHTML EN PREMIER
     div.innerHTML = `
       ${url ? `<img src="${url}" alt="${a.titre}" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">` : ''}
       <div class="poster-fallback" style="background:linear-gradient(135deg,${g.color}33,#0d0e1a);${url?'display:none':''}">${g.icon}</div>
@@ -700,11 +696,22 @@ function renderPosters() {
       <div class="poster-ep">Ep.${a.ep}</div>
       <div class="poster-bottom">
         <div class="poster-title-s">${a.titre}</div>
-        <button class="poster-add ${added?'added':''}" onclick="event.stopPropagation();(function(el){const id=el.closest('.poster-card').dataset.ahid;addFromAH(_ahMap[id]);})(this)">
+        <button class="poster-add ${added?'added':''}">
           ${added ? '✓ Vu' : 'À regarder'}
         </button>
       </div>
     `;
+    // Events APRÈS innerHTML — récupère l'animé via ahId stocké dans dataset
+    const ahid = a.ahId;
+    div.addEventListener('click', () => {
+      const anime = _ahMap[ahid];
+      if (anime.ahId) window.open(pageUrl(anime.ahId), '_blank');
+      addFromAH(anime, true);
+    });
+    div.querySelector('.poster-add').addEventListener('click', e => {
+      e.stopPropagation();
+      addFromAH(_ahMap[ahid], false);
+    });
     grid.appendChild(div);
   });
 }
