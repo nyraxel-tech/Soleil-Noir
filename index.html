@@ -885,8 +885,13 @@ function openAnimeFromList(id) {
 function abandonAnime(id) {
   const a = animes.find(x => x.id === id);
   if (!a) return;
-  // Passer en abandonné (jamais supprimer définitivement)
-  a.statut = "Abandonné";
+  if (a.statut === "Abandonné") {
+    // Déjà abandonné → suppression définitive
+    animes = animes.filter(x => x.id !== id);
+  } else {
+    // Première fois → passer en abandonné
+    a.statut = "Abandonné";
+  }
   save();
   renderListe();
   renderPosters();
