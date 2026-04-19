@@ -787,7 +787,7 @@ function renderStats() {
   const abandonnes = animes.filter(a=>a.statut==="Abandonné").length;
   const stats = [
     {l:"Total",    v:animes.length, c:"#fdf6e3", key:"tous",      i:`<svg width="16" height="16" viewBox="0 0 16 16" fill="none"><rect x="1" y="3" width="14" height="10" stroke="currentColor" stroke-width=".9"/><line x1="5" y1="13" x2="11" y2="13" stroke="currentColor" stroke-width=".8"/><line x1="8" y1="13" x2="8" y2="15" stroke="currentColor" stroke-width=".8"/></svg>`},
-    {l:"Vus",      v:vus,           c:"#d4b97a", key:"Vu",        i:`<svg width="16" height="16" viewBox="0 0 16 16" fill="none"><polygon points="8,1 15,8 8,15 1,8" stroke="currentColor" stroke-width=".9" fill="none"/><polyline points="5,8 7,11 11,5" stroke="currentColor" stroke-width="1.2"/></svg>`},
+    {l:"Vus",      v:vus,           c:"#8fbf8f", key:"Vu",        i:`<svg width="16" height="16" viewBox="0 0 16 16" fill="none"><polygon points="8,1 15,8 8,15 1,8" stroke="currentColor" stroke-width=".9" fill="none"/><polyline points="5,8 7,11 11,5" stroke="currentColor" stroke-width="1.2"/></svg>`},
     {l:"En cours", v:enCours,       c:"#c4853a", key:"En cours",  i:`<svg width="16" height="16" viewBox="0 0 16 16" fill="none"><polygon points="4,2 14,8 4,14" stroke="currentColor" stroke-width=".9" fill="none"/><polygon points="4,4 12,8 4,12" fill="currentColor" opacity=".5"/></svg>`},
     {l:"Abandonné",v:abandonnes,    c:"#b84c2a", key:"Abandonné", i:`<svg width="16" height="16" viewBox="0 0 16 16" fill="none"><line x1="2" y1="2" x2="14" y2="14" stroke="currentColor" stroke-width="1.2"/><line x1="14" y1="2" x2="2" y2="14" stroke="currentColor" stroke-width="1.2"/></svg>`},
   ];
@@ -855,7 +855,7 @@ function renderListe() {
             <span class="tag" style="background:rgba(212,185,122,.08);color:var(--accent);opacity:.7">${a.statut}</span>
           </div>
           <div class="anime-prog">
-            <div class="prog-bar"><div class="prog-fill" style="width:${pct}%;background:linear-gradient(90deg,#c4853a,#d4b97a)"></div></div>
+            <div class="prog-bar"><div class="prog-fill" style="width:${pct}%;background:${pct>=100?'#8fbf8f':'linear-gradient(90deg,#c4853a,#d4b97a)'}"></div></div>
             <span class="prog-txt">${w.length}/${a.totalEp}</span>
           </div>
         </div>
