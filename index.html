@@ -346,6 +346,9 @@ input[type=number] { -moz-appearance: textfield; }
 input[type=number]::-webkit-inner-spin-button { -webkit-appearance: none; }
 
 /* ── DESKTOP ADJUSTMENTS ── */
+@media (max-width: 767px) {
+  #auth-btn-desktop { display: none !important; }
+}
 @media (min-width: 768px) {
   #auth-bar { display: none !important; }
   #auth-btn-desktop { display: flex !important; }
@@ -403,7 +406,7 @@ input[type=number]::-webkit-inner-spin-button { -webkit-appearance: none; }
   <button id="auth-btn" style="display:flex;align-items:center;background:rgba(212,185,122,.08);border:1px solid rgba(212,185,122,.2);border-radius:2px;padding:5px 12px;font-family:inherit;font-size:10px;font-weight:700;color:var(--accent);cursor:pointer;letter-spacing:.5px;white-space:nowrap">Connexion Google</button>
 </div>
 <!-- Auth Bar -->
-<div id="auth-bar" style="background:rgba(212,185,122,.05);border-bottom:1px solid rgba(212,185,122,.1);padding:6px 16px;display:flex;align-items:center;justify-content:flex-end;">
+<div id="auth-bar" style="background:rgba(212,185,122,.05);border-bottom:1px solid rgba(212,185,122,.1);padding:6px 16px;display:none;align-items:center;justify-content:flex-end;">
   <button id="auth-btn" style="display:flex;align-items:center;background:transparent;border:none;font-family:inherit;font-size:11px;font-weight:700;color:var(--accent);cursor:pointer;letter-spacing:.5px;gap:6px;padding:2px 0;">Connexion Google</button>
 </div>
 <main>
