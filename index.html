@@ -278,9 +278,34 @@ main { padding: 16px; max-width: 900px; margin: 0 auto; }
 .genre-chips { display: flex; flex-wrap: wrap; gap: 6px; }
 .genre-chip {
   display: flex; align-items: center; gap: 4px;
-  padding: 5px 10px; border-radius: 2px; cursor: pointer;
-  touch-action: manipulation; font-size: 11px; font-weight: 600; color: #64748b;
-  border: 1px solid rgba(255,255,255,.07);
+  padding: 6px 12px; border-radius: 4px; cursor: pointer;
+  touch-action: manipulation; font-size: 11px; font-weight: 700; color: #64748b;
+  border: 1px solid rgba(184,114,10,.3);
+  background: rgba(184,114,10,.06);
+  transition: border-color .15s, background .15s;
+}
+.genre-chip:active { background: rgba(184,114,10,.12); }
+.genre-chip-text {
+  background: linear-gradient(90deg, #b8720a, #e8c96a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  display: flex; align-items: center; gap: 4px;
+  font-weight: 700;
+}
+.genre-chip-icon {
+  color: #b8720a;
+  display: flex; align-items: center;
+}
+.genre-chip-count {
+  background: rgba(232,201,106,.1);
+  border: 1px solid rgba(184,114,10,.25);
+  padding: 1px 7px; border-radius: 10px;
+  font-size: 10px; font-weight: 800;
+  background: linear-gradient(90deg, #b8720a, #e8c96a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
 
 /* ── EPISODE PANEL ── */
@@ -832,7 +857,7 @@ function renderGenreFiltersAH() {
   if (todayCount > 0) mk(`<svg width="12" height="12" viewBox="0 0 12 12" fill="none"><circle cx="6" cy="6" r="5" stroke="currentColor" stroke-width=".8"/><line x1="6" y1="2" x2="6" y2="6" stroke="currentColor" stroke-width=".9"/><line x1="6" y1="6" x2="9" y2="8" stroke="currentColor" stroke-width=".9"/></svg> Aujourd'hui (${todayCount})`, 'today');
   Object.entries(GENRES).forEach(([id,g]) => {
     const count = ahData.filter(a => gId(a.titre) === id).length;
-    if (count > 0) mk(`${g.icon} ${g.label}`, id);
+    if (count > 0) mk(`<span style="color:#b8720a;display:inline-flex;align-items:center">${g.icon}</span><span style="background:linear-gradient(90deg,#b8720a,#e8c96a);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;font-weight:700"> ${g.label}</span>`, id);
   });
 }
 
@@ -856,7 +881,7 @@ function renderPosters() {
     div.dataset.ahid = a.ahId;
     div.innerHTML = `
       ${url ? `<img src="${url}" alt="${a.titre}" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">` : ''}
-      <div class="poster-fallback" style="background:linear-gradient(135deg,${g.color}33,#0d0e1a);${url?'display:none':''}">${g.icon}</div>
+      <div class="poster-fallback" style="background:linear-gradient(135deg,rgba(184,114,10,.2),#0d0e1a);${url?'display:none':''};color:#b8720a">${g.icon}</div>
       ${isNew(a) ? '<div class="poster-new">NEW</div>' : ''}
       <div class="poster-ep">Ep.${a.ep}</div>
       <div class="poster-bottom">
@@ -959,9 +984,11 @@ function renderGenreChips() {
   c.innerHTML = Object.entries(GENRES).map(([id,g]) => {
     const count = animes.filter(a=>a.genre===id).length;
     if (!count) return '';
-    return `<div class="genre-chip" style="border-color:rgba(212,185,122,.2)" onclick="filterByGenre('${id}')">
-      <span style="color:var(--accent);display:flex;align-items:center;gap:4px">${g.icon} ${g.label}</span>
-      <span style="background:rgba(255,255,255,.07);padding:1px 6px;border-radius:10px;font-size:10px;font-weight:700;color:var(--muted)">${count}</span>
+    const isActive = genreFilter === id;
+    return `<div class="genre-chip" style="${isActive ? 'border-color:#e8c96a;background:rgba(232,201,106,.12)' : ''}" onclick="filterByGenre('${id}')">
+      <span class="genre-chip-icon">${g.icon}</span>
+      <span class="genre-chip-text">${g.label}</span>
+      <span class="genre-chip-count">${count}</span>
     </div>`;
   }).join('');
 }
@@ -994,13 +1021,13 @@ function renderListe() {
     return `<div class="anime-card" onclick="openAnimeFromList(${a.id})" style="cursor:pointer">
       <div class="anime-card-inner">
         <div class="anime-thumb">
-          ${url?`<img src="${url}" onerror="this.style.display='none'">`:`<div class="anime-thumb-icon" style="background:#c8903a18;color:#c8903a">${g.icon}</div>`}
+          ${url?`<img src="${url}" onerror="this.style.display='none'">`:`<div class="anime-thumb-icon" style="background:rgba(184,114,10,.1);color:#b8720a">${g.icon}</div>`}
         </div>
         <div class="anime-info">
           <div class="anime-name">${a.titre}</div>
           <div class="anime-tags">
-            <span class="tag" style="background:#c8903a18;color:#c8903a">${g.icon} ${g.label}</span>
-            <span class="tag" style="background:rgba(212,185,122,.06);color:var(--muted)">${a.statut}</span>
+            <span class="tag" style="background:rgba(184,114,10,.1);border:1px solid rgba(184,114,10,.2);display:inline-flex;align-items:center;gap:3px"><span style="color:#b8720a;display:inline-flex;align-items:center">${g.icon}</span><span style="background:linear-gradient(90deg,#b8720a,#e8c96a);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;font-weight:700">${g.label}</span></span>
+            <span class="tag" style="background:${CS[a.statut]}18;color:${CS[a.statut]}">${a.statut}</span>
           </div>
           <div class="anime-prog">
             <div class="prog-bar"><div class="prog-fill" style="width:${pct}%;background:${pct===100 ? '#7aab7a' : 'linear-gradient(90deg,#b8720a,#e8c96a)'}"></div></div>
@@ -1090,12 +1117,12 @@ function renderPanel() {
   if(url){bgImg.src=url;}else bgImg.style.display='none';
   document.getElementById('ep-poster').innerHTML = url
     ? `<img src="${url}" alt="${a.titre}">`
-    : `<div style="width:100%;height:100%;background:#c8903a22;display:flex;align-items:center;justify-content:center;font-size:26px">${g.icon}</div>`;
+    : `<div style="width:100%;height:100%;background:rgba(184,114,10,.1);display:flex;align-items:center;justify-content:center;font-size:26px;color:#b8720a">${g.icon}</div>`;
 
   document.getElementById('ep-info').innerHTML = `
     <div class="ep-title">${a.titre}</div>
     <div class="ep-tags">
-      <span class="tag" style="background:#c8903a22;color:#c8903a">${g.icon} ${g.label}</span>
+      <span class="tag" style="background:rgba(184,114,10,.1);border:1px solid rgba(184,114,10,.2);display:inline-flex;align-items:center;gap:3px"><span style="color:#b8720a;display:inline-flex;align-items:center">${g.icon}</span><span style="background:linear-gradient(90deg,#b8720a,#e8c96a);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;font-weight:700">${g.label}</span></span>
       <span class="tag" style="background:${CS[a.statut]}22;color:${CS[a.statut]}">${a.statut}</span>
     </div>
     <div class="ep-prog"><div class="ep-prog-fill" style="width:${pct}%;background:${pct===100?'#7aab7a':'linear-gradient(90deg,#c8903a,#e8c96a)'}"></div></div>
@@ -1237,13 +1264,13 @@ function renderRanking() {
     const pct = a.totalEp > 0 ? Math.round(w.length / a.totalEp * 100) : 0;
     return `<div class="rank-card" style="border-color:${rank.color}44" onclick="openAnimeFromList(${a.id})">
       <div class="anime-thumb">
-        ${url ? `<img src="${url}" onerror="this.style.display='none'">` : `<div class="anime-thumb-icon" style="background:${g.color}18">${g.icon}</div>`}
+        ${url ? `<img src="${url}" onerror="this.style.display='none'">` : `<div class="anime-thumb-icon" style="background:rgba(184,114,10,.1);color:#b8720a">${g.icon}</div>`}
       </div>
       <div style="flex:1;padding:10px 12px;min-width:0">
         <div class="anime-name">${a.titre}</div>
         <div style="display:flex;gap:5px;margin-bottom:6px;flex-wrap:wrap">
-          <span class="tag" style="background:rgba(212,185,122,.12);color:var(--accent)">${g.label}</span>
-          <span class="tag" style="background:rgba(212,185,122,.06);color:var(--muted)">${a.statut}</span>
+          <span class="tag" style="background:rgba(184,114,10,.1);border:1px solid rgba(184,114,10,.2);display:inline-flex;align-items:center;gap:3px"><span style="color:#b8720a;display:inline-flex;align-items:center">${g.icon}</span><span style="background:linear-gradient(90deg,#b8720a,#e8c96a);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;font-weight:700">${g.label}</span></span>
+          <span class="tag" style="background:${CS[a.statut]}18;color:${CS[a.statut]}">${a.statut}</span>
         </div>
         <div class="anime-prog">
           <div class="prog-bar"><div class="prog-fill" style="width:${pct}%;background:${rank.color}"></div></div>
