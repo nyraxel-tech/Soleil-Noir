@@ -397,6 +397,76 @@ main { padding: 16px; max-width: 900px; margin: 0 auto; }
 }
 .rank-card:active { opacity: .85; }
 
+/* ── MODAL CONFIRMATION ── */
+.confirm-overlay {
+  position: fixed; inset: 0; z-index: 500;
+  background: rgba(4,5,3,.85);
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+  display: none; align-items: center; justify-content: center;
+  padding: 20px;
+}
+.confirm-overlay.open { display: flex; }
+.confirm-box {
+  width: 100%; max-width: 420px;
+  background: #0a0900;
+  border: 1px solid rgba(184,114,10,.5);
+  border-radius: 4px;
+  padding: 0;
+  overflow: hidden;
+  box-shadow: 0 0 60px rgba(184,114,10,.15), 0 0 0 1px rgba(232,201,106,.08);
+}
+.confirm-top-bar {
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #b8720a 30%, #e8c96a 50%, #b8720a 70%, transparent);
+}
+.confirm-body {
+  padding: 28px 24px 20px;
+}
+.confirm-diamond {
+  display: flex; justify-content: center; margin-bottom: 16px;
+}
+.confirm-title {
+  font-family: 'Cinzel', serif;
+  font-size: 13px; font-weight: 600;
+  letter-spacing: 2px; text-transform: uppercase;
+  text-align: center; line-height: 1.5;
+  margin-bottom: 24px;
+  background: linear-gradient(90deg, #b8720a, #e8c96a, #b8720a);
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.confirm-btns {
+  display: flex; gap: 10px;
+}
+.confirm-btn-delete {
+  flex: 1; padding: 11px 0;
+  background: rgba(184,114,10,.12);
+  border: 1px solid rgba(184,114,10,.45);
+  border-radius: 3px; cursor: pointer;
+  font-family: 'Cinzel', serif; font-size: 10px; font-weight: 600;
+  letter-spacing: 1.5px; text-transform: uppercase;
+  background: linear-gradient(90deg, #b8720a, #e8c96a);
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+  background-clip: text;
+  transition: border-color .15s, background-color .15s;
+}
+.confirm-btn-delete:hover { border-color: #e8c96a; background-color: rgba(184,114,10,.18); }
+.confirm-btn-keep {
+  flex: 1; padding: 11px 0;
+  background: rgba(255,255,255,.04);
+  border: 1px solid rgba(255,255,255,.1);
+  border-radius: 3px; cursor: pointer;
+  font-family: 'Cinzel', serif; font-size: 10px; font-weight: 600;
+  letter-spacing: 1.5px; text-transform: uppercase; color: #7a7060;
+  transition: border-color .15s, color .15s;
+}
+.confirm-btn-keep:hover { border-color: rgba(255,255,255,.25); color: var(--text); }
+.confirm-bottom-bar {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(184,114,10,.3) 30%, rgba(232,201,106,.5) 50%, rgba(184,114,10,.3) 70%, transparent);
+}
+
 /* ── SHIMMER ── */
 .shimmer { background: linear-gradient(90deg, rgba(255,255,255,.03) 25%, rgba(212,185,122,.07) 50%, rgba(255,255,255,.03) 75%); background-size: 200% 100%; animation: shim 1.5s infinite; border-radius: 12px; aspect-ratio: 2/3; }
 @keyframes shim { 0%{background-position:200% 0} 100%{background-position:-200% 0} }
@@ -597,6 +667,28 @@ input[type=number]::-webkit-inner-spin-button { -webkit-appearance: none; }
       <button class="btn-primary" onclick="toggleAllEp('all')">✓ Tout vu</button>
       <button class="btn-secondary" onclick="toggleAllEp('none')">○ Effacer</button>
     </div>
+  </div>
+</div>
+
+<!-- Confirm Delete Modal -->
+<div class="confirm-overlay" id="confirm-overlay">
+  <div class="confirm-box">
+    <div class="confirm-top-bar"></div>
+    <div class="confirm-body">
+      <div class="confirm-diamond">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+          <polygon points="10,1 19,10 10,19 1,10" stroke="url(#dg)" stroke-width="1" fill="none"/>
+          <polygon points="10,5 15,10 10,15 5,10" fill="url(#dg)" opacity=".6"/>
+          <defs><linearGradient id="dg" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#b8720a"/><stop offset="100%" stop-color="#e8c96a"/></linearGradient></defs>
+        </svg>
+      </div>
+      <div class="confirm-title">Souhaitez-vous supprimer<br>définitivement cet animé<br>de votre bibliothèque ?</div>
+      <div class="confirm-btns">
+        <button class="confirm-btn-delete" id="confirm-delete-btn">Supprimer définitivement</button>
+        <button class="confirm-btn-keep" onclick="closeConfirm()">Garder</button>
+      </div>
+    </div>
+    <div class="confirm-bottom-bar"></div>
   </div>
 </div>
 
@@ -1055,11 +1147,35 @@ function openAnimeFromList(id) {
   renderPosters();
 }
 
+let _confirmDeleteId = null;
+
+function showConfirmDelete(id) {
+  _confirmDeleteId = id;
+  document.getElementById('confirm-overlay').classList.add('open');
+  document.getElementById('confirm-delete-btn').onclick = () => {
+    animes = animes.filter(x => x.id !== _confirmDeleteId);
+    save(); renderListe(); renderPosters(); renderRanking();
+    closeConfirm();
+  };
+}
+
+function closeConfirm() {
+  document.getElementById('confirm-overlay').classList.remove('open');
+  _confirmDeleteId = null;
+}
+
+// Fermer en cliquant en dehors
+document.addEventListener('click', e => {
+  const overlay = document.getElementById('confirm-overlay');
+  if (e.target === overlay) closeConfirm();
+});
+
 function abandonAnime(id) {
   const a = animes.find(x => x.id === id);
   if (!a) return;
   if (a.statut === "À visionner") {
-    animes = animes.filter(x => x.id !== id);
+    showConfirmDelete(id);
+    return;
   } else {
     a.statut = "À visionner";
     a.watched = [];
@@ -1237,19 +1353,21 @@ function renderRankFilters() {
     b.onclick = () => { rankFilter = rankFilter === val ? 'tous' : val; renderRankFilters(); renderRanking(); };
     c.appendChild(b);
   };
-  mk(`Tous (${animes.length})`, 'tous', '#94a3b8');
+  const rankableCount = animes.filter(a => a.statut !== "À visionner").length;
+  mk(`Tous (${rankableCount})`, 'tous', '#94a3b8');
   RANK_DISPLAY_ORDER.forEach(id => {
     const r = getRankObj(id);
-    const count = animes.filter(a => getRank(a) === id).length;
+    const count = animes.filter(a => getRank(a) === id && a.statut !== "À visionner").length;
     if (count > 0) mk(`${r.label} (${count})`, id, r.color);
   });
 }
 
 function renderRanking() {
   renderRankFilters();
+  const rankable = animes.filter(a => a.statut !== "À visionner");
   const filtered = rankFilter === 'tous'
-    ? [...animes].sort((a,b) => RANK_DISPLAY_ORDER.indexOf(getRank(a)) - RANK_DISPLAY_ORDER.indexOf(getRank(b)))
-    : animes.filter(a => getRank(a) === rankFilter);
+    ? [...rankable].sort((a,b) => RANK_DISPLAY_ORDER.indexOf(getRank(a)) - RANK_DISPLAY_ORDER.indexOf(getRank(b)))
+    : rankable.filter(a => getRank(a) === rankFilter);
 
   const list = document.getElementById('ranking-list');
   if (!filtered.length) {
