@@ -178,6 +178,9 @@ main { padding: 16px; max-width: 900px; margin: 0 auto; }
   touch-action: manipulation; -webkit-tap-highlight-color: transparent;
 }
 .poster-add.added { background: rgba(122,171,122,.1); color: var(--green); border-color: rgba(122,171,122,.25); }
+.poster-add.status-en-cours { background: rgba(200,144,58,.1); color: #c8903a; border-color: rgba(200,144,58,.25); }
+.poster-add.status-a-voir { background: rgba(96,165,250,.1); color: #60a5fa; border-color: rgba(96,165,250,.25); }
+.poster-add.status-a-visionner { background: rgba(248,113,113,.1); color: #f87171; border-color: rgba(248,113,113,.25); }
 
 /* ── ANIME LIST ── */
 .anime-list { display: flex; flex-direction: column; gap: 8px; }
@@ -980,7 +983,14 @@ function renderPosters() {
   filtered.forEach(a => {
     _ahMap[a.ahId] = a;
     const g = getG(gId(a.titre));
-    const added = animes.some(x => x.titre.toLowerCase() === a.titre.toLowerCase());
+    const existing = animes.find(x => x.titre.toLowerCase() === a.titre.toLowerCase());
+    const added = !!existing;
+    const realStatut = existing ? existing.statut : null;
+    const statusLabel = realStatut === 'Vu' ? '✓ Vu'
+      : realStatut === 'En cours' ? '▶ En cours'
+      : realStatut === 'À voir' ? '◎ À voir'
+      : realStatut === 'À visionner' ? '+ À visionner'
+      : 'À regarder';
     const url = imgUrl(a.img);
     const div = document.createElement('div');
     div.className = 'poster-card';
@@ -992,8 +1002,8 @@ function renderPosters() {
       <div class="poster-ep">Ep.${a.ep}</div>
       <div class="poster-bottom">
         <div class="poster-title-s">${a.titre}</div>
-        <button class="poster-add ${added?'added':''}">
-          ${added ? '✓ Vu' : 'À regarder'}
+        <button class="poster-add ${realStatut === 'Vu' ? 'added' : realStatut === 'En cours' ? 'status-en-cours' : realStatut === 'À voir' ? 'status-a-voir' : realStatut === 'À visionner' ? 'status-a-visionner' : ''}">
+          ${statusLabel}
         </button>
       </div>
     `;
