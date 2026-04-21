@@ -4,7 +4,7 @@
       "titre": "Release That Witch",
       "titreJp": "Fangkai Nage Nuwu",
       "ep": 8,
-      "ago": "13h",
+      "ago": "17h",
       "img": "54d5g",
       "ahId": "fwe7e"
     },
@@ -12,7 +12,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 3,
-      "ago": "13h",
+      "ago": "18h",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -20,7 +20,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 3,
-      "ago": "14h",
+      "ago": "18h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -28,7 +28,7 @@
       "titre": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "titreJp": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
       "ep": 3,
-      "ago": "15h",
+      "ago": "19h",
       "img": "jh4do",
       "ahId": "fcmyo"
     },
@@ -36,7 +36,7 @@
       "titre": "Farming Life in Another World 2",
       "titreJp": "Isekai Nonbiri Nouka 2",
       "ep": 3,
-      "ago": "16h",
+      "ago": "20h",
       "img": "b7en4",
       "ahId": "fae6d"
     },
@@ -44,7 +44,7 @@
       "titre": "Witch Hat Atelier",
       "titreJp": "Tongari Boushi no Atelier",
       "ep": 4,
-      "ago": "16h",
+      "ago": "20h",
       "img": "6rlo7",
       "ahId": "df4in"
     },
@@ -108,7 +108,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season",
       "titreJp": "Diamond no Ace: Act II 2nd Season",
       "ep": 3,
-      "ago": "1d",
+      "ago": "2d",
       "img": "c50pz",
       "ahId": "dd464"
     },
@@ -116,7 +116,7 @@
       "titre": "Wistoria: Wand and Sword 2nd Season",
       "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
       "ep": 2,
-      "ago": "1d",
+      "ago": "2d",
       "img": "h6l0c",
       "ahId": "y98v5"
     },
@@ -124,7 +124,7 @@
       "titre": "Rooster Fighter",
       "titreJp": "Niwatori Fighter",
       "ep": 6,
-      "ago": "1d",
+      "ago": "2d",
       "img": "vy576",
       "ahId": "uni0y"
     },
@@ -244,7 +244,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -252,7 +252,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -260,7 +260,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 134,
-      "ago": "2d",
+      "ago": "3d",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -545,7 +545,7 @@
       "ahId": "k662x"
     }
   ],
-  "updatedAt": "2026-04-21T06:24:13.350Z",
+  "updatedAt": "2026-04-21T10:54:58.228Z",
   "source": "github-actions",
   "count": 68
 }
