@@ -3,8 +3,8 @@
     {
       "titre": "Monster",
       "titreJp": "",
-      "ep": 30,
-      "ago": "?",
+      "ep": 46,
+      "ago": "7h",
       "img": "h1ks9",
       "ahId": "j5ijk"
     },
@@ -12,7 +12,7 @@
       "titre": "My Ribdiculous Reincarnation",
       "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
       "ep": 3,
-      "ago": "3h",
+      "ago": "11h",
       "img": "27pp6",
       "ahId": "xw4de"
     },
@@ -20,7 +20,7 @@
       "titre": "Pardon the Intrusion, I'm Home!",
       "titreJp": "Tadaima, Ojamasaremasu!",
       "ep": 3,
-      "ago": "4h",
+      "ago": "12h",
       "img": "mwvn6",
       "ahId": "c3nol"
     },
@@ -28,7 +28,7 @@
       "titre": "Eren the Southpaw",
       "titreJp": "Hidarikiki no Eren",
       "ep": 3,
-      "ago": "5h",
+      "ago": "14h",
       "img": "w5epl",
       "ahId": "j26hl"
     },
@@ -36,7 +36,7 @@
       "titre": "Beyond Twilight",
       "titreJp": "Hyakki Yakoushou",
       "ep": 3,
-      "ago": "6h",
+      "ago": "14h",
       "img": "0gwes",
       "ahId": "r32sr"
     },
@@ -44,7 +44,7 @@
       "titre": "I Made Friends with the Second Prettiest Girl in My Class",
       "titreJp": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
       "ep": 3,
-      "ago": "6h",
+      "ago": "15h",
       "img": "kfuf2",
       "ahId": "3c38p"
     },
@@ -52,7 +52,7 @@
       "titre": "Even a Replica Can Fall in Love",
       "titreJp": "Replica datte, Koi wo Suru.",
       "ep": 3,
-      "ago": "7h",
+      "ago": "15h",
       "img": "z35jq",
       "ahId": "k662x"
     },
@@ -60,7 +60,7 @@
       "titre": "I Want to End This Love Game",
       "titreJp": "Aishiteru Game wo Owarasetai",
       "ep": 2,
-      "ago": "7h",
+      "ago": "15h",
       "img": "438x1",
       "ahId": "jrvi5"
     },
@@ -68,7 +68,7 @@
       "titre": "Marriagetoxin",
       "titreJp": "Marriage Toxin",
       "ep": 3,
-      "ago": "7h",
+      "ago": "15h",
       "img": "ljkt9",
       "ahId": "lf9gt"
     },
@@ -76,7 +76,7 @@
       "titre": "The Most Heretical Last Boss Queen: From Villainess to Savior 2nd Season",
       "titreJp": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Min no Tame ni Tsukushimasu. 2nd Season",
       "ep": 3,
-      "ago": "8h",
+      "ago": "16h",
       "img": "5zcck",
       "ahId": "np9nt"
     },
@@ -212,7 +212,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 27,
-      "ago": "2d",
+      "ago": "3d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -545,7 +545,7 @@
       "ahId": "ilp9j"
     }
   ],
-  "updatedAt": "2026-04-21T22:11:16.529Z",
+  "updatedAt": "2026-04-22T06:13:40.489Z",
   "source": "github-actions",
   "count": 68
 }
