@@ -1,10 +1,42 @@
 {
   "animes": [
     {
+      "titre": "Monster Eater",
+      "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
+      "ep": 4,
+      "ago": "2h",
+      "img": "anfea",
+      "ahId": "pi6yi"
+    },
+    {
+      "titre": "Killed Again, Mr. Detective?",
+      "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
+      "ep": 4,
+      "ago": "2h",
+      "img": "j0cec",
+      "ahId": "0cwi8"
+    },
+    {
+      "titre": "Haibara’s Teenage New Game+",
+      "titreJp": "Haibara-kun no Tsuyokute Seishun New Game",
+      "ep": 4,
+      "ago": "3h",
+      "img": "dw9gn",
+      "ahId": "7s4ze"
+    },
+    {
+      "titre": "A Hundred Scenes of AWAJIMA",
+      "titreJp": "Awajima Hyakkei",
+      "ep": 3,
+      "ago": "3h",
+      "img": "r7ozz",
+      "ahId": "oh0q2"
+    },
+    {
       "titre": "Petals of Reincarnation",
       "titreJp": "Reincarnation no Kaben",
       "ep": 4,
-      "ago": "?",
+      "ago": "3h",
       "img": "iideg",
       "ahId": "b2ybn"
     },
@@ -12,7 +44,7 @@
       "titre": "Kirio Fan Club",
       "titreJp": "",
       "ep": 4,
-      "ago": "?",
+      "ago": "4h",
       "img": "f7jfv",
       "ahId": "ji7g1"
     },
@@ -20,7 +52,7 @@
       "titre": "The Ramparts of Ice",
       "titreJp": "Koori no Jouheki, Ice Castle Wall",
       "ep": 4,
-      "ago": "1h",
+      "ago": "4h",
       "img": "cs30h",
       "ahId": "jx2jr"
     },
@@ -28,7 +60,7 @@
       "titre": "Kujima: Why Sing, When You Can Warble?",
       "titreJp": "Kujima Utaeba Ie Hororo",
       "ep": 3,
-      "ago": "2h",
+      "ago": "5h",
       "img": "pv8qk",
       "ahId": "gbdj0"
     },
@@ -36,7 +68,7 @@
       "titre": "Dr. Stone: Science Future - Part III",
       "titreJp": "",
       "ep": 4,
-      "ago": "2h",
+      "ago": "5h",
       "img": "oxfds",
       "ahId": "xvd0a"
     },
@@ -44,7 +76,7 @@
       "titre": "The Barbarian's Bride",
       "titreJp": "Himekishi wa Barbaroi no Yome",
       "ep": 3,
-      "ago": "4h",
+      "ago": "7h",
       "img": "synxi",
       "ahId": "hi6b1"
     },
@@ -52,7 +84,7 @@
       "titre": "Go For It, Nakamura!",
       "titreJp": "Ganbare! Nakamura-kun!!",
       "ep": 5,
-      "ago": "23h",
+      "ago": "1d",
       "img": "rf7eh",
       "ahId": "1ijne"
     },
@@ -132,7 +164,7 @@
       "titre": "My Ribdiculous Reincarnation",
       "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
       "ep": 3,
-      "ago": "1d",
+      "ago": "2d",
       "img": "27pp6",
       "ahId": "xw4de"
     },
@@ -140,7 +172,7 @@
       "titre": "Pardon the Intrusion, I'm Home!",
       "titreJp": "Tadaima, Ojamasaremasu!",
       "ep": 3,
-      "ago": "1d",
+      "ago": "2d",
       "img": "mwvn6",
       "ahId": "c3nol"
     },
@@ -204,7 +236,7 @@
       "titre": "Release That Witch",
       "titreJp": "Fangkai Nage Nuwu",
       "ep": 8,
-      "ago": "2d",
+      "ago": "3d",
       "img": "54d5g",
       "ahId": "fwe7e"
     },
@@ -260,7 +292,7 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 3,
-      "ago": "3d",
+      "ago": "4d",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -340,7 +372,7 @@
       "titre": "Ichijouma Mankitsugurashi!",
       "titreJp": "",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "wm2v7",
       "ahId": "ccxi5"
     },
@@ -348,7 +380,7 @@
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 14,
-      "ago": "4d",
+      "ago": "5d",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -356,7 +388,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 3,
-      "ago": "4d",
+      "ago": "5d",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -468,7 +500,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 4,
-      "ago": "5d",
+      "ago": "6d",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -511,41 +543,9 @@
       "ago": "6d",
       "img": "8ezmn",
       "ahId": "nv9bp"
-    },
-    {
-      "titre": "All You Need Is Kill",
-      "titreJp": "",
-      "ep": 1,
-      "ago": "6d",
-      "img": "4kuek",
-      "ahId": "hev47"
-    },
-    {
-      "titre": "Monster Eater",
-      "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
-      "ep": 3,
-      "ago": "6d",
-      "img": "anfea",
-      "ahId": "pi6yi"
-    },
-    {
-      "titre": "Killed Again, Mr. Detective?",
-      "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
-      "ep": 3,
-      "ago": "6d",
-      "img": "j0cec",
-      "ahId": "0cwi8"
-    },
-    {
-      "titre": "Haibara’s Teenage New Game+",
-      "titreJp": "Haibara-kun no Tsuyokute Seishun New Game",
-      "ep": 3,
-      "ago": "6d",
-      "img": "dw9gn",
-      "ahId": "7s4ze"
     }
   ],
-  "updatedAt": "2026-04-23T16:55:00.912Z",
+  "updatedAt": "2026-04-23T20:14:32.873Z",
   "source": "github-actions",
   "count": 68
 }
