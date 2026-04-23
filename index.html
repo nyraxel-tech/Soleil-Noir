@@ -918,6 +918,10 @@ async function loadAH() {
           if (ah.ep > existing.totalEp) {
             existing.totalEp = ah.ep;
             changed = true;
+            // Si l'animé était "Vu" mais qu'un nouvel épisode est sorti, repasser en "En cours"
+            if (existing.statut === "Vu" && existing.watched.length < existing.totalEp) {
+              existing.statut = "En cours";
+            }
           }
           // Si aucun épisode visionné, forcer "À visionner"
           if (existing.watched.length === 0 && existing.statut !== "À visionner") {
