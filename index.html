@@ -1455,7 +1455,20 @@ function reclassifyAll() {
   if (changed) save();
 }
 
+function fixInconsistentStatuts() {
+  let changed = false;
+  animes.forEach(a => {
+    const watched = a.watched?.length || 0;
+    if (a.statut === "Vu" && watched < a.totalEp) {
+      a.statut = watched === 0 ? "À visionner" : "En cours";
+      changed = true;
+    }
+  });
+  if (changed) save();
+}
+
 reclassifyAll();
+fixInconsistentStatuts();
 loadAH();
 initAuth();
 </script>
