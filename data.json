@@ -4,7 +4,7 @@
       "titre": "Monster Eater",
       "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
       "ep": 4,
-      "ago": "12h",
+      "ago": "17h",
       "img": "anfea",
       "ahId": "pi6yi"
     },
@@ -12,7 +12,7 @@
       "titre": "Killed Again, Mr. Detective?",
       "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
       "ep": 4,
-      "ago": "12h",
+      "ago": "17h",
       "img": "j0cec",
       "ahId": "0cwi8"
     },
@@ -20,7 +20,7 @@
       "titre": "Haibara’s Teenage New Game+",
       "titreJp": "Haibara-kun no Tsuyokute Seishun New Game",
       "ep": 4,
-      "ago": "13h",
+      "ago": "17h",
       "img": "dw9gn",
       "ahId": "7s4ze"
     },
@@ -28,7 +28,7 @@
       "titre": "A Hundred Scenes of AWAJIMA",
       "titreJp": "Awajima Hyakkei",
       "ep": 3,
-      "ago": "13h",
+      "ago": "17h",
       "img": "r7ozz",
       "ahId": "oh0q2"
     },
@@ -36,7 +36,7 @@
       "titre": "Petals of Reincarnation",
       "titreJp": "Reincarnation no Kaben",
       "ep": 4,
-      "ago": "13h",
+      "ago": "18h",
       "img": "iideg",
       "ahId": "b2ybn"
     },
@@ -44,7 +44,7 @@
       "titre": "Kirio Fan Club",
       "titreJp": "",
       "ep": 4,
-      "ago": "14h",
+      "ago": "18h",
       "img": "f7jfv",
       "ahId": "ji7g1"
     },
@@ -52,7 +52,7 @@
       "titre": "The Ramparts of Ice",
       "titreJp": "Koori no Jouheki, Ice Castle Wall",
       "ep": 4,
-      "ago": "14h",
+      "ago": "19h",
       "img": "cs30h",
       "ahId": "jx2jr"
     },
@@ -60,7 +60,7 @@
       "titre": "Kujima: Why Sing, When You Can Warble?",
       "titreJp": "Kujima Utaeba Ie Hororo",
       "ep": 3,
-      "ago": "16h",
+      "ago": "20h",
       "img": "pv8qk",
       "ahId": "gbdj0"
     },
@@ -68,7 +68,7 @@
       "titre": "Dr. Stone: Science Future - Part III",
       "titreJp": "",
       "ep": 4,
-      "ago": "16h",
+      "ago": "20h",
       "img": "oxfds",
       "ahId": "xvd0a"
     },
@@ -76,7 +76,7 @@
       "titre": "The Barbarian's Bride",
       "titreJp": "Himekishi wa Barbaroi no Yome",
       "ep": 3,
-      "ago": "17h",
+      "ago": "22h",
       "img": "synxi",
       "ahId": "hi6b1"
     },
@@ -340,7 +340,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season",
       "titreJp": "Diamond no Ace: Act II 2nd Season",
       "ep": 3,
-      "ago": "4d",
+      "ago": "5d",
       "img": "c50pz",
       "ahId": "dd464"
     },
@@ -348,7 +348,7 @@
       "titre": "Wistoria: Wand and Sword 2nd Season",
       "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "h6l0c",
       "ahId": "y98v5"
     },
@@ -356,7 +356,7 @@
       "titre": "Rooster Fighter",
       "titreJp": "Niwatori Fighter",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "vy576",
       "ahId": "uni0y"
     },
@@ -476,7 +476,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 3,
-      "ago": "5d",
+      "ago": "6d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -484,7 +484,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 3,
-      "ago": "5d",
+      "ago": "6d",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -492,7 +492,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 134,
-      "ago": "5d",
+      "ago": "6d",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -545,7 +545,7 @@
       "ahId": "nv9bp"
     }
   ],
-  "updatedAt": "2026-04-24T06:30:09.601Z",
+  "updatedAt": "2026-04-24T10:56:02.355Z",
   "source": "github-actions",
   "count": 68
 }
