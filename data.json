@@ -4,7 +4,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 5,
-      "ago": "?",
+      "ago": "2h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -12,7 +12,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 3,
-      "ago": "1h",
+      "ago": "3h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -20,7 +20,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 4,
-      "ago": "2h",
+      "ago": "4h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -28,7 +28,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 3,
-      "ago": "2h",
+      "ago": "4h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -36,7 +36,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 4,
-      "ago": "2h",
+      "ago": "4h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -44,7 +44,7 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 4,
-      "ago": "4h",
+      "ago": "7h",
       "img": "8ezmn",
       "ahId": "nv9bp"
     },
@@ -212,7 +212,7 @@
       "titre": "My Ribdiculous Reincarnation",
       "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "27pp6",
       "ahId": "xw4de"
     },
@@ -420,7 +420,7 @@
       "titre": "Ichijouma Mankitsugurashi!",
       "titreJp": "",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "wm2v7",
       "ahId": "ccxi5"
     },
@@ -545,7 +545,7 @@
       "ahId": "9v661"
     }
   ],
-  "updatedAt": "2026-04-24T17:57:07.782Z",
+  "updatedAt": "2026-04-24T20:09:20.274Z",
   "source": "github-actions",
   "count": 68
 }
