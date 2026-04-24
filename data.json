@@ -4,7 +4,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 5,
-      "ago": "2h",
+      "ago": "5h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -12,7 +12,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 3,
-      "ago": "3h",
+      "ago": "6h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -20,7 +20,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 4,
-      "ago": "4h",
+      "ago": "7h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -28,7 +28,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 3,
-      "ago": "4h",
+      "ago": "7h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -36,7 +36,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 4,
-      "ago": "4h",
+      "ago": "8h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -44,7 +44,7 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 4,
-      "ago": "7h",
+      "ago": "10h",
       "img": "8ezmn",
       "ahId": "nv9bp"
     },
@@ -332,7 +332,7 @@
       "titre": "Marika's Love Meter Malfunction",
       "titreJp": "Marika-chan no Koukando wa Bukkowareteiru",
       "ep": 3,
-      "ago": "4d",
+      "ago": "5d",
       "img": "33vsk",
       "ahId": "fsi1m"
     },
@@ -545,7 +545,7 @@
       "ahId": "9v661"
     }
   ],
-  "updatedAt": "2026-04-24T20:09:20.274Z",
+  "updatedAt": "2026-04-24T23:10:22.616Z",
   "source": "github-actions",
   "count": 68
 }
