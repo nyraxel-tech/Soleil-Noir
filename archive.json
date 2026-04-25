@@ -517,8 +517,22 @@
       "img": "odtij",
       "ahId": "jy90a",
       "addedAt": "2026-04-25T17:11:24.074Z"
+    },
+    {
+      "titre": "Koyomimonogatari",
+      "titreJp": "",
+      "img": "8fypw",
+      "ahId": "92o55",
+      "addedAt": "2026-04-25T19:57:22.784Z"
+    },
+    {
+      "titre": "Tsukimonogatari",
+      "titreJp": "Tsukimonogatari: Yotsugi Doll",
+      "img": "drvf7",
+      "ahId": "u7fdt",
+      "addedAt": "2026-04-25T19:57:22.784Z"
     }
   ],
-  "updatedAt": "2026-04-25T17:11:24.074Z",
-  "count": 74
+  "updatedAt": "2026-04-25T19:57:22.784Z",
+  "count": 76
 }

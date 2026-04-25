@@ -1,26 +1,66 @@
 {
   "animes": [
     {
-      "titre": "Agents of the Four Seasons: Dance of Spring",
-      "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
-      "ep": 5,
+      "titre": "Koyomimonogatari",
+      "titreJp": "",
+      "ep": 6,
       "ago": "?",
-      "img": "fxza8",
-      "ahId": "boii6"
+      "img": "8fypw",
+      "ahId": "92o55"
+    },
+    {
+      "titre": "Tsukimonogatari",
+      "titreJp": "Tsukimonogatari: Yotsugi Doll",
+      "ep": 4,
+      "ago": "1h",
+      "img": "drvf7",
+      "ahId": "u7fdt"
     },
     {
       "titre": "Hanamonogatari",
       "titreJp": "Hanamonogatari: Suruga Devil",
-      "ep": 2,
-      "ago": "?",
+      "ep": 5,
+      "ago": "1h",
       "img": "odtij",
       "ahId": "jy90a"
+    },
+    {
+      "titre": "Ichijouma Mankitsugurashi!",
+      "titreJp": "",
+      "ep": 3,
+      "ago": "2h",
+      "img": "wm2v7",
+      "ahId": "ccxi5"
+    },
+    {
+      "titre": "Needy Girl Overdose",
+      "titreJp": "",
+      "ep": 4,
+      "ago": "2h",
+      "img": "57g7m",
+      "ahId": "z320l"
+    },
+    {
+      "titre": "Scum of the Brave",
+      "titreJp": "Yuusha no Kuzu",
+      "ep": 15,
+      "ago": "2h",
+      "img": "97302",
+      "ahId": "oxx6c"
+    },
+    {
+      "titre": "Agents of the Four Seasons: Dance of Spring",
+      "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
+      "ep": 5,
+      "ago": "3h",
+      "img": "fxza8",
+      "ahId": "boii6"
     },
     {
       "titre": "Mistress Kanan is Devilishly Easy",
       "titreJp": "Kanan-sama wa Akumade Choroi",
       "ep": 4,
-      "ago": "?",
+      "ago": "3h",
       "img": "8q6wl",
       "ahId": "3uz6y"
     },
@@ -28,7 +68,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 4,
-      "ago": "?",
+      "ago": "3h",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -36,7 +76,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 4,
-      "ago": "1h",
+      "ago": "4h",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -44,7 +84,7 @@
       "titre": "Akane-banashi",
       "titreJp": "",
       "ep": 4,
-      "ago": "1h",
+      "ago": "4h",
       "img": "7j7kb",
       "ahId": "o8996"
     },
@@ -52,7 +92,7 @@
       "titre": "The Great Sage Ryddel and the Hands of Time",
       "titreJp": "Daikenja Riddle no Jikan Gyakko",
       "ep": 4,
-      "ago": "1h",
+      "ago": "4h",
       "img": "tl46m",
       "ahId": "rf6nw"
     },
@@ -60,7 +100,7 @@
       "titre": "Kill Blue",
       "titreJp": "Kill Ao",
       "ep": 3,
-      "ago": "2h",
+      "ago": "5h",
       "img": "dns6b",
       "ahId": "y5v48"
     },
@@ -68,7 +108,7 @@
       "titre": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
       "titreJp": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
       "ep": 5,
-      "ago": "3h",
+      "ago": "6h",
       "img": "hnxbm",
       "ahId": "ayudj"
     },
@@ -76,7 +116,7 @@
       "titre": "Yowayowa Teacher",
       "titreJp": "Yowayowa Sensei",
       "ep": 3,
-      "ago": "4h",
+      "ago": "6h",
       "img": "b6f8i",
       "ahId": "pijt4"
     },
@@ -84,7 +124,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1199,
-      "ago": "5h",
+      "ago": "8h",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -92,7 +132,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 4,
-      "ago": "6h",
+      "ago": "9h",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -100,7 +140,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 4,
-      "ago": "7h",
+      "ago": "10h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -108,7 +148,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 135,
-      "ago": "8h",
+      "ago": "11h",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -116,7 +156,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 5,
-      "ago": "23h",
+      "ago": "1d",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -164,7 +204,7 @@
       "titre": "Monster Eater",
       "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
       "ep": 4,
-      "ago": "1d",
+      "ago": "2d",
       "img": "anfea",
       "ahId": "pi6yi"
     },
@@ -172,7 +212,7 @@
       "titre": "Killed Again, Mr. Detective?",
       "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
       "ep": 4,
-      "ago": "1d",
+      "ago": "2d",
       "img": "j0cec",
       "ahId": "0cwi8"
     },
@@ -180,7 +220,7 @@
       "titre": "Haibara’s Teenage New Game+",
       "titreJp": "Haibara-kun no Tsuyokute Seishun New Game",
       "ep": 4,
-      "ago": "1d",
+      "ago": "2d",
       "img": "dw9gn",
       "ahId": "7s4ze"
     },
@@ -324,7 +364,7 @@
       "titre": "My Ribdiculous Reincarnation",
       "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
       "ep": 3,
-      "ago": "3d",
+      "ago": "4d",
       "img": "27pp6",
       "ahId": "xw4de"
     },
@@ -332,7 +372,7 @@
       "titre": "Pardon the Intrusion, I'm Home!",
       "titreJp": "Tadaima, Ojamasaremasu!",
       "ep": 3,
-      "ago": "3d",
+      "ago": "4d",
       "img": "mwvn6",
       "ahId": "c3nol"
     },
@@ -503,49 +543,9 @@
       "ago": "6d",
       "img": "c50pz",
       "ahId": "dd464"
-    },
-    {
-      "titre": "Wistoria: Wand and Sword 2nd Season",
-      "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
-      "ep": 2,
-      "ago": "6d",
-      "img": "h6l0c",
-      "ahId": "y98v5"
-    },
-    {
-      "titre": "Rooster Fighter",
-      "titreJp": "Niwatori Fighter",
-      "ep": 6,
-      "ago": "6d",
-      "img": "vy576",
-      "ahId": "uni0y"
-    },
-    {
-      "titre": "Digimon Beatbreak",
-      "titreJp": "",
-      "ep": 27,
-      "ago": "6d",
-      "img": "88ts8",
-      "ahId": "kqa66"
-    },
-    {
-      "titre": "Ichijouma Mankitsugurashi!",
-      "titreJp": "",
-      "ep": 2,
-      "ago": "6d",
-      "img": "wm2v7",
-      "ahId": "ccxi5"
-    },
-    {
-      "titre": "Scum of the Brave",
-      "titreJp": "Yuusha no Kuzu",
-      "ep": 14,
-      "ago": "6d",
-      "img": "97302",
-      "ahId": "oxx6c"
     }
   ],
-  "updatedAt": "2026-04-25T17:11:24.065Z",
+  "updatedAt": "2026-04-25T19:57:22.775Z",
   "source": "github-actions",
   "count": 68
 }
