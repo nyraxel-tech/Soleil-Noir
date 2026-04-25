@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Owarimonogatari",
+      "titreJp": "",
+      "ep": 13,
+      "ago": "?",
+      "img": "jvxkc",
+      "ahId": "j4rej"
+    },
+    {
       "titre": "Koyomimonogatari",
       "titreJp": "",
-      "ep": 6,
-      "ago": "?",
+      "ep": 12,
+      "ago": "1h",
       "img": "8fypw",
       "ahId": "92o55"
     },
@@ -12,7 +20,7 @@
       "titre": "Tsukimonogatari",
       "titreJp": "Tsukimonogatari: Yotsugi Doll",
       "ep": 4,
-      "ago": "1h",
+      "ago": "3h",
       "img": "drvf7",
       "ahId": "u7fdt"
     },
@@ -20,7 +28,7 @@
       "titre": "Hanamonogatari",
       "titreJp": "Hanamonogatari: Suruga Devil",
       "ep": 5,
-      "ago": "1h",
+      "ago": "3h",
       "img": "odtij",
       "ahId": "jy90a"
     },
@@ -28,7 +36,7 @@
       "titre": "Ichijouma Mankitsugurashi!",
       "titreJp": "",
       "ep": 3,
-      "ago": "2h",
+      "ago": "4h",
       "img": "wm2v7",
       "ahId": "ccxi5"
     },
@@ -36,7 +44,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 4,
-      "ago": "2h",
+      "ago": "4h",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -44,7 +52,7 @@
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 15,
-      "ago": "2h",
+      "ago": "4h",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -52,7 +60,7 @@
       "titre": "Agents of the Four Seasons: Dance of Spring",
       "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
       "ep": 5,
-      "ago": "3h",
+      "ago": "5h",
       "img": "fxza8",
       "ahId": "boii6"
     },
@@ -60,7 +68,7 @@
       "titre": "Mistress Kanan is Devilishly Easy",
       "titreJp": "Kanan-sama wa Akumade Choroi",
       "ep": 4,
-      "ago": "3h",
+      "ago": "5h",
       "img": "8q6wl",
       "ahId": "3uz6y"
     },
@@ -68,7 +76,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 4,
-      "ago": "3h",
+      "ago": "5h",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -76,7 +84,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 4,
-      "ago": "4h",
+      "ago": "5h",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -84,7 +92,7 @@
       "titre": "Akane-banashi",
       "titreJp": "",
       "ep": 4,
-      "ago": "4h",
+      "ago": "6h",
       "img": "7j7kb",
       "ahId": "o8996"
     },
@@ -92,7 +100,7 @@
       "titre": "The Great Sage Ryddel and the Hands of Time",
       "titreJp": "Daikenja Riddle no Jikan Gyakko",
       "ep": 4,
-      "ago": "4h",
+      "ago": "6h",
       "img": "tl46m",
       "ahId": "rf6nw"
     },
@@ -100,7 +108,7 @@
       "titre": "Kill Blue",
       "titreJp": "Kill Ao",
       "ep": 3,
-      "ago": "5h",
+      "ago": "7h",
       "img": "dns6b",
       "ahId": "y5v48"
     },
@@ -108,7 +116,7 @@
       "titre": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
       "titreJp": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
       "ep": 5,
-      "ago": "6h",
+      "ago": "8h",
       "img": "hnxbm",
       "ahId": "ayudj"
     },
@@ -116,7 +124,7 @@
       "titre": "Yowayowa Teacher",
       "titreJp": "Yowayowa Sensei",
       "ep": 3,
-      "ago": "6h",
+      "ago": "8h",
       "img": "b6f8i",
       "ahId": "pijt4"
     },
@@ -124,7 +132,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1199,
-      "ago": "8h",
+      "ago": "10h",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -132,7 +140,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 4,
-      "ago": "9h",
+      "ago": "11h",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -140,7 +148,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 4,
-      "ago": "10h",
+      "ago": "12h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -148,7 +156,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 135,
-      "ago": "11h",
+      "ago": "13h",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -484,7 +492,7 @@
       "titre": "Marika's Love Meter Malfunction",
       "titreJp": "Marika-chan no Koukando wa Bukkowareteiru",
       "ep": 3,
-      "ago": "5d",
+      "ago": "6d",
       "img": "33vsk",
       "ahId": "fsi1m"
     },
@@ -535,17 +543,9 @@
       "ago": "6d",
       "img": "rgi7x",
       "ahId": "feqdi"
-    },
-    {
-      "titre": "Ace of the Diamond: Act II 2nd Season",
-      "titreJp": "Diamond no Ace: Act II 2nd Season",
-      "ep": 3,
-      "ago": "6d",
-      "img": "c50pz",
-      "ahId": "dd464"
     }
   ],
-  "updatedAt": "2026-04-25T19:57:22.775Z",
+  "updatedAt": "2026-04-25T21:55:14.122Z",
   "source": "github-actions",
   "count": 68
 }
