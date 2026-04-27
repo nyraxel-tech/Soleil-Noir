@@ -1,26 +1,50 @@
 {
   "animes": [
     {
-      "titre": "Nana",
-      "titreJp": "",
-      "ep": 47,
-      "ago": "12h",
-      "img": "rwxv9",
-      "ahId": "j4pza"
-    },
-    {
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 4,
-      "ago": "14h",
+      "ago": "?",
       "img": "g8cab",
       "ahId": "gnqba"
+    },
+    {
+      "titre": "The Klutzy Class Monitor and the Girl with the Short Skirt",
+      "titreJp": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
+      "ep": 4,
+      "ago": "?",
+      "img": "jh4do",
+      "ahId": "fcmyo"
+    },
+    {
+      "titre": "Farming Life in Another World 2",
+      "titreJp": "Isekai Nonbiri Nouka 2",
+      "ep": 4,
+      "ago": "1h",
+      "img": "b7en4",
+      "ahId": "fae6d"
+    },
+    {
+      "titre": "Witch Hat Atelier",
+      "titreJp": "Tongari Boushi no Atelier",
+      "ep": 5,
+      "ago": "1h",
+      "img": "6rlo7",
+      "ahId": "df4in"
+    },
+    {
+      "titre": "Nana",
+      "titreJp": "",
+      "ep": 47,
+      "ago": "18h",
+      "img": "rwxv9",
+      "ahId": "j4pza"
     },
     {
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 4,
-      "ago": "15h",
+      "ago": "22h",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -28,7 +52,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1159,
-      "ago": "17h",
+      "ago": "23h",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -36,7 +60,7 @@
       "titre": "Ghost Concert: Missing Songs",
       "titreJp": "",
       "ep": 4,
-      "ago": "17h",
+      "ago": "1d",
       "img": "1ljqb",
       "ahId": "8p2tr"
     },
@@ -44,7 +68,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 3,
-      "ago": "18h",
+      "ago": "1d",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -52,7 +76,7 @@
       "titre": "The Food Diary of Miss Maid",
       "titreJp": "Maid-san wa Taberu dake",
       "ep": 5,
-      "ago": "19h",
+      "ago": "1d",
       "img": "w1qq7",
       "ahId": "7b5z4"
     },
@@ -60,7 +84,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 28,
-      "ago": "23h",
+      "ago": "1d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -68,7 +92,7 @@
       "titre": "Wistoria: Wand and Sword 2nd Season",
       "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
       "ep": 3,
-      "ago": "23h",
+      "ago": "1d",
       "img": "h6l0c",
       "ahId": "y98v5"
     },
@@ -196,7 +220,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 4,
-      "ago": "1d",
+      "ago": "2d",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -204,7 +228,7 @@
       "titre": "Akane-banashi",
       "titreJp": "",
       "ep": 4,
-      "ago": "1d",
+      "ago": "2d",
       "img": "7j7kb",
       "ahId": "o8996"
     },
@@ -212,7 +236,7 @@
       "titre": "The Great Sage Ryddel and the Hands of Time",
       "titreJp": "Daikenja Riddle no Jikan Gyakko",
       "ep": 4,
-      "ago": "1d",
+      "ago": "2d",
       "img": "tl46m",
       "ahId": "rf6nw"
     },
@@ -220,7 +244,7 @@
       "titre": "Kill Blue",
       "titreJp": "Kill Ao",
       "ep": 3,
-      "ago": "1d",
+      "ago": "2d",
       "img": "dns6b",
       "ahId": "y5v48"
     },
@@ -228,7 +252,7 @@
       "titre": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
       "titreJp": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
       "ep": 5,
-      "ago": "1d",
+      "ago": "2d",
       "img": "hnxbm",
       "ahId": "ayudj"
     },
@@ -236,7 +260,7 @@
       "titre": "Yowayowa Teacher",
       "titreJp": "Yowayowa Sensei",
       "ep": 3,
-      "ago": "1d",
+      "ago": "2d",
       "img": "b6f8i",
       "ahId": "pijt4"
     },
@@ -244,7 +268,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1199,
-      "ago": "1d",
+      "ago": "2d",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -252,7 +276,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 4,
-      "ago": "1d",
+      "ago": "2d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -260,7 +284,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 4,
-      "ago": "1d",
+      "ago": "2d",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -292,7 +316,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 4,
-      "ago": "2d",
+      "ago": "3d",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -300,7 +324,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -308,7 +332,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 4,
-      "ago": "2d",
+      "ago": "3d",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -316,7 +340,7 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 4,
-      "ago": "2d",
+      "ago": "3d",
       "img": "8ezmn",
       "ahId": "nv9bp"
     },
@@ -372,7 +396,7 @@
       "titre": "The Ramparts of Ice",
       "titreJp": "Koori no Jouheki, Ice Castle Wall",
       "ep": 4,
-      "ago": "3d",
+      "ago": "4d",
       "img": "cs30h",
       "ahId": "jx2jr"
     },
@@ -380,7 +404,7 @@
       "titre": "Kujima: Why Sing, When You Can Warble?",
       "titreJp": "Kujima Utaeba Ie Hororo",
       "ep": 3,
-      "ago": "3d",
+      "ago": "4d",
       "img": "pv8qk",
       "ahId": "gbdj0"
     },
@@ -388,7 +412,7 @@
       "titre": "Dr. Stone: Science Future - Part III",
       "titreJp": "",
       "ep": 4,
-      "ago": "3d",
+      "ago": "4d",
       "img": "oxfds",
       "ahId": "xvd0a"
     },
@@ -396,7 +420,7 @@
       "titre": "The Barbarian's Bride",
       "titreJp": "Himekishi wa Barbaroi no Yome",
       "ep": 3,
-      "ago": "3d",
+      "ago": "4d",
       "img": "synxi",
       "ahId": "hi6b1"
     },
@@ -428,7 +452,7 @@
       "titre": "Gals Can’t Be Kind to Otaku!?",
       "titreJp": "Otaku ni Yasashii Gyaru wa Inai!?",
       "ep": 3,
-      "ago": "4d",
+      "ago": "5d",
       "img": "j5umi",
       "ahId": "kq3pz"
     },
@@ -436,7 +460,7 @@
       "titre": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season",
       "titreJp": "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
       "ep": 4,
-      "ago": "4d",
+      "ago": "5d",
       "img": "cirfw",
       "ahId": "5iqzo"
     },
@@ -444,7 +468,7 @@
       "titre": "Dorohedoro 2",
       "titreJp": "",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "t71fe",
       "ahId": "pgjgh"
     },
@@ -452,7 +476,7 @@
       "titre": "Re:ZERO: Starting Life in Another World Season 4",
       "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
       "ep": 3,
-      "ago": "4d",
+      "ago": "5d",
       "img": "7tc0j",
       "ahId": "ilp9j"
     },
@@ -460,7 +484,7 @@
       "titre": "Rent-a-Girlfriend Season 5",
       "titreJp": "Kanojo, Okarishimasu 5th Season",
       "ep": 3,
-      "ago": "4d",
+      "ago": "5d",
       "img": "7nqj7",
       "ahId": "i0kd0"
     },
@@ -468,7 +492,7 @@
       "titre": "Classroom of the Elite 4th Season",
       "titreJp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "npea5",
       "ahId": "nzwhr"
     },
@@ -476,7 +500,7 @@
       "titre": "Monster",
       "titreJp": "",
       "ep": 72,
-      "ago": "4d",
+      "ago": "5d",
       "img": "h1ks9",
       "ahId": "j5ijk"
     },
@@ -508,7 +532,7 @@
       "titre": "Beyond Twilight",
       "titreJp": "Hyakki Yakoushou",
       "ep": 3,
-      "ago": "5d",
+      "ago": "6d",
       "img": "0gwes",
       "ahId": "r32sr"
     },
@@ -516,36 +540,12 @@
       "titre": "I Made Friends with the Second Prettiest Girl in My Class",
       "titreJp": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
       "ep": 3,
-      "ago": "5d",
+      "ago": "6d",
       "img": "kfuf2",
       "ahId": "3c38p"
-    },
-    {
-      "titre": "Even a Replica Can Fall in Love",
-      "titreJp": "Replica datte, Koi wo Suru.",
-      "ep": 3,
-      "ago": "5d",
-      "img": "z35jq",
-      "ahId": "k662x"
-    },
-    {
-      "titre": "I Want to End This Love Game",
-      "titreJp": "Aishiteru Game wo Owarasetai",
-      "ep": 2,
-      "ago": "5d",
-      "img": "438x1",
-      "ahId": "jrvi5"
-    },
-    {
-      "titre": "Marriagetoxin",
-      "titreJp": "Marriage Toxin",
-      "ep": 3,
-      "ago": "5d",
-      "img": "ljkt9",
-      "ahId": "lf9gt"
     }
   ],
-  "updatedAt": "2026-04-27T09:31:12.477Z",
+  "updatedAt": "2026-04-27T16:00:51.500Z",
   "source": "github-actions",
   "count": 68
 }
