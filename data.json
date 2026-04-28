@@ -4,7 +4,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 4,
-      "ago": "7h",
+      "ago": "15h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -12,7 +12,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 4,
-      "ago": "8h",
+      "ago": "16h",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -20,7 +20,7 @@
       "titre": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "titreJp": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
       "ep": 4,
-      "ago": "8h",
+      "ago": "16h",
       "img": "jh4do",
       "ahId": "fcmyo"
     },
@@ -28,7 +28,7 @@
       "titre": "Farming Life in Another World 2",
       "titreJp": "Isekai Nonbiri Nouka 2",
       "ep": 4,
-      "ago": "9h",
+      "ago": "17h",
       "img": "b7en4",
       "ahId": "fae6d"
     },
@@ -36,7 +36,7 @@
       "titre": "Witch Hat Atelier",
       "titreJp": "Tongari Boushi no Atelier",
       "ep": 5,
-      "ago": "9h",
+      "ago": "17h",
       "img": "6rlo7",
       "ahId": "df4in"
     },
@@ -545,7 +545,7 @@
       "ahId": "r32sr"
     }
   ],
-  "updatedAt": "2026-04-27T23:39:05.099Z",
+  "updatedAt": "2026-04-28T07:57:20.680Z",
   "source": "github-actions",
   "count": 68
 }
