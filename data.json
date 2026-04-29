@@ -4,7 +4,7 @@
       "titre": "My Ribdiculous Reincarnation",
       "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
       "ep": 4,
-      "ago": "2h",
+      "ago": "5h",
       "img": "27pp6",
       "ahId": "xw4de"
     },
@@ -12,7 +12,7 @@
       "titre": "Pardon the Intrusion, I'm Home!",
       "titreJp": "Tadaima, Ojamasaremasu!",
       "ep": 4,
-      "ago": "3h",
+      "ago": "6h",
       "img": "mwvn6",
       "ahId": "c3nol"
     },
@@ -20,7 +20,7 @@
       "titre": "Eren the Southpaw",
       "titreJp": "Hidarikiki no Eren",
       "ep": 4,
-      "ago": "4h",
+      "ago": "7h",
       "img": "w5epl",
       "ahId": "j26hl"
     },
@@ -28,7 +28,7 @@
       "titre": "I Made Friends with the Second Prettiest Girl in My Class",
       "titreJp": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
       "ep": 4,
-      "ago": "5h",
+      "ago": "8h",
       "img": "kfuf2",
       "ahId": "3c38p"
     },
@@ -36,7 +36,7 @@
       "titre": "Even a Replica Can Fall in Love",
       "titreJp": "Replica datte, Koi wo Suru.",
       "ep": 4,
-      "ago": "6h",
+      "ago": "9h",
       "img": "z35jq",
       "ahId": "k662x"
     },
@@ -44,7 +44,7 @@
       "titre": "Marriagetoxin",
       "titreJp": "Marriage Toxin",
       "ep": 4,
-      "ago": "6h",
+      "ago": "9h",
       "img": "ljkt9",
       "ahId": "lf9gt"
     },
@@ -52,7 +52,7 @@
       "titre": "I Want to End This Love Game",
       "titreJp": "Aishiteru Game wo Owarasetai",
       "ep": 3,
-      "ago": "6h",
+      "ago": "9h",
       "img": "438x1",
       "ahId": "jrvi5"
     },
@@ -60,7 +60,7 @@
       "titre": "The Most Heretical Last Boss Queen: From Villainess to Savior 2nd Season",
       "titreJp": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Min no Tame ni Tsukushimasu. 2nd Season",
       "ep": 4,
-      "ago": "7h",
+      "ago": "10h",
       "img": "5zcck",
       "ahId": "np9nt"
     },
@@ -68,7 +68,7 @@
       "titre": "Beyond Twilight",
       "titreJp": "Hyakki Yakoushou",
       "ep": 4,
-      "ago": "7h",
+      "ago": "10h",
       "img": "0gwes",
       "ahId": "r32sr"
     },
@@ -116,7 +116,7 @@
       "titre": "Nana",
       "titreJp": "",
       "ep": 47,
-      "ago": "1d",
+      "ago": "2d",
       "img": "rwxv9",
       "ahId": "j4pza"
     },
@@ -204,7 +204,7 @@
       "titre": "Zoku Owarimonogatari",
       "titreJp": "",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "269oe",
       "ahId": "kjkok"
     },
@@ -212,7 +212,7 @@
       "titre": "Owarimonogatari II",
       "titreJp": "",
       "ep": 7,
-      "ago": "2d",
+      "ago": "3d",
       "img": "vhksv",
       "ahId": "tllm1"
     },
@@ -220,7 +220,7 @@
       "titre": "Owarimonogatari",
       "titreJp": "",
       "ep": 13,
-      "ago": "2d",
+      "ago": "3d",
       "img": "jvxkc",
       "ahId": "j4rej"
     },
@@ -545,7 +545,7 @@
       "ahId": "5iqzo"
     }
   ],
-  "updatedAt": "2026-04-28T20:53:51.050Z",
+  "updatedAt": "2026-04-29T00:08:28.301Z",
   "source": "github-actions",
   "count": 68
 }
