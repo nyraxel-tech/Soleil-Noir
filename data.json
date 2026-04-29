@@ -4,7 +4,7 @@
       "titre": "My Ribdiculous Reincarnation",
       "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
       "ep": 4,
-      "ago": "5h",
+      "ago": "15h",
       "img": "27pp6",
       "ahId": "xw4de"
     },
@@ -12,7 +12,7 @@
       "titre": "Pardon the Intrusion, I'm Home!",
       "titreJp": "Tadaima, Ojamasaremasu!",
       "ep": 4,
-      "ago": "6h",
+      "ago": "15h",
       "img": "mwvn6",
       "ahId": "c3nol"
     },
@@ -20,7 +20,7 @@
       "titre": "Eren the Southpaw",
       "titreJp": "Hidarikiki no Eren",
       "ep": 4,
-      "ago": "7h",
+      "ago": "17h",
       "img": "w5epl",
       "ahId": "j26hl"
     },
@@ -28,7 +28,7 @@
       "titre": "I Made Friends with the Second Prettiest Girl in My Class",
       "titreJp": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
       "ep": 4,
-      "ago": "8h",
+      "ago": "18h",
       "img": "kfuf2",
       "ahId": "3c38p"
     },
@@ -36,7 +36,7 @@
       "titre": "Even a Replica Can Fall in Love",
       "titreJp": "Replica datte, Koi wo Suru.",
       "ep": 4,
-      "ago": "9h",
+      "ago": "18h",
       "img": "z35jq",
       "ahId": "k662x"
     },
@@ -44,7 +44,7 @@
       "titre": "Marriagetoxin",
       "titreJp": "Marriage Toxin",
       "ep": 4,
-      "ago": "9h",
+      "ago": "18h",
       "img": "ljkt9",
       "ahId": "lf9gt"
     },
@@ -52,7 +52,7 @@
       "titre": "I Want to End This Love Game",
       "titreJp": "Aishiteru Game wo Owarasetai",
       "ep": 3,
-      "ago": "9h",
+      "ago": "18h",
       "img": "438x1",
       "ahId": "jrvi5"
     },
@@ -60,7 +60,7 @@
       "titre": "The Most Heretical Last Boss Queen: From Villainess to Savior 2nd Season",
       "titreJp": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Min no Tame ni Tsukushimasu. 2nd Season",
       "ep": 4,
-      "ago": "10h",
+      "ago": "19h",
       "img": "5zcck",
       "ahId": "np9nt"
     },
@@ -68,7 +68,7 @@
       "titre": "Beyond Twilight",
       "titreJp": "Hyakki Yakoushou",
       "ep": 4,
-      "ago": "10h",
+      "ago": "20h",
       "img": "0gwes",
       "ahId": "r32sr"
     },
@@ -180,7 +180,7 @@
       "titre": "Mission: Yozakura Family Season 2",
       "titreJp": "Yozakura-san Chi no Daisakusen Season 2",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "rgi7x",
       "ahId": "feqdi"
     },
@@ -188,7 +188,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season",
       "titreJp": "Diamond no Ace: Act II 2nd Season",
       "ep": 4,
-      "ago": "2d",
+      "ago": "3d",
       "img": "c50pz",
       "ahId": "dd464"
     },
@@ -196,7 +196,7 @@
       "titre": "Rooster Fighter",
       "titreJp": "Niwatori Fighter",
       "ep": 7,
-      "ago": "2d",
+      "ago": "3d",
       "img": "vy576",
       "ahId": "uni0y"
     },
@@ -372,7 +372,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 135,
-      "ago": "3d",
+      "ago": "4d",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -545,7 +545,7 @@
       "ahId": "5iqzo"
     }
   ],
-  "updatedAt": "2026-04-29T00:08:28.301Z",
+  "updatedAt": "2026-04-29T09:23:23.610Z",
   "source": "github-actions",
   "count": 68
 }
