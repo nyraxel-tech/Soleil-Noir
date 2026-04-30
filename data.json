@@ -1,10 +1,58 @@
 {
   "animes": [
     {
+      "titre": "Monster Eater",
+      "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
+      "ep": 5,
+      "ago": "2h",
+      "img": "anfea",
+      "ahId": "pi6yi"
+    },
+    {
+      "titre": "Killed Again, Mr. Detective?",
+      "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
+      "ep": 5,
+      "ago": "2h",
+      "img": "j0cec",
+      "ahId": "0cwi8"
+    },
+    {
+      "titre": "Haibara’s Teenage New Game+",
+      "titreJp": "Haibara-kun no Tsuyokute Seishun New Game",
+      "ep": 5,
+      "ago": "3h",
+      "img": "dw9gn",
+      "ahId": "7s4ze"
+    },
+    {
+      "titre": "A Hundred Scenes of AWAJIMA",
+      "titreJp": "Awajima Hyakkei",
+      "ep": 4,
+      "ago": "3h",
+      "img": "r7ozz",
+      "ahId": "oh0q2"
+    },
+    {
+      "titre": "Petals of Reincarnation",
+      "titreJp": "Reincarnation no Kaben",
+      "ep": 5,
+      "ago": "3h",
+      "img": "iideg",
+      "ahId": "b2ybn"
+    },
+    {
+      "titre": "Kirio Fan Club",
+      "titreJp": "",
+      "ep": 5,
+      "ago": "4h",
+      "img": "f7jfv",
+      "ahId": "ji7g1"
+    },
+    {
       "titre": "The Ramparts of Ice",
       "titreJp": "Koori no Jouheki, Ice Castle Wall",
       "ep": 5,
-      "ago": "?",
+      "ago": "4h",
       "img": "cs30h",
       "ahId": "jx2jr"
     },
@@ -12,7 +60,7 @@
       "titre": "Dr. Stone: Science Future - Part III",
       "titreJp": "",
       "ep": 5,
-      "ago": "1h",
+      "ago": "6h",
       "img": "oxfds",
       "ahId": "xvd0a"
     },
@@ -20,7 +68,7 @@
       "titre": "Kujima: Why Sing, When You Can Warble?",
       "titreJp": "Kujima Utaeba Ie Hororo",
       "ep": 4,
-      "ago": "1h",
+      "ago": "6h",
       "img": "pv8qk",
       "ahId": "gbdj0"
     },
@@ -28,7 +76,7 @@
       "titre": "The Barbarian's Bride",
       "titreJp": "Himekishi wa Barbaroi no Yome",
       "ep": 4,
-      "ago": "3h",
+      "ago": "7h",
       "img": "synxi",
       "ahId": "hi6b1"
     },
@@ -36,7 +84,7 @@
       "titre": "Go For It, Nakamura!",
       "titreJp": "Ganbare! Nakamura-kun!!",
       "ep": 6,
-      "ago": "22h",
+      "ago": "1d",
       "img": "rf7eh",
       "ahId": "1ijne"
     },
@@ -44,7 +92,7 @@
       "titre": "The Beginning After the End Season 2",
       "titreJp": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
       "ep": 5,
-      "ago": "23h",
+      "ago": "1d",
       "img": "zmy4z",
       "ahId": "fv1vj"
     },
@@ -52,7 +100,7 @@
       "titre": "Always a Catch!",
       "titreJp": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
       "ep": 5,
-      "ago": "23h",
+      "ago": "1d",
       "img": "r9hz4",
       "ahId": "frlld"
     },
@@ -108,7 +156,7 @@
       "titre": "My Ribdiculous Reincarnation",
       "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
       "ep": 4,
-      "ago": "1d",
+      "ago": "2d",
       "img": "27pp6",
       "ahId": "xw4de"
     },
@@ -116,7 +164,7 @@
       "titre": "Pardon the Intrusion, I'm Home!",
       "titreJp": "Tadaima, Ojamasaremasu!",
       "ep": 4,
-      "ago": "1d",
+      "ago": "2d",
       "img": "mwvn6",
       "ahId": "c3nol"
     },
@@ -124,7 +172,7 @@
       "titre": "Eren the Southpaw",
       "titreJp": "Hidarikiki no Eren",
       "ep": 4,
-      "ago": "1d",
+      "ago": "2d",
       "img": "w5epl",
       "ahId": "j26hl"
     },
@@ -180,7 +228,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 4,
-      "ago": "2d",
+      "ago": "3d",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -228,7 +276,7 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 4,
-      "ago": "3d",
+      "ago": "4d",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -236,7 +284,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1159,
-      "ago": "3d",
+      "ago": "4d",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -332,7 +380,7 @@
       "titre": "Koyomimonogatari",
       "titreJp": "",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "8fypw",
       "ahId": "92o55"
     },
@@ -340,7 +388,7 @@
       "titre": "Tsukimonogatari",
       "titreJp": "Tsukimonogatari: Yotsugi Doll",
       "ep": 4,
-      "ago": "4d",
+      "ago": "5d",
       "img": "drvf7",
       "ahId": "u7fdt"
     },
@@ -348,7 +396,7 @@
       "titre": "Hanamonogatari",
       "titreJp": "Hanamonogatari: Suruga Devil",
       "ep": 5,
-      "ago": "4d",
+      "ago": "5d",
       "img": "odtij",
       "ahId": "jy90a"
     },
@@ -356,7 +404,7 @@
       "titre": "Ichijouma Mankitsugurashi!",
       "titreJp": "",
       "ep": 3,
-      "ago": "4d",
+      "ago": "5d",
       "img": "wm2v7",
       "ahId": "ccxi5"
     },
@@ -364,7 +412,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 4,
-      "ago": "4d",
+      "ago": "5d",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -372,7 +420,7 @@
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 15,
-      "ago": "4d",
+      "ago": "5d",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -380,7 +428,7 @@
       "titre": "Agents of the Four Seasons: Dance of Spring",
       "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
       "ep": 5,
-      "ago": "4d",
+      "ago": "5d",
       "img": "fxza8",
       "ahId": "boii6"
     },
@@ -388,7 +436,7 @@
       "titre": "Mistress Kanan is Devilishly Easy",
       "titreJp": "Kanan-sama wa Akumade Choroi",
       "ep": 4,
-      "ago": "4d",
+      "ago": "5d",
       "img": "8q6wl",
       "ahId": "3uz6y"
     },
@@ -396,7 +444,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 4,
-      "ago": "4d",
+      "ago": "5d",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -484,7 +532,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 5,
-      "ago": "5d",
+      "ago": "6d",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -492,7 +540,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 3,
-      "ago": "5d",
+      "ago": "6d",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -503,49 +551,9 @@
       "ago": "6d",
       "img": "g0kk7",
       "ahId": "3kfyx"
-    },
-    {
-      "titre": "The Drops of God",
-      "titreJp": "Kami no Shizuku",
-      "ep": 3,
-      "ago": "6d",
-      "img": "par8w",
-      "ahId": "m2zjn"
-    },
-    {
-      "titre": "That Time I Got Reincarnated as a Slime Season 4",
-      "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
-      "ep": 4,
-      "ago": "6d",
-      "img": "pjoyd",
-      "ahId": "aplyf"
-    },
-    {
-      "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
-      "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
-      "ep": 4,
-      "ago": "6d",
-      "img": "8ezmn",
-      "ahId": "nv9bp"
-    },
-    {
-      "titre": "Monster Eater",
-      "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
-      "ep": 4,
-      "ago": "6d",
-      "img": "anfea",
-      "ahId": "pi6yi"
-    },
-    {
-      "titre": "Killed Again, Mr. Detective?",
-      "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
-      "ep": 4,
-      "ago": "6d",
-      "img": "j0cec",
-      "ahId": "0cwi8"
     }
   ],
-  "updatedAt": "2026-04-30T15:57:51.584Z",
+  "updatedAt": "2026-04-30T20:17:36.825Z",
   "source": "github-actions",
-  "count": 68
+  "count": 69
 }
