@@ -4,7 +4,7 @@
       "titre": "Monster Eater",
       "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
       "ep": 5,
-      "ago": "2h",
+      "ago": "5h",
       "img": "anfea",
       "ahId": "pi6yi"
     },
@@ -12,7 +12,7 @@
       "titre": "Killed Again, Mr. Detective?",
       "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
       "ep": 5,
-      "ago": "2h",
+      "ago": "5h",
       "img": "j0cec",
       "ahId": "0cwi8"
     },
@@ -20,7 +20,7 @@
       "titre": "Haibara’s Teenage New Game+",
       "titreJp": "Haibara-kun no Tsuyokute Seishun New Game",
       "ep": 5,
-      "ago": "3h",
+      "ago": "6h",
       "img": "dw9gn",
       "ahId": "7s4ze"
     },
@@ -28,7 +28,7 @@
       "titre": "A Hundred Scenes of AWAJIMA",
       "titreJp": "Awajima Hyakkei",
       "ep": 4,
-      "ago": "3h",
+      "ago": "6h",
       "img": "r7ozz",
       "ahId": "oh0q2"
     },
@@ -36,7 +36,7 @@
       "titre": "Petals of Reincarnation",
       "titreJp": "Reincarnation no Kaben",
       "ep": 5,
-      "ago": "3h",
+      "ago": "6h",
       "img": "iideg",
       "ahId": "b2ybn"
     },
@@ -44,7 +44,7 @@
       "titre": "Kirio Fan Club",
       "titreJp": "",
       "ep": 5,
-      "ago": "4h",
+      "ago": "7h",
       "img": "f7jfv",
       "ahId": "ji7g1"
     },
@@ -52,7 +52,7 @@
       "titre": "The Ramparts of Ice",
       "titreJp": "Koori no Jouheki, Ice Castle Wall",
       "ep": 5,
-      "ago": "4h",
+      "ago": "7h",
       "img": "cs30h",
       "ahId": "jx2jr"
     },
@@ -60,7 +60,7 @@
       "titre": "Dr. Stone: Science Future - Part III",
       "titreJp": "",
       "ep": 5,
-      "ago": "6h",
+      "ago": "9h",
       "img": "oxfds",
       "ahId": "xvd0a"
     },
@@ -68,7 +68,7 @@
       "titre": "Kujima: Why Sing, When You Can Warble?",
       "titreJp": "Kujima Utaeba Ie Hororo",
       "ep": 4,
-      "ago": "6h",
+      "ago": "9h",
       "img": "pv8qk",
       "ahId": "gbdj0"
     },
@@ -76,7 +76,7 @@
       "titre": "The Barbarian's Bride",
       "titreJp": "Himekishi wa Barbaroi no Yome",
       "ep": 4,
-      "ago": "7h",
+      "ago": "10h",
       "img": "synxi",
       "ahId": "hi6b1"
     },
@@ -268,7 +268,7 @@
       "titre": "Nana",
       "titreJp": "",
       "ep": 47,
-      "ago": "3d",
+      "ago": "4d",
       "img": "rwxv9",
       "ahId": "j4pza"
     },
@@ -356,7 +356,7 @@
       "titre": "Zoku Owarimonogatari",
       "titreJp": "",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "269oe",
       "ahId": "kjkok"
     },
@@ -364,7 +364,7 @@
       "titre": "Owarimonogatari II",
       "titreJp": "",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "vhksv",
       "ahId": "tllm1"
     },
@@ -372,7 +372,7 @@
       "titre": "Owarimonogatari",
       "titreJp": "",
       "ep": 13,
-      "ago": "4d",
+      "ago": "5d",
       "img": "jvxkc",
       "ahId": "j4rej"
     },
@@ -553,7 +553,7 @@
       "ahId": "3kfyx"
     }
   ],
-  "updatedAt": "2026-04-30T20:17:36.825Z",
+  "updatedAt": "2026-04-30T23:38:22.939Z",
   "source": "github-actions",
   "count": 69
 }
