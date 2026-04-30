@@ -4,7 +4,7 @@
       "titre": "Go For It, Nakamura!",
       "titreJp": "Ganbare! Nakamura-kun!!",
       "ep": 6,
-      "ago": "3h",
+      "ago": "6h",
       "img": "rf7eh",
       "ahId": "1ijne"
     },
@@ -12,7 +12,7 @@
       "titre": "The Beginning After the End Season 2",
       "titreJp": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
       "ep": 5,
-      "ago": "4h",
+      "ago": "7h",
       "img": "zmy4z",
       "ahId": "fv1vj"
     },
@@ -20,7 +20,7 @@
       "titre": "Always a Catch!",
       "titreJp": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
       "ep": 5,
-      "ago": "4h",
+      "ago": "7h",
       "img": "r9hz4",
       "ahId": "frlld"
     },
@@ -28,7 +28,7 @@
       "titre": "Gals Can’t Be Kind to Otaku!?",
       "titreJp": "Otaku ni Yasashii Gyaru wa Inai!?",
       "ep": 4,
-      "ago": "4h",
+      "ago": "8h",
       "img": "j5umi",
       "ahId": "kq3pz"
     },
@@ -36,7 +36,7 @@
       "titre": "Re:ZERO: Starting Life in Another World Season 4",
       "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
       "ep": 4,
-      "ago": "6h",
+      "ago": "9h",
       "img": "7tc0j",
       "ahId": "ilp9j"
     },
@@ -44,7 +44,7 @@
       "titre": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season",
       "titreJp": "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
       "ep": 5,
-      "ago": "6h",
+      "ago": "9h",
       "img": "cirfw",
       "ahId": "5iqzo"
     },
@@ -52,7 +52,7 @@
       "titre": "Dorohedoro 2",
       "titreJp": "",
       "ep": 7,
-      "ago": "6h",
+      "ago": "9h",
       "img": "t71fe",
       "ahId": "pgjgh"
     },
@@ -60,7 +60,7 @@
       "titre": "Rent-a-Girlfriend Season 5",
       "titreJp": "Kanojo, Okarishimasu 5th Season",
       "ep": 4,
-      "ago": "7h",
+      "ago": "10h",
       "img": "7nqj7",
       "ahId": "i0kd0"
     },
@@ -68,7 +68,7 @@
       "titre": "Classroom of the Elite 4th Season",
       "titreJp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
       "ep": 8,
-      "ago": "8h",
+      "ago": "11h",
       "img": "npea5",
       "ahId": "nzwhr"
     },
@@ -188,7 +188,7 @@
       "titre": "Nana",
       "titreJp": "",
       "ep": 47,
-      "ago": "2d",
+      "ago": "3d",
       "img": "rwxv9",
       "ahId": "j4pza"
     },
@@ -276,7 +276,7 @@
       "titre": "Zoku Owarimonogatari",
       "titreJp": "",
       "ep": 6,
-      "ago": "3d",
+      "ago": "4d",
       "img": "269oe",
       "ahId": "kjkok"
     },
@@ -284,7 +284,7 @@
       "titre": "Owarimonogatari II",
       "titreJp": "",
       "ep": 7,
-      "ago": "3d",
+      "ago": "4d",
       "img": "vhksv",
       "ahId": "tllm1"
     },
@@ -292,7 +292,7 @@
       "titre": "Owarimonogatari",
       "titreJp": "",
       "ep": 13,
-      "ago": "3d",
+      "ago": "4d",
       "img": "jvxkc",
       "ahId": "j4rej"
     },
@@ -545,7 +545,7 @@
       "ahId": "ji7g1"
     }
   ],
-  "updatedAt": "2026-04-29T20:43:31.374Z",
+  "updatedAt": "2026-04-30T00:08:53.025Z",
   "source": "github-actions",
   "count": 68
 }
