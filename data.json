@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Pokemon Horizons: The Series",
+      "titreJp": "Pocket Monsters (2023)",
+      "ep": 6,
+      "ago": "2h",
+      "img": "9fsft",
+      "ahId": "9v661"
+    },
+    {
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 6,
-      "ago": "2h",
+      "ago": "5h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -12,7 +20,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 4,
-      "ago": "3h",
+      "ago": "5h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -20,7 +28,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 4,
-      "ago": "4h",
+      "ago": "6h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -28,7 +36,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 5,
-      "ago": "4h",
+      "ago": "6h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -36,7 +44,7 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 5,
-      "ago": "6h",
+      "ago": "9h",
       "img": "8ezmn",
       "ahId": "nv9bp"
     },
@@ -308,7 +316,7 @@
       "titre": "Nana",
       "titreJp": "",
       "ep": 47,
-      "ago": "4d",
+      "ago": "5d",
       "img": "rwxv9",
       "ahId": "j4pza"
     },
@@ -404,7 +412,7 @@
       "titre": "Owarimonogatari II",
       "titreJp": "",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "vhksv",
       "ahId": "tllm1"
     },
@@ -412,7 +420,7 @@
       "titre": "Owarimonogatari",
       "titreJp": "",
       "ep": 13,
-      "ago": "5d",
+      "ago": "6d",
       "img": "jvxkc",
       "ahId": "j4rej"
     },
@@ -420,7 +428,7 @@
       "titre": "Koyomimonogatari",
       "titreJp": "",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "8fypw",
       "ahId": "92o55"
     },
@@ -535,17 +543,9 @@
       "ago": "6d",
       "img": "b6f8i",
       "ahId": "pijt4"
-    },
-    {
-      "titre": "Detective Conan",
-      "titreJp": "Case Closed, Meitantei Conan",
-      "ep": 1199,
-      "ago": "6d",
-      "img": "lx86z",
-      "ahId": "y9prb"
     }
   ],
-  "updatedAt": "2026-05-01T19:55:39.343Z",
+  "updatedAt": "2026-05-01T22:37:14.838Z",
   "source": "github-actions",
   "count": 68
 }
