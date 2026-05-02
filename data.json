@@ -3,8 +3,8 @@
     {
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
-      "ep": 6,
-      "ago": "9h",
+      "ep": 136,
+      "ago": "2h",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -12,7 +12,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 6,
-      "ago": "13h",
+      "ago": "16h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -20,7 +20,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 4,
-      "ago": "13h",
+      "ago": "17h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -28,7 +28,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 4,
-      "ago": "14h",
+      "ago": "18h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -36,7 +36,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 5,
-      "ago": "14h",
+      "ago": "18h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -44,7 +44,7 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 5,
-      "ago": "17h",
+      "ago": "21h",
       "img": "8ezmn",
       "ahId": "nv9bp"
     },
@@ -372,7 +372,7 @@
       "titre": "Wistoria: Wand and Sword 2nd Season",
       "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
       "ep": 3,
-      "ago": "5d",
+      "ago": "6d",
       "img": "h6l0c",
       "ahId": "y98v5"
     },
@@ -380,7 +380,7 @@
       "titre": "Mission: Yozakura Family Season 2",
       "titreJp": "Yozakura-san Chi no Daisakusen Season 2",
       "ep": 3,
-      "ago": "5d",
+      "ago": "6d",
       "img": "rgi7x",
       "ahId": "feqdi"
     },
@@ -388,7 +388,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season",
       "titreJp": "Diamond no Ace: Act II 2nd Season",
       "ep": 4,
-      "ago": "5d",
+      "ago": "6d",
       "img": "c50pz",
       "ahId": "dd464"
     },
@@ -396,7 +396,7 @@
       "titre": "Rooster Fighter",
       "titreJp": "Niwatori Fighter",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "vy576",
       "ahId": "uni0y"
     },
@@ -545,7 +545,7 @@
       "ahId": "pijt4"
     }
   ],
-  "updatedAt": "2026-05-02T06:23:27.240Z",
+  "updatedAt": "2026-05-02T10:12:04.646Z",
   "source": "github-actions",
   "count": 68
 }
