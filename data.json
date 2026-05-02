@@ -1,18 +1,66 @@
 {
   "animes": [
     {
+      "titre": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
+      "titreJp": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+      "ep": 6,
+      "ago": "?",
+      "img": "hnxbm",
+      "ahId": "ayudj"
+    },
+    {
+      "titre": "Yowayowa Teacher",
+      "titreJp": "Yowayowa Sensei",
+      "ep": 4,
+      "ago": "1h",
+      "img": "b6f8i",
+      "ahId": "pijt4"
+    },
+    {
+      "titre": "Detective Conan",
+      "titreJp": "Case Closed, Meitantei Conan",
+      "ep": 1200,
+      "ago": "2h",
+      "img": "lx86z",
+      "ahId": "y9prb"
+    },
+    {
+      "titre": "Welcome to Demon School, Iruma-kun 4",
+      "titreJp": "Mairimashita! Iruma-kun 4",
+      "ep": 5,
+      "ago": "3h",
+      "img": "lkpy4",
+      "ahId": "amsff"
+    },
+    {
+      "titre": "My Hero Academia 170+1: More",
+      "titreJp": "Boku no Hero Academia 170+1: More",
+      "ep": 1,
+      "ago": "3h",
+      "img": "f525x",
+      "ahId": "6jhnt"
+    },
+    {
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 136,
-      "ago": "2h",
+      "ago": "6h",
       "img": "9fsft",
       "ahId": "9v661"
+    },
+    {
+      "titre": "Moriarty the Patriot OVA",
+      "titreJp": "Yuukoku no Moriarty OVA",
+      "ep": 2,
+      "ago": "17h",
+      "img": "jap39",
+      "ahId": "elmct"
     },
     {
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 6,
-      "ago": "16h",
+      "ago": "20h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -20,7 +68,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 4,
-      "ago": "17h",
+      "ago": "21h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -28,7 +76,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 4,
-      "ago": "18h",
+      "ago": "22h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -36,7 +84,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 5,
-      "ago": "18h",
+      "ago": "22h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -44,7 +92,7 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 5,
-      "ago": "21h",
+      "ago": "1d",
       "img": "8ezmn",
       "ahId": "nv9bp"
     },
@@ -108,7 +156,7 @@
       "titre": "Dr. Stone: Science Future - Part III",
       "titreJp": "",
       "ep": 5,
-      "ago": "1d",
+      "ago": "2d",
       "img": "oxfds",
       "ahId": "xvd0a"
     },
@@ -116,7 +164,7 @@
       "titre": "Kujima: Why Sing, When You Can Warble?",
       "titreJp": "Kujima Utaeba Ie Hororo",
       "ep": 4,
-      "ago": "1d",
+      "ago": "2d",
       "img": "pv8qk",
       "ahId": "gbdj0"
     },
@@ -124,7 +172,7 @@
       "titre": "The Barbarian's Bride",
       "titreJp": "Himekishi wa Barbaroi no Yome",
       "ep": 4,
-      "ago": "1d",
+      "ago": "2d",
       "img": "synxi",
       "ahId": "hi6b1"
     },
@@ -180,7 +228,7 @@
       "titre": "Dorohedoro 2",
       "titreJp": "",
       "ep": 7,
-      "ago": "2d",
+      "ago": "3d",
       "img": "t71fe",
       "ahId": "pgjgh"
     },
@@ -188,7 +236,7 @@
       "titre": "Rent-a-Girlfriend Season 5",
       "titreJp": "Kanojo, Okarishimasu 5th Season",
       "ep": 4,
-      "ago": "2d",
+      "ago": "3d",
       "img": "7nqj7",
       "ahId": "i0kd0"
     },
@@ -196,7 +244,7 @@
       "titre": "Classroom of the Elite 4th Season",
       "titreJp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
       "ep": 8,
-      "ago": "2d",
+      "ago": "3d",
       "img": "npea5",
       "ahId": "nzwhr"
     },
@@ -260,7 +308,7 @@
       "titre": "The Most Heretical Last Boss Queen: From Villainess to Savior 2nd Season",
       "titreJp": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Min no Tame ni Tsukushimasu. 2nd Season",
       "ep": 4,
-      "ago": "3d",
+      "ago": "4d",
       "img": "5zcck",
       "ahId": "np9nt"
     },
@@ -268,7 +316,7 @@
       "titre": "Beyond Twilight",
       "titreJp": "Hyakki Yakoushou",
       "ep": 4,
-      "ago": "3d",
+      "ago": "4d",
       "img": "0gwes",
       "ahId": "r32sr"
     },
@@ -308,7 +356,7 @@
       "titre": "Witch Hat Atelier",
       "titreJp": "Tongari Boushi no Atelier",
       "ep": 5,
-      "ago": "4d",
+      "ago": "5d",
       "img": "6rlo7",
       "ahId": "df4in"
     },
@@ -356,7 +404,7 @@
       "titre": "The Food Diary of Miss Maid",
       "titreJp": "Maid-san wa Taberu dake",
       "ep": 5,
-      "ago": "5d",
+      "ago": "6d",
       "img": "w1qq7",
       "ahId": "7b5z4"
     },
@@ -364,7 +412,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 28,
-      "ago": "5d",
+      "ago": "6d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -495,57 +543,9 @@
       "ago": "6d",
       "img": "dks5o",
       "ahId": "pm96z"
-    },
-    {
-      "titre": "MAO",
-      "titreJp": "",
-      "ep": 4,
-      "ago": "6d",
-      "img": "topci",
-      "ahId": "qw2g9"
-    },
-    {
-      "titre": "Akane-banashi",
-      "titreJp": "",
-      "ep": 4,
-      "ago": "6d",
-      "img": "7j7kb",
-      "ahId": "o8996"
-    },
-    {
-      "titre": "The Great Sage Ryddel and the Hands of Time",
-      "titreJp": "Daikenja Riddle no Jikan Gyakko",
-      "ep": 4,
-      "ago": "6d",
-      "img": "tl46m",
-      "ahId": "rf6nw"
-    },
-    {
-      "titre": "Kill Blue",
-      "titreJp": "Kill Ao",
-      "ep": 3,
-      "ago": "6d",
-      "img": "dns6b",
-      "ahId": "y5v48"
-    },
-    {
-      "titre": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
-      "titreJp": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
-      "ep": 5,
-      "ago": "6d",
-      "img": "hnxbm",
-      "ahId": "ayudj"
-    },
-    {
-      "titre": "Yowayowa Teacher",
-      "titreJp": "Yowayowa Sensei",
-      "ep": 3,
-      "ago": "6d",
-      "img": "b6f8i",
-      "ahId": "pijt4"
     }
   ],
-  "updatedAt": "2026-05-02T10:12:04.646Z",
+  "updatedAt": "2026-05-02T14:15:38.991Z",
   "source": "github-actions",
   "count": 68
 }

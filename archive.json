@@ -559,8 +559,22 @@
       "img": "rwxv9",
       "ahId": "j4pza",
       "addedAt": "2026-04-26T14:10:36.729Z"
+    },
+    {
+      "titre": "My Hero Academia 170+1: More",
+      "titreJp": "Boku no Hero Academia 170+1: More",
+      "img": "f525x",
+      "ahId": "6jhnt",
+      "addedAt": "2026-05-02T14:15:39.000Z"
+    },
+    {
+      "titre": "Moriarty the Patriot OVA",
+      "titreJp": "Yuukoku no Moriarty OVA",
+      "img": "jap39",
+      "ahId": "elmct",
+      "addedAt": "2026-05-02T14:15:39.000Z"
     }
   ],
-  "updatedAt": "2026-05-02T10:12:04.752Z",
-  "count": 80
+  "updatedAt": "2026-05-02T14:15:39.000Z",
+  "count": 82
 }
