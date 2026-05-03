@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Marika's Love Meter Malfunction",
+      "titreJp": "Marika-chan no Koukando wa Bukkowareteiru",
+      "ep": 4,
+      "ago": "1h",
+      "img": "33vsk",
+      "ahId": "fsi1m"
+    },
+    {
+      "titre": "Ingoku Danchi: Deviant's Apartment Complex",
+      "titreJp": "Ingoku Danchi",
+      "ep": 5,
+      "ago": "1h",
+      "img": "4gqwj",
+      "ahId": "bgi3j"
+    },
+    {
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1160,
-      "ago": "?",
+      "ago": "3h",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -12,7 +28,7 @@
       "titre": "Ghost Concert: Missing Songs",
       "titreJp": "",
       "ep": 5,
-      "ago": "1h",
+      "ago": "4h",
       "img": "1ljqb",
       "ahId": "8p2tr"
     },
@@ -20,7 +36,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 4,
-      "ago": "2h",
+      "ago": "4h",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -28,7 +44,7 @@
       "titre": "The Food Diary of Miss Maid",
       "titreJp": "Maid-san wa Taberu dake",
       "ep": 6,
-      "ago": "3h",
+      "ago": "5h",
       "img": "w1qq7",
       "ahId": "7b5z4"
     },
@@ -36,7 +52,7 @@
       "titre": "Mission: Yozakura Family Season 2",
       "titreJp": "Yozakura-san Chi no Daisakusen Season 2",
       "ep": 4,
-      "ago": "8h",
+      "ago": "10h",
       "img": "rgi7x",
       "ahId": "feqdi"
     },
@@ -44,7 +60,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season",
       "titreJp": "Diamond no Ace: Act II 2nd Season",
       "ep": 5,
-      "ago": "8h",
+      "ago": "10h",
       "img": "c50pz",
       "ahId": "dd464"
     },
@@ -52,7 +68,7 @@
       "titre": "Wistoria: Wand and Sword 2nd Season",
       "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
       "ep": 4,
-      "ago": "8h",
+      "ago": "11h",
       "img": "h6l0c",
       "ahId": "y98v5"
     },
@@ -60,7 +76,7 @@
       "titre": "Rooster Fighter",
       "titreJp": "Niwatori Fighter",
       "ep": 8,
-      "ago": "9h",
+      "ago": "11h",
       "img": "vy576",
       "ahId": "uni0y"
     },
@@ -68,7 +84,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 29,
-      "ago": "14h",
+      "ago": "16h",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -76,7 +92,7 @@
       "titre": "The Great Sage Ryddel and the Hands of Time",
       "titreJp": "Daikenja Riddle no Jikan Gyakko",
       "ep": 5,
-      "ago": "23h",
+      "ago": "1d",
       "img": "tl46m",
       "ahId": "rf6nw"
     },
@@ -84,7 +100,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 5,
-      "ago": "23h",
+      "ago": "1d",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -92,7 +108,7 @@
       "titre": "Akane-banashi",
       "titreJp": "",
       "ep": 5,
-      "ago": "23h",
+      "ago": "1d",
       "img": "7j7kb",
       "ahId": "o8996"
     },
@@ -100,7 +116,7 @@
       "titre": "Ichijouma Mankitsugurashi!",
       "titreJp": "",
       "ep": 4,
-      "ago": "23h",
+      "ago": "1d",
       "img": "wm2v7",
       "ahId": "ccxi5"
     },
@@ -252,7 +268,7 @@
       "titre": "Monster Eater",
       "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
       "ep": 5,
-      "ago": "2d",
+      "ago": "3d",
       "img": "anfea",
       "ahId": "pi6yi"
     },
@@ -260,7 +276,7 @@
       "titre": "Killed Again, Mr. Detective?",
       "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
       "ep": 5,
-      "ago": "2d",
+      "ago": "3d",
       "img": "j0cec",
       "ahId": "0cwi8"
     },
@@ -404,7 +420,7 @@
       "titre": "My Ribdiculous Reincarnation",
       "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
       "ep": 4,
-      "ago": "4d",
+      "ago": "5d",
       "img": "27pp6",
       "ahId": "xw4de"
     },
@@ -412,7 +428,7 @@
       "titre": "Pardon the Intrusion, I'm Home!",
       "titreJp": "Tadaima, Ojamasaremasu!",
       "ep": 4,
-      "ago": "4d",
+      "ago": "5d",
       "img": "mwvn6",
       "ahId": "c3nol"
     },
@@ -521,31 +537,15 @@
       "ahId": "j4pza"
     },
     {
-      "titre": "Ingoku Danchi: Deviant's Apartment Complex",
-      "titreJp": "Ingoku Danchi",
-      "ep": 4,
-      "ago": "7d",
-      "img": "4gqwj",
-      "ahId": "bgi3j"
-    },
-    {
       "titre": "Zoku Owarimonogatari",
       "titreJp": "",
       "ep": 6,
       "ago": "7d",
       "img": "269oe",
       "ahId": "kjkok"
-    },
-    {
-      "titre": "Owarimonogatari II",
-      "titreJp": "",
-      "ep": 7,
-      "ago": "7d",
-      "img": "vhksv",
-      "ahId": "tllm1"
     }
   ],
-  "updatedAt": "2026-05-03T17:34:37.882Z",
+  "updatedAt": "2026-05-03T20:05:38.072Z",
   "source": "github-actions",
   "count": 68
 }
