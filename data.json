@@ -4,7 +4,7 @@
       "titre": "Marika's Love Meter Malfunction",
       "titreJp": "Marika-chan no Koukando wa Bukkowareteiru",
       "ep": 4,
-      "ago": "1h",
+      "ago": "5h",
       "img": "33vsk",
       "ahId": "fsi1m"
     },
@@ -12,7 +12,7 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 5,
-      "ago": "1h",
+      "ago": "5h",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -20,7 +20,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1160,
-      "ago": "3h",
+      "ago": "6h",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -28,7 +28,7 @@
       "titre": "Ghost Concert: Missing Songs",
       "titreJp": "",
       "ep": 5,
-      "ago": "4h",
+      "ago": "7h",
       "img": "1ljqb",
       "ahId": "8p2tr"
     },
@@ -36,7 +36,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 4,
-      "ago": "4h",
+      "ago": "8h",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -44,7 +44,7 @@
       "titre": "The Food Diary of Miss Maid",
       "titreJp": "Maid-san wa Taberu dake",
       "ep": 6,
-      "ago": "5h",
+      "ago": "9h",
       "img": "w1qq7",
       "ahId": "7b5z4"
     },
@@ -52,7 +52,7 @@
       "titre": "Mission: Yozakura Family Season 2",
       "titreJp": "Yozakura-san Chi no Daisakusen Season 2",
       "ep": 4,
-      "ago": "10h",
+      "ago": "14h",
       "img": "rgi7x",
       "ahId": "feqdi"
     },
@@ -60,7 +60,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season",
       "titreJp": "Diamond no Ace: Act II 2nd Season",
       "ep": 5,
-      "ago": "10h",
+      "ago": "14h",
       "img": "c50pz",
       "ahId": "dd464"
     },
@@ -68,7 +68,7 @@
       "titre": "Wistoria: Wand and Sword 2nd Season",
       "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
       "ep": 4,
-      "ago": "11h",
+      "ago": "14h",
       "img": "h6l0c",
       "ahId": "y98v5"
     },
@@ -76,7 +76,7 @@
       "titre": "Rooster Fighter",
       "titreJp": "Niwatori Fighter",
       "ep": 8,
-      "ago": "11h",
+      "ago": "15h",
       "img": "vy576",
       "ahId": "uni0y"
     },
@@ -84,7 +84,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 29,
-      "ago": "16h",
+      "ago": "20h",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -220,7 +220,7 @@
       "titre": "Moriarty the Patriot OVA",
       "titreJp": "Yuukoku no Moriarty OVA",
       "ep": 2,
-      "ago": "1d",
+      "ago": "2d",
       "img": "jap39",
       "ahId": "elmct"
     },
@@ -532,7 +532,7 @@
       "titre": "Nana",
       "titreJp": "",
       "ep": 47,
-      "ago": "6d",
+      "ago": "7d",
       "img": "rwxv9",
       "ahId": "j4pza"
     },
@@ -540,12 +540,12 @@
       "titre": "Zoku Owarimonogatari",
       "titreJp": "",
       "ep": 6,
-      "ago": "7d",
+      "ago": "8d",
       "img": "269oe",
       "ahId": "kjkok"
     }
   ],
-  "updatedAt": "2026-05-03T20:05:38.072Z",
+  "updatedAt": "2026-05-03T23:29:09.509Z",
   "source": "github-actions",
   "count": 68
 }
