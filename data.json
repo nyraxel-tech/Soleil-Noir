@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Digimon Beatbreak",
+      "titreJp": "",
+      "ep": 29,
+      "ago": "4h",
+      "img": "88ts8",
+      "ahId": "kqa66"
+    },
+    {
       "titre": "The Great Sage Ryddel and the Hands of Time",
       "titreJp": "Daikenja Riddle no Jikan Gyakko",
       "ep": 5,
-      "ago": "5h",
+      "ago": "13h",
       "img": "tl46m",
       "ahId": "rf6nw"
     },
@@ -12,7 +20,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 5,
-      "ago": "5h",
+      "ago": "13h",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -20,7 +28,7 @@
       "titre": "Akane-banashi",
       "titreJp": "",
       "ep": 5,
-      "ago": "5h",
+      "ago": "13h",
       "img": "7j7kb",
       "ahId": "o8996"
     },
@@ -28,7 +36,7 @@
       "titre": "Ichijouma Mankitsugurashi!",
       "titreJp": "",
       "ep": 4,
-      "ago": "5h",
+      "ago": "13h",
       "img": "wm2v7",
       "ahId": "ccxi5"
     },
@@ -36,7 +44,7 @@
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 16,
-      "ago": "6h",
+      "ago": "14h",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -44,7 +52,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 5,
-      "ago": "6h",
+      "ago": "14h",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -52,7 +60,7 @@
       "titre": "Agents of the Four Seasons: Dance of Spring",
       "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
       "ep": 6,
-      "ago": "6h",
+      "ago": "14h",
       "img": "fxza8",
       "ahId": "boii6"
     },
@@ -60,7 +68,7 @@
       "titre": "Mistress Kanan is Devilishly Easy",
       "titreJp": "Kanan-sama wa Akumade Choroi",
       "ep": 5,
-      "ago": "7h",
+      "ago": "15h",
       "img": "8q6wl",
       "ahId": "3uz6y"
     },
@@ -68,7 +76,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 5,
-      "ago": "7h",
+      "ago": "15h",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -76,7 +84,7 @@
       "titre": "Kill Blue",
       "titreJp": "Kill Ao",
       "ep": 4,
-      "ago": "8h",
+      "ago": "16h",
       "img": "dns6b",
       "ahId": "y5v48"
     },
@@ -84,7 +92,7 @@
       "titre": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
       "titreJp": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
       "ep": 6,
-      "ago": "9h",
+      "ago": "17h",
       "img": "hnxbm",
       "ahId": "ayudj"
     },
@@ -92,7 +100,7 @@
       "titre": "Yowayowa Teacher",
       "titreJp": "Yowayowa Sensei",
       "ep": 4,
-      "ago": "10h",
+      "ago": "18h",
       "img": "b6f8i",
       "ahId": "pijt4"
     },
@@ -100,7 +108,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1200,
-      "ago": "11h",
+      "ago": "19h",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -108,7 +116,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 5,
-      "ago": "12h",
+      "ago": "20h",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -116,7 +124,7 @@
       "titre": "My Hero Academia 170+1: More",
       "titreJp": "Boku no Hero Academia 170+1: More",
       "ep": 1,
-      "ago": "13h",
+      "ago": "21h",
       "img": "f525x",
       "ahId": "6jhnt"
     },
@@ -124,7 +132,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 136,
-      "ago": "15h",
+      "ago": "23h",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -489,14 +497,6 @@
       "ahId": "7b5z4"
     },
     {
-      "titre": "Digimon Beatbreak",
-      "titreJp": "",
-      "ep": 28,
-      "ago": "6d",
-      "img": "88ts8",
-      "ahId": "kqa66"
-    },
-    {
       "titre": "Wistoria: Wand and Sword 2nd Season",
       "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
       "ep": 3,
@@ -545,7 +545,7 @@
       "ahId": "tllm1"
     }
   ],
-  "updatedAt": "2026-05-02T23:28:08.398Z",
+  "updatedAt": "2026-05-03T07:29:55.801Z",
   "source": "github-actions",
   "count": 68
 }
