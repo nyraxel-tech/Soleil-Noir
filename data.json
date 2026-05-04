@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Liar Game",
+      "titreJp": "",
+      "ep": 5,
+      "ago": "3h",
+      "img": "csbrl",
+      "ahId": "l3kxg"
+    },
+    {
       "titre": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "titreJp": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
       "ep": 5,
-      "ago": "1h",
+      "ago": "5h",
       "img": "jh4do",
       "ahId": "fcmyo"
     },
@@ -12,7 +20,7 @@
       "titre": "Farming Life in Another World 2",
       "titreJp": "Isekai Nonbiri Nouka 2",
       "ep": 5,
-      "ago": "2h",
+      "ago": "6h",
       "img": "b7en4",
       "ahId": "fae6d"
     },
@@ -20,7 +28,7 @@
       "titre": "Witch Hat Atelier",
       "titreJp": "Tongari Boushi no Atelier",
       "ep": 6,
-      "ago": "2h",
+      "ago": "6h",
       "img": "6rlo7",
       "ahId": "df4in"
     },
@@ -28,7 +36,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 5,
-      "ago": "6h",
+      "ago": "10h",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -36,7 +44,7 @@
       "titre": "Marika's Love Meter Malfunction",
       "titreJp": "Marika-chan no Koukando wa Bukkowareteiru",
       "ep": 4,
-      "ago": "21h",
+      "ago": "1d",
       "img": "33vsk",
       "ahId": "fsi1m"
     },
@@ -44,7 +52,7 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 5,
-      "ago": "22h",
+      "ago": "1d",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -52,7 +60,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1160,
-      "ago": "23h",
+      "ago": "1d",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -124,7 +132,7 @@
       "titre": "The Great Sage Ryddel and the Hands of Time",
       "titreJp": "Daikenja Riddle no Jikan Gyakko",
       "ep": 5,
-      "ago": "1d",
+      "ago": "2d",
       "img": "tl46m",
       "ahId": "rf6nw"
     },
@@ -132,7 +140,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 5,
-      "ago": "1d",
+      "ago": "2d",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -140,7 +148,7 @@
       "titre": "Akane-banashi",
       "titreJp": "",
       "ep": 5,
-      "ago": "1d",
+      "ago": "2d",
       "img": "7j7kb",
       "ahId": "o8996"
     },
@@ -148,7 +156,7 @@
       "titre": "Ichijouma Mankitsugurashi!",
       "titreJp": "",
       "ep": 4,
-      "ago": "1d",
+      "ago": "2d",
       "img": "wm2v7",
       "ahId": "ccxi5"
     },
@@ -156,7 +164,7 @@
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 16,
-      "ago": "1d",
+      "ago": "2d",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -164,7 +172,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 5,
-      "ago": "1d",
+      "ago": "2d",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -172,7 +180,7 @@
       "titre": "Agents of the Four Seasons: Dance of Spring",
       "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
       "ep": 6,
-      "ago": "1d",
+      "ago": "2d",
       "img": "fxza8",
       "ahId": "boii6"
     },
@@ -260,7 +268,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -268,7 +276,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 4,
-      "ago": "2d",
+      "ago": "3d",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -300,7 +308,7 @@
       "titre": "Monster Eater",
       "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
       "ep": 5,
-      "ago": "3d",
+      "ago": "4d",
       "img": "anfea",
       "ahId": "pi6yi"
     },
@@ -308,7 +316,7 @@
       "titre": "Killed Again, Mr. Detective?",
       "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
       "ep": 5,
-      "ago": "3d",
+      "ago": "4d",
       "img": "j0cec",
       "ahId": "0cwi8"
     },
@@ -316,7 +324,7 @@
       "titre": "Haibara’s Teenage New Game+",
       "titreJp": "Haibara-kun no Tsuyokute Seishun New Game",
       "ep": 5,
-      "ago": "3d",
+      "ago": "4d",
       "img": "dw9gn",
       "ahId": "7s4ze"
     },
@@ -324,7 +332,7 @@
       "titre": "A Hundred Scenes of AWAJIMA",
       "titreJp": "Awajima Hyakkei",
       "ep": 4,
-      "ago": "3d",
+      "ago": "4d",
       "img": "r7ozz",
       "ahId": "oh0q2"
     },
@@ -332,7 +340,7 @@
       "titre": "Petals of Reincarnation",
       "titreJp": "Reincarnation no Kaben",
       "ep": 5,
-      "ago": "3d",
+      "ago": "4d",
       "img": "iideg",
       "ahId": "b2ybn"
     },
@@ -380,7 +388,7 @@
       "titre": "Go For It, Nakamura!",
       "titreJp": "Ganbare! Nakamura-kun!!",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "rf7eh",
       "ahId": "1ijne"
     },
@@ -388,7 +396,7 @@
       "titre": "The Beginning After the End Season 2",
       "titreJp": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
       "ep": 5,
-      "ago": "4d",
+      "ago": "5d",
       "img": "zmy4z",
       "ahId": "fv1vj"
     },
@@ -452,7 +460,7 @@
       "titre": "My Ribdiculous Reincarnation",
       "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
       "ep": 4,
-      "ago": "5d",
+      "ago": "6d",
       "img": "27pp6",
       "ahId": "xw4de"
     },
@@ -460,7 +468,7 @@
       "titre": "Pardon the Intrusion, I'm Home!",
       "titreJp": "Tadaima, Ojamasaremasu!",
       "ep": 4,
-      "ago": "5d",
+      "ago": "6d",
       "img": "mwvn6",
       "ahId": "c3nol"
     },
@@ -521,14 +529,6 @@
       "ahId": "r32sr"
     },
     {
-      "titre": "Liar Game",
-      "titreJp": "",
-      "ep": 4,
-      "ago": "7d",
-      "img": "csbrl",
-      "ahId": "l3kxg"
-    },
-    {
       "titre": "Nana",
       "titreJp": "",
       "ep": 47,
@@ -545,7 +545,7 @@
       "ahId": "kjkok"
     }
   ],
-  "updatedAt": "2026-05-04T16:21:01.996Z",
+  "updatedAt": "2026-05-04T20:51:55.923Z",
   "source": "github-actions",
   "count": 68
 }
