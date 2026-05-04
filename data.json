@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Magical Sisters Lulutto Lilly",
+      "titreJp": "Mahou no Shimai Lulutto Lilly",
+      "ep": 4,
+      "ago": "8h",
+      "img": "g8cab",
+      "ahId": "gnqba"
+    },
+    {
       "titre": "Marika's Love Meter Malfunction",
       "titreJp": "Marika-chan no Koukando wa Bukkowareteiru",
       "ep": 4,
-      "ago": "5h",
+      "ago": "14h",
       "img": "33vsk",
       "ahId": "fsi1m"
     },
@@ -12,7 +20,7 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 5,
-      "ago": "5h",
+      "ago": "14h",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -20,7 +28,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1160,
-      "ago": "6h",
+      "ago": "16h",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -28,7 +36,7 @@
       "titre": "Ghost Concert: Missing Songs",
       "titreJp": "",
       "ep": 5,
-      "ago": "7h",
+      "ago": "17h",
       "img": "1ljqb",
       "ahId": "8p2tr"
     },
@@ -36,7 +44,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 4,
-      "ago": "8h",
+      "ago": "17h",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -44,7 +52,7 @@
       "titre": "The Food Diary of Miss Maid",
       "titreJp": "Maid-san wa Taberu dake",
       "ep": 6,
-      "ago": "9h",
+      "ago": "18h",
       "img": "w1qq7",
       "ahId": "7b5z4"
     },
@@ -52,7 +60,7 @@
       "titre": "Mission: Yozakura Family Season 2",
       "titreJp": "Yozakura-san Chi no Daisakusen Season 2",
       "ep": 4,
-      "ago": "14h",
+      "ago": "23h",
       "img": "rgi7x",
       "ahId": "feqdi"
     },
@@ -60,7 +68,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season",
       "titreJp": "Diamond no Ace: Act II 2nd Season",
       "ep": 5,
-      "ago": "14h",
+      "ago": "23h",
       "img": "c50pz",
       "ahId": "dd464"
     },
@@ -68,7 +76,7 @@
       "titre": "Wistoria: Wand and Sword 2nd Season",
       "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
       "ep": 4,
-      "ago": "14h",
+      "ago": "1d",
       "img": "h6l0c",
       "ahId": "y98v5"
     },
@@ -76,7 +84,7 @@
       "titre": "Rooster Fighter",
       "titreJp": "Niwatori Fighter",
       "ep": 8,
-      "ago": "15h",
+      "ago": "1d",
       "img": "vy576",
       "ahId": "uni0y"
     },
@@ -84,7 +92,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 29,
-      "ago": "20h",
+      "ago": "1d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -212,7 +220,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 136,
-      "ago": "1d",
+      "ago": "2d",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -497,14 +505,6 @@
       "ahId": "l3kxg"
     },
     {
-      "titre": "Magical Sisters Lulutto Lilly",
-      "titreJp": "Mahou no Shimai Lulutto Lilly",
-      "ep": 4,
-      "ago": "6d",
-      "img": "g8cab",
-      "ahId": "gnqba"
-    },
-    {
       "titre": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "titreJp": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
       "ep": 4,
@@ -545,7 +545,7 @@
       "ahId": "kjkok"
     }
   ],
-  "updatedAt": "2026-05-03T23:29:09.509Z",
+  "updatedAt": "2026-05-04T09:06:29.993Z",
   "source": "github-actions",
   "count": 68
 }
