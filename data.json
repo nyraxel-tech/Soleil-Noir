@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Land of the Lustrous",
+      "titreJp": "Houseki no Kuni",
+      "ep": 9,
+      "ago": "?",
+      "img": "n1ktn",
+      "ahId": "urs2p"
+    },
+    {
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 5,
-      "ago": "3h",
+      "ago": "6h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -12,7 +20,7 @@
       "titre": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "titreJp": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
       "ep": 5,
-      "ago": "5h",
+      "ago": "9h",
       "img": "jh4do",
       "ahId": "fcmyo"
     },
@@ -20,7 +28,7 @@
       "titre": "Farming Life in Another World 2",
       "titreJp": "Isekai Nonbiri Nouka 2",
       "ep": 5,
-      "ago": "6h",
+      "ago": "9h",
       "img": "b7en4",
       "ahId": "fae6d"
     },
@@ -28,7 +36,7 @@
       "titre": "Witch Hat Atelier",
       "titreJp": "Tongari Boushi no Atelier",
       "ep": 6,
-      "ago": "6h",
+      "ago": "9h",
       "img": "6rlo7",
       "ahId": "df4in"
     },
@@ -36,7 +44,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 5,
-      "ago": "10h",
+      "ago": "14h",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -260,7 +268,7 @@
       "titre": "Moriarty the Patriot OVA",
       "titreJp": "Yuukoku no Moriarty OVA",
       "ep": 2,
-      "ago": "2d",
+      "ago": "3d",
       "img": "jap39",
       "ahId": "elmct"
     },
@@ -532,20 +540,12 @@
       "titre": "Nana",
       "titreJp": "",
       "ep": 47,
-      "ago": "7d",
+      "ago": "8d",
       "img": "rwxv9",
       "ahId": "j4pza"
-    },
-    {
-      "titre": "Zoku Owarimonogatari",
-      "titreJp": "",
-      "ep": 6,
-      "ago": "8d",
-      "img": "269oe",
-      "ahId": "kjkok"
     }
   ],
-  "updatedAt": "2026-05-04T20:51:55.923Z",
+  "updatedAt": "2026-05-05T00:09:44.615Z",
   "source": "github-actions",
   "count": 68
 }
