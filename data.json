@@ -3,8 +3,8 @@
     {
       "titre": "Land of the Lustrous",
       "titreJp": "Houseki no Kuni",
-      "ep": 9,
-      "ago": "?",
+      "ep": 12,
+      "ago": "8h",
       "img": "n1ktn",
       "ahId": "urs2p"
     },
@@ -12,7 +12,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 5,
-      "ago": "6h",
+      "ago": "14h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -20,7 +20,7 @@
       "titre": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "titreJp": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
       "ep": 5,
-      "ago": "9h",
+      "ago": "17h",
       "img": "jh4do",
       "ahId": "fcmyo"
     },
@@ -28,7 +28,7 @@
       "titre": "Farming Life in Another World 2",
       "titreJp": "Isekai Nonbiri Nouka 2",
       "ep": 5,
-      "ago": "9h",
+      "ago": "18h",
       "img": "b7en4",
       "ahId": "fae6d"
     },
@@ -36,7 +36,7 @@
       "titre": "Witch Hat Atelier",
       "titreJp": "Tongari Boushi no Atelier",
       "ep": 6,
-      "ago": "9h",
+      "ago": "18h",
       "img": "6rlo7",
       "ahId": "df4in"
     },
@@ -44,7 +44,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 5,
-      "ago": "14h",
+      "ago": "22h",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -124,7 +124,7 @@
       "titre": "Rooster Fighter",
       "titreJp": "Niwatori Fighter",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "vy576",
       "ahId": "uni0y"
     },
@@ -132,7 +132,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 29,
-      "ago": "1d",
+      "ago": "2d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -260,7 +260,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 136,
-      "ago": "2d",
+      "ago": "3d",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -545,7 +545,7 @@
       "ahId": "j4pza"
     }
   ],
-  "updatedAt": "2026-05-05T00:09:44.615Z",
+  "updatedAt": "2026-05-05T08:36:22.773Z",
   "source": "github-actions",
   "count": 68
 }
