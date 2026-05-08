@@ -1,26 +1,26 @@
 {
   "animes": [
     {
+      "titre": "91 Days",
+      "titreJp": "",
+      "ep": 13,
+      "ago": "3h",
+      "img": "836l5",
+      "ahId": "yt2vb"
+    },
+    {
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 5,
-      "ago": "?",
+      "ago": "3h",
       "img": "sbyve",
       "ahId": "b0vsk"
-    },
-    {
-      "titre": "91 Days",
-      "titreJp": "",
-      "ep": 7,
-      "ago": "?",
-      "img": "836l5",
-      "ahId": "yt2vb"
     },
     {
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 7,
-      "ago": "?",
+      "ago": "4h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -28,7 +28,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 6,
-      "ago": "1h",
+      "ago": "4h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -36,7 +36,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 5,
-      "ago": "1h",
+      "ago": "4h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -44,7 +44,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 5,
-      "ago": "1h",
+      "ago": "5h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -52,7 +52,7 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 6,
-      "ago": "3h",
+      "ago": "7h",
       "img": "8ezmn",
       "ahId": "nv9bp"
     },
@@ -60,7 +60,7 @@
       "titre": "Monster Eater",
       "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
       "ep": 6,
-      "ago": "23h",
+      "ago": "1d",
       "img": "anfea",
       "ahId": "pi6yi"
     },
@@ -68,7 +68,7 @@
       "titre": "Killed Again, Mr. Detective?",
       "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
       "ep": 6,
-      "ago": "23h",
+      "ago": "1d",
       "img": "j0cec",
       "ahId": "0cwi8"
     },
@@ -76,7 +76,7 @@
       "titre": "Haibara’s Teenage New Game+",
       "titreJp": "Haibara-kun no Tsuyokute Seishun New Game",
       "ep": 6,
-      "ago": "23h",
+      "ago": "1d",
       "img": "dw9gn",
       "ahId": "7s4ze"
     },
@@ -140,7 +140,7 @@
       "titre": "Go For It, Nakamura!",
       "titreJp": "Ganbare! Nakamura-kun!!",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "rf7eh",
       "ahId": "1ijne"
     },
@@ -228,7 +228,7 @@
       "titre": "My Ribdiculous Reincarnation",
       "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
       "ep": 5,
-      "ago": "2d",
+      "ago": "3d",
       "img": "27pp6",
       "ahId": "xw4de"
     },
@@ -236,7 +236,7 @@
       "titre": "Pardon the Intrusion, I'm Home!",
       "titreJp": "Tadaima, Ojamasaremasu!",
       "ep": 5,
-      "ago": "2d",
+      "ago": "3d",
       "img": "mwvn6",
       "ahId": "c3nol"
     },
@@ -308,7 +308,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 5,
-      "ago": "3d",
+      "ago": "4d",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -348,7 +348,7 @@
       "titre": "Marika's Love Meter Malfunction",
       "titreJp": "Marika-chan no Koukando wa Bukkowareteiru",
       "ep": 4,
-      "ago": "4d",
+      "ago": "5d",
       "img": "33vsk",
       "ahId": "fsi1m"
     },
@@ -356,7 +356,7 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 5,
-      "ago": "4d",
+      "ago": "5d",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -436,7 +436,7 @@
       "titre": "The Great Sage Ryddel and the Hands of Time",
       "titreJp": "Daikenja Riddle no Jikan Gyakko",
       "ep": 5,
-      "ago": "5d",
+      "ago": "6d",
       "img": "tl46m",
       "ahId": "rf6nw"
     },
@@ -444,7 +444,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 5,
-      "ago": "5d",
+      "ago": "6d",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -452,7 +452,7 @@
       "titre": "Akane-banashi",
       "titreJp": "",
       "ep": 5,
-      "ago": "5d",
+      "ago": "6d",
       "img": "7j7kb",
       "ahId": "o8996"
     },
@@ -460,7 +460,7 @@
       "titre": "Ichijouma Mankitsugurashi!",
       "titreJp": "",
       "ep": 4,
-      "ago": "5d",
+      "ago": "6d",
       "img": "wm2v7",
       "ahId": "ccxi5"
     },
@@ -468,7 +468,7 @@
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 16,
-      "ago": "5d",
+      "ago": "6d",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -476,7 +476,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 5,
-      "ago": "5d",
+      "ago": "6d",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -545,7 +545,7 @@
       "ahId": "amsff"
     }
   ],
-  "updatedAt": "2026-05-08T16:57:59.234Z",
+  "updatedAt": "2026-05-08T20:37:01.018Z",
   "source": "github-actions",
   "count": 68
 }
