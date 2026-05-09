@@ -4,7 +4,7 @@
       "titre": "91 Days",
       "titreJp": "",
       "ep": 13,
-      "ago": "6h",
+      "ago": "13h",
       "img": "836l5",
       "ahId": "yt2vb"
     },
@@ -12,7 +12,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 5,
-      "ago": "7h",
+      "ago": "14h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -20,7 +20,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 7,
-      "ago": "7h",
+      "ago": "15h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -28,7 +28,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 6,
-      "ago": "8h",
+      "ago": "15h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -36,7 +36,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 5,
-      "ago": "8h",
+      "ago": "15h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -44,7 +44,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 5,
-      "ago": "9h",
+      "ago": "16h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -52,7 +52,7 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 6,
-      "ago": "11h",
+      "ago": "18h",
       "img": "8ezmn",
       "ahId": "nv9bp"
     },
@@ -300,7 +300,7 @@
       "titre": "Land of the Lustrous",
       "titreJp": "Houseki no Kuni",
       "ep": 12,
-      "ago": "3d",
+      "ago": "4d",
       "img": "n1ktn",
       "ahId": "urs2p"
     },
@@ -428,7 +428,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 29,
-      "ago": "5d",
+      "ago": "6d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -545,7 +545,7 @@
       "ahId": "amsff"
     }
   ],
-  "updatedAt": "2026-05-09T00:12:50.192Z",
+  "updatedAt": "2026-05-09T07:26:41.149Z",
   "source": "github-actions",
   "count": 68
 }
