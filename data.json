@@ -4,7 +4,7 @@
       "titre": "91 Days",
       "titreJp": "",
       "ep": 13,
-      "ago": "3h",
+      "ago": "6h",
       "img": "836l5",
       "ahId": "yt2vb"
     },
@@ -12,7 +12,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 5,
-      "ago": "3h",
+      "ago": "7h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -20,7 +20,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 7,
-      "ago": "4h",
+      "ago": "7h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -28,7 +28,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 6,
-      "ago": "4h",
+      "ago": "8h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -36,7 +36,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 5,
-      "ago": "4h",
+      "ago": "8h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -44,7 +44,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 5,
-      "ago": "5h",
+      "ago": "9h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -52,7 +52,7 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 6,
-      "ago": "7h",
+      "ago": "11h",
       "img": "8ezmn",
       "ahId": "nv9bp"
     },
@@ -212,7 +212,7 @@
       "titre": "Fruits Basket 1st Season",
       "titreJp": "Fruits Basket (2019)",
       "ep": 25,
-      "ago": "2d",
+      "ago": "3d",
       "img": "089yg",
       "ahId": "glmrm"
     },
@@ -220,7 +220,7 @@
       "titre": "Toradora!",
       "titreJp": "",
       "ep": 26,
-      "ago": "2d",
+      "ago": "3d",
       "img": "a63cz",
       "ahId": "sclkr"
     },
@@ -545,7 +545,7 @@
       "ahId": "amsff"
     }
   ],
-  "updatedAt": "2026-05-08T20:37:01.018Z",
+  "updatedAt": "2026-05-09T00:12:50.192Z",
   "source": "github-actions",
   "count": 68
 }
