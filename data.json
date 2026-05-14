@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "Killed Again, Mr. Detective?",
+      "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
+      "ep": 7,
+      "ago": "4h",
+      "img": "j0cec",
+      "ahId": "0cwi8"
+    },
+    {
+      "titre": "Monster Eater",
+      "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
+      "ep": 7,
+      "ago": "4h",
+      "img": "anfea",
+      "ahId": "pi6yi"
+    },
+    {
+      "titre": "A Hundred Scenes of AWAJIMA",
+      "titreJp": "Awajima Hyakkei",
+      "ep": 6,
+      "ago": "4h",
+      "img": "r7ozz",
+      "ahId": "oh0q2"
+    },
+    {
       "titre": "Haibara’s Teenage New Game+",
       "titreJp": "Haibara-kun no Tsuyokute Seishun New Game",
       "ep": 7,
-      "ago": "?",
+      "ago": "4h",
       "img": "dw9gn",
       "ahId": "7s4ze"
     },
@@ -12,7 +36,7 @@
       "titre": "Petals of Reincarnation",
       "titreJp": "Reincarnation no Kaben",
       "ep": 7,
-      "ago": "?",
+      "ago": "5h",
       "img": "iideg",
       "ahId": "b2ybn"
     },
@@ -20,7 +44,7 @@
       "titre": "Kirio Fan Club",
       "titreJp": "",
       "ep": 7,
-      "ago": "?",
+      "ago": "5h",
       "img": "f7jfv",
       "ahId": "ji7g1"
     },
@@ -28,7 +52,7 @@
       "titre": "The Ramparts of Ice",
       "titreJp": "Koori no Jouheki, Ice Castle Wall",
       "ep": 7,
-      "ago": "1h",
+      "ago": "6h",
       "img": "cs30h",
       "ahId": "jx2jr"
     },
@@ -36,7 +60,7 @@
       "titre": "Dr. Stone: Science Future - Part III",
       "titreJp": "",
       "ep": 7,
-      "ago": "2h",
+      "ago": "7h",
       "img": "oxfds",
       "ahId": "xvd0a"
     },
@@ -44,7 +68,7 @@
       "titre": "Kujima: Why Sing, When You Can Warble?",
       "titreJp": "Kujima Utaeba Ie Hororo",
       "ep": 6,
-      "ago": "3h",
+      "ago": "7h",
       "img": "pv8qk",
       "ahId": "gbdj0"
     },
@@ -52,7 +76,7 @@
       "titre": "The Barbarian's Bride",
       "titreJp": "Himekishi wa Barbaroi no Yome",
       "ep": 6,
-      "ago": "4h",
+      "ago": "9h",
       "img": "synxi",
       "ahId": "hi6b1"
     },
@@ -140,7 +164,7 @@
       "titre": "My Ribdiculous Reincarnation",
       "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
       "ep": 6,
-      "ago": "1d",
+      "ago": "2d",
       "img": "27pp6",
       "ahId": "xw4de"
     },
@@ -148,7 +172,7 @@
       "titre": "Pardon the Intrusion, I'm Home!",
       "titreJp": "Tadaima, Ojamasaremasu!",
       "ep": 6,
-      "ago": "1d",
+      "ago": "2d",
       "img": "mwvn6",
       "ahId": "c3nol"
     },
@@ -252,7 +276,7 @@
       "titre": "Marika's Love Meter Malfunction",
       "titreJp": "Marika-chan no Koukando wa Bukkowareteiru",
       "ep": 5,
-      "ago": "3d",
+      "ago": "4d",
       "img": "33vsk",
       "ahId": "fsi1m"
     },
@@ -260,7 +284,7 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 6,
-      "ago": "3d",
+      "ago": "4d",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -340,7 +364,7 @@
       "titre": "Ichijouma Mankitsugurashi!",
       "titreJp": "",
       "ep": 5,
-      "ago": "4d",
+      "ago": "5d",
       "img": "wm2v7",
       "ahId": "ccxi5"
     },
@@ -348,7 +372,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -460,7 +484,7 @@
       "titre": "91 Days",
       "titreJp": "",
       "ep": 13,
-      "ago": "5d",
+      "ago": "6d",
       "img": "836l5",
       "ahId": "yt2vb"
     },
@@ -513,30 +537,6 @@
       "ahId": "nv9bp"
     },
     {
-      "titre": "Monster Eater",
-      "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
-      "ep": 6,
-      "ago": "6d",
-      "img": "anfea",
-      "ahId": "pi6yi"
-    },
-    {
-      "titre": "Killed Again, Mr. Detective?",
-      "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
-      "ep": 6,
-      "ago": "6d",
-      "img": "j0cec",
-      "ahId": "0cwi8"
-    },
-    {
-      "titre": "A Hundred Scenes of AWAJIMA",
-      "titreJp": "Awajima Hyakkei",
-      "ep": 5,
-      "ago": "7d",
-      "img": "r7ozz",
-      "ahId": "oh0q2"
-    },
-    {
       "titre": "Fruits Basket 1st Season",
       "titreJp": "Fruits Basket (2019)",
       "ep": 25,
@@ -545,7 +545,7 @@
       "ahId": "glmrm"
     }
   ],
-  "updatedAt": "2026-05-14T17:13:53.110Z",
+  "updatedAt": "2026-05-14T21:55:13.175Z",
   "source": "github-actions",
   "count": 68
 }
