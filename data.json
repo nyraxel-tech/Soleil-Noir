@@ -4,7 +4,7 @@
       "titre": "Go For It, Nakamura!",
       "titreJp": "Ganbare! Nakamura-kun!!",
       "ep": 8,
-      "ago": "5h",
+      "ago": "16h",
       "img": "rf7eh",
       "ahId": "1ijne"
     },
@@ -12,7 +12,7 @@
       "titre": "The Beginning After the End Season 2",
       "titreJp": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
       "ep": 7,
-      "ago": "6h",
+      "ago": "16h",
       "img": "zmy4z",
       "ahId": "fv1vj"
     },
@@ -20,7 +20,7 @@
       "titre": "Always a Catch!",
       "titreJp": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
       "ep": 7,
-      "ago": "6h",
+      "ago": "17h",
       "img": "r9hz4",
       "ahId": "frlld"
     },
@@ -28,7 +28,7 @@
       "titre": "Gals Can’t Be Kind to Otaku!?",
       "titreJp": "Otaku ni Yasashii Gyaru wa Inai!?",
       "ep": 6,
-      "ago": "6h",
+      "ago": "17h",
       "img": "j5umi",
       "ahId": "kq3pz"
     },
@@ -36,7 +36,7 @@
       "titre": "OreShura",
       "titreJp": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru",
       "ep": 13,
-      "ago": "7h",
+      "ago": "18h",
       "img": "882p5",
       "ahId": "aycau"
     },
@@ -44,7 +44,7 @@
       "titre": "Re:ZERO: Starting Life in Another World Season 4",
       "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
       "ep": 6,
-      "ago": "8h",
+      "ago": "18h",
       "img": "7tc0j",
       "ahId": "ilp9j"
     },
@@ -52,7 +52,7 @@
       "titre": "Dorohedoro 2",
       "titreJp": "",
       "ep": 9,
-      "ago": "8h",
+      "ago": "18h",
       "img": "t71fe",
       "ahId": "pgjgh"
     },
@@ -60,7 +60,7 @@
       "titre": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season",
       "titreJp": "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
       "ep": 7,
-      "ago": "8h",
+      "ago": "19h",
       "img": "cirfw",
       "ahId": "5iqzo"
     },
@@ -68,7 +68,7 @@
       "titre": "Rent-a-Girlfriend Season 5",
       "titreJp": "Kanojo, Okarishimasu 5th Season",
       "ep": 6,
-      "ago": "9h",
+      "ago": "20h",
       "img": "7nqj7",
       "ahId": "i0kd0"
     },
@@ -76,7 +76,7 @@
       "titre": "Classroom of the Elite 4th Season",
       "titreJp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
       "ep": 10,
-      "ago": "10h",
+      "ago": "20h",
       "img": "npea5",
       "ahId": "nzwhr"
     },
@@ -188,7 +188,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -252,7 +252,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season",
       "titreJp": "Diamond no Ace: Act II 2nd Season",
       "ep": 6,
-      "ago": "3d",
+      "ago": "4d",
       "img": "c50pz",
       "ahId": "dd464"
     },
@@ -260,7 +260,7 @@
       "titre": "Wistoria: Wand and Sword 2nd Season",
       "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
       "ep": 5,
-      "ago": "3d",
+      "ago": "4d",
       "img": "h6l0c",
       "ahId": "y98v5"
     },
@@ -268,7 +268,7 @@
       "titre": "Rooster Fighter",
       "titreJp": "Niwatori Fighter",
       "ep": 9,
-      "ago": "3d",
+      "ago": "4d",
       "img": "vy576",
       "ahId": "uni0y"
     },
@@ -276,7 +276,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 30,
-      "ago": "3d",
+      "ago": "4d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -540,12 +540,12 @@
       "titre": "Fruits Basket 1st Season",
       "titreJp": "Fruits Basket (2019)",
       "ep": 25,
-      "ago": "7d",
+      "ago": "8d",
       "img": "089yg",
       "ahId": "glmrm"
     }
   ],
-  "updatedAt": "2026-05-13T22:42:34.216Z",
+  "updatedAt": "2026-05-14T09:17:26.320Z",
   "source": "github-actions",
   "count": 68
 }
