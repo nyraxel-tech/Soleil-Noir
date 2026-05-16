@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Black Butler",
+      "titreJp": "Kuroshitsuji",
+      "ep": 23,
+      "ago": "?",
+      "img": "i3tgh",
+      "ahId": "hbp60"
+    },
+    {
       "titre": "Scarlet",
       "titreJp": "Hateshi Naki Scarlet",
       "ep": 1,
-      "ago": "1h",
+      "ago": "5h",
       "img": "0wm69",
       "ahId": "n91xy"
     },
@@ -12,7 +20,7 @@
       "titre": "Ichijouma Mankitsugurashi!",
       "titreJp": "",
       "ep": 6,
-      "ago": "2h",
+      "ago": "5h",
       "img": "wm2v7",
       "ahId": "ccxi5"
     },
@@ -20,7 +28,7 @@
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 18,
-      "ago": "2h",
+      "ago": "6h",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -28,7 +36,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 7,
-      "ago": "2h",
+      "ago": "6h",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -36,7 +44,7 @@
       "titre": "Agents of the Four Seasons: Dance of Spring",
       "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
       "ep": 8,
-      "ago": "3h",
+      "ago": "6h",
       "img": "fxza8",
       "ahId": "boii6"
     },
@@ -44,7 +52,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 7,
-      "ago": "3h",
+      "ago": "7h",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -52,7 +60,7 @@
       "titre": "Mistress Kanan is Devilishly Easy",
       "titreJp": "Kanan-sama wa Akumade Choroi",
       "ep": 7,
-      "ago": "3h",
+      "ago": "7h",
       "img": "8q6wl",
       "ahId": "3uz6y"
     },
@@ -60,7 +68,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 7,
-      "ago": "4h",
+      "ago": "7h",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -68,7 +76,7 @@
       "titre": "High School DxD NEW",
       "titreJp": "",
       "ep": 5,
-      "ago": "4h",
+      "ago": "7h",
       "img": "cl65y",
       "ahId": "3i16j"
     },
@@ -76,7 +84,7 @@
       "titre": "Akane-banashi",
       "titreJp": "",
       "ep": 7,
-      "ago": "4h",
+      "ago": "8h",
       "img": "7j7kb",
       "ahId": "o8996"
     },
@@ -84,7 +92,7 @@
       "titre": "Kill Blue",
       "titreJp": "Kill Ao",
       "ep": 6,
-      "ago": "5h",
+      "ago": "8h",
       "img": "dns6b",
       "ahId": "y5v48"
     },
@@ -92,7 +100,7 @@
       "titre": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
       "titreJp": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
       "ep": 8,
-      "ago": "6h",
+      "ago": "9h",
       "img": "hnxbm",
       "ahId": "ayudj"
     },
@@ -100,7 +108,7 @@
       "titre": "The Great Sage Ryddel and the Hands of Time",
       "titreJp": "Daikenja Riddle no Jikan Gyakko",
       "ep": 7,
-      "ago": "6h",
+      "ago": "10h",
       "img": "tl46m",
       "ahId": "rf6nw"
     },
@@ -108,7 +116,7 @@
       "titre": "Yowayowa Teacher",
       "titreJp": "Yowayowa Sensei",
       "ep": 6,
-      "ago": "6h",
+      "ago": "10h",
       "img": "b6f8i",
       "ahId": "pijt4"
     },
@@ -116,7 +124,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 7,
-      "ago": "9h",
+      "ago": "12h",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -124,7 +132,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 6,
-      "ago": "10h",
+      "ago": "13h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -535,17 +543,9 @@
       "ago": "6d",
       "img": "88ts8",
       "ahId": "kqa66"
-    },
-    {
-      "titre": "Detective Conan",
-      "titreJp": "Case Closed, Meitantei Conan",
-      "ep": 1201,
-      "ago": "7d",
-      "img": "lx86z",
-      "ahId": "y9prb"
     }
   ],
-  "updatedAt": "2026-05-16T20:06:51.512Z",
+  "updatedAt": "2026-05-16T23:36:40.041Z",
   "source": "github-actions",
   "count": 68
 }
