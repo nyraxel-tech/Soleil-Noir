@@ -629,8 +629,15 @@
       "img": "i3tgh",
       "ahId": "hbp60",
       "addedAt": "2026-05-16T23:36:40.046Z"
+    },
+    {
+      "titre": "Black Butler 2",
+      "titreJp": "Kuroshitsuji 2",
+      "img": "bcfzu",
+      "ahId": "mkld8",
+      "addedAt": "2026-05-17T14:24:23.890Z"
     }
   ],
-  "updatedAt": "2026-05-17T12:05:52.900Z",
-  "count": 90
+  "updatedAt": "2026-05-17T14:24:23.890Z",
+  "count": 91
 }
