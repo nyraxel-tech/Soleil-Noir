@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "Beyond Twilight",
+      "titreJp": "Hyakki Yakoushou",
+      "ep": 7,
+      "ago": "?",
+      "img": "0gwes",
+      "ahId": "r32sr"
+    },
+    {
+      "titre": "My Ribdiculous Reincarnation",
+      "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
+      "ep": 7,
+      "ago": "?",
+      "img": "27pp6",
+      "ahId": "xw4de"
+    },
+    {
+      "titre": "Pardon the Intrusion, I'm Home!",
+      "titreJp": "Tadaima, Ojamasaremasu!",
+      "ep": 7,
+      "ago": "1h",
+      "img": "mwvn6",
+      "ahId": "c3nol"
+    },
+    {
       "titre": "Eren the Southpaw",
       "titreJp": "Hidarikiki no Eren",
       "ep": 7,
-      "ago": "?",
+      "ago": "2h",
       "img": "w5epl",
       "ahId": "j26hl"
     },
@@ -12,7 +36,7 @@
       "titre": "I Made Friends with the Second Prettiest Girl in My Class",
       "titreJp": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
       "ep": 7,
-      "ago": "1h",
+      "ago": "3h",
       "img": "kfuf2",
       "ahId": "3c38p"
     },
@@ -20,7 +44,7 @@
       "titre": "Even a Replica Can Fall in Love",
       "titreJp": "Replica datte, Koi wo Suru.",
       "ep": 7,
-      "ago": "1h",
+      "ago": "4h",
       "img": "z35jq",
       "ahId": "k662x"
     },
@@ -28,7 +52,7 @@
       "titre": "Marriagetoxin",
       "titreJp": "Marriage Toxin",
       "ep": 7,
-      "ago": "1h",
+      "ago": "4h",
       "img": "ljkt9",
       "ahId": "lf9gt"
     },
@@ -36,7 +60,7 @@
       "titre": "I Want to End This Love Game",
       "titreJp": "Aishiteru Game wo Owarasetai",
       "ep": 6,
-      "ago": "1h",
+      "ago": "4h",
       "img": "438x1",
       "ahId": "jrvi5"
     },
@@ -44,7 +68,7 @@
       "titre": "The Most Heretical Last Boss Queen: From Villainess to Savior 2nd Season",
       "titreJp": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Min no Tame ni Tsukushimasu. 2nd Season",
       "ep": 7,
-      "ago": "2h",
+      "ago": "5h",
       "img": "5zcck",
       "ahId": "np9nt"
     },
@@ -52,7 +76,7 @@
       "titre": "Boarding School Juliet",
       "titreJp": "Kishuku Gakkou no Juliet",
       "ep": 12,
-      "ago": "4h",
+      "ago": "7h",
       "img": "xsnni",
       "ahId": "d171x"
     },
@@ -60,7 +84,7 @@
       "titre": "Black Butler: Book of Circus",
       "titreJp": "Kuroshitsuji: Book of Circus",
       "ep": 10,
-      "ago": "23h",
+      "ago": "1d",
       "img": "zeabo",
       "ahId": "mcdda"
     },
@@ -116,7 +140,7 @@
       "titre": "Marika's Love Meter Malfunction",
       "titreJp": "Marika-chan no Koukando wa Bukkowareteiru",
       "ep": 6,
-      "ago": "1d",
+      "ago": "2d",
       "img": "33vsk",
       "ahId": "fsi1m"
     },
@@ -124,7 +148,7 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -132,7 +156,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1162,
-      "ago": "1d",
+      "ago": "2d",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -140,7 +164,7 @@
       "titre": "Black Butler 2",
       "titreJp": "Kuroshitsuji 2",
       "ep": 12,
-      "ago": "1d",
+      "ago": "2d",
       "img": "bcfzu",
       "ahId": "mkld8"
     },
@@ -220,7 +244,7 @@
       "titre": "Scarlet",
       "titreJp": "Hateshi Naki Scarlet",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "0wm69",
       "ahId": "n91xy"
     },
@@ -228,7 +252,7 @@
       "titre": "Ichijouma Mankitsugurashi!",
       "titreJp": "",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "wm2v7",
       "ahId": "ccxi5"
     },
@@ -236,7 +260,7 @@
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 18,
-      "ago": "2d",
+      "ago": "3d",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -244,7 +268,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 7,
-      "ago": "2d",
+      "ago": "3d",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -252,7 +276,7 @@
       "titre": "Agents of the Four Seasons: Dance of Spring",
       "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
       "ep": 8,
-      "ago": "2d",
+      "ago": "3d",
       "img": "fxza8",
       "ahId": "boii6"
     },
@@ -348,7 +372,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 6,
-      "ago": "3d",
+      "ago": "4d",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -404,7 +428,7 @@
       "titre": "Killed Again, Mr. Detective?",
       "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "j0cec",
       "ahId": "0cwi8"
     },
@@ -412,7 +436,7 @@
       "titre": "Monster Eater",
       "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "anfea",
       "ahId": "pi6yi"
     },
@@ -420,7 +444,7 @@
       "titre": "A Hundred Scenes of AWAJIMA",
       "titreJp": "Awajima Hyakkei",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "r7ozz",
       "ahId": "oh0q2"
     },
@@ -428,7 +452,7 @@
       "titre": "Petals of Reincarnation",
       "titreJp": "Reincarnation no Kaben",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "iideg",
       "ahId": "b2ybn"
     },
@@ -436,7 +460,7 @@
       "titre": "Kirio Fan Club",
       "titreJp": "",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "f7jfv",
       "ahId": "ji7g1"
     },
@@ -476,7 +500,7 @@
       "titre": "Go For It, Nakamura!",
       "titreJp": "Ganbare! Nakamura-kun!!",
       "ep": 8,
-      "ago": "5d",
+      "ago": "6d",
       "img": "rf7eh",
       "ahId": "1ijne"
     },
@@ -484,7 +508,7 @@
       "titre": "The Beginning After the End Season 2",
       "titreJp": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "zmy4z",
       "ahId": "fv1vj"
     },
@@ -519,33 +543,9 @@
       "ago": "6d",
       "img": "7tc0j",
       "ahId": "ilp9j"
-    },
-    {
-      "titre": "Dorohedoro 2",
-      "titreJp": "",
-      "ep": 9,
-      "ago": "6d",
-      "img": "t71fe",
-      "ahId": "pgjgh"
-    },
-    {
-      "titre": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season",
-      "titreJp": "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
-      "ep": 7,
-      "ago": "6d",
-      "img": "cirfw",
-      "ahId": "5iqzo"
-    },
-    {
-      "titre": "Rent-a-Girlfriend Season 5",
-      "titreJp": "Kanojo, Okarishimasu 5th Season",
-      "ep": 6,
-      "ago": "6d",
-      "img": "7nqj7",
-      "ahId": "i0kd0"
     }
   ],
-  "updatedAt": "2026-05-19T16:16:40.075Z",
+  "updatedAt": "2026-05-19T18:57:47.360Z",
   "source": "github-actions",
   "count": 68
 }
