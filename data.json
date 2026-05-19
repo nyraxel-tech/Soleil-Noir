@@ -4,7 +4,7 @@
       "titre": "Black Butler: Book of Circus",
       "titreJp": "Kuroshitsuji: Book of Circus",
       "ep": 10,
-      "ago": "12h",
+      "ago": "16h",
       "img": "zeabo",
       "ahId": "mcdda"
     },
@@ -12,7 +12,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 7,
-      "ago": "12h",
+      "ago": "16h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -20,7 +20,7 @@
       "titre": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "titreJp": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
       "ep": 7,
-      "ago": "13h",
+      "ago": "17h",
       "img": "jh4do",
       "ahId": "fcmyo"
     },
@@ -28,7 +28,7 @@
       "titre": "Farming Life in Another World 2",
       "titreJp": "Isekai Nonbiri Nouka 2",
       "ep": 7,
-      "ago": "14h",
+      "ago": "18h",
       "img": "b7en4",
       "ahId": "fae6d"
     },
@@ -36,7 +36,7 @@
       "titre": "Witch Hat Atelier",
       "titreJp": "Tongari Boushi no Atelier",
       "ep": 8,
-      "ago": "14h",
+      "ago": "18h",
       "img": "6rlo7",
       "ahId": "df4in"
     },
@@ -44,7 +44,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 7,
-      "ago": "19h",
+      "ago": "22h",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -140,7 +140,7 @@
       "titre": "Rooster Fighter",
       "titreJp": "Niwatori Fighter",
       "ep": 10,
-      "ago": "1d",
+      "ago": "2d",
       "img": "vy576",
       "ahId": "uni0y"
     },
@@ -545,7 +545,7 @@
       "ahId": "lf9gt"
     }
   ],
-  "updatedAt": "2026-05-19T04:57:38.376Z",
+  "updatedAt": "2026-05-19T08:29:53.351Z",
   "source": "github-actions",
   "count": 68
 }
