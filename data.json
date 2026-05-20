@@ -4,7 +4,7 @@
       "titre": "Beyond Twilight",
       "titreJp": "Hyakki Yakoushou",
       "ep": 7,
-      "ago": "15h",
+      "ago": "17h",
       "img": "0gwes",
       "ahId": "r32sr"
     },
@@ -12,7 +12,7 @@
       "titre": "My Ribdiculous Reincarnation",
       "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
       "ep": 7,
-      "ago": "15h",
+      "ago": "18h",
       "img": "27pp6",
       "ahId": "xw4de"
     },
@@ -20,7 +20,7 @@
       "titre": "Pardon the Intrusion, I'm Home!",
       "titreJp": "Tadaima, Ojamasaremasu!",
       "ep": 7,
-      "ago": "15h",
+      "ago": "18h",
       "img": "mwvn6",
       "ahId": "c3nol"
     },
@@ -28,7 +28,7 @@
       "titre": "Eren the Southpaw",
       "titreJp": "Hidarikiki no Eren",
       "ep": 7,
-      "ago": "17h",
+      "ago": "20h",
       "img": "w5epl",
       "ahId": "j26hl"
     },
@@ -36,7 +36,7 @@
       "titre": "I Made Friends with the Second Prettiest Girl in My Class",
       "titreJp": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
       "ep": 7,
-      "ago": "18h",
+      "ago": "21h",
       "img": "kfuf2",
       "ahId": "3c38p"
     },
@@ -44,7 +44,7 @@
       "titre": "Even a Replica Can Fall in Love",
       "titreJp": "Replica datte, Koi wo Suru.",
       "ep": 7,
-      "ago": "18h",
+      "ago": "21h",
       "img": "z35jq",
       "ahId": "k662x"
     },
@@ -52,7 +52,7 @@
       "titre": "Marriagetoxin",
       "titreJp": "Marriage Toxin",
       "ep": 7,
-      "ago": "18h",
+      "ago": "21h",
       "img": "ljkt9",
       "ahId": "lf9gt"
     },
@@ -60,7 +60,7 @@
       "titre": "I Want to End This Love Game",
       "titreJp": "Aishiteru Game wo Owarasetai",
       "ep": 6,
-      "ago": "18h",
+      "ago": "21h",
       "img": "438x1",
       "ahId": "jrvi5"
     },
@@ -68,7 +68,7 @@
       "titre": "The Most Heretical Last Boss Queen: From Villainess to Savior 2nd Season",
       "titreJp": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Min no Tame ni Tsukushimasu. 2nd Season",
       "ep": 7,
-      "ago": "19h",
+      "ago": "22h",
       "img": "5zcck",
       "ahId": "np9nt"
     },
@@ -76,7 +76,7 @@
       "titre": "Boarding School Juliet",
       "titreJp": "Kishuku Gakkou no Juliet",
       "ep": 12,
-      "ago": "21h",
+      "ago": "1d",
       "img": "xsnni",
       "ahId": "d171x"
     },
@@ -124,7 +124,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -356,7 +356,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 7,
-      "ago": "3d",
+      "ago": "4d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -364,7 +364,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 6,
-      "ago": "3d",
+      "ago": "4d",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -420,7 +420,7 @@
       "titre": "Haibara’s Teenage New Game+",
       "titreJp": "Haibara-kun no Tsuyokute Seishun New Game",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "dw9gn",
       "ahId": "7s4ze"
     },
@@ -545,7 +545,7 @@
       "ahId": "ilp9j"
     }
   ],
-  "updatedAt": "2026-05-20T09:26:09.392Z",
+  "updatedAt": "2026-05-20T12:21:07.014Z",
   "source": "github-actions",
   "count": 68
 }
