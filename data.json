@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Go For It, Nakamura!",
+      "titreJp": "Ganbare! Nakamura-kun!!",
+      "ep": 9,
+      "ago": "2h",
+      "img": "rf7eh",
+      "ahId": "1ijne"
+    },
+    {
       "titre": "The Beginning After the End Season 2",
       "titreJp": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
       "ep": 8,
-      "ago": "?",
+      "ago": "2h",
       "img": "zmy4z",
       "ahId": "fv1vj"
     },
@@ -12,7 +20,7 @@
       "titre": "Always a Catch!",
       "titreJp": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
       "ep": 8,
-      "ago": "?",
+      "ago": "3h",
       "img": "r9hz4",
       "ahId": "frlld"
     },
@@ -20,7 +28,7 @@
       "titre": "Gals Can’t Be Kind to Otaku!?",
       "titreJp": "Otaku ni Yasashii Gyaru wa Inai!?",
       "ep": 7,
-      "ago": "?",
+      "ago": "3h",
       "img": "j5umi",
       "ahId": "kq3pz"
     },
@@ -28,7 +36,7 @@
       "titre": "Re:ZERO: Starting Life in Another World Season 4",
       "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
       "ep": 7,
-      "ago": "2h",
+      "ago": "5h",
       "img": "7tc0j",
       "ahId": "ilp9j"
     },
@@ -36,7 +44,7 @@
       "titre": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season",
       "titreJp": "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
       "ep": 8,
-      "ago": "2h",
+      "ago": "5h",
       "img": "cirfw",
       "ahId": "5iqzo"
     },
@@ -44,7 +52,7 @@
       "titre": "Dorohedoro 2",
       "titreJp": "",
       "ep": 10,
-      "ago": "2h",
+      "ago": "5h",
       "img": "t71fe",
       "ahId": "pgjgh"
     },
@@ -52,7 +60,7 @@
       "titre": "Rent-a-Girlfriend Season 5",
       "titreJp": "Kanojo, Okarishimasu 5th Season",
       "ep": 7,
-      "ago": "3h",
+      "ago": "6h",
       "img": "7nqj7",
       "ahId": "i0kd0"
     },
@@ -60,7 +68,7 @@
       "titre": "Classroom of the Elite 4th Season",
       "titreJp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
       "ep": 11,
-      "ago": "3h",
+      "ago": "6h",
       "img": "npea5",
       "ahId": "nzwhr"
     },
@@ -68,7 +76,7 @@
       "titre": "Beyond Twilight",
       "titreJp": "Hyakki Yakoushou",
       "ep": 7,
-      "ago": "22h",
+      "ago": "1d",
       "img": "0gwes",
       "ahId": "r32sr"
     },
@@ -76,7 +84,7 @@
       "titre": "My Ribdiculous Reincarnation",
       "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
       "ep": 7,
-      "ago": "22h",
+      "ago": "1d",
       "img": "27pp6",
       "ahId": "xw4de"
     },
@@ -84,7 +92,7 @@
       "titre": "Pardon the Intrusion, I'm Home!",
       "titreJp": "Tadaima, Ojamasaremasu!",
       "ep": 7,
-      "ago": "22h",
+      "ago": "1d",
       "img": "mwvn6",
       "ahId": "c3nol"
     },
@@ -204,7 +212,7 @@
       "titre": "Marika's Love Meter Malfunction",
       "titreJp": "Marika-chan no Koukando wa Bukkowareteiru",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "33vsk",
       "ahId": "fsi1m"
     },
@@ -212,7 +220,7 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 7,
-      "ago": "2d",
+      "ago": "3d",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -220,7 +228,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1162,
-      "ago": "2d",
+      "ago": "3d",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -228,7 +236,7 @@
       "titre": "Black Butler 2",
       "titreJp": "Kuroshitsuji 2",
       "ep": 12,
-      "ago": "2d",
+      "ago": "3d",
       "img": "bcfzu",
       "ahId": "mkld8"
     },
@@ -308,7 +316,7 @@
       "titre": "Scarlet",
       "titreJp": "Hateshi Naki Scarlet",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "0wm69",
       "ahId": "n91xy"
     },
@@ -316,7 +324,7 @@
       "titre": "Ichijouma Mankitsugurashi!",
       "titreJp": "",
       "ep": 6,
-      "ago": "3d",
+      "ago": "4d",
       "img": "wm2v7",
       "ahId": "ccxi5"
     },
@@ -324,7 +332,7 @@
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 18,
-      "ago": "3d",
+      "ago": "4d",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -332,7 +340,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 7,
-      "ago": "3d",
+      "ago": "4d",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -340,7 +348,7 @@
       "titre": "Agents of the Four Seasons: Dance of Spring",
       "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
       "ep": 8,
-      "ago": "3d",
+      "ago": "4d",
       "img": "fxza8",
       "ahId": "boii6"
     },
@@ -436,7 +444,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -492,7 +500,7 @@
       "titre": "Killed Again, Mr. Detective?",
       "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "j0cec",
       "ahId": "0cwi8"
     },
@@ -500,7 +508,7 @@
       "titre": "Monster Eater",
       "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "anfea",
       "ahId": "pi6yi"
     },
@@ -508,7 +516,7 @@
       "titre": "A Hundred Scenes of AWAJIMA",
       "titreJp": "Awajima Hyakkei",
       "ep": 6,
-      "ago": "5d",
+      "ago": "6d",
       "img": "r7ozz",
       "ahId": "oh0q2"
     },
@@ -516,7 +524,7 @@
       "titre": "Petals of Reincarnation",
       "titreJp": "Reincarnation no Kaben",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "iideg",
       "ahId": "b2ybn"
     },
@@ -524,7 +532,7 @@
       "titre": "Kirio Fan Club",
       "titreJp": "",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "f7jfv",
       "ahId": "ji7g1"
     },
@@ -535,17 +543,9 @@
       "ago": "6d",
       "img": "cs30h",
       "ahId": "jx2jr"
-    },
-    {
-      "titre": "Dr. Stone: Science Future - Part III",
-      "titreJp": "",
-      "ep": 7,
-      "ago": "6d",
-      "img": "oxfds",
-      "ahId": "xvd0a"
     }
   ],
-  "updatedAt": "2026-05-20T16:26:57.169Z",
+  "updatedAt": "2026-05-20T19:21:57.120Z",
   "source": "github-actions",
   "count": 68
 }
