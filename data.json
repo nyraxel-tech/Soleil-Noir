@@ -4,7 +4,7 @@
       "titre": "The Ramparts of Ice",
       "titreJp": "Koori no Jouheki, Ice Castle Wall",
       "ep": 8,
-      "ago": "2h",
+      "ago": "4h",
       "img": "cs30h",
       "ahId": "jx2jr"
     },
@@ -12,7 +12,7 @@
       "titre": "Monster Eater",
       "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
       "ep": 8,
-      "ago": "3h",
+      "ago": "4h",
       "img": "anfea",
       "ahId": "pi6yi"
     },
@@ -20,7 +20,7 @@
       "titre": "Killed Again, Mr. Detective?",
       "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
       "ep": 8,
-      "ago": "3h",
+      "ago": "5h",
       "img": "j0cec",
       "ahId": "0cwi8"
     },
@@ -28,7 +28,7 @@
       "titre": "Haibara’s Teenage New Game+",
       "titreJp": "Haibara-kun no Tsuyokute Seishun New Game",
       "ep": 8,
-      "ago": "4h",
+      "ago": "5h",
       "img": "dw9gn",
       "ahId": "7s4ze"
     },
@@ -36,7 +36,7 @@
       "titre": "Petals of Reincarnation",
       "titreJp": "Reincarnation no Kaben",
       "ep": 8,
-      "ago": "4h",
+      "ago": "5h",
       "img": "iideg",
       "ahId": "b2ybn"
     },
@@ -44,7 +44,7 @@
       "titre": "A Hundred Scenes of AWAJIMA",
       "titreJp": "Awajima Hyakkei",
       "ep": 7,
-      "ago": "4h",
+      "ago": "6h",
       "img": "r7ozz",
       "ahId": "oh0q2"
     },
@@ -52,7 +52,7 @@
       "titre": "Kirio Fan Club",
       "titreJp": "",
       "ep": 8,
-      "ago": "5h",
+      "ago": "6h",
       "img": "f7jfv",
       "ahId": "ji7g1"
     },
@@ -60,7 +60,7 @@
       "titre": "Kujima: Why Sing, When You Can Warble?",
       "titreJp": "Kujima Utaeba Ie Hororo",
       "ep": 7,
-      "ago": "7h",
+      "ago": "8h",
       "img": "pv8qk",
       "ahId": "gbdj0"
     },
@@ -68,7 +68,7 @@
       "titre": "Dr. Stone: Science Future - Part III",
       "titreJp": "",
       "ep": 8,
-      "ago": "7h",
+      "ago": "8h",
       "img": "oxfds",
       "ahId": "xvd0a"
     },
@@ -76,7 +76,7 @@
       "titre": "The Barbarian's Bride",
       "titreJp": "Himekishi wa Barbaroi no Yome",
       "ep": 7,
-      "ago": "8h",
+      "ago": "10h",
       "img": "synxi",
       "ahId": "hi6b1"
     },
@@ -553,7 +553,7 @@
       "ahId": "3kfyx"
     }
   ],
-  "updatedAt": "2026-05-21T21:24:56.679Z",
+  "updatedAt": "2026-05-21T23:00:53.743Z",
   "source": "github-actions",
   "count": 69
 }
