@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
+      "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
+      "ep": 8,
+      "ago": "?",
+      "img": "8ezmn",
+      "ahId": "nv9bp"
+    },
+    {
       "titre": "The Ramparts of Ice",
       "titreJp": "Koori no Jouheki, Ice Castle Wall",
       "ep": 8,
-      "ago": "15h",
+      "ago": "19h",
       "img": "cs30h",
       "ahId": "jx2jr"
     },
@@ -12,7 +20,7 @@
       "titre": "Monster Eater",
       "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
       "ep": 8,
-      "ago": "16h",
+      "ago": "19h",
       "img": "anfea",
       "ahId": "pi6yi"
     },
@@ -20,7 +28,7 @@
       "titre": "Killed Again, Mr. Detective?",
       "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
       "ep": 8,
-      "ago": "16h",
+      "ago": "19h",
       "img": "j0cec",
       "ahId": "0cwi8"
     },
@@ -28,7 +36,7 @@
       "titre": "Haibara’s Teenage New Game+",
       "titreJp": "Haibara-kun no Tsuyokute Seishun New Game",
       "ep": 8,
-      "ago": "17h",
+      "ago": "20h",
       "img": "dw9gn",
       "ahId": "7s4ze"
     },
@@ -36,7 +44,7 @@
       "titre": "Petals of Reincarnation",
       "titreJp": "Reincarnation no Kaben",
       "ep": 8,
-      "ago": "17h",
+      "ago": "20h",
       "img": "iideg",
       "ahId": "b2ybn"
     },
@@ -44,7 +52,7 @@
       "titre": "A Hundred Scenes of AWAJIMA",
       "titreJp": "Awajima Hyakkei",
       "ep": 7,
-      "ago": "17h",
+      "ago": "20h",
       "img": "r7ozz",
       "ahId": "oh0q2"
     },
@@ -52,7 +60,7 @@
       "titre": "Kirio Fan Club",
       "titreJp": "",
       "ep": 8,
-      "ago": "18h",
+      "ago": "21h",
       "img": "f7jfv",
       "ahId": "ji7g1"
     },
@@ -60,7 +68,7 @@
       "titre": "Kujima: Why Sing, When You Can Warble?",
       "titreJp": "Kujima Utaeba Ie Hororo",
       "ep": 7,
-      "ago": "20h",
+      "ago": "23h",
       "img": "pv8qk",
       "ahId": "gbdj0"
     },
@@ -68,7 +76,7 @@
       "titre": "Dr. Stone: Science Future - Part III",
       "titreJp": "",
       "ep": 8,
-      "ago": "20h",
+      "ago": "23h",
       "img": "oxfds",
       "ahId": "xvd0a"
     },
@@ -76,7 +84,7 @@
       "titre": "The Barbarian's Bride",
       "titreJp": "Himekishi wa Barbaroi no Yome",
       "ep": 7,
-      "ago": "21h",
+      "ago": "1d",
       "img": "synxi",
       "ahId": "hi6b1"
     },
@@ -140,7 +148,7 @@
       "titre": "Rent-a-Girlfriend Season 5",
       "titreJp": "Kanojo, Okarishimasu 5th Season",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "7nqj7",
       "ahId": "i0kd0"
     },
@@ -148,7 +156,7 @@
       "titre": "Classroom of the Elite 4th Season",
       "titreJp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
       "ep": 11,
-      "ago": "1d",
+      "ago": "2d",
       "img": "npea5",
       "ahId": "nzwhr"
     },
@@ -228,7 +236,7 @@
       "titre": "Boarding School Juliet",
       "titreJp": "Kishuku Gakkou no Juliet",
       "ep": 12,
-      "ago": "2d",
+      "ago": "3d",
       "img": "xsnni",
       "ahId": "d171x"
     },
@@ -492,7 +500,7 @@
       "titre": "The Great Sage Ryddel and the Hands of Time",
       "titreJp": "Daikenja Riddle no Jikan Gyakko",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "tl46m",
       "ahId": "rf6nw"
     },
@@ -500,7 +508,7 @@
       "titre": "Yowayowa Teacher",
       "titreJp": "Yowayowa Sensei",
       "ep": 6,
-      "ago": "5d",
+      "ago": "6d",
       "img": "b6f8i",
       "ahId": "pijt4"
     },
@@ -508,7 +516,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "par8w",
       "ahId": "m2zjn"
-    },
-    {
-      "titre": "Snowball Earth",
-      "titreJp": "",
-      "ep": 7,
-      "ago": "6d",
-      "img": "g0kk7",
-      "ahId": "3kfyx"
     }
   ],
-  "updatedAt": "2026-05-22T10:22:10.449Z",
+  "updatedAt": "2026-05-22T13:29:05.513Z",
   "source": "github-actions",
   "count": 69
 }
