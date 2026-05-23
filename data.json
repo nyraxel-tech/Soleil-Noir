@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Yowayowa Teacher",
+      "titreJp": "Yowayowa Sensei",
+      "ep": 7,
+      "ago": "?",
+      "img": "b6f8i",
+      "ahId": "pijt4"
+    },
+    {
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 8,
-      "ago": "?",
+      "ago": "2h",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -12,7 +20,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 7,
-      "ago": "1h",
+      "ago": "3h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -20,7 +28,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 137,
-      "ago": "1h",
+      "ago": "4h",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -28,7 +36,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 9,
-      "ago": "15h",
+      "ago": "17h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -36,7 +44,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 7,
-      "ago": "18h",
+      "ago": "20h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -44,7 +52,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 7,
-      "ago": "19h",
+      "ago": "21h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -52,7 +60,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 8,
-      "ago": "19h",
+      "ago": "21h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -60,7 +68,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 7,
-      "ago": "19h",
+      "ago": "22h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -68,7 +76,7 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 8,
-      "ago": "21h",
+      "ago": "1d",
       "img": "8ezmn",
       "ahId": "nv9bp"
     },
@@ -148,7 +156,7 @@
       "titre": "The Barbarian's Bride",
       "titreJp": "Himekishi wa Barbaroi no Yome",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "synxi",
       "ahId": "hi6b1"
     },
@@ -212,7 +220,7 @@
       "titre": "Rent-a-Girlfriend Season 5",
       "titreJp": "Kanojo, Okarishimasu 5th Season",
       "ep": 7,
-      "ago": "2d",
+      "ago": "3d",
       "img": "7nqj7",
       "ahId": "i0kd0"
     },
@@ -220,7 +228,7 @@
       "titre": "Classroom of the Elite 4th Season",
       "titreJp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
       "ep": 11,
-      "ago": "2d",
+      "ago": "3d",
       "img": "npea5",
       "ahId": "nzwhr"
     },
@@ -300,7 +308,7 @@
       "titre": "Boarding School Juliet",
       "titreJp": "Kishuku Gakkou no Juliet",
       "ep": 12,
-      "ago": "3d",
+      "ago": "4d",
       "img": "xsnni",
       "ahId": "d171x"
     },
@@ -535,17 +543,9 @@
       "ago": "6d",
       "img": "cl65y",
       "ahId": "3i16j"
-    },
-    {
-      "titre": "Akane-banashi",
-      "titreJp": "",
-      "ep": 7,
-      "ago": "6d",
-      "img": "7j7kb",
-      "ahId": "o8996"
     }
   ],
-  "updatedAt": "2026-05-23T11:07:46.525Z",
+  "updatedAt": "2026-05-23T13:18:23.377Z",
   "source": "github-actions",
   "count": 68
 }
