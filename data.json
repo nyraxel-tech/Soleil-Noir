@@ -4,7 +4,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 9,
-      "ago": "4h",
+      "ago": "9h",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -12,7 +12,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 9,
-      "ago": "4h",
+      "ago": "9h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -20,7 +20,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 7,
-      "ago": "7h",
+      "ago": "11h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -28,7 +28,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 7,
-      "ago": "8h",
+      "ago": "12h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -36,7 +36,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 8,
-      "ago": "8h",
+      "ago": "12h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -44,7 +44,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 7,
-      "ago": "8h",
+      "ago": "13h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -52,7 +52,7 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 8,
-      "ago": "10h",
+      "ago": "15h",
       "img": "8ezmn",
       "ahId": "nv9bp"
     },
@@ -436,7 +436,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 31,
-      "ago": "5d",
+      "ago": "6d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -545,7 +545,7 @@
       "ahId": "ayudj"
     }
   ],
-  "updatedAt": "2026-05-23T00:03:59.929Z",
+  "updatedAt": "2026-05-23T04:36:52.445Z",
   "source": "github-actions",
   "count": 68
 }
