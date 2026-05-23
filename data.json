@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "MAO",
+      "titreJp": "",
+      "ep": 8,
+      "ago": "?",
+      "img": "topci",
+      "ahId": "qw2g9"
+    },
+    {
+      "titre": "Akane-banashi",
+      "titreJp": "",
+      "ep": 8,
+      "ago": "?",
+      "img": "7j7kb",
+      "ahId": "o8996"
+    },
+    {
       "titre": "Kill Blue",
       "titreJp": "Kill Ao",
       "ep": 7,
-      "ago": "?",
+      "ago": "1h",
       "img": "dns6b",
       "ahId": "y5v48"
     },
@@ -12,7 +28,7 @@
       "titre": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
       "titreJp": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
       "ep": 9,
-      "ago": "1h",
+      "ago": "2h",
       "img": "hnxbm",
       "ahId": "ayudj"
     },
@@ -20,7 +36,7 @@
       "titre": "The Great Sage Ryddel and the Hands of Time",
       "titreJp": "Daikenja Riddle no Jikan Gyakko",
       "ep": 8,
-      "ago": "1h",
+      "ago": "2h",
       "img": "tl46m",
       "ahId": "rf6nw"
     },
@@ -28,7 +44,7 @@
       "titre": "Yowayowa Teacher",
       "titreJp": "Yowayowa Sensei",
       "ep": 7,
-      "ago": "1h",
+      "ago": "2h",
       "img": "b6f8i",
       "ahId": "pijt4"
     },
@@ -36,7 +52,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 8,
-      "ago": "4h",
+      "ago": "5h",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -44,7 +60,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 7,
-      "ago": "5h",
+      "ago": "6h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -52,7 +68,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 137,
-      "ago": "5h",
+      "ago": "6h",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -60,7 +76,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 9,
-      "ago": "19h",
+      "ago": "20h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -68,7 +84,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 7,
-      "ago": "22h",
+      "ago": "23h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -76,7 +92,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 7,
-      "ago": "23h",
+      "ago": "1d",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -84,7 +100,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 8,
-      "ago": "23h",
+      "ago": "1d",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -92,7 +108,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 7,
-      "ago": "23h",
+      "ago": "1d",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -212,7 +228,7 @@
       "titre": "Gals Can’t Be Kind to Otaku!?",
       "titreJp": "Otaku ni Yasashii Gyaru wa Inai!?",
       "ep": 7,
-      "ago": "2d",
+      "ago": "3d",
       "img": "j5umi",
       "ahId": "kq3pz"
     },
@@ -292,7 +308,7 @@
       "titre": "I Made Friends with the Second Prettiest Girl in My Class",
       "titreJp": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
       "ep": 7,
-      "ago": "3d",
+      "ago": "4d",
       "img": "kfuf2",
       "ahId": "3c38p"
     },
@@ -356,7 +372,7 @@
       "titre": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "titreJp": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "jh4do",
       "ahId": "fcmyo"
     },
@@ -428,7 +444,7 @@
       "titre": "Ghost Concert: Missing Songs",
       "titreJp": "",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "1ljqb",
       "ahId": "8p2tr"
     },
@@ -436,7 +452,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 6,
-      "ago": "5d",
+      "ago": "6d",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -527,25 +543,9 @@
       "ago": "6d",
       "img": "57g7m",
       "ahId": "z320l"
-    },
-    {
-      "titre": "Agents of the Four Seasons: Dance of Spring",
-      "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
-      "ep": 8,
-      "ago": "6d",
-      "img": "fxza8",
-      "ahId": "boii6"
-    },
-    {
-      "titre": "Daemons of The Shadow Realm",
-      "titreJp": "Yomi no Tsugai",
-      "ep": 7,
-      "ago": "6d",
-      "img": "dks5o",
-      "ahId": "pm96z"
     }
   ],
-  "updatedAt": "2026-05-23T14:58:17.165Z",
+  "updatedAt": "2026-05-23T16:04:09.275Z",
   "source": "github-actions",
   "count": 68
 }
