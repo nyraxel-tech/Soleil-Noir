@@ -4,7 +4,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 8,
-      "ago": "3h",
+      "ago": "4h",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -12,7 +12,7 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 8,
-      "ago": "4h",
+      "ago": "5h",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -20,7 +20,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1163,
-      "ago": "6h",
+      "ago": "7h",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -28,7 +28,7 @@
       "titre": "Ghost Concert: Missing Songs",
       "titreJp": "",
       "ep": 8,
-      "ago": "7h",
+      "ago": "8h",
       "img": "1ljqb",
       "ahId": "8p2tr"
     },
@@ -36,7 +36,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 7,
-      "ago": "7h",
+      "ago": "8h",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -44,7 +44,7 @@
       "titre": "The Food Diary of Miss Maid",
       "titreJp": "Maid-san wa Taberu dake",
       "ep": 9,
-      "ago": "8h",
+      "ago": "9h",
       "img": "w1qq7",
       "ahId": "7b5z4"
     },
@@ -52,7 +52,7 @@
       "titre": "Mission: Yozakura Family Season 2",
       "titreJp": "Yozakura-san Chi no Daisakusen Season 2",
       "ep": 7,
-      "ago": "8h",
+      "ago": "9h",
       "img": "rgi7x",
       "ahId": "feqdi"
     },
@@ -60,7 +60,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season",
       "titreJp": "Diamond no Ace: Act II 2nd Season",
       "ep": 8,
-      "ago": "13h",
+      "ago": "14h",
       "img": "c50pz",
       "ahId": "dd464"
     },
@@ -68,7 +68,7 @@
       "titre": "Wistoria: Wand and Sword 2nd Season",
       "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
       "ep": 7,
-      "ago": "14h",
+      "ago": "15h",
       "img": "h6l0c",
       "ahId": "y98v5"
     },
@@ -76,7 +76,7 @@
       "titre": "Rooster Fighter",
       "titreJp": "Niwatori Fighter",
       "ep": 11,
-      "ago": "14h",
+      "ago": "15h",
       "img": "vy576",
       "ahId": "uni0y"
     },
@@ -84,7 +84,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 32,
-      "ago": "19h",
+      "ago": "20h",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -545,7 +545,7 @@
       "ahId": "fsi1m"
     }
   ],
-  "updatedAt": "2026-05-24T22:55:02.245Z",
+  "updatedAt": "2026-05-24T23:57:30.390Z",
   "source": "github-actions",
   "count": 68
 }
