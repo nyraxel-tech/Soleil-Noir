@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "One Piece",
+      "titreJp": "",
+      "ep": 1163,
+      "ago": "?",
+      "img": "zbt7y",
+      "ahId": "1ht8d"
+    },
+    {
+      "titre": "Ghost Concert: Missing Songs",
+      "titreJp": "",
+      "ep": 8,
+      "ago": "1h",
+      "img": "1ljqb",
+      "ahId": "8p2tr"
+    },
+    {
+      "titre": "The Classroom of a Black Cat and a Witch",
+      "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
+      "ep": 7,
+      "ago": "1h",
+      "img": "cs0bn",
+      "ahId": "7p5hz"
+    },
+    {
       "titre": "The Food Diary of Miss Maid",
       "titreJp": "Maid-san wa Taberu dake",
       "ep": 9,
-      "ago": "?",
+      "ago": "2h",
       "img": "w1qq7",
       "ahId": "7b5z4"
     },
@@ -12,7 +36,7 @@
       "titre": "Mission: Yozakura Family Season 2",
       "titreJp": "Yozakura-san Chi no Daisakusen Season 2",
       "ep": 7,
-      "ago": "1h",
+      "ago": "2h",
       "img": "rgi7x",
       "ahId": "feqdi"
     },
@@ -20,7 +44,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season",
       "titreJp": "Diamond no Ace: Act II 2nd Season",
       "ep": 8,
-      "ago": "5h",
+      "ago": "7h",
       "img": "c50pz",
       "ahId": "dd464"
     },
@@ -28,7 +52,7 @@
       "titre": "Wistoria: Wand and Sword 2nd Season",
       "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
       "ep": 7,
-      "ago": "6h",
+      "ago": "8h",
       "img": "h6l0c",
       "ahId": "y98v5"
     },
@@ -36,7 +60,7 @@
       "titre": "Rooster Fighter",
       "titreJp": "Niwatori Fighter",
       "ep": 11,
-      "ago": "6h",
+      "ago": "8h",
       "img": "vy576",
       "ahId": "uni0y"
     },
@@ -44,7 +68,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 32,
-      "ago": "11h",
+      "ago": "13h",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -52,7 +76,7 @@
       "titre": "Ichijouma Mankitsugurashi!",
       "titreJp": "",
       "ep": 7,
-      "ago": "20h",
+      "ago": "22h",
       "img": "wm2v7",
       "ahId": "ccxi5"
     },
@@ -60,7 +84,7 @@
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 19,
-      "ago": "21h",
+      "ago": "23h",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -68,7 +92,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 8,
-      "ago": "21h",
+      "ago": "23h",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -76,7 +100,7 @@
       "titre": "Agents of the Four Seasons: Dance of Spring",
       "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
       "ep": 9,
-      "ago": "22h",
+      "ago": "1d",
       "img": "fxza8",
       "ahId": "boii6"
     },
@@ -84,7 +108,7 @@
       "titre": "Mistress Kanan is Devilishly Easy",
       "titreJp": "Kanan-sama wa Akumade Choroi",
       "ep": 8,
-      "ago": "22h",
+      "ago": "1d",
       "img": "8q6wl",
       "ahId": "3uz6y"
     },
@@ -92,7 +116,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 8,
-      "ago": "22h",
+      "ago": "1d",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -100,7 +124,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 8,
-      "ago": "23h",
+      "ago": "1d",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -108,7 +132,7 @@
       "titre": "Akane-banashi",
       "titreJp": "",
       "ep": 8,
-      "ago": "23h",
+      "ago": "1d",
       "img": "7j7kb",
       "ahId": "o8996"
     },
@@ -180,7 +204,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -188,7 +212,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -196,7 +220,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -204,7 +228,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -260,7 +284,7 @@
       "titre": "A Hundred Scenes of AWAJIMA",
       "titreJp": "Awajima Hyakkei",
       "ep": 7,
-      "ago": "2d",
+      "ago": "3d",
       "img": "r7ozz",
       "ahId": "oh0q2"
     },
@@ -268,7 +292,7 @@
       "titre": "Kirio Fan Club",
       "titreJp": "",
       "ep": 8,
-      "ago": "2d",
+      "ago": "3d",
       "img": "f7jfv",
       "ahId": "ji7g1"
     },
@@ -308,7 +332,7 @@
       "titre": "The Beginning After the End Season 2",
       "titreJp": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
       "ep": 8,
-      "ago": "3d",
+      "ago": "4d",
       "img": "zmy4z",
       "ahId": "fv1vj"
     },
@@ -316,7 +340,7 @@
       "titre": "Always a Catch!",
       "titreJp": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
       "ep": 8,
-      "ago": "3d",
+      "ago": "4d",
       "img": "r9hz4",
       "ahId": "frlld"
     },
@@ -324,7 +348,7 @@
       "titre": "Gals Can’t Be Kind to Otaku!?",
       "titreJp": "Otaku ni Yasashii Gyaru wa Inai!?",
       "ep": 7,
-      "ago": "3d",
+      "ago": "4d",
       "img": "j5umi",
       "ahId": "kq3pz"
     },
@@ -396,7 +420,7 @@
       "titre": "Eren the Southpaw",
       "titreJp": "Hidarikiki no Eren",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "w5epl",
       "ahId": "j26hl"
     },
@@ -404,7 +428,7 @@
       "titre": "I Made Friends with the Second Prettiest Girl in My Class",
       "titreJp": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "kfuf2",
       "ahId": "3c38p"
     },
@@ -452,7 +476,7 @@
       "titre": "Black Butler: Book of Circus",
       "titreJp": "Kuroshitsuji: Book of Circus",
       "ep": 10,
-      "ago": "5d",
+      "ago": "6d",
       "img": "zeabo",
       "ahId": "mcdda"
     },
@@ -460,7 +484,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -468,7 +492,7 @@
       "titre": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "titreJp": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "jh4do",
       "ahId": "fcmyo"
     },
@@ -519,33 +543,9 @@
       "ago": "6d",
       "img": "4gqwj",
       "ahId": "bgi3j"
-    },
-    {
-      "titre": "One Piece",
-      "titreJp": "",
-      "ep": 1162,
-      "ago": "6d",
-      "img": "zbt7y",
-      "ahId": "1ht8d"
-    },
-    {
-      "titre": "Black Butler 2",
-      "titreJp": "Kuroshitsuji 2",
-      "ep": 12,
-      "ago": "6d",
-      "img": "bcfzu",
-      "ahId": "mkld8"
-    },
-    {
-      "titre": "Ghost Concert: Missing Songs",
-      "titreJp": "",
-      "ep": 7,
-      "ago": "6d",
-      "img": "1ljqb",
-      "ahId": "8p2tr"
     }
   ],
-  "updatedAt": "2026-05-24T15:00:49.717Z",
+  "updatedAt": "2026-05-24T16:57:13.496Z",
   "source": "github-actions",
   "count": 68
 }
