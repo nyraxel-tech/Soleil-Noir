@@ -4,7 +4,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1163,
-      "ago": "?",
+      "ago": "1h",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -12,7 +12,7 @@
       "titre": "Ghost Concert: Missing Songs",
       "titreJp": "",
       "ep": 8,
-      "ago": "1h",
+      "ago": "2h",
       "img": "1ljqb",
       "ahId": "8p2tr"
     },
@@ -20,7 +20,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 7,
-      "ago": "1h",
+      "ago": "2h",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -28,7 +28,7 @@
       "titre": "The Food Diary of Miss Maid",
       "titreJp": "Maid-san wa Taberu dake",
       "ep": 9,
-      "ago": "2h",
+      "ago": "3h",
       "img": "w1qq7",
       "ahId": "7b5z4"
     },
@@ -36,7 +36,7 @@
       "titre": "Mission: Yozakura Family Season 2",
       "titreJp": "Yozakura-san Chi no Daisakusen Season 2",
       "ep": 7,
-      "ago": "2h",
+      "ago": "4h",
       "img": "rgi7x",
       "ahId": "feqdi"
     },
@@ -44,7 +44,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season",
       "titreJp": "Diamond no Ace: Act II 2nd Season",
       "ep": 8,
-      "ago": "7h",
+      "ago": "8h",
       "img": "c50pz",
       "ahId": "dd464"
     },
@@ -52,7 +52,7 @@
       "titre": "Wistoria: Wand and Sword 2nd Season",
       "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
       "ep": 7,
-      "ago": "8h",
+      "ago": "9h",
       "img": "h6l0c",
       "ahId": "y98v5"
     },
@@ -60,7 +60,7 @@
       "titre": "Rooster Fighter",
       "titreJp": "Niwatori Fighter",
       "ep": 11,
-      "ago": "8h",
+      "ago": "9h",
       "img": "vy576",
       "ahId": "uni0y"
     },
@@ -68,7 +68,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 32,
-      "ago": "13h",
+      "ago": "14h",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -76,7 +76,7 @@
       "titre": "Ichijouma Mankitsugurashi!",
       "titreJp": "",
       "ep": 7,
-      "ago": "22h",
+      "ago": "23h",
       "img": "wm2v7",
       "ahId": "ccxi5"
     },
@@ -84,7 +84,7 @@
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 19,
-      "ago": "23h",
+      "ago": "1d",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -92,7 +92,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 8,
-      "ago": "23h",
+      "ago": "1d",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -260,7 +260,7 @@
       "titre": "Killed Again, Mr. Detective?",
       "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
       "ep": 8,
-      "ago": "2d",
+      "ago": "3d",
       "img": "j0cec",
       "ahId": "0cwi8"
     },
@@ -268,7 +268,7 @@
       "titre": "Haibara’s Teenage New Game+",
       "titreJp": "Haibara-kun no Tsuyokute Seishun New Game",
       "ep": 8,
-      "ago": "2d",
+      "ago": "3d",
       "img": "dw9gn",
       "ahId": "7s4ze"
     },
@@ -276,7 +276,7 @@
       "titre": "Petals of Reincarnation",
       "titreJp": "Reincarnation no Kaben",
       "ep": 8,
-      "ago": "2d",
+      "ago": "3d",
       "img": "iideg",
       "ahId": "b2ybn"
     },
@@ -324,7 +324,7 @@
       "titre": "Go For It, Nakamura!",
       "titreJp": "Ganbare! Nakamura-kun!!",
       "ep": 9,
-      "ago": "3d",
+      "ago": "4d",
       "img": "rf7eh",
       "ahId": "1ijne"
     },
@@ -412,7 +412,7 @@
       "titre": "Pardon the Intrusion, I'm Home!",
       "titreJp": "Tadaima, Ojamasaremasu!",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "mwvn6",
       "ahId": "c3nol"
     },
@@ -532,7 +532,7 @@
       "titre": "Marika's Love Meter Malfunction",
       "titreJp": "Marika-chan no Koukando wa Bukkowareteiru",
       "ep": 6,
-      "ago": "6d",
+      "ago": "7d",
       "img": "33vsk",
       "ahId": "fsi1m"
     },
@@ -540,12 +540,12 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 7,
-      "ago": "6d",
+      "ago": "7d",
       "img": "4gqwj",
       "ahId": "bgi3j"
     }
   ],
-  "updatedAt": "2026-05-24T16:57:13.496Z",
+  "updatedAt": "2026-05-24T17:59:14.538Z",
   "source": "github-actions",
   "count": 68
 }
