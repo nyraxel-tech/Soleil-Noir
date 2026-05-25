@@ -4,7 +4,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 8,
-      "ago": "13h",
+      "ago": "2h",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -12,7 +12,7 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 8,
-      "ago": "14h",
+      "ago": "17h",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -20,7 +20,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1163,
-      "ago": "16h",
+      "ago": "20h",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -28,7 +28,7 @@
       "titre": "Ghost Concert: Missing Songs",
       "titreJp": "",
       "ep": 8,
-      "ago": "17h",
+      "ago": "20h",
       "img": "1ljqb",
       "ahId": "8p2tr"
     },
@@ -36,7 +36,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 7,
-      "ago": "17h",
+      "ago": "21h",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -44,7 +44,7 @@
       "titre": "The Food Diary of Miss Maid",
       "titreJp": "Maid-san wa Taberu dake",
       "ep": 9,
-      "ago": "18h",
+      "ago": "22h",
       "img": "w1qq7",
       "ahId": "7b5z4"
     },
@@ -52,7 +52,7 @@
       "titre": "Mission: Yozakura Family Season 2",
       "titreJp": "Yozakura-san Chi no Daisakusen Season 2",
       "ep": 7,
-      "ago": "18h",
+      "ago": "22h",
       "img": "rgi7x",
       "ahId": "feqdi"
     },
@@ -60,7 +60,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season",
       "titreJp": "Diamond no Ace: Act II 2nd Season",
       "ep": 8,
-      "ago": "23h",
+      "ago": "1d",
       "img": "c50pz",
       "ahId": "dd464"
     },
@@ -188,7 +188,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -196,7 +196,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -204,7 +204,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 137,
-      "ago": "1d",
+      "ago": "2d",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -484,7 +484,7 @@
       "titre": "Boarding School Juliet",
       "titreJp": "Kishuku Gakkou no Juliet",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "xsnni",
       "ahId": "d171x"
     },
@@ -545,7 +545,7 @@
       "ahId": "fsi1m"
     }
   ],
-  "updatedAt": "2026-05-25T08:53:40.673Z",
+  "updatedAt": "2026-05-25T12:26:55.129Z",
   "source": "github-actions",
   "count": 68
 }
