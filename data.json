@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Liar Game",
+      "titreJp": "",
+      "ep": 8,
+      "ago": "1h",
+      "img": "csbrl",
+      "ahId": "l3kxg"
+    },
+    {
       "titre": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "titreJp": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
       "ep": 8,
-      "ago": "?",
+      "ago": "2h",
       "img": "jh4do",
       "ahId": "fcmyo"
     },
@@ -12,7 +20,7 @@
       "titre": "Farming Life in Another World 2",
       "titreJp": "Isekai Nonbiri Nouka 2",
       "ep": 8,
-      "ago": "1h",
+      "ago": "3h",
       "img": "b7en4",
       "ahId": "fae6d"
     },
@@ -20,7 +28,7 @@
       "titre": "Witch Hat Atelier",
       "titreJp": "Tongari Boushi no Atelier",
       "ep": 9,
-      "ago": "1h",
+      "ago": "3h",
       "img": "6rlo7",
       "ahId": "df4in"
     },
@@ -28,7 +36,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 8,
-      "ago": "5h",
+      "ago": "7h",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -36,7 +44,7 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 8,
-      "ago": "21h",
+      "ago": "23h",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -44,7 +52,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1163,
-      "ago": "23h",
+      "ago": "1d",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -124,7 +132,7 @@
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 19,
-      "ago": "1d",
+      "ago": "2d",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -132,7 +140,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -140,7 +148,7 @@
       "titre": "Agents of the Four Seasons: Dance of Spring",
       "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
       "ep": 9,
-      "ago": "1d",
+      "ago": "2d",
       "img": "fxza8",
       "ahId": "boii6"
     },
@@ -148,7 +156,7 @@
       "titre": "Mistress Kanan is Devilishly Easy",
       "titreJp": "Kanan-sama wa Akumade Choroi",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "8q6wl",
       "ahId": "3uz6y"
     },
@@ -156,7 +164,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -164,7 +172,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -244,7 +252,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 7,
-      "ago": "2d",
+      "ago": "3d",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -300,7 +308,7 @@
       "titre": "Killed Again, Mr. Detective?",
       "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
       "ep": 8,
-      "ago": "3d",
+      "ago": "4d",
       "img": "j0cec",
       "ahId": "0cwi8"
     },
@@ -308,7 +316,7 @@
       "titre": "Haibara’s Teenage New Game+",
       "titreJp": "Haibara-kun no Tsuyokute Seishun New Game",
       "ep": 8,
-      "ago": "3d",
+      "ago": "4d",
       "img": "dw9gn",
       "ahId": "7s4ze"
     },
@@ -316,7 +324,7 @@
       "titre": "Petals of Reincarnation",
       "titreJp": "Reincarnation no Kaben",
       "ep": 8,
-      "ago": "3d",
+      "ago": "4d",
       "img": "iideg",
       "ahId": "b2ybn"
     },
@@ -324,7 +332,7 @@
       "titre": "A Hundred Scenes of AWAJIMA",
       "titreJp": "Awajima Hyakkei",
       "ep": 7,
-      "ago": "3d",
+      "ago": "4d",
       "img": "r7ozz",
       "ahId": "oh0q2"
     },
@@ -332,7 +340,7 @@
       "titre": "Kirio Fan Club",
       "titreJp": "",
       "ep": 8,
-      "ago": "3d",
+      "ago": "4d",
       "img": "f7jfv",
       "ahId": "ji7g1"
     },
@@ -364,7 +372,7 @@
       "titre": "Go For It, Nakamura!",
       "titreJp": "Ganbare! Nakamura-kun!!",
       "ep": 9,
-      "ago": "4d",
+      "ago": "5d",
       "img": "rf7eh",
       "ahId": "1ijne"
     },
@@ -372,7 +380,7 @@
       "titre": "The Beginning After the End Season 2",
       "titreJp": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
       "ep": 8,
-      "ago": "4d",
+      "ago": "5d",
       "img": "zmy4z",
       "ahId": "fv1vj"
     },
@@ -380,7 +388,7 @@
       "titre": "Always a Catch!",
       "titreJp": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
       "ep": 8,
-      "ago": "4d",
+      "ago": "5d",
       "img": "r9hz4",
       "ahId": "frlld"
     },
@@ -388,7 +396,7 @@
       "titre": "Gals Can’t Be Kind to Otaku!?",
       "titreJp": "Otaku ni Yasashii Gyaru wa Inai!?",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "j5umi",
       "ahId": "kq3pz"
     },
@@ -460,7 +468,7 @@
       "titre": "Eren the Southpaw",
       "titreJp": "Hidarikiki no Eren",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "w5epl",
       "ahId": "j26hl"
     },
@@ -516,17 +524,9 @@
       "titre": "Black Butler: Book of Circus",
       "titreJp": "Kuroshitsuji: Book of Circus",
       "ep": 10,
-      "ago": "6d",
+      "ago": "7d",
       "img": "zeabo",
       "ahId": "mcdda"
-    },
-    {
-      "titre": "Liar Game",
-      "titreJp": "",
-      "ep": 7,
-      "ago": "6d",
-      "img": "csbrl",
-      "ahId": "l3kxg"
     },
     {
       "titre": "Neon Genesis Evangelion: The End of Evangelion",
@@ -540,12 +540,12 @@
       "titre": "Marika's Love Meter Malfunction",
       "titreJp": "Marika-chan no Koukando wa Bukkowareteiru",
       "ep": 6,
-      "ago": "7d",
+      "ago": "8d",
       "img": "33vsk",
       "ahId": "fsi1m"
     }
   ],
-  "updatedAt": "2026-05-25T15:47:47.138Z",
+  "updatedAt": "2026-05-25T17:40:44.256Z",
   "source": "github-actions",
   "count": 68
 }
