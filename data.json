@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "My Ribdiculous Reincarnation",
+      "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
+      "ep": 8,
+      "ago": "?",
+      "img": "27pp6",
+      "ahId": "xw4de"
+    },
+    {
+      "titre": "Pardon the Intrusion, I'm Home!",
+      "titreJp": "Tadaima, Ojamasaremasu!",
+      "ep": 8,
+      "ago": "1h",
+      "img": "mwvn6",
+      "ahId": "c3nol"
+    },
+    {
       "titre": "Eren the Southpaw",
       "titreJp": "Hidarikiki no Eren",
       "ep": 8,
-      "ago": "?",
+      "ago": "3h",
       "img": "w5epl",
       "ahId": "j26hl"
     },
@@ -12,7 +28,7 @@
       "titre": "I Made Friends with the Second Prettiest Girl in My Class",
       "titreJp": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
       "ep": 8,
-      "ago": "1h",
+      "ago": "4h",
       "img": "kfuf2",
       "ahId": "3c38p"
     },
@@ -20,7 +36,7 @@
       "titre": "Even a Replica Can Fall in Love",
       "titreJp": "Replica datte, Koi wo Suru.",
       "ep": 8,
-      "ago": "1h",
+      "ago": "4h",
       "img": "z35jq",
       "ahId": "k662x"
     },
@@ -28,7 +44,7 @@
       "titre": "Marriagetoxin",
       "titreJp": "Marriage Toxin",
       "ep": 8,
-      "ago": "1h",
+      "ago": "4h",
       "img": "ljkt9",
       "ahId": "lf9gt"
     },
@@ -36,7 +52,7 @@
       "titre": "I Want to End This Love Game",
       "titreJp": "Aishiteru Game wo Owarasetai",
       "ep": 7,
-      "ago": "2h",
+      "ago": "4h",
       "img": "438x1",
       "ahId": "jrvi5"
     },
@@ -44,7 +60,7 @@
       "titre": "The Most Heretical Last Boss Queen: From Villainess to Savior 2nd Season",
       "titreJp": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Min no Tame ni Tsukushimasu. 2nd Season",
       "ep": 8,
-      "ago": "2h",
+      "ago": "5h",
       "img": "5zcck",
       "ahId": "np9nt"
     },
@@ -92,7 +108,7 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -172,7 +188,7 @@
       "titre": "Ichijouma Mankitsugurashi!",
       "titreJp": "",
       "ep": 7,
-      "ago": "2d",
+      "ago": "3d",
       "img": "wm2v7",
       "ahId": "ccxi5"
     },
@@ -180,7 +196,7 @@
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 19,
-      "ago": "2d",
+      "ago": "3d",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -188,7 +204,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 8,
-      "ago": "2d",
+      "ago": "3d",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -196,7 +212,7 @@
       "titre": "Agents of the Four Seasons: Dance of Spring",
       "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
       "ep": 9,
-      "ago": "2d",
+      "ago": "3d",
       "img": "fxza8",
       "ahId": "boii6"
     },
@@ -300,7 +316,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 7,
-      "ago": "3d",
+      "ago": "4d",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -340,7 +356,7 @@
       "titre": "The Ramparts of Ice",
       "titreJp": "Koori no Jouheki, Ice Castle Wall",
       "ep": 8,
-      "ago": "4d",
+      "ago": "5d",
       "img": "cs30h",
       "ahId": "jx2jr"
     },
@@ -348,7 +364,7 @@
       "titre": "Monster Eater",
       "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
       "ep": 8,
-      "ago": "4d",
+      "ago": "5d",
       "img": "anfea",
       "ahId": "pi6yi"
     },
@@ -356,7 +372,7 @@
       "titre": "Killed Again, Mr. Detective?",
       "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
       "ep": 8,
-      "ago": "4d",
+      "ago": "5d",
       "img": "j0cec",
       "ahId": "0cwi8"
     },
@@ -364,7 +380,7 @@
       "titre": "Haibara’s Teenage New Game+",
       "titreJp": "Haibara-kun no Tsuyokute Seishun New Game",
       "ep": 8,
-      "ago": "4d",
+      "ago": "5d",
       "img": "dw9gn",
       "ahId": "7s4ze"
     },
@@ -372,7 +388,7 @@
       "titre": "Petals of Reincarnation",
       "titreJp": "Reincarnation no Kaben",
       "ep": 8,
-      "ago": "4d",
+      "ago": "5d",
       "img": "iideg",
       "ahId": "b2ybn"
     },
@@ -380,7 +396,7 @@
       "titre": "A Hundred Scenes of AWAJIMA",
       "titreJp": "Awajima Hyakkei",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "r7ozz",
       "ahId": "oh0q2"
     },
@@ -420,7 +436,7 @@
       "titre": "Go For It, Nakamura!",
       "titreJp": "Ganbare! Nakamura-kun!!",
       "ep": 9,
-      "ago": "5d",
+      "ago": "6d",
       "img": "rf7eh",
       "ahId": "1ijne"
     },
@@ -492,25 +508,9 @@
       "titre": "Beyond Twilight",
       "titreJp": "Hyakki Yakoushou",
       "ep": 7,
-      "ago": "6d",
+      "ago": "7d",
       "img": "0gwes",
       "ahId": "r32sr"
-    },
-    {
-      "titre": "My Ribdiculous Reincarnation",
-      "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
-      "ep": 7,
-      "ago": "6d",
-      "img": "27pp6",
-      "ahId": "xw4de"
-    },
-    {
-      "titre": "Pardon the Intrusion, I'm Home!",
-      "titreJp": "Tadaima, Ojamasaremasu!",
-      "ep": 7,
-      "ago": "6d",
-      "img": "mwvn6",
-      "ahId": "c3nol"
     },
     {
       "titre": "Boarding School Juliet",
@@ -540,12 +540,12 @@
       "titre": "Marika's Love Meter Malfunction",
       "titreJp": "Marika-chan no Koukando wa Bukkowareteiru",
       "ep": 6,
-      "ago": "8d",
+      "ago": "9d",
       "img": "33vsk",
       "ahId": "fsi1m"
     }
   ],
-  "updatedAt": "2026-05-26T16:39:27.022Z",
+  "updatedAt": "2026-05-26T19:17:28.278Z",
   "source": "github-actions",
   "count": 68
 }
