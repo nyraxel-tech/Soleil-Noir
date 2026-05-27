@@ -4,7 +4,7 @@
       "titre": "Go For It, Nakamura!",
       "titreJp": "Ganbare! Nakamura-kun!!",
       "ep": 10,
-      "ago": "1h",
+      "ago": "3h",
       "img": "rf7eh",
       "ahId": "1ijne"
     },
@@ -12,7 +12,7 @@
       "titre": "The Beginning After the End Season 2",
       "titreJp": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
       "ep": 9,
-      "ago": "1h",
+      "ago": "4h",
       "img": "zmy4z",
       "ahId": "fv1vj"
     },
@@ -20,7 +20,7 @@
       "titre": "Always a Catch!",
       "titreJp": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
       "ep": 9,
-      "ago": "2h",
+      "ago": "4h",
       "img": "r9hz4",
       "ahId": "frlld"
     },
@@ -28,7 +28,7 @@
       "titre": "Gals Can’t Be Kind to Otaku!?",
       "titreJp": "Otaku ni Yasashii Gyaru wa Inai!?",
       "ep": 8,
-      "ago": "2h",
+      "ago": "5h",
       "img": "j5umi",
       "ahId": "kq3pz"
     },
@@ -36,7 +36,7 @@
       "titre": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season",
       "titreJp": "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
       "ep": 9,
-      "ago": "4h",
+      "ago": "6h",
       "img": "cirfw",
       "ahId": "5iqzo"
     },
@@ -44,7 +44,7 @@
       "titre": "Re:ZERO: Starting Life in Another World Season 4",
       "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
       "ep": 8,
-      "ago": "4h",
+      "ago": "6h",
       "img": "7tc0j",
       "ahId": "ilp9j"
     },
@@ -52,7 +52,7 @@
       "titre": "Dorohedoro 2",
       "titreJp": "",
       "ep": 11,
-      "ago": "4h",
+      "ago": "6h",
       "img": "t71fe",
       "ahId": "pgjgh"
     },
@@ -60,7 +60,7 @@
       "titre": "Rent-a-Girlfriend Season 5",
       "titreJp": "Kanojo, Okarishimasu 5th Season",
       "ep": 8,
-      "ago": "5h",
+      "ago": "7h",
       "img": "7nqj7",
       "ahId": "i0kd0"
     },
@@ -68,7 +68,7 @@
       "titre": "Classroom of the Elite 4th Season",
       "titreJp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
       "ep": 12,
-      "ago": "5h",
+      "ago": "8h",
       "img": "npea5",
       "ahId": "nzwhr"
     },
@@ -76,7 +76,7 @@
       "titre": "Beyond Twilight",
       "titreJp": "Hyakki Yakoushou",
       "ep": 8,
-      "ago": "21h",
+      "ago": "23h",
       "img": "0gwes",
       "ahId": "r32sr"
     },
@@ -188,7 +188,7 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 8,
-      "ago": "2d",
+      "ago": "3d",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -388,7 +388,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 9,
-      "ago": "4d",
+      "ago": "5d",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -436,7 +436,7 @@
       "titre": "The Ramparts of Ice",
       "titreJp": "Koori no Jouheki, Ice Castle Wall",
       "ep": 8,
-      "ago": "5d",
+      "ago": "6d",
       "img": "cs30h",
       "ahId": "jx2jr"
     },
@@ -532,7 +532,7 @@
       "titre": "Neon Genesis Evangelion: The End of Evangelion",
       "titreJp": "Shinseiki Evangelion: The End of Evangelion",
       "ep": 1,
-      "ago": "9d",
+      "ago": "10d",
       "img": "dalq3",
       "ahId": "4a74y"
     },
@@ -545,7 +545,7 @@
       "ahId": "fsi1m"
     }
   ],
-  "updatedAt": "2026-05-27T18:24:24.454Z",
+  "updatedAt": "2026-05-27T21:00:36.407Z",
   "source": "github-actions",
   "count": 68
 }
