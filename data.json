@@ -1,10 +1,58 @@
 {
   "animes": [
     {
+      "titre": "Killed Again, Mr. Detective?",
+      "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
+      "ep": 9,
+      "ago": "?",
+      "img": "j0cec",
+      "ahId": "0cwi8"
+    },
+    {
+      "titre": "Haibara’s Teenage New Game+",
+      "titreJp": "Haibara-kun no Tsuyokute Seishun New Game",
+      "ep": 9,
+      "ago": "?",
+      "img": "dw9gn",
+      "ahId": "7s4ze"
+    },
+    {
+      "titre": "A Hundred Scenes of AWAJIMA",
+      "titreJp": "Awajima Hyakkei",
+      "ep": 8,
+      "ago": "1h",
+      "img": "r7ozz",
+      "ahId": "oh0q2"
+    },
+    {
+      "titre": "Petals of Reincarnation",
+      "titreJp": "Reincarnation no Kaben",
+      "ep": 9,
+      "ago": "1h",
+      "img": "iideg",
+      "ahId": "b2ybn"
+    },
+    {
+      "titre": "The Ramparts of Ice",
+      "titreJp": "Koori no Jouheki, Ice Castle Wall",
+      "ep": 9,
+      "ago": "1h",
+      "img": "cs30h",
+      "ahId": "jx2jr"
+    },
+    {
+      "titre": "Kirio Fan Club",
+      "titreJp": "",
+      "ep": 9,
+      "ago": "1h",
+      "img": "f7jfv",
+      "ahId": "ji7g1"
+    },
+    {
       "titre": "Dr. Stone: Science Future - Part III",
       "titreJp": "",
       "ep": 9,
-      "ago": "?",
+      "ago": "3h",
       "img": "oxfds",
       "ahId": "xvd0a"
     },
@@ -12,7 +60,7 @@
       "titre": "Kujima: Why Sing, When You Can Warble?",
       "titreJp": "Kujima Utaeba Ie Hororo",
       "ep": 8,
-      "ago": "?",
+      "ago": "4h",
       "img": "pv8qk",
       "ahId": "gbdj0"
     },
@@ -20,7 +68,7 @@
       "titre": "The Barbarian's Bride",
       "titreJp": "Himekishi wa Barbaroi no Yome",
       "ep": 8,
-      "ago": "1h",
+      "ago": "5h",
       "img": "synxi",
       "ahId": "hi6b1"
     },
@@ -28,7 +76,7 @@
       "titre": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter",
       "titreJp": "Isekai no Sata wa Shachiku Shidai",
       "ep": 13,
-      "ago": "3h",
+      "ago": "7h",
       "img": "olruf",
       "ahId": "ju9ye"
     },
@@ -36,7 +84,7 @@
       "titre": "Go For It, Nakamura!",
       "titreJp": "Ganbare! Nakamura-kun!!",
       "ep": 10,
-      "ago": "21h",
+      "ago": "1d",
       "img": "rf7eh",
       "ahId": "1ijne"
     },
@@ -44,7 +92,7 @@
       "titre": "The Beginning After the End Season 2",
       "titreJp": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
       "ep": 9,
-      "ago": "22h",
+      "ago": "1d",
       "img": "zmy4z",
       "ahId": "fv1vj"
     },
@@ -52,7 +100,7 @@
       "titre": "Always a Catch!",
       "titreJp": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
       "ep": 9,
-      "ago": "22h",
+      "ago": "1d",
       "img": "r9hz4",
       "ahId": "frlld"
     },
@@ -60,7 +108,7 @@
       "titre": "Gals Can’t Be Kind to Otaku!?",
       "titreJp": "Otaku ni Yasashii Gyaru wa Inai!?",
       "ep": 8,
-      "ago": "22h",
+      "ago": "1d",
       "img": "j5umi",
       "ahId": "kq3pz"
     },
@@ -124,7 +172,7 @@
       "titre": "Pardon the Intrusion, I'm Home!",
       "titreJp": "Tadaima, Ojamasaremasu!",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "mwvn6",
       "ahId": "c3nol"
     },
@@ -132,7 +180,7 @@
       "titre": "Eren the Southpaw",
       "titreJp": "Hidarikiki no Eren",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "w5epl",
       "ahId": "j26hl"
     },
@@ -140,7 +188,7 @@
       "titre": "I Made Friends with the Second Prettiest Girl in My Class",
       "titreJp": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "kfuf2",
       "ahId": "3c38p"
     },
@@ -148,7 +196,7 @@
       "titre": "Even a Replica Can Fall in Love",
       "titreJp": "Replica datte, Koi wo Suru.",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "z35jq",
       "ahId": "k662x"
     },
@@ -156,7 +204,7 @@
       "titre": "Marriagetoxin",
       "titreJp": "Marriage Toxin",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "ljkt9",
       "ahId": "lf9gt"
     },
@@ -164,7 +212,7 @@
       "titre": "I Want to End This Love Game",
       "titreJp": "Aishiteru Game wo Owarasetai",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "438x1",
       "ahId": "jrvi5"
     },
@@ -180,7 +228,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 8,
-      "ago": "2d",
+      "ago": "3d",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -188,7 +236,7 @@
       "titre": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "titreJp": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
       "ep": 8,
-      "ago": "2d",
+      "ago": "3d",
       "img": "jh4do",
       "ahId": "fcmyo"
     },
@@ -228,7 +276,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1163,
-      "ago": "3d",
+      "ago": "4d",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -236,7 +284,7 @@
       "titre": "Ghost Concert: Missing Songs",
       "titreJp": "",
       "ep": 8,
-      "ago": "3d",
+      "ago": "4d",
       "img": "1ljqb",
       "ahId": "8p2tr"
     },
@@ -244,7 +292,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 7,
-      "ago": "3d",
+      "ago": "4d",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -308,7 +356,7 @@
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 19,
-      "ago": "4d",
+      "ago": "5d",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -316,7 +364,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 8,
-      "ago": "4d",
+      "ago": "5d",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -324,7 +372,7 @@
       "titre": "Agents of the Four Seasons: Dance of Spring",
       "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
       "ep": 9,
-      "ago": "4d",
+      "ago": "5d",
       "img": "fxza8",
       "ahId": "boii6"
     },
@@ -332,7 +380,7 @@
       "titre": "Mistress Kanan is Devilishly Easy",
       "titreJp": "Kanan-sama wa Akumade Choroi",
       "ep": 8,
-      "ago": "4d",
+      "ago": "5d",
       "img": "8q6wl",
       "ahId": "3uz6y"
     },
@@ -340,7 +388,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 8,
-      "ago": "4d",
+      "ago": "5d",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -348,7 +396,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 8,
-      "ago": "4d",
+      "ago": "5d",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -356,7 +404,7 @@
       "titre": "Akane-banashi",
       "titreJp": "",
       "ep": 8,
-      "ago": "4d",
+      "ago": "5d",
       "img": "7j7kb",
       "ahId": "o8996"
     },
@@ -364,7 +412,7 @@
       "titre": "Kill Blue",
       "titreJp": "Kill Ao",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "dns6b",
       "ahId": "y5v48"
     },
@@ -428,7 +476,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -436,7 +484,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -444,7 +492,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 8,
-      "ago": "5d",
+      "ago": "6d",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -452,7 +500,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -465,60 +513,12 @@
       "ahId": "nv9bp"
     },
     {
-      "titre": "The Ramparts of Ice",
-      "titreJp": "Koori no Jouheki, Ice Castle Wall",
-      "ep": 8,
-      "ago": "6d",
-      "img": "cs30h",
-      "ahId": "jx2jr"
-    },
-    {
       "titre": "Monster Eater",
       "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
       "ep": 8,
       "ago": "6d",
       "img": "anfea",
       "ahId": "pi6yi"
-    },
-    {
-      "titre": "Killed Again, Mr. Detective?",
-      "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
-      "ep": 8,
-      "ago": "6d",
-      "img": "j0cec",
-      "ahId": "0cwi8"
-    },
-    {
-      "titre": "Haibara’s Teenage New Game+",
-      "titreJp": "Haibara-kun no Tsuyokute Seishun New Game",
-      "ep": 8,
-      "ago": "6d",
-      "img": "dw9gn",
-      "ahId": "7s4ze"
-    },
-    {
-      "titre": "Petals of Reincarnation",
-      "titreJp": "Reincarnation no Kaben",
-      "ep": 8,
-      "ago": "6d",
-      "img": "iideg",
-      "ahId": "b2ybn"
-    },
-    {
-      "titre": "A Hundred Scenes of AWAJIMA",
-      "titreJp": "Awajima Hyakkei",
-      "ep": 7,
-      "ago": "6d",
-      "img": "r7ozz",
-      "ahId": "oh0q2"
-    },
-    {
-      "titre": "Kirio Fan Club",
-      "titreJp": "",
-      "ep": 8,
-      "ago": "6d",
-      "img": "f7jfv",
-      "ahId": "ji7g1"
     },
     {
       "titre": "Boarding School Juliet",
@@ -532,7 +532,7 @@
       "titre": "Black Butler: Book of Circus",
       "titreJp": "Kuroshitsuji: Book of Circus",
       "ep": 10,
-      "ago": "9d",
+      "ago": "10d",
       "img": "zeabo",
       "ahId": "mcdda"
     },
@@ -545,7 +545,7 @@
       "ahId": "4a74y"
     }
   ],
-  "updatedAt": "2026-05-28T14:35:32.238Z",
+  "updatedAt": "2026-05-28T18:08:26.806Z",
   "source": "github-actions",
   "count": 68
 }
