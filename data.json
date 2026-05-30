@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Ascendance of a Bookworm Season 4",
+      "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
+      "ep": 8,
+      "ago": "?",
+      "img": "2m22z",
+      "ahId": "yeyrm"
+    },
+    {
+      "titre": "Pokemon Horizons: The Series",
+      "titreJp": "Pocket Monsters (2023)",
+      "ep": 138,
+      "ago": "1h",
+      "img": "9fsft",
+      "ahId": "9v661"
+    },
+    {
       "titre": "Science Fell in Love, So I Tried to Prove It. r=1-sinθ",
       "titreJp": "Rikei ga Koi ni Ochita no de Shoumei Shitemita. r=1-sinθ (Heart)",
       "ep": 12,
-      "ago": "5h",
+      "ago": "8h",
       "img": "17ryz",
       "ahId": "7yfa0"
     },
@@ -12,7 +28,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 10,
-      "ago": "12h",
+      "ago": "15h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -20,7 +36,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 8,
-      "ago": "14h",
+      "ago": "17h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -28,7 +44,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 8,
-      "ago": "15h",
+      "ago": "18h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -36,7 +52,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 9,
-      "ago": "15h",
+      "ago": "18h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -44,7 +60,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 8,
-      "ago": "16h",
+      "ago": "18h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -52,7 +68,7 @@
       "titre": "Science Fell in Love, So I Tried to Prove It",
       "titreJp": "Rikei ga Koi ni Ochita no de Shoumei Shitemita.",
       "ep": 12,
-      "ago": "17h",
+      "ago": "19h",
       "img": "sod2c",
       "ahId": "l8zc1"
     },
@@ -60,7 +76,7 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 9,
-      "ago": "18h",
+      "ago": "20h",
       "img": "8ezmn",
       "ahId": "nv9bp"
     },
@@ -388,7 +404,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season",
       "titreJp": "Diamond no Ace: Act II 2nd Season",
       "ep": 8,
-      "ago": "5d",
+      "ago": "6d",
       "img": "c50pz",
       "ahId": "dd464"
     },
@@ -396,7 +412,7 @@
       "titre": "Wistoria: Wand and Sword 2nd Season",
       "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "h6l0c",
       "ahId": "y98v5"
     },
@@ -404,7 +420,7 @@
       "titre": "Rooster Fighter",
       "titreJp": "Niwatori Fighter",
       "ep": 11,
-      "ago": "5d",
+      "ago": "6d",
       "img": "vy576",
       "ahId": "uni0y"
     },
@@ -521,22 +537,6 @@
       "ahId": "amsff"
     },
     {
-      "titre": "Ascendance of a Bookworm Season 4",
-      "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
-      "ep": 7,
-      "ago": "6d",
-      "img": "2m22z",
-      "ahId": "yeyrm"
-    },
-    {
-      "titre": "Pokemon Horizons: The Series",
-      "titreJp": "Pocket Monsters (2023)",
-      "ep": 137,
-      "ago": "6d",
-      "img": "9fsft",
-      "ahId": "9v661"
-    },
-    {
       "titre": "Boarding School Juliet",
       "titreJp": "Kishuku Gakkou no Juliet",
       "ep": 12,
@@ -545,7 +545,7 @@
       "ahId": "d171x"
     }
   ],
-  "updatedAt": "2026-05-30T07:38:54.743Z",
+  "updatedAt": "2026-05-30T09:57:21.438Z",
   "source": "github-actions",
   "count": 68
 }
