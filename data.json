@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Science Fell in Love, So I Tried to Prove It. r=1-sinθ",
+      "titreJp": "Rikei ga Koi ni Ochita no de Shoumei Shitemita. r=1-sinθ (Heart)",
+      "ep": 12,
+      "ago": "3h",
+      "img": "17ryz",
+      "ahId": "7yfa0"
+    },
+    {
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 10,
-      "ago": "5h",
+      "ago": "10h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -12,7 +20,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 8,
-      "ago": "7h",
+      "ago": "12h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -20,7 +28,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 8,
-      "ago": "8h",
+      "ago": "13h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -28,7 +36,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 9,
-      "ago": "8h",
+      "ago": "13h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -36,7 +44,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 8,
-      "ago": "8h",
+      "ago": "13h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -44,7 +52,7 @@
       "titre": "Science Fell in Love, So I Tried to Prove It",
       "titreJp": "Rikei ga Koi ni Ochita no de Shoumei Shitemita.",
       "ep": 12,
-      "ago": "9h",
+      "ago": "14h",
       "img": "sod2c",
       "ahId": "l8zc1"
     },
@@ -52,7 +60,7 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 9,
-      "ago": "10h",
+      "ago": "15h",
       "img": "8ezmn",
       "ahId": "nv9bp"
     },
@@ -404,7 +412,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 32,
-      "ago": "5d",
+      "ago": "6d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -535,17 +543,9 @@
       "ago": "10d",
       "img": "xsnni",
       "ahId": "d171x"
-    },
-    {
-      "titre": "Black Butler: Book of Circus",
-      "titreJp": "Kuroshitsuji: Book of Circus",
-      "ep": 10,
-      "ago": "11d",
-      "img": "zeabo",
-      "ahId": "mcdda"
     }
   ],
-  "updatedAt": "2026-05-30T00:07:11.646Z",
+  "updatedAt": "2026-05-30T04:50:42.486Z",
   "source": "github-actions",
   "count": 68
 }
