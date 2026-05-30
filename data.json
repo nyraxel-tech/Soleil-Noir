@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Welcome to Demon School, Iruma-kun 4",
+      "titreJp": "Mairimashita! Iruma-kun 4",
+      "ep": 9,
+      "ago": "?",
+      "img": "lkpy4",
+      "ahId": "amsff"
+    },
+    {
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 8,
-      "ago": "?",
+      "ago": "1h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -12,7 +20,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 138,
-      "ago": "1h",
+      "ago": "3h",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -20,7 +28,7 @@
       "titre": "Science Fell in Love, So I Tried to Prove It. r=1-sinθ",
       "titreJp": "Rikei ga Koi ni Ochita no de Shoumei Shitemita. r=1-sinθ (Heart)",
       "ep": 12,
-      "ago": "8h",
+      "ago": "9h",
       "img": "17ryz",
       "ahId": "7yfa0"
     },
@@ -28,7 +36,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 10,
-      "ago": "15h",
+      "ago": "16h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -36,7 +44,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 8,
-      "ago": "17h",
+      "ago": "18h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -44,7 +52,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 8,
-      "ago": "18h",
+      "ago": "19h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -52,7 +60,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 9,
-      "ago": "18h",
+      "ago": "19h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -60,7 +68,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 8,
-      "ago": "18h",
+      "ago": "20h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -68,7 +76,7 @@
       "titre": "Science Fell in Love, So I Tried to Prove It",
       "titreJp": "Rikei ga Koi ni Ochita no de Shoumei Shitemita.",
       "ep": 12,
-      "ago": "19h",
+      "ago": "21h",
       "img": "sod2c",
       "ahId": "l8zc1"
     },
@@ -76,7 +84,7 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 9,
-      "ago": "20h",
+      "ago": "22h",
       "img": "8ezmn",
       "ahId": "nv9bp"
     },
@@ -164,7 +172,7 @@
       "titre": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter",
       "titreJp": "Isekai no Sata wa Shachiku Shidai",
       "ep": 13,
-      "ago": "1d",
+      "ago": "2d",
       "img": "olruf",
       "ahId": "ju9ye"
     },
@@ -348,7 +356,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 8,
-      "ago": "4d",
+      "ago": "5d",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -529,14 +537,6 @@
       "ahId": "pijt4"
     },
     {
-      "titre": "Welcome to Demon School, Iruma-kun 4",
-      "titreJp": "Mairimashita! Iruma-kun 4",
-      "ep": 8,
-      "ago": "6d",
-      "img": "lkpy4",
-      "ahId": "amsff"
-    },
-    {
       "titre": "Boarding School Juliet",
       "titreJp": "Kishuku Gakkou no Juliet",
       "ep": 12,
@@ -545,7 +545,7 @@
       "ahId": "d171x"
     }
   ],
-  "updatedAt": "2026-05-30T09:57:21.438Z",
+  "updatedAt": "2026-05-30T11:23:15.294Z",
   "source": "github-actions",
   "count": 68
 }
