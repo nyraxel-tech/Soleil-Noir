@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Mission: Yozakura Family Season 2",
+      "titreJp": "Yozakura-san Chi no Daisakusen Season 2",
+      "ep": 8,
+      "ago": "1h",
+      "img": "rgi7x",
+      "ahId": "feqdi"
+    },
+    {
       "titre": "Ace of the Diamond: Act II 2nd Season",
       "titreJp": "Diamond no Ace: Act II 2nd Season",
       "ep": 9,
-      "ago": "1h",
+      "ago": "2h",
       "img": "c50pz",
       "ahId": "dd464"
     },
@@ -12,7 +20,7 @@
       "titre": "Wistoria: Wand and Sword 2nd Season",
       "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
       "ep": 8,
-      "ago": "1h",
+      "ago": "3h",
       "img": "h6l0c",
       "ahId": "y98v5"
     },
@@ -20,7 +28,7 @@
       "titre": "Rooster Fighter",
       "titreJp": "Niwatori Fighter",
       "ep": 12,
-      "ago": "1h",
+      "ago": "3h",
       "img": "vy576",
       "ahId": "uni0y"
     },
@@ -28,7 +36,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 33,
-      "ago": "6h",
+      "ago": "8h",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -36,7 +44,7 @@
       "titre": "Ichijouma Mankitsugurashi!",
       "titreJp": "",
       "ep": 8,
-      "ago": "16h",
+      "ago": "18h",
       "img": "wm2v7",
       "ahId": "ccxi5"
     },
@@ -44,7 +52,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 9,
-      "ago": "16h",
+      "ago": "18h",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -52,7 +60,7 @@
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 20,
-      "ago": "17h",
+      "ago": "18h",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -60,7 +68,7 @@
       "titre": "Agents of the Four Seasons: Dance of Spring",
       "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
       "ep": 10,
-      "ago": "17h",
+      "ago": "19h",
       "img": "fxza8",
       "ahId": "boii6"
     },
@@ -68,7 +76,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 9,
-      "ago": "17h",
+      "ago": "19h",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -76,7 +84,7 @@
       "titre": "Akane-banashi",
       "titreJp": "",
       "ep": 9,
-      "ago": "17h",
+      "ago": "19h",
       "img": "7j7kb",
       "ahId": "o8996"
     },
@@ -84,7 +92,7 @@
       "titre": "Mistress Kanan is Devilishly Easy",
       "titreJp": "Kanan-sama wa Akumade Choroi",
       "ep": 9,
-      "ago": "17h",
+      "ago": "19h",
       "img": "8q6wl",
       "ahId": "3uz6y"
     },
@@ -92,7 +100,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 9,
-      "ago": "18h",
+      "ago": "19h",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -100,7 +108,7 @@
       "titre": "Kill Blue",
       "titreJp": "Kill Ao",
       "ep": 8,
-      "ago": "19h",
+      "ago": "21h",
       "img": "dns6b",
       "ahId": "y5v48"
     },
@@ -108,7 +116,7 @@
       "titre": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
       "titreJp": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
       "ep": 10,
-      "ago": "20h",
+      "ago": "22h",
       "img": "hnxbm",
       "ahId": "ayudj"
     },
@@ -116,7 +124,7 @@
       "titre": "The Great Sage Ryddel and the Hands of Time",
       "titreJp": "Daikenja Riddle no Jikan Gyakko",
       "ep": 9,
-      "ago": "21h",
+      "ago": "22h",
       "img": "tl46m",
       "ahId": "rf6nw"
     },
@@ -124,7 +132,7 @@
       "titre": "Yowayowa Teacher",
       "titreJp": "Yowayowa Sensei",
       "ep": 8,
-      "ago": "21h",
+      "ago": "22h",
       "img": "b6f8i",
       "ahId": "pijt4"
     },
@@ -132,7 +140,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1202,
-      "ago": "22h",
+      "ago": "1d",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -140,7 +148,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 9,
-      "ago": "23h",
+      "ago": "1d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -308,7 +316,7 @@
       "titre": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter",
       "titreJp": "Isekai no Sata wa Shachiku Shidai",
       "ep": 13,
-      "ago": "2d",
+      "ago": "3d",
       "img": "olruf",
       "ahId": "ju9ye"
     },
@@ -535,17 +543,9 @@
       "ago": "6d",
       "img": "w1qq7",
       "ahId": "7b5z4"
-    },
-    {
-      "titre": "Mission: Yozakura Family Season 2",
-      "titreJp": "Yozakura-san Chi no Daisakusen Season 2",
-      "ep": 7,
-      "ago": "6d",
-      "img": "rgi7x",
-      "ahId": "feqdi"
     }
   ],
-  "updatedAt": "2026-05-31T10:12:28.337Z",
+  "updatedAt": "2026-05-31T12:09:19.138Z",
   "source": "github-actions",
   "count": 68
 }
