@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Digimon Beatbreak",
+      "titreJp": "",
+      "ep": 33,
+      "ago": "?",
+      "img": "88ts8",
+      "ahId": "kqa66"
+    },
+    {
       "titre": "Ichijouma Mankitsugurashi!",
       "titreJp": "",
       "ep": 8,
-      "ago": "5h",
+      "ago": "10h",
       "img": "wm2v7",
       "ahId": "ccxi5"
     },
@@ -12,7 +20,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 9,
-      "ago": "5h",
+      "ago": "10h",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -20,7 +28,7 @@
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 20,
-      "ago": "5h",
+      "ago": "10h",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -28,7 +36,7 @@
       "titre": "Agents of the Four Seasons: Dance of Spring",
       "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
       "ep": 10,
-      "ago": "6h",
+      "ago": "10h",
       "img": "fxza8",
       "ahId": "boii6"
     },
@@ -36,7 +44,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 9,
-      "ago": "6h",
+      "ago": "10h",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -44,7 +52,7 @@
       "titre": "Akane-banashi",
       "titreJp": "",
       "ep": 9,
-      "ago": "6h",
+      "ago": "10h",
       "img": "7j7kb",
       "ahId": "o8996"
     },
@@ -52,7 +60,7 @@
       "titre": "Mistress Kanan is Devilishly Easy",
       "titreJp": "Kanan-sama wa Akumade Choroi",
       "ep": 9,
-      "ago": "6h",
+      "ago": "11h",
       "img": "8q6wl",
       "ahId": "3uz6y"
     },
@@ -60,7 +68,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 9,
-      "ago": "6h",
+      "ago": "11h",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -68,7 +76,7 @@
       "titre": "Kill Blue",
       "titreJp": "Kill Ao",
       "ep": 8,
-      "ago": "8h",
+      "ago": "12h",
       "img": "dns6b",
       "ahId": "y5v48"
     },
@@ -76,7 +84,7 @@
       "titre": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
       "titreJp": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
       "ep": 10,
-      "ago": "9h",
+      "ago": "13h",
       "img": "hnxbm",
       "ahId": "ayudj"
     },
@@ -84,7 +92,7 @@
       "titre": "The Great Sage Ryddel and the Hands of Time",
       "titreJp": "Daikenja Riddle no Jikan Gyakko",
       "ep": 9,
-      "ago": "9h",
+      "ago": "14h",
       "img": "tl46m",
       "ahId": "rf6nw"
     },
@@ -92,7 +100,7 @@
       "titre": "Yowayowa Teacher",
       "titreJp": "Yowayowa Sensei",
       "ep": 8,
-      "ago": "9h",
+      "ago": "14h",
       "img": "b6f8i",
       "ahId": "pijt4"
     },
@@ -100,7 +108,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1202,
-      "ago": "11h",
+      "ago": "15h",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -108,7 +116,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 9,
-      "ago": "12h",
+      "ago": "16h",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -116,7 +124,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 8,
-      "ago": "13h",
+      "ago": "17h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -124,7 +132,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 138,
-      "ago": "14h",
+      "ago": "19h",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -132,7 +140,7 @@
       "titre": "Science Fell in Love, So I Tried to Prove It. r=1-sinθ",
       "titreJp": "Rikei ga Koi ni Ochita no de Shoumei Shitemita. r=1-sinθ (Heart)",
       "ep": 12,
-      "ago": "21h",
+      "ago": "1d",
       "img": "17ryz",
       "ahId": "7yfa0"
     },
@@ -535,17 +543,9 @@
       "ago": "6d",
       "img": "vy576",
       "ahId": "uni0y"
-    },
-    {
-      "titre": "Digimon Beatbreak",
-      "titreJp": "",
-      "ep": 32,
-      "ago": "6d",
-      "img": "88ts8",
-      "ahId": "kqa66"
     }
   ],
-  "updatedAt": "2026-05-30T23:05:38.767Z",
+  "updatedAt": "2026-05-31T03:30:20.770Z",
   "source": "github-actions",
   "count": 68
 }
