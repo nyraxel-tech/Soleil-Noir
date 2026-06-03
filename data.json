@@ -4,7 +4,7 @@
       "titre": "Go For It, Nakamura!",
       "titreJp": "Ganbare! Nakamura-kun!!",
       "ep": 11,
-      "ago": "1h",
+      "ago": "4h",
       "img": "rf7eh",
       "ahId": "1ijne"
     },
@@ -12,7 +12,7 @@
       "titre": "The Beginning After the End Season 2",
       "titreJp": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
       "ep": 10,
-      "ago": "1h",
+      "ago": "5h",
       "img": "zmy4z",
       "ahId": "fv1vj"
     },
@@ -20,7 +20,7 @@
       "titre": "Always a Catch!",
       "titreJp": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
       "ep": 10,
-      "ago": "2h",
+      "ago": "5h",
       "img": "r9hz4",
       "ahId": "frlld"
     },
@@ -28,7 +28,7 @@
       "titre": "Gals Can’t Be Kind to Otaku!?",
       "titreJp": "Otaku ni Yasashii Gyaru wa Inai!?",
       "ep": 9,
-      "ago": "2h",
+      "ago": "5h",
       "img": "j5umi",
       "ahId": "kq3pz"
     },
@@ -36,7 +36,7 @@
       "titre": "Re:ZERO: Starting Life in Another World Season 4",
       "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
       "ep": 9,
-      "ago": "4h",
+      "ago": "7h",
       "img": "7tc0j",
       "ahId": "ilp9j"
     },
@@ -44,7 +44,7 @@
       "titre": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season",
       "titreJp": "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
       "ep": 10,
-      "ago": "4h",
+      "ago": "7h",
       "img": "cirfw",
       "ahId": "5iqzo"
     },
@@ -52,7 +52,7 @@
       "titre": "Rent-a-Girlfriend Season 5",
       "titreJp": "Kanojo, Okarishimasu 5th Season",
       "ep": 9,
-      "ago": "5h",
+      "ago": "8h",
       "img": "7nqj7",
       "ahId": "i0kd0"
     },
@@ -60,7 +60,7 @@
       "titre": "Classroom of the Elite 4th Season",
       "titreJp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
       "ep": 13,
-      "ago": "5h",
+      "ago": "9h",
       "img": "npea5",
       "ahId": "nzwhr"
     },
@@ -68,7 +68,7 @@
       "titre": "My Ribdiculous Reincarnation",
       "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
       "ep": 9,
-      "ago": "23h",
+      "ago": "1d",
       "img": "27pp6",
       "ahId": "xw4de"
     },
@@ -188,7 +188,7 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 9,
-      "ago": "2d",
+      "ago": "3d",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -428,7 +428,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 10,
-      "ago": "4d",
+      "ago": "5d",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -484,7 +484,7 @@
       "titre": "Monster Eater",
       "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
       "ep": 9,
-      "ago": "5d",
+      "ago": "6d",
       "img": "anfea",
       "ahId": "pi6yi"
     },
@@ -545,7 +545,7 @@
       "ahId": "xvd0a"
     }
   ],
-  "updatedAt": "2026-06-03T18:21:01.492Z",
+  "updatedAt": "2026-06-03T21:45:58.146Z",
   "source": "github-actions",
   "count": 68
 }
