@@ -4,7 +4,7 @@
       "titre": "Go For It, Nakamura!",
       "titreJp": "Ganbare! Nakamura-kun!!",
       "ep": 11,
-      "ago": "4h",
+      "ago": "6h",
       "img": "rf7eh",
       "ahId": "1ijne"
     },
@@ -12,7 +12,7 @@
       "titre": "The Beginning After the End Season 2",
       "titreJp": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
       "ep": 10,
-      "ago": "5h",
+      "ago": "7h",
       "img": "zmy4z",
       "ahId": "fv1vj"
     },
@@ -20,7 +20,7 @@
       "titre": "Always a Catch!",
       "titreJp": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
       "ep": 10,
-      "ago": "5h",
+      "ago": "7h",
       "img": "r9hz4",
       "ahId": "frlld"
     },
@@ -28,7 +28,7 @@
       "titre": "Gals Can’t Be Kind to Otaku!?",
       "titreJp": "Otaku ni Yasashii Gyaru wa Inai!?",
       "ep": 9,
-      "ago": "5h",
+      "ago": "7h",
       "img": "j5umi",
       "ahId": "kq3pz"
     },
@@ -36,7 +36,7 @@
       "titre": "Re:ZERO: Starting Life in Another World Season 4",
       "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
       "ep": 9,
-      "ago": "7h",
+      "ago": "9h",
       "img": "7tc0j",
       "ahId": "ilp9j"
     },
@@ -44,7 +44,7 @@
       "titre": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season",
       "titreJp": "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
       "ep": 10,
-      "ago": "7h",
+      "ago": "9h",
       "img": "cirfw",
       "ahId": "5iqzo"
     },
@@ -52,7 +52,7 @@
       "titre": "Rent-a-Girlfriend Season 5",
       "titreJp": "Kanojo, Okarishimasu 5th Season",
       "ep": 9,
-      "ago": "8h",
+      "ago": "10h",
       "img": "7nqj7",
       "ahId": "i0kd0"
     },
@@ -60,7 +60,7 @@
       "titre": "Classroom of the Elite 4th Season",
       "titreJp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
       "ep": 13,
-      "ago": "9h",
+      "ago": "11h",
       "img": "npea5",
       "ahId": "nzwhr"
     },
@@ -545,7 +545,7 @@
       "ahId": "xvd0a"
     }
   ],
-  "updatedAt": "2026-06-03T21:45:58.146Z",
+  "updatedAt": "2026-06-03T23:40:26.212Z",
   "source": "github-actions",
   "count": 68
 }
