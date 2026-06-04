@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "Dr. Stone: Science Future - Part III",
+      "titreJp": "",
+      "ep": 10,
+      "ago": "?",
+      "img": "oxfds",
+      "ahId": "xvd0a"
+    },
+    {
+      "titre": "Kujima: Why Sing, When You Can Warble?",
+      "titreJp": "Kujima Utaeba Ie Hororo",
+      "ep": 9,
+      "ago": "?",
+      "img": "pv8qk",
+      "ahId": "gbdj0"
+    },
+    {
+      "titre": "The Barbarian's Bride",
+      "titreJp": "Himekishi wa Barbaroi no Yome",
+      "ep": 9,
+      "ago": "2h",
+      "img": "synxi",
+      "ahId": "hi6b1"
+    },
+    {
       "titre": "Go For It, Nakamura!",
       "titreJp": "Ganbare! Nakamura-kun!!",
       "ep": 11,
-      "ago": "18h",
+      "ago": "21h",
       "img": "rf7eh",
       "ahId": "1ijne"
     },
@@ -12,7 +36,7 @@
       "titre": "The Beginning After the End Season 2",
       "titreJp": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
       "ep": 10,
-      "ago": "19h",
+      "ago": "22h",
       "img": "zmy4z",
       "ahId": "fv1vj"
     },
@@ -20,7 +44,7 @@
       "titre": "Always a Catch!",
       "titreJp": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
       "ep": 10,
-      "ago": "19h",
+      "ago": "22h",
       "img": "r9hz4",
       "ahId": "frlld"
     },
@@ -28,7 +52,7 @@
       "titre": "Gals Can’t Be Kind to Otaku!?",
       "titreJp": "Otaku ni Yasashii Gyaru wa Inai!?",
       "ep": 9,
-      "ago": "19h",
+      "ago": "22h",
       "img": "j5umi",
       "ahId": "kq3pz"
     },
@@ -36,7 +60,7 @@
       "titre": "Re:ZERO: Starting Life in Another World Season 4",
       "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
       "ep": 9,
-      "ago": "21h",
+      "ago": "1d",
       "img": "7tc0j",
       "ahId": "ilp9j"
     },
@@ -44,7 +68,7 @@
       "titre": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season",
       "titreJp": "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
       "ep": 10,
-      "ago": "21h",
+      "ago": "1d",
       "img": "cirfw",
       "ahId": "5iqzo"
     },
@@ -52,7 +76,7 @@
       "titre": "Rent-a-Girlfriend Season 5",
       "titreJp": "Kanojo, Okarishimasu 5th Season",
       "ep": 9,
-      "ago": "22h",
+      "ago": "1d",
       "img": "7nqj7",
       "ahId": "i0kd0"
     },
@@ -60,7 +84,7 @@
       "titre": "Classroom of the Elite 4th Season",
       "titreJp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
       "ep": 13,
-      "ago": "23h",
+      "ago": "1d",
       "img": "npea5",
       "ahId": "nzwhr"
     },
@@ -108,7 +132,7 @@
       "titre": "Even a Replica Can Fall in Love",
       "titreJp": "Replica datte, Koi wo Suru.",
       "ep": 9,
-      "ago": "1d",
+      "ago": "2d",
       "img": "z35jq",
       "ahId": "k662x"
     },
@@ -116,7 +140,7 @@
       "titre": "Marriagetoxin",
       "titreJp": "Marriage Toxin",
       "ep": 9,
-      "ago": "1d",
+      "ago": "2d",
       "img": "ljkt9",
       "ahId": "lf9gt"
     },
@@ -124,7 +148,7 @@
       "titre": "I Want to End This Love Game",
       "titreJp": "Aishiteru Game wo Owarasetai",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "438x1",
       "ahId": "jrvi5"
     },
@@ -132,7 +156,7 @@
       "titre": "Beyond Twilight",
       "titreJp": "Hyakki Yakoushou",
       "ep": 9,
-      "ago": "1d",
+      "ago": "2d",
       "img": "0gwes",
       "ahId": "r32sr"
     },
@@ -140,7 +164,7 @@
       "titre": "The Most Heretical Last Boss Queen: From Villainess to Savior 2nd Season",
       "titreJp": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Min no Tame ni Tsukushimasu. 2nd Season",
       "ep": 9,
-      "ago": "1d",
+      "ago": "2d",
       "img": "5zcck",
       "ahId": "np9nt"
     },
@@ -164,7 +188,7 @@
       "titre": "Farming Life in Another World 2",
       "titreJp": "Isekai Nonbiri Nouka 2",
       "ep": 9,
-      "ago": "2d",
+      "ago": "3d",
       "img": "b7en4",
       "ahId": "fae6d"
     },
@@ -172,7 +196,7 @@
       "titre": "Witch Hat Atelier",
       "titreJp": "Tongari Boushi no Atelier",
       "ep": 10,
-      "ago": "2d",
+      "ago": "3d",
       "img": "6rlo7",
       "ahId": "df4in"
     },
@@ -228,7 +252,7 @@
       "titre": "Beyond the Boundary",
       "titreJp": "Kyoukai no Kanata",
       "ep": 13,
-      "ago": "3d",
+      "ago": "4d",
       "img": "h8tsb",
       "ahId": "miscl"
     },
@@ -236,7 +260,7 @@
       "titre": "The Food Diary of Miss Maid",
       "titreJp": "Maid-san wa Taberu dake",
       "ep": 10,
-      "ago": "3d",
+      "ago": "4d",
       "img": "w1qq7",
       "ahId": "7b5z4"
     },
@@ -244,7 +268,7 @@
       "titre": "Milky☆Subway: The Galactic Limited Express Movie",
       "titreJp": "Ginga Tokkyuu Milky☆Subway  Movie",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "t4w4x",
       "ahId": "at0k4"
     },
@@ -356,7 +380,7 @@
       "titre": "Kill Blue",
       "titreJp": "Kill Ao",
       "ep": 8,
-      "ago": "4d",
+      "ago": "5d",
       "img": "dns6b",
       "ahId": "y5v48"
     },
@@ -364,7 +388,7 @@
       "titre": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
       "titreJp": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
       "ep": 10,
-      "ago": "4d",
+      "ago": "5d",
       "img": "hnxbm",
       "ahId": "ayudj"
     },
@@ -372,7 +396,7 @@
       "titre": "The Great Sage Ryddel and the Hands of Time",
       "titreJp": "Daikenja Riddle no Jikan Gyakko",
       "ep": 9,
-      "ago": "4d",
+      "ago": "5d",
       "img": "tl46m",
       "ahId": "rf6nw"
     },
@@ -380,7 +404,7 @@
       "titre": "Yowayowa Teacher",
       "titreJp": "Yowayowa Sensei",
       "ep": 8,
-      "ago": "4d",
+      "ago": "5d",
       "img": "b6f8i",
       "ahId": "pijt4"
     },
@@ -468,7 +492,7 @@
       "titre": "Science Fell in Love, So I Tried to Prove It",
       "titreJp": "Rikei ga Koi ni Ochita no de Shoumei Shitemita.",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "sod2c",
       "ahId": "l8zc1"
     },
@@ -476,7 +500,7 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 9,
-      "ago": "5d",
+      "ago": "6d",
       "img": "8ezmn",
       "ahId": "nv9bp"
     },
@@ -519,33 +543,9 @@
       "ago": "6d",
       "img": "iideg",
       "ahId": "b2ybn"
-    },
-    {
-      "titre": "The Ramparts of Ice",
-      "titreJp": "Koori no Jouheki, Ice Castle Wall",
-      "ep": 9,
-      "ago": "6d",
-      "img": "cs30h",
-      "ahId": "jx2jr"
-    },
-    {
-      "titre": "Kirio Fan Club",
-      "titreJp": "",
-      "ep": 9,
-      "ago": "6d",
-      "img": "f7jfv",
-      "ahId": "ji7g1"
-    },
-    {
-      "titre": "Dr. Stone: Science Future - Part III",
-      "titreJp": "",
-      "ep": 9,
-      "ago": "6d",
-      "img": "oxfds",
-      "ahId": "xvd0a"
     }
   ],
-  "updatedAt": "2026-06-04T11:49:44.260Z",
+  "updatedAt": "2026-06-04T14:52:20.847Z",
   "source": "github-actions",
   "count": 68
 }
