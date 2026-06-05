@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Fist of the North Star (2026)",
+      "titreJp": "Hokuto no Ken: Fist of the North Star",
+      "ep": 11,
+      "ago": "?",
+      "img": "ciyvs",
+      "ahId": "fpnp2"
+    },
+    {
+      "titre": "Botan Kamiina Fully Blossoms When Drunk",
+      "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
+      "ep": 9,
+      "ago": "1h",
+      "img": "sbyve",
+      "ahId": "b0vsk"
+    },
+    {
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 10,
-      "ago": "?",
+      "ago": "2h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -12,7 +28,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 9,
-      "ago": "?",
+      "ago": "2h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -20,7 +36,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 9,
-      "ago": "?",
+      "ago": "2h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -28,7 +44,7 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 10,
-      "ago": "2h",
+      "ago": "4h",
       "img": "8ezmn",
       "ahId": "nv9bp"
     },
@@ -36,7 +52,7 @@
       "titre": "Monster Eater",
       "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
       "ep": 10,
-      "ago": "21h",
+      "ago": "23h",
       "img": "anfea",
       "ahId": "pi6yi"
     },
@@ -44,7 +60,7 @@
       "titre": "Killed Again, Mr. Detective?",
       "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
       "ep": 10,
-      "ago": "22h",
+      "ago": "1d",
       "img": "j0cec",
       "ahId": "0cwi8"
     },
@@ -52,7 +68,7 @@
       "titre": "Haibara’s Teenage New Game+",
       "titreJp": "Haibara-kun no Tsuyokute Seishun New Game",
       "ep": 10,
-      "ago": "22h",
+      "ago": "1d",
       "img": "dw9gn",
       "ahId": "7s4ze"
     },
@@ -60,7 +76,7 @@
       "titre": "A Hundred Scenes of AWAJIMA",
       "titreJp": "Awajima Hyakkei",
       "ep": 9,
-      "ago": "22h",
+      "ago": "1d",
       "img": "r7ozz",
       "ahId": "oh0q2"
     },
@@ -68,7 +84,7 @@
       "titre": "Petals of Reincarnation",
       "titreJp": "Reincarnation no Kaben",
       "ep": 10,
-      "ago": "23h",
+      "ago": "1d",
       "img": "iideg",
       "ahId": "b2ybn"
     },
@@ -76,7 +92,7 @@
       "titre": "Kirio Fan Club",
       "titreJp": "",
       "ep": 10,
-      "ago": "23h",
+      "ago": "1d",
       "img": "f7jfv",
       "ahId": "ji7g1"
     },
@@ -84,7 +100,7 @@
       "titre": "The Ramparts of Ice",
       "titreJp": "Koori no Jouheki, Ice Castle Wall",
       "ep": 10,
-      "ago": "23h",
+      "ago": "1d",
       "img": "cs30h",
       "ahId": "jx2jr"
     },
@@ -116,7 +132,7 @@
       "titre": "Go For It, Nakamura!",
       "titreJp": "Ganbare! Nakamura-kun!!",
       "ep": 11,
-      "ago": "1d",
+      "ago": "2d",
       "img": "rf7eh",
       "ahId": "1ijne"
     },
@@ -124,7 +140,7 @@
       "titre": "The Beginning After the End Season 2",
       "titreJp": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
       "ep": 10,
-      "ago": "1d",
+      "ago": "2d",
       "img": "zmy4z",
       "ahId": "fv1vj"
     },
@@ -132,7 +148,7 @@
       "titre": "Always a Catch!",
       "titreJp": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
       "ep": 10,
-      "ago": "1d",
+      "ago": "2d",
       "img": "r9hz4",
       "ahId": "frlld"
     },
@@ -140,7 +156,7 @@
       "titre": "Gals Can’t Be Kind to Otaku!?",
       "titreJp": "Otaku ni Yasashii Gyaru wa Inai!?",
       "ep": 9,
-      "ago": "1d",
+      "ago": "2d",
       "img": "j5umi",
       "ahId": "kq3pz"
     },
@@ -188,7 +204,7 @@
       "titre": "Pardon the Intrusion, I'm Home!",
       "titreJp": "Tadaima, Ojamasaremasu!",
       "ep": 9,
-      "ago": "2d",
+      "ago": "3d",
       "img": "mwvn6",
       "ahId": "c3nol"
     },
@@ -196,7 +212,7 @@
       "titre": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter",
       "titreJp": "Isekai no Sata wa Shachiku Shidai",
       "ep": 13,
-      "ago": "2d",
+      "ago": "3d",
       "img": "olruf",
       "ahId": "ju9ye"
     },
@@ -204,7 +220,7 @@
       "titre": "Eren the Southpaw",
       "titreJp": "Hidarikiki no Eren",
       "ep": 9,
-      "ago": "2d",
+      "ago": "3d",
       "img": "w5epl",
       "ahId": "j26hl"
     },
@@ -260,7 +276,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 9,
-      "ago": "3d",
+      "ago": "4d",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -308,7 +324,7 @@
       "titre": "Marika's Love Meter Malfunction",
       "titreJp": "Marika-chan no Koukando wa Bukkowareteiru",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "33vsk",
       "ahId": "fsi1m"
     },
@@ -316,7 +332,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1164,
-      "ago": "4d",
+      "ago": "5d",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -404,7 +420,7 @@
       "titre": "Ichijouma Mankitsugurashi!",
       "titreJp": "",
       "ep": 8,
-      "ago": "5d",
+      "ago": "6d",
       "img": "wm2v7",
       "ahId": "ccxi5"
     },
@@ -412,7 +428,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 9,
-      "ago": "5d",
+      "ago": "6d",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -420,7 +436,7 @@
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 20,
-      "ago": "5d",
+      "ago": "6d",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -428,7 +444,7 @@
       "titre": "Agents of the Four Seasons: Dance of Spring",
       "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
       "ep": 10,
-      "ago": "5d",
+      "ago": "6d",
       "img": "fxza8",
       "ahId": "boii6"
     },
@@ -436,7 +452,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 9,
-      "ago": "5d",
+      "ago": "6d",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -444,7 +460,7 @@
       "titre": "Akane-banashi",
       "titreJp": "",
       "ep": 9,
-      "ago": "5d",
+      "ago": "6d",
       "img": "7j7kb",
       "ahId": "o8996"
     },
@@ -452,7 +468,7 @@
       "titre": "Mistress Kanan is Devilishly Easy",
       "titreJp": "Kanan-sama wa Akumade Choroi",
       "ep": 9,
-      "ago": "5d",
+      "ago": "6d",
       "img": "8q6wl",
       "ahId": "3uz6y"
     },
@@ -460,7 +476,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 9,
-      "ago": "5d",
+      "ago": "6d",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -527,25 +543,9 @@
       "ago": "6d",
       "img": "9fsft",
       "ahId": "9v661"
-    },
-    {
-      "titre": "Science Fell in Love, So I Tried to Prove It. r=1-sinθ",
-      "titreJp": "Rikei ga Koi ni Ochita no de Shoumei Shitemita. r=1-sinθ (Heart)",
-      "ep": 12,
-      "ago": "6d",
-      "img": "17ryz",
-      "ahId": "7yfa0"
-    },
-    {
-      "titre": "Fist of the North Star (2026)",
-      "titreJp": "Hokuto no Ken: Fist of the North Star",
-      "ep": 10,
-      "ago": "6d",
-      "img": "ciyvs",
-      "ahId": "fpnp2"
     }
   ],
-  "updatedAt": "2026-06-05T15:50:51.365Z",
+  "updatedAt": "2026-06-05T17:51:07.296Z",
   "source": "github-actions",
   "count": 68
 }
