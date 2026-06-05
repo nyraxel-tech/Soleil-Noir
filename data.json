@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Pokemon Horizons: The Series",
+      "titreJp": "Pocket Monsters (2023)",
+      "ep": 11,
+      "ago": "1h",
+      "img": "9fsft",
+      "ahId": "9v661"
+    },
+    {
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 11,
-      "ago": "?",
+      "ago": "2h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -12,7 +20,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 9,
-      "ago": "1h",
+      "ago": "3h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -20,7 +28,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 10,
-      "ago": "2h",
+      "ago": "4h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -28,7 +36,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 9,
-      "ago": "2h",
+      "ago": "4h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -36,7 +44,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 9,
-      "ago": "2h",
+      "ago": "4h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -44,7 +52,7 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 10,
-      "ago": "4h",
+      "ago": "6h",
       "img": "8ezmn",
       "ahId": "nv9bp"
     },
@@ -52,7 +60,7 @@
       "titre": "Monster Eater",
       "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
       "ep": 10,
-      "ago": "23h",
+      "ago": "1d",
       "img": "anfea",
       "ahId": "pi6yi"
     },
@@ -196,7 +204,7 @@
       "titre": "My Ribdiculous Reincarnation",
       "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
       "ep": 9,
-      "ago": "2d",
+      "ago": "3d",
       "img": "27pp6",
       "ahId": "xw4de"
     },
@@ -316,7 +324,7 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 9,
-      "ago": "4d",
+      "ago": "5d",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -535,17 +543,9 @@
       "ago": "6d",
       "img": "2m22z",
       "ahId": "yeyrm"
-    },
-    {
-      "titre": "Pokemon Horizons: The Series",
-      "titreJp": "Pocket Monsters (2023)",
-      "ep": 138,
-      "ago": "6d",
-      "img": "9fsft",
-      "ahId": "9v661"
     }
   ],
-  "updatedAt": "2026-06-05T17:51:07.296Z",
+  "updatedAt": "2026-06-05T19:50:02.900Z",
   "source": "github-actions",
   "count": 68
 }
