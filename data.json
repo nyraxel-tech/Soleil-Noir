@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Welcome to Demon School, Iruma-kun 4",
+      "titreJp": "Mairimashita! Iruma-kun 4",
+      "ep": 10,
+      "ago": "?",
+      "img": "lkpy4",
+      "ahId": "amsff"
+    },
+    {
+      "titre": "Ascendance of a Bookworm Season 4",
+      "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
+      "ep": 9,
+      "ago": "1h",
+      "img": "2m22z",
+      "ahId": "yeyrm"
+    },
+    {
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 139,
-      "ago": "?",
+      "ago": "2h",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -12,7 +28,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 11,
-      "ago": "16h",
+      "ago": "18h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -20,7 +36,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 9,
-      "ago": "16h",
+      "ago": "18h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -28,7 +44,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 10,
-      "ago": "17h",
+      "ago": "19h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -36,7 +52,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 9,
-      "ago": "17h",
+      "ago": "19h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -44,7 +60,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 9,
-      "ago": "18h",
+      "ago": "20h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -52,7 +68,7 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 10,
-      "ago": "20h",
+      "ago": "22h",
       "img": "8ezmn",
       "ahId": "nv9bp"
     },
@@ -316,7 +332,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 9,
-      "ago": "4d",
+      "ago": "5d",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -388,7 +404,7 @@
       "titre": "Mission: Yozakura Family Season 2",
       "titreJp": "Yozakura-san Chi no Daisakusen Season 2",
       "ep": 8,
-      "ago": "5d",
+      "ago": "6d",
       "img": "rgi7x",
       "ahId": "feqdi"
     },
@@ -527,25 +543,9 @@
       "ago": "6d",
       "img": "lx86z",
       "ahId": "y9prb"
-    },
-    {
-      "titre": "Welcome to Demon School, Iruma-kun 4",
-      "titreJp": "Mairimashita! Iruma-kun 4",
-      "ep": 9,
-      "ago": "6d",
-      "img": "lkpy4",
-      "ahId": "amsff"
-    },
-    {
-      "titre": "Ascendance of a Bookworm Season 4",
-      "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
-      "ep": 8,
-      "ago": "6d",
-      "img": "2m22z",
-      "ahId": "yeyrm"
     }
   ],
-  "updatedAt": "2026-06-06T09:22:54.091Z",
+  "updatedAt": "2026-06-06T11:22:54.882Z",
   "source": "github-actions",
   "count": 68
 }
