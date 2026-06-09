@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "My Ribdiculous Reincarnation",
+      "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
+      "ep": 10,
+      "ago": "1h",
+      "img": "27pp6",
+      "ahId": "xw4de"
+    },
+    {
       "titre": "Pardon the Intrusion, I'm Home!",
       "titreJp": "Tadaima, Ojamasaremasu!",
       "ep": 10,
-      "ago": "?",
+      "ago": "2h",
       "img": "mwvn6",
       "ahId": "c3nol"
     },
@@ -12,7 +20,7 @@
       "titre": "Eren the Southpaw",
       "titreJp": "Hidarikiki no Eren",
       "ep": 10,
-      "ago": "1h",
+      "ago": "4h",
       "img": "w5epl",
       "ahId": "j26hl"
     },
@@ -20,7 +28,7 @@
       "titre": "Beyond Twilight",
       "titreJp": "Hyakki Yakoushou",
       "ep": 10,
-      "ago": "2h",
+      "ago": "4h",
       "img": "0gwes",
       "ahId": "r32sr"
     },
@@ -28,7 +36,7 @@
       "titre": "I Made Friends with the Second Prettiest Girl in My Class",
       "titreJp": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
       "ep": 10,
-      "ago": "2h",
+      "ago": "5h",
       "img": "kfuf2",
       "ahId": "3c38p"
     },
@@ -36,7 +44,7 @@
       "titre": "Even a Replica Can Fall in Love",
       "titreJp": "Replica datte, Koi wo Suru.",
       "ep": 10,
-      "ago": "3h",
+      "ago": "5h",
       "img": "z35jq",
       "ahId": "k662x"
     },
@@ -44,7 +52,7 @@
       "titre": "Marriagetoxin",
       "titreJp": "Marriage Toxin",
       "ep": 10,
-      "ago": "3h",
+      "ago": "5h",
       "img": "ljkt9",
       "ahId": "lf9gt"
     },
@@ -52,7 +60,7 @@
       "titre": "I Want to End This Love Game",
       "titreJp": "Aishiteru Game wo Owarasetai",
       "ep": 9,
-      "ago": "3h",
+      "ago": "5h",
       "img": "438x1",
       "ahId": "jrvi5"
     },
@@ -60,7 +68,7 @@
       "titre": "The Most Heretical Last Boss Queen: From Villainess to Savior 2nd Season",
       "titreJp": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Min no Tame ni Tsukushimasu. 2nd Season",
       "ep": 10,
-      "ago": "4h",
+      "ago": "6h",
       "img": "5zcck",
       "ahId": "np9nt"
     },
@@ -116,7 +124,7 @@
       "titre": "Marika's Love Meter Malfunction",
       "titreJp": "Marika-chan no Koukando wa Bukkowareteiru",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "33vsk",
       "ahId": "fsi1m"
     },
@@ -124,7 +132,7 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 10,
-      "ago": "1d",
+      "ago": "2d",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -513,14 +521,6 @@
       "ahId": "nzwhr"
     },
     {
-      "titre": "My Ribdiculous Reincarnation",
-      "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
-      "ep": 9,
-      "ago": "6d",
-      "img": "27pp6",
-      "ahId": "xw4de"
-    },
-    {
       "titre": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter",
       "titreJp": "Isekai no Sata wa Shachiku Shidai",
       "ep": 13,
@@ -545,7 +545,7 @@
       "ahId": "at0k4"
     }
   ],
-  "updatedAt": "2026-06-09T17:59:44.062Z",
+  "updatedAt": "2026-06-09T20:18:28.153Z",
   "source": "github-actions",
   "count": 68
 }
