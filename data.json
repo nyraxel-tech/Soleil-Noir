@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Kakegurui Twin",
+      "titreJp": "",
+      "ep": 6,
+      "ago": "?",
+      "img": "0kqmq",
+      "ahId": "zfnmd"
+    },
+    {
       "titre": "My Ribdiculous Reincarnation",
       "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
       "ep": 10,
-      "ago": "1h",
+      "ago": "3h",
       "img": "27pp6",
       "ahId": "xw4de"
     },
@@ -12,7 +20,7 @@
       "titre": "Pardon the Intrusion, I'm Home!",
       "titreJp": "Tadaima, Ojamasaremasu!",
       "ep": 10,
-      "ago": "2h",
+      "ago": "4h",
       "img": "mwvn6",
       "ahId": "c3nol"
     },
@@ -20,7 +28,7 @@
       "titre": "Eren the Southpaw",
       "titreJp": "Hidarikiki no Eren",
       "ep": 10,
-      "ago": "4h",
+      "ago": "6h",
       "img": "w5epl",
       "ahId": "j26hl"
     },
@@ -28,7 +36,7 @@
       "titre": "Beyond Twilight",
       "titreJp": "Hyakki Yakoushou",
       "ep": 10,
-      "ago": "4h",
+      "ago": "6h",
       "img": "0gwes",
       "ahId": "r32sr"
     },
@@ -36,7 +44,7 @@
       "titre": "I Made Friends with the Second Prettiest Girl in My Class",
       "titreJp": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
       "ep": 10,
-      "ago": "5h",
+      "ago": "7h",
       "img": "kfuf2",
       "ahId": "3c38p"
     },
@@ -44,7 +52,7 @@
       "titre": "Even a Replica Can Fall in Love",
       "titreJp": "Replica datte, Koi wo Suru.",
       "ep": 10,
-      "ago": "5h",
+      "ago": "7h",
       "img": "z35jq",
       "ahId": "k662x"
     },
@@ -52,7 +60,7 @@
       "titre": "Marriagetoxin",
       "titreJp": "Marriage Toxin",
       "ep": 10,
-      "ago": "5h",
+      "ago": "7h",
       "img": "ljkt9",
       "ahId": "lf9gt"
     },
@@ -60,7 +68,7 @@
       "titre": "I Want to End This Love Game",
       "titreJp": "Aishiteru Game wo Owarasetai",
       "ep": 9,
-      "ago": "5h",
+      "ago": "7h",
       "img": "438x1",
       "ahId": "jrvi5"
     },
@@ -68,7 +76,7 @@
       "titre": "The Most Heretical Last Boss Queen: From Villainess to Savior 2nd Season",
       "titreJp": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Min no Tame ni Tsukushimasu. 2nd Season",
       "ep": 10,
-      "ago": "6h",
+      "ago": "8h",
       "img": "5zcck",
       "ahId": "np9nt"
     },
@@ -535,17 +543,9 @@
       "ago": "9d",
       "img": "h8tsb",
       "ahId": "miscl"
-    },
-    {
-      "titre": "Milky☆Subway: The Galactic Limited Express Movie",
-      "titreJp": "Ginga Tokkyuu Milky☆Subway  Movie",
-      "ep": 1,
-      "ago": "9d",
-      "img": "t4w4x",
-      "ahId": "at0k4"
     }
   ],
-  "updatedAt": "2026-06-09T20:18:28.153Z",
+  "updatedAt": "2026-06-09T22:21:31.545Z",
   "source": "github-actions",
   "count": 68
 }
