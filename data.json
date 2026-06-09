@@ -4,7 +4,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 10,
-      "ago": "17h",
+      "ago": "20h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -12,7 +12,7 @@
       "titre": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "titreJp": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
       "ep": 10,
-      "ago": "18h",
+      "ago": "21h",
       "img": "jh4do",
       "ahId": "fcmyo"
     },
@@ -20,7 +20,7 @@
       "titre": "Farming Life in Another World 2",
       "titreJp": "Isekai Nonbiri Nouka 2",
       "ep": 10,
-      "ago": "19h",
+      "ago": "22h",
       "img": "b7en4",
       "ahId": "fae6d"
     },
@@ -28,7 +28,7 @@
       "titre": "Witch Hat Atelier",
       "titreJp": "Tongari Boushi no Atelier",
       "ep": 11,
-      "ago": "19h",
+      "ago": "22h",
       "img": "6rlo7",
       "ahId": "df4in"
     },
@@ -36,7 +36,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 10,
-      "ago": "23h",
+      "ago": "1d",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -228,7 +228,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 10,
-      "ago": "2d",
+      "ago": "3d",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -236,7 +236,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 10,
-      "ago": "2d",
+      "ago": "3d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -244,7 +244,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 9,
-      "ago": "2d",
+      "ago": "3d",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -545,7 +545,7 @@
       "ahId": "at0k4"
     }
   ],
-  "updatedAt": "2026-06-09T09:37:03.279Z",
+  "updatedAt": "2026-06-09T12:34:00.894Z",
   "source": "github-actions",
   "count": 68
 }
