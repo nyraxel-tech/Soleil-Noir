@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "My Roommate is a Cat",
+      "titreJp": "Doukyonin wa Hiza, Tokidoki, Atama no Ue.",
+      "ep": 8,
+      "ago": "?",
+      "img": "j3fa1",
+      "ahId": "um43g"
+    },
+    {
+      "titre": "Classroom of the Elite 4th Season",
+      "titreJp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "ep": 14,
+      "ago": "?",
+      "img": "npea5",
+      "ahId": "nzwhr"
+    },
+    {
       "titre": "Cat Planet Cuties",
       "titreJp": "Asobi ni Iku yo!",
-      "ep": 6,
-      "ago": "9h",
+      "ep": 12,
+      "ago": "1h",
       "img": "b06ma",
       "ahId": "6p1bo"
     },
@@ -12,7 +28,7 @@
       "titre": "Kakegurui Twin",
       "titreJp": "",
       "ep": 6,
-      "ago": "11h",
+      "ago": "14h",
       "img": "0kqmq",
       "ahId": "zfnmd"
     },
@@ -20,7 +36,7 @@
       "titre": "My Ribdiculous Reincarnation",
       "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
       "ep": 10,
-      "ago": "15h",
+      "ago": "18h",
       "img": "27pp6",
       "ahId": "xw4de"
     },
@@ -28,7 +44,7 @@
       "titre": "Pardon the Intrusion, I'm Home!",
       "titreJp": "Tadaima, Ojamasaremasu!",
       "ep": 10,
-      "ago": "15h",
+      "ago": "18h",
       "img": "mwvn6",
       "ahId": "c3nol"
     },
@@ -36,7 +52,7 @@
       "titre": "Eren the Southpaw",
       "titreJp": "Hidarikiki no Eren",
       "ep": 10,
-      "ago": "17h",
+      "ago": "20h",
       "img": "w5epl",
       "ahId": "j26hl"
     },
@@ -44,7 +60,7 @@
       "titre": "Beyond Twilight",
       "titreJp": "Hyakki Yakoushou",
       "ep": 10,
-      "ago": "18h",
+      "ago": "21h",
       "img": "0gwes",
       "ahId": "r32sr"
     },
@@ -52,7 +68,7 @@
       "titre": "I Made Friends with the Second Prettiest Girl in My Class",
       "titreJp": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
       "ep": 10,
-      "ago": "18h",
+      "ago": "21h",
       "img": "kfuf2",
       "ahId": "3c38p"
     },
@@ -60,7 +76,7 @@
       "titre": "Even a Replica Can Fall in Love",
       "titreJp": "Replica datte, Koi wo Suru.",
       "ep": 10,
-      "ago": "19h",
+      "ago": "22h",
       "img": "z35jq",
       "ahId": "k662x"
     },
@@ -68,7 +84,7 @@
       "titre": "Marriagetoxin",
       "titreJp": "Marriage Toxin",
       "ep": 10,
-      "ago": "19h",
+      "ago": "22h",
       "img": "ljkt9",
       "ahId": "lf9gt"
     },
@@ -76,7 +92,7 @@
       "titre": "I Want to End This Love Game",
       "titreJp": "Aishiteru Game wo Owarasetai",
       "ep": 9,
-      "ago": "19h",
+      "ago": "22h",
       "img": "438x1",
       "ahId": "jrvi5"
     },
@@ -84,7 +100,7 @@
       "titre": "The Most Heretical Last Boss Queen: From Villainess to Savior 2nd Season",
       "titreJp": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Min no Tame ni Tsukushimasu. 2nd Season",
       "ep": 10,
-      "ago": "20h",
+      "ago": "23h",
       "img": "5zcck",
       "ahId": "np9nt"
     },
@@ -316,7 +332,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 10,
-      "ago": "3d",
+      "ago": "4d",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -324,7 +340,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 10,
-      "ago": "3d",
+      "ago": "4d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -468,7 +484,7 @@
       "titre": "The Barbarian's Bride",
       "titreJp": "Himekishi wa Barbaroi no Yome",
       "ep": 9,
-      "ago": "5d",
+      "ago": "6d",
       "img": "synxi",
       "ahId": "hi6b1"
     },
@@ -527,25 +543,9 @@
       "ago": "6d",
       "img": "7nqj7",
       "ahId": "i0kd0"
-    },
-    {
-      "titre": "Classroom of the Elite 4th Season",
-      "titreJp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
-      "ep": 13,
-      "ago": "6d",
-      "img": "npea5",
-      "ahId": "nzwhr"
-    },
-    {
-      "titre": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter",
-      "titreJp": "Isekai no Sata wa Shachiku Shidai",
-      "ep": 13,
-      "ago": "7d",
-      "img": "olruf",
-      "ahId": "ju9ye"
     }
   ],
-  "updatedAt": "2026-06-10T09:53:11.941Z",
+  "updatedAt": "2026-06-10T12:54:05.591Z",
   "source": "github-actions",
   "count": 68
 }
