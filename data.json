@@ -4,7 +4,7 @@
       "titre": "Go For It, Nakamura!",
       "titreJp": "Ganbare! Nakamura-kun!!",
       "ep": 12,
-      "ago": "10h",
+      "ago": "15h",
       "img": "rf7eh",
       "ahId": "1ijne"
     },
@@ -12,7 +12,7 @@
       "titre": "The Beginning After the End Season 2",
       "titreJp": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
       "ep": 11,
-      "ago": "11h",
+      "ago": "16h",
       "img": "zmy4z",
       "ahId": "fv1vj"
     },
@@ -20,7 +20,7 @@
       "titre": "Always a Catch!",
       "titreJp": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
       "ep": 11,
-      "ago": "11h",
+      "ago": "16h",
       "img": "r9hz4",
       "ahId": "frlld"
     },
@@ -28,7 +28,7 @@
       "titre": "Gals Can’t Be Kind to Otaku!?",
       "titreJp": "Otaku ni Yasashii Gyaru wa Inai!?",
       "ep": 10,
-      "ago": "11h",
+      "ago": "16h",
       "img": "j5umi",
       "ahId": "kq3pz"
     },
@@ -36,7 +36,7 @@
       "titre": "Re:ZERO: Starting Life in Another World Season 4",
       "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
       "ep": 10,
-      "ago": "13h",
+      "ago": "18h",
       "img": "7tc0j",
       "ahId": "ilp9j"
     },
@@ -44,7 +44,7 @@
       "titre": "My Roommate is a Cat",
       "titreJp": "Doukyonin wa Hiza, Tokidoki, Atama no Ue.",
       "ep": 12,
-      "ago": "14h",
+      "ago": "19h",
       "img": "j3fa1",
       "ahId": "um43g"
     },
@@ -52,7 +52,7 @@
       "titre": "Rent-a-Girlfriend Season 5",
       "titreJp": "Kanojo, Okarishimasu 5th Season",
       "ep": 10,
-      "ago": "14h",
+      "ago": "19h",
       "img": "7nqj7",
       "ahId": "i0kd0"
     },
@@ -60,7 +60,7 @@
       "titre": "Classroom of the Elite 4th Season",
       "titreJp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
       "ep": 14,
-      "ago": "14h",
+      "ago": "20h",
       "img": "npea5",
       "ahId": "nzwhr"
     },
@@ -68,7 +68,7 @@
       "titre": "Cat Planet Cuties",
       "titreJp": "Asobi ni Iku yo!",
       "ep": 12,
-      "ago": "15h",
+      "ago": "20h",
       "img": "b06ma",
       "ahId": "6p1bo"
     },
@@ -404,7 +404,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 139,
-      "ago": "4d",
+      "ago": "5d",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -545,7 +545,7 @@
       "ahId": "5iqzo"
     }
   ],
-  "updatedAt": "2026-06-11T03:37:54.917Z",
+  "updatedAt": "2026-06-11T08:42:59.581Z",
   "source": "github-actions",
   "count": 68
 }
