@@ -4,7 +4,7 @@
       "titre": "Monster Eater",
       "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
       "ep": 11,
-      "ago": "9h",
+      "ago": "14h",
       "img": "anfea",
       "ahId": "pi6yi"
     },
@@ -12,7 +12,7 @@
       "titre": "Mr. Osomatsu 4th Season",
       "titreJp": "Osomatsu-san 4th Season",
       "ep": 13,
-      "ago": "9h",
+      "ago": "14h",
       "img": "dn75y",
       "ahId": "cqu9c"
     },
@@ -20,7 +20,7 @@
       "titre": "Killed Again, Mr. Detective?",
       "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
       "ep": 11,
-      "ago": "9h",
+      "ago": "14h",
       "img": "j0cec",
       "ahId": "0cwi8"
     },
@@ -28,7 +28,7 @@
       "titre": "Haibara’s Teenage New Game+",
       "titreJp": "Haibara-kun no Tsuyokute Seishun New Game",
       "ep": 11,
-      "ago": "10h",
+      "ago": "15h",
       "img": "dw9gn",
       "ahId": "7s4ze"
     },
@@ -36,7 +36,7 @@
       "titre": "A Hundred Scenes of AWAJIMA",
       "titreJp": "Awajima Hyakkei",
       "ep": 10,
-      "ago": "10h",
+      "ago": "15h",
       "img": "r7ozz",
       "ahId": "oh0q2"
     },
@@ -44,7 +44,7 @@
       "titre": "Petals of Reincarnation",
       "titreJp": "Reincarnation no Kaben",
       "ep": 11,
-      "ago": "10h",
+      "ago": "15h",
       "img": "iideg",
       "ahId": "b2ybn"
     },
@@ -52,7 +52,7 @@
       "titre": "Kirio Fan Club",
       "titreJp": "",
       "ep": 11,
-      "ago": "11h",
+      "ago": "16h",
       "img": "f7jfv",
       "ahId": "ji7g1"
     },
@@ -60,7 +60,7 @@
       "titre": "The Ramparts of Ice",
       "titreJp": "Koori no Jouheki, Ice Castle Wall",
       "ep": 11,
-      "ago": "11h",
+      "ago": "16h",
       "img": "cs30h",
       "ahId": "jx2jr"
     },
@@ -68,7 +68,7 @@
       "titre": "Dr. Stone: Science Future - Part III",
       "titreJp": "",
       "ep": 11,
-      "ago": "12h",
+      "ago": "17h",
       "img": "oxfds",
       "ahId": "xvd0a"
     },
@@ -76,7 +76,7 @@
       "titre": "Kujima: Why Sing, When You Can Warble?",
       "titreJp": "Kujima Utaeba Ie Hororo",
       "ep": 10,
-      "ago": "13h",
+      "ago": "18h",
       "img": "pv8qk",
       "ahId": "gbdj0"
     },
@@ -84,7 +84,7 @@
       "titre": "The Barbarian's Bride",
       "titreJp": "Himekishi wa Barbaroi no Yome",
       "ep": 10,
-      "ago": "14h",
+      "ago": "19h",
       "img": "synxi",
       "ahId": "hi6b1"
     },
@@ -545,7 +545,7 @@
       "ahId": "nv9bp"
     }
   ],
-  "updatedAt": "2026-06-12T03:37:24.456Z",
+  "updatedAt": "2026-06-12T08:22:33.379Z",
   "source": "github-actions",
   "count": 68
 }
