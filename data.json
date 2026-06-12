@@ -4,7 +4,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 10,
-      "ago": "5h",
+      "ago": "6h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -12,7 +12,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 12,
-      "ago": "5h",
+      "ago": "6h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -20,7 +20,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 11,
-      "ago": "5h",
+      "ago": "7h",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -28,7 +28,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 11,
-      "ago": "5h",
+      "ago": "7h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -36,7 +36,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 10,
-      "ago": "6h",
+      "ago": "7h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -44,7 +44,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 10,
-      "ago": "6h",
+      "ago": "8h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -52,7 +52,7 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 11,
-      "ago": "8h",
+      "ago": "10h",
       "img": "8ezmn",
       "ahId": "nv9bp"
     },
@@ -220,7 +220,7 @@
       "titre": "Kakegurui Twin",
       "titreJp": "",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "0kqmq",
       "ahId": "zfnmd"
     },
@@ -428,7 +428,7 @@
       "titre": "Agents of the Four Seasons: Dance of Spring",
       "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
       "ep": 11,
-      "ago": "5d",
+      "ago": "6d",
       "img": "fxza8",
       "ahId": "boii6"
     },
@@ -545,7 +545,7 @@
       "ahId": "yeyrm"
     }
   ],
-  "updatedAt": "2026-06-12T21:41:16.275Z",
+  "updatedAt": "2026-06-12T23:14:26.530Z",
   "source": "github-actions",
   "count": 68
 }
