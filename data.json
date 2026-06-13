@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "Kill Blue",
+      "titreJp": "Kill Ao",
+      "ep": 10,
+      "ago": "?",
+      "img": "dns6b",
+      "ahId": "y5v48"
+    },
+    {
+      "titre": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
+      "titreJp": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+      "ep": 12,
+      "ago": "1h",
+      "img": "hnxbm",
+      "ahId": "ayudj"
+    },
+    {
+      "titre": "Yowayowa Teacher",
+      "titreJp": "Yowayowa Sensei",
+      "ep": 10,
+      "ago": "1h",
+      "img": "b6f8i",
+      "ahId": "pijt4"
+    },
+    {
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1203,
-      "ago": "?",
+      "ago": "3h",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -12,7 +36,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 11,
-      "ago": "1h",
+      "ago": "4h",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -20,7 +44,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 10,
-      "ago": "2h",
+      "ago": "5h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -28,7 +52,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 10,
-      "ago": "19h",
+      "ago": "22h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -36,7 +60,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 12,
-      "ago": "20h",
+      "ago": "22h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -44,7 +68,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 11,
-      "ago": "20h",
+      "ago": "23h",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -52,7 +76,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 11,
-      "ago": "20h",
+      "ago": "23h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -60,7 +84,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 10,
-      "ago": "20h",
+      "ago": "23h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -68,7 +92,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 10,
-      "ago": "21h",
+      "ago": "23h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -76,7 +100,7 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 11,
-      "ago": "23h",
+      "ago": "1d",
       "img": "8ezmn",
       "ahId": "nv9bp"
     },
@@ -148,7 +172,7 @@
       "titre": "Dr. Stone: Science Future - Part III",
       "titreJp": "",
       "ep": 11,
-      "ago": "1d",
+      "ago": "2d",
       "img": "oxfds",
       "ahId": "xvd0a"
     },
@@ -156,7 +180,7 @@
       "titre": "Kujima: Why Sing, When You Can Warble?",
       "titreJp": "Kujima Utaeba Ie Hororo",
       "ep": 10,
-      "ago": "1d",
+      "ago": "2d",
       "img": "pv8qk",
       "ahId": "gbdj0"
     },
@@ -164,7 +188,7 @@
       "titre": "The Barbarian's Bride",
       "titreJp": "Himekishi wa Barbaroi no Yome",
       "ep": 10,
-      "ago": "1d",
+      "ago": "2d",
       "img": "synxi",
       "ahId": "hi6b1"
     },
@@ -204,7 +228,7 @@
       "titre": "Re:ZERO: Starting Life in Another World Season 4",
       "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
       "ep": 10,
-      "ago": "2d",
+      "ago": "3d",
       "img": "7tc0j",
       "ahId": "ilp9j"
     },
@@ -212,7 +236,7 @@
       "titre": "My Roommate is a Cat",
       "titreJp": "Doukyonin wa Hiza, Tokidoki, Atama no Ue.",
       "ep": 12,
-      "ago": "2d",
+      "ago": "3d",
       "img": "j3fa1",
       "ahId": "um43g"
     },
@@ -220,7 +244,7 @@
       "titre": "Rent-a-Girlfriend Season 5",
       "titreJp": "Kanojo, Okarishimasu 5th Season",
       "ep": 10,
-      "ago": "2d",
+      "ago": "3d",
       "img": "7nqj7",
       "ahId": "i0kd0"
     },
@@ -228,7 +252,7 @@
       "titre": "Classroom of the Elite 4th Season",
       "titreJp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
       "ep": 14,
-      "ago": "2d",
+      "ago": "3d",
       "img": "npea5",
       "ahId": "nzwhr"
     },
@@ -292,7 +316,7 @@
       "titre": "Even a Replica Can Fall in Love",
       "titreJp": "Replica datte, Koi wo Suru.",
       "ep": 10,
-      "ago": "3d",
+      "ago": "4d",
       "img": "z35jq",
       "ahId": "k662x"
     },
@@ -300,7 +324,7 @@
       "titre": "Marriagetoxin",
       "titreJp": "Marriage Toxin",
       "ep": 10,
-      "ago": "3d",
+      "ago": "4d",
       "img": "ljkt9",
       "ahId": "lf9gt"
     },
@@ -308,7 +332,7 @@
       "titre": "I Want to End This Love Game",
       "titreJp": "Aishiteru Game wo Owarasetai",
       "ep": 9,
-      "ago": "3d",
+      "ago": "4d",
       "img": "438x1",
       "ahId": "jrvi5"
     },
@@ -316,7 +340,7 @@
       "titre": "The Most Heretical Last Boss Queen: From Villainess to Savior 2nd Season",
       "titreJp": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Min no Tame ni Tsukushimasu. 2nd Season",
       "ep": 10,
-      "ago": "3d",
+      "ago": "4d",
       "img": "5zcck",
       "ahId": "np9nt"
     },
@@ -340,7 +364,7 @@
       "titre": "Farming Life in Another World 2",
       "titreJp": "Isekai Nonbiri Nouka 2",
       "ep": 10,
-      "ago": "4d",
+      "ago": "5d",
       "img": "b7en4",
       "ahId": "fae6d"
     },
@@ -348,7 +372,7 @@
       "titre": "Witch Hat Atelier",
       "titreJp": "Tongari Boushi no Atelier",
       "ep": 11,
-      "ago": "4d",
+      "ago": "5d",
       "img": "6rlo7",
       "ahId": "df4in"
     },
@@ -412,7 +436,7 @@
       "titre": "The Food Diary of Miss Maid",
       "titreJp": "Maid-san wa Taberu dake",
       "ep": 11,
-      "ago": "5d",
+      "ago": "6d",
       "img": "w1qq7",
       "ahId": "7b5z4"
     },
@@ -519,33 +543,9 @@
       "ago": "6d",
       "img": "tl46m",
       "ahId": "rf6nw"
-    },
-    {
-      "titre": "Kill Blue",
-      "titreJp": "Kill Ao",
-      "ep": 9,
-      "ago": "6d",
-      "img": "dns6b",
-      "ahId": "y5v48"
-    },
-    {
-      "titre": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
-      "titreJp": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
-      "ep": 11,
-      "ago": "6d",
-      "img": "hnxbm",
-      "ahId": "ayudj"
-    },
-    {
-      "titre": "Yowayowa Teacher",
-      "titreJp": "Yowayowa Sensei",
-      "ep": 9,
-      "ago": "6d",
-      "img": "b6f8i",
-      "ahId": "pijt4"
     }
   ],
-  "updatedAt": "2026-06-13T12:23:03.224Z",
+  "updatedAt": "2026-06-13T14:57:57.015Z",
   "source": "github-actions",
   "count": 68
 }
