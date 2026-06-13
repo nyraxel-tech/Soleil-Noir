@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Detective Conan",
+      "titreJp": "Case Closed, Meitantei Conan",
+      "ep": 1203,
+      "ago": "?",
+      "img": "lx86z",
+      "ahId": "y9prb"
+    },
+    {
+      "titre": "Welcome to Demon School, Iruma-kun 4",
+      "titreJp": "Mairimashita! Iruma-kun 4",
+      "ep": 11,
+      "ago": "1h",
+      "img": "lkpy4",
+      "ahId": "amsff"
+    },
+    {
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 10,
-      "ago": "?",
+      "ago": "2h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -12,7 +28,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 10,
-      "ago": "17h",
+      "ago": "19h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -20,7 +36,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 12,
-      "ago": "18h",
+      "ago": "20h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -28,7 +44,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 11,
-      "ago": "18h",
+      "ago": "20h",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -36,7 +52,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 11,
-      "ago": "18h",
+      "ago": "20h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -44,7 +60,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 10,
-      "ago": "18h",
+      "ago": "20h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -52,7 +68,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 10,
-      "ago": "19h",
+      "ago": "21h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -60,7 +76,7 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 11,
-      "ago": "21h",
+      "ago": "23h",
       "img": "8ezmn",
       "ahId": "nv9bp"
     },
@@ -220,7 +236,7 @@
       "titre": "Cat Planet Cuties",
       "titreJp": "Asobi ni Iku yo!",
       "ep": 12,
-      "ago": "2d",
+      "ago": "3d",
       "img": "b06ma",
       "ahId": "6p1bo"
     },
@@ -527,25 +543,9 @@
       "ago": "6d",
       "img": "b6f8i",
       "ahId": "pijt4"
-    },
-    {
-      "titre": "Detective Conan",
-      "titreJp": "Case Closed, Meitantei Conan",
-      "ep": 10,
-      "ago": "6d",
-      "img": "lx86z",
-      "ahId": "y9prb"
-    },
-    {
-      "titre": "Welcome to Demon School, Iruma-kun 4",
-      "titreJp": "Mairimashita! Iruma-kun 4",
-      "ep": 10,
-      "ago": "6d",
-      "img": "lkpy4",
-      "ahId": "amsff"
     }
   ],
-  "updatedAt": "2026-06-13T10:25:45.743Z",
+  "updatedAt": "2026-06-13T12:23:03.224Z",
   "source": "github-actions",
   "count": 68
 }
