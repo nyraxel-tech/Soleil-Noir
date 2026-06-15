@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Tsuredure Children",
+      "titreJp": "",
+      "ep": 12,
+      "ago": "?",
+      "img": "un6gb",
+      "ahId": "xyc65"
+    },
+    {
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 11,
-      "ago": "4h",
+      "ago": "6h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -12,7 +20,7 @@
       "titre": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "titreJp": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
       "ep": 11,
-      "ago": "5h",
+      "ago": "7h",
       "img": "jh4do",
       "ahId": "fcmyo"
     },
@@ -20,7 +28,7 @@
       "titre": "Farming Life in Another World 2",
       "titreJp": "Isekai Nonbiri Nouka 2",
       "ep": 11,
-      "ago": "6h",
+      "ago": "8h",
       "img": "b7en4",
       "ahId": "fae6d"
     },
@@ -28,7 +36,7 @@
       "titre": "Witch Hat Atelier",
       "titreJp": "Tongari Boushi no Atelier",
       "ep": 12,
-      "ago": "6h",
+      "ago": "8h",
       "img": "6rlo7",
       "ahId": "df4in"
     },
@@ -36,7 +44,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 11,
-      "ago": "10h",
+      "ago": "13h",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -44,7 +52,7 @@
       "titre": "Girls' Last Tour",
       "titreJp": "Shoujo Shuumatsu Ryokou",
       "ep": 12,
-      "ago": "21h",
+      "ago": "1d",
       "img": "3bxq0",
       "ahId": "x7nqp"
     },
@@ -460,7 +468,7 @@
       "titre": "Kakegurui Twin",
       "titreJp": "",
       "ep": 6,
-      "ago": "5d",
+      "ago": "6d",
       "img": "0kqmq",
       "ahId": "zfnmd"
     },
@@ -535,17 +543,9 @@
       "ago": "6d",
       "img": "5zcck",
       "ahId": "np9nt"
-    },
-    {
-      "titre": "Smoking Behind the Supermarket with You",
-      "titreJp": "Super no Ura de Yani Suu Futari",
-      "ep": 12,
-      "ago": "7d",
-      "img": "z18pc",
-      "ahId": "gnv5p"
     }
   ],
-  "updatedAt": "2026-06-15T20:22:54.216Z",
+  "updatedAt": "2026-06-15T23:00:20.062Z",
   "source": "github-actions",
   "count": 68
 }
