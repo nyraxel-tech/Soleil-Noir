@@ -4,7 +4,7 @@
       "titre": "Log Horizon",
       "titreJp": "",
       "ep": 25,
-      "ago": "1h",
+      "ago": "7h",
       "img": "t3zck",
       "ahId": "4aij9"
     },
@@ -12,7 +12,7 @@
       "titre": "Tsuredure Children",
       "titreJp": "",
       "ep": 12,
-      "ago": "4h",
+      "ago": "10h",
       "img": "un6gb",
       "ahId": "xyc65"
     },
@@ -20,7 +20,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 11,
-      "ago": "11h",
+      "ago": "17h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -28,7 +28,7 @@
       "titre": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "titreJp": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
       "ep": 11,
-      "ago": "12h",
+      "ago": "18h",
       "img": "jh4do",
       "ahId": "fcmyo"
     },
@@ -36,7 +36,7 @@
       "titre": "Farming Life in Another World 2",
       "titreJp": "Isekai Nonbiri Nouka 2",
       "ep": 11,
-      "ago": "13h",
+      "ago": "19h",
       "img": "b7en4",
       "ahId": "fae6d"
     },
@@ -44,7 +44,7 @@
       "titre": "Witch Hat Atelier",
       "titreJp": "Tongari Boushi no Atelier",
       "ep": 12,
-      "ago": "13h",
+      "ago": "19h",
       "img": "6rlo7",
       "ahId": "df4in"
     },
@@ -52,7 +52,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 11,
-      "ago": "17h",
+      "ago": "23h",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -116,7 +116,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season",
       "titreJp": "Diamond no Ace: Act II 2nd Season",
       "ep": 11,
-      "ago": "1d",
+      "ago": "2d",
       "img": "c50pz",
       "ahId": "dd464"
     },
@@ -124,7 +124,7 @@
       "titre": "Wistoria: Wand and Sword 2nd Season",
       "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
       "ep": 10,
-      "ago": "1d",
+      "ago": "2d",
       "img": "h6l0c",
       "ahId": "y98v5"
     },
@@ -545,7 +545,7 @@
       "ahId": "jrvi5"
     }
   ],
-  "updatedAt": "2026-06-16T03:43:53.443Z",
+  "updatedAt": "2026-06-16T09:22:56.661Z",
   "source": "github-actions",
   "count": 68
 }
