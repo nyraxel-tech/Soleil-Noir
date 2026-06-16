@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Log Horizon",
+      "titreJp": "",
+      "ep": 25,
+      "ago": "1h",
+      "img": "t3zck",
+      "ahId": "4aij9"
+    },
+    {
       "titre": "Tsuredure Children",
       "titreJp": "",
       "ep": 12,
-      "ago": "?",
+      "ago": "4h",
       "img": "un6gb",
       "ahId": "xyc65"
     },
@@ -12,7 +20,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 11,
-      "ago": "6h",
+      "ago": "11h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -20,7 +28,7 @@
       "titre": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "titreJp": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
       "ep": 11,
-      "ago": "7h",
+      "ago": "12h",
       "img": "jh4do",
       "ahId": "fcmyo"
     },
@@ -28,7 +36,7 @@
       "titre": "Farming Life in Another World 2",
       "titreJp": "Isekai Nonbiri Nouka 2",
       "ep": 11,
-      "ago": "8h",
+      "ago": "13h",
       "img": "b7en4",
       "ahId": "fae6d"
     },
@@ -36,7 +44,7 @@
       "titre": "Witch Hat Atelier",
       "titreJp": "Tongari Boushi no Atelier",
       "ep": 12,
-      "ago": "8h",
+      "ago": "13h",
       "img": "6rlo7",
       "ahId": "df4in"
     },
@@ -44,7 +52,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 11,
-      "ago": "13h",
+      "ago": "17h",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -124,7 +132,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 35,
-      "ago": "1d",
+      "ago": "2d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -535,17 +543,9 @@
       "ago": "6d",
       "img": "438x1",
       "ahId": "jrvi5"
-    },
-    {
-      "titre": "The Most Heretical Last Boss Queen: From Villainess to Savior 2nd Season",
-      "titreJp": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Min no Tame ni Tsukushimasu. 2nd Season",
-      "ep": 10,
-      "ago": "6d",
-      "img": "5zcck",
-      "ahId": "np9nt"
     }
   ],
-  "updatedAt": "2026-06-15T23:00:20.062Z",
+  "updatedAt": "2026-06-16T03:43:53.443Z",
   "source": "github-actions",
   "count": 68
 }
