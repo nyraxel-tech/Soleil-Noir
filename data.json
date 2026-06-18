@@ -1,10 +1,58 @@
 {
   "animes": [
     {
+      "titre": "Monster Eater",
+      "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
+      "ep": 12,
+      "ago": "1h",
+      "img": "anfea",
+      "ahId": "pi6yi"
+    },
+    {
+      "titre": "Killed Again, Mr. Detective?",
+      "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
+      "ep": 12,
+      "ago": "1h",
+      "img": "j0cec",
+      "ahId": "0cwi8"
+    },
+    {
+      "titre": "Haibara’s Teenage New Game+",
+      "titreJp": "Haibara-kun no Tsuyokute Seishun New Game",
+      "ep": 12,
+      "ago": "2h",
+      "img": "dw9gn",
+      "ahId": "7s4ze"
+    },
+    {
+      "titre": "A Hundred Scenes of AWAJIMA",
+      "titreJp": "Awajima Hyakkei",
+      "ep": 11,
+      "ago": "2h",
+      "img": "r7ozz",
+      "ahId": "oh0q2"
+    },
+    {
+      "titre": "The Ramparts of Ice",
+      "titreJp": "Koori no Jouheki, Ice Castle Wall",
+      "ep": 12,
+      "ago": "2h",
+      "img": "cs30h",
+      "ahId": "jx2jr"
+    },
+    {
+      "titre": "Petals of Reincarnation",
+      "titreJp": "Reincarnation no Kaben",
+      "ep": 12,
+      "ago": "2h",
+      "img": "iideg",
+      "ahId": "b2ybn"
+    },
+    {
       "titre": "Kirio Fan Club",
       "titreJp": "",
       "ep": 12,
-      "ago": "?",
+      "ago": "3h",
       "img": "f7jfv",
       "ahId": "ji7g1"
     },
@@ -12,7 +60,7 @@
       "titre": "Kujima: Why Sing, When You Can Warble?",
       "titreJp": "Kujima Utaeba Ie Hororo",
       "ep": 11,
-      "ago": "2h",
+      "ago": "5h",
       "img": "pv8qk",
       "ahId": "gbdj0"
     },
@@ -20,7 +68,7 @@
       "titre": "Dr. Stone: Science Future - Part III",
       "titreJp": "",
       "ep": 12,
-      "ago": "2h",
+      "ago": "5h",
       "img": "oxfds",
       "ahId": "xvd0a"
     },
@@ -28,7 +76,7 @@
       "titre": "The Barbarian's Bride",
       "titreJp": "Himekishi wa Barbaroi no Yome",
       "ep": 11,
-      "ago": "3h",
+      "ago": "6h",
       "img": "synxi",
       "ahId": "hi6b1"
     },
@@ -36,7 +84,7 @@
       "titre": "BAKI-DOU: The Invincible Samurai",
       "titreJp": "",
       "ep": 25,
-      "ago": "6h",
+      "ago": "9h",
       "img": "ww5ij",
       "ahId": "5ebj0"
     },
@@ -44,7 +92,7 @@
       "titre": "When They Cry: Higurashi",
       "titreJp": "Higurashi no Naku Koro ni",
       "ep": 26,
-      "ago": "7h",
+      "ago": "10h",
       "img": "k2u6q",
       "ahId": "govlg"
     },
@@ -52,7 +100,7 @@
       "titre": "Log Horizon: Destruction of the Round Table",
       "titreJp": "Log Horizon: Entaku Houkai",
       "ep": 12,
-      "ago": "19h",
+      "ago": "22h",
       "img": "31uy2",
       "ahId": "rviy5"
     },
@@ -60,7 +108,7 @@
       "titre": "Go For It, Nakamura!",
       "titreJp": "Ganbare! Nakamura-kun!!",
       "ep": 13,
-      "ago": "23h",
+      "ago": "1d",
       "img": "rf7eh",
       "ahId": "1ijne"
     },
@@ -124,7 +172,7 @@
       "titre": "My Ribdiculous Reincarnation",
       "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
       "ep": 11,
-      "ago": "1d",
+      "ago": "2d",
       "img": "27pp6",
       "ahId": "xw4de"
     },
@@ -132,7 +180,7 @@
       "titre": "Pardon the Intrusion, I'm Home!",
       "titreJp": "Tadaima, Ojamasaremasu!",
       "ep": 11,
-      "ago": "1d",
+      "ago": "2d",
       "img": "mwvn6",
       "ahId": "c3nol"
     },
@@ -260,7 +308,7 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 11,
-      "ago": "3d",
+      "ago": "4d",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -332,7 +380,7 @@
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 22,
-      "ago": "4d",
+      "ago": "5d",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -340,7 +388,7 @@
       "titre": "Ichijouma Mankitsugurashi!",
       "titreJp": "",
       "ep": 10,
-      "ago": "4d",
+      "ago": "5d",
       "img": "wm2v7",
       "ahId": "ccxi5"
     },
@@ -348,7 +396,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 11,
-      "ago": "4d",
+      "ago": "5d",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -356,7 +404,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 11,
-      "ago": "4d",
+      "ago": "5d",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -364,7 +412,7 @@
       "titre": "Agents of the Four Seasons: Dance of Spring",
       "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "fxza8",
       "ahId": "boii6"
     },
@@ -460,7 +508,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 10,
-      "ago": "5d",
+      "ago": "6d",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -495,57 +543,9 @@
       "ago": "6d",
       "img": "pjoyd",
       "ahId": "aplyf"
-    },
-    {
-      "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
-      "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
-      "ep": 11,
-      "ago": "6d",
-      "img": "8ezmn",
-      "ahId": "nv9bp"
-    },
-    {
-      "titre": "Monster Eater",
-      "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
-      "ep": 11,
-      "ago": "6d",
-      "img": "anfea",
-      "ahId": "pi6yi"
-    },
-    {
-      "titre": "Mr. Osomatsu 4th Season",
-      "titreJp": "Osomatsu-san 4th Season",
-      "ep": 13,
-      "ago": "6d",
-      "img": "dn75y",
-      "ahId": "cqu9c"
-    },
-    {
-      "titre": "Killed Again, Mr. Detective?",
-      "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
-      "ep": 11,
-      "ago": "6d",
-      "img": "j0cec",
-      "ahId": "0cwi8"
-    },
-    {
-      "titre": "Haibara’s Teenage New Game+",
-      "titreJp": "Haibara-kun no Tsuyokute Seishun New Game",
-      "ep": 11,
-      "ago": "6d",
-      "img": "dw9gn",
-      "ahId": "7s4ze"
-    },
-    {
-      "titre": "A Hundred Scenes of AWAJIMA",
-      "titreJp": "Awajima Hyakkei",
-      "ep": 10,
-      "ago": "6d",
-      "img": "r7ozz",
-      "ahId": "oh0q2"
     }
   ],
-  "updatedAt": "2026-06-18T16:27:04.082Z",
+  "updatedAt": "2026-06-18T19:24:43.034Z",
   "source": "github-actions",
   "count": 68
 }
