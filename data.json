@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "BAKI-DOU: The Invincible Samurai",
+      "titreJp": "",
+      "ep": 25,
+      "ago": "2h",
+      "img": "ww5ij",
+      "ahId": "5ebj0"
+    },
+    {
       "titre": "When They Cry: Higurashi",
       "titreJp": "Higurashi no Naku Koro ni",
-      "ep": 25,
-      "ago": "7h",
+      "ep": 26,
+      "ago": "3h",
       "img": "k2u6q",
       "ahId": "govlg"
     },
@@ -12,7 +20,7 @@
       "titre": "Log Horizon: Destruction of the Round Table",
       "titreJp": "Log Horizon: Entaku Houkai",
       "ep": 12,
-      "ago": "11h",
+      "ago": "15h",
       "img": "31uy2",
       "ahId": "rviy5"
     },
@@ -20,7 +28,7 @@
       "titre": "Go For It, Nakamura!",
       "titreJp": "Ganbare! Nakamura-kun!!",
       "ep": 13,
-      "ago": "15h",
+      "ago": "19h",
       "img": "rf7eh",
       "ahId": "1ijne"
     },
@@ -28,7 +36,7 @@
       "titre": "Always a Catch!",
       "titreJp": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
       "ep": 12,
-      "ago": "16h",
+      "ago": "20h",
       "img": "r9hz4",
       "ahId": "frlld"
     },
@@ -36,7 +44,7 @@
       "titre": "Gals Can’t Be Kind to Otaku!?",
       "titreJp": "Otaku ni Yasashii Gyaru wa Inai!?",
       "ep": 11,
-      "ago": "16h",
+      "ago": "20h",
       "img": "j5umi",
       "ahId": "kq3pz"
     },
@@ -44,7 +52,7 @@
       "titre": "Re:ZERO: Starting Life in Another World Season 4",
       "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
       "ep": 11,
-      "ago": "18h",
+      "ago": "22h",
       "img": "7tc0j",
       "ahId": "ilp9j"
     },
@@ -52,7 +60,7 @@
       "titre": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season",
       "titreJp": "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
       "ep": 11,
-      "ago": "18h",
+      "ago": "22h",
       "img": "cirfw",
       "ahId": "5iqzo"
     },
@@ -60,7 +68,7 @@
       "titre": "Rent-a-Girlfriend Season 5",
       "titreJp": "Kanojo, Okarishimasu 5th Season",
       "ep": 11,
-      "ago": "19h",
+      "ago": "23h",
       "img": "7nqj7",
       "ahId": "i0kd0"
     },
@@ -68,7 +76,7 @@
       "titre": "Classroom of the Elite 4th Season",
       "titreJp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
       "ep": 15,
-      "ago": "20h",
+      "ago": "23h",
       "img": "npea5",
       "ahId": "nzwhr"
     },
@@ -204,7 +212,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 11,
-      "ago": "2d",
+      "ago": "3d",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -268,7 +276,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season",
       "titreJp": "Diamond no Ace: Act II 2nd Season",
       "ep": 11,
-      "ago": "3d",
+      "ago": "4d",
       "img": "c50pz",
       "ahId": "dd464"
     },
@@ -396,7 +404,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1203,
-      "ago": "4d",
+      "ago": "5d",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -404,7 +412,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 11,
-      "ago": "4d",
+      "ago": "5d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -412,7 +420,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 10,
-      "ago": "4d",
+      "ago": "5d",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -535,17 +543,9 @@
       "ago": "6d",
       "img": "oxfds",
       "ahId": "xvd0a"
-    },
-    {
-      "titre": "Kujima: Why Sing, When You Can Warble?",
-      "titreJp": "Kujima Utaeba Ie Hororo",
-      "ep": 10,
-      "ago": "6d",
-      "img": "pv8qk",
-      "ahId": "gbdj0"
     }
   ],
-  "updatedAt": "2026-06-18T08:42:28.883Z",
+  "updatedAt": "2026-06-18T12:21:57.596Z",
   "source": "github-actions",
   "count": 68
 }
