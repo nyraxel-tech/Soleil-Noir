@@ -4,7 +4,7 @@
       "titre": "When They Cry: Higurashi",
       "titreJp": "Higurashi no Naku Koro ni",
       "ep": 25,
-      "ago": "2h",
+      "ago": "7h",
       "img": "k2u6q",
       "ahId": "govlg"
     },
@@ -12,7 +12,7 @@
       "titre": "Log Horizon: Destruction of the Round Table",
       "titreJp": "Log Horizon: Entaku Houkai",
       "ep": 12,
-      "ago": "6h",
+      "ago": "11h",
       "img": "31uy2",
       "ahId": "rviy5"
     },
@@ -20,7 +20,7 @@
       "titre": "Go For It, Nakamura!",
       "titreJp": "Ganbare! Nakamura-kun!!",
       "ep": 13,
-      "ago": "10h",
+      "ago": "15h",
       "img": "rf7eh",
       "ahId": "1ijne"
     },
@@ -28,7 +28,7 @@
       "titre": "Always a Catch!",
       "titreJp": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
       "ep": 12,
-      "ago": "11h",
+      "ago": "16h",
       "img": "r9hz4",
       "ahId": "frlld"
     },
@@ -36,7 +36,7 @@
       "titre": "Gals Can’t Be Kind to Otaku!?",
       "titreJp": "Otaku ni Yasashii Gyaru wa Inai!?",
       "ep": 11,
-      "ago": "11h",
+      "ago": "16h",
       "img": "j5umi",
       "ahId": "kq3pz"
     },
@@ -44,7 +44,7 @@
       "titre": "Re:ZERO: Starting Life in Another World Season 4",
       "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
       "ep": 11,
-      "ago": "13h",
+      "ago": "18h",
       "img": "7tc0j",
       "ahId": "ilp9j"
     },
@@ -52,7 +52,7 @@
       "titre": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season",
       "titreJp": "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
       "ep": 11,
-      "ago": "13h",
+      "ago": "18h",
       "img": "cirfw",
       "ahId": "5iqzo"
     },
@@ -60,7 +60,7 @@
       "titre": "Rent-a-Girlfriend Season 5",
       "titreJp": "Kanojo, Okarishimasu 5th Season",
       "ep": 11,
-      "ago": "14h",
+      "ago": "19h",
       "img": "7nqj7",
       "ahId": "i0kd0"
     },
@@ -68,7 +68,7 @@
       "titre": "Classroom of the Elite 4th Season",
       "titreJp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
       "ep": 15,
-      "ago": "14h",
+      "ago": "20h",
       "img": "npea5",
       "ahId": "nzwhr"
     },
@@ -276,7 +276,7 @@
       "titre": "Wistoria: Wand and Sword 2nd Season",
       "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
       "ep": 10,
-      "ago": "3d",
+      "ago": "4d",
       "img": "h6l0c",
       "ahId": "y98v5"
     },
@@ -545,7 +545,7 @@
       "ahId": "gbdj0"
     }
   ],
-  "updatedAt": "2026-06-18T03:36:44.076Z",
+  "updatedAt": "2026-06-18T08:42:28.883Z",
   "source": "github-actions",
   "count": 68
 }
