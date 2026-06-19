@@ -4,7 +4,7 @@
       "titre": "Monster Eater",
       "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
       "ep": 12,
-      "ago": "11h",
+      "ago": "16h",
       "img": "anfea",
       "ahId": "pi6yi"
     },
@@ -12,7 +12,7 @@
       "titre": "Killed Again, Mr. Detective?",
       "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
       "ep": 12,
-      "ago": "12h",
+      "ago": "17h",
       "img": "j0cec",
       "ahId": "0cwi8"
     },
@@ -20,7 +20,7 @@
       "titre": "Haibara’s Teenage New Game+",
       "titreJp": "Haibara-kun no Tsuyokute Seishun New Game",
       "ep": 12,
-      "ago": "13h",
+      "ago": "18h",
       "img": "dw9gn",
       "ahId": "7s4ze"
     },
@@ -28,7 +28,7 @@
       "titre": "A Hundred Scenes of AWAJIMA",
       "titreJp": "Awajima Hyakkei",
       "ep": 11,
-      "ago": "13h",
+      "ago": "18h",
       "img": "r7ozz",
       "ahId": "oh0q2"
     },
@@ -36,7 +36,7 @@
       "titre": "The Ramparts of Ice",
       "titreJp": "Koori no Jouheki, Ice Castle Wall",
       "ep": 12,
-      "ago": "13h",
+      "ago": "18h",
       "img": "cs30h",
       "ahId": "jx2jr"
     },
@@ -44,7 +44,7 @@
       "titre": "Petals of Reincarnation",
       "titreJp": "Reincarnation no Kaben",
       "ep": 12,
-      "ago": "13h",
+      "ago": "18h",
       "img": "iideg",
       "ahId": "b2ybn"
     },
@@ -52,7 +52,7 @@
       "titre": "Kirio Fan Club",
       "titreJp": "",
       "ep": 12,
-      "ago": "14h",
+      "ago": "19h",
       "img": "f7jfv",
       "ahId": "ji7g1"
     },
@@ -60,7 +60,7 @@
       "titre": "Kujima: Why Sing, When You Can Warble?",
       "titreJp": "Kujima Utaeba Ie Hororo",
       "ep": 11,
-      "ago": "16h",
+      "ago": "21h",
       "img": "pv8qk",
       "ahId": "gbdj0"
     },
@@ -68,7 +68,7 @@
       "titre": "Dr. Stone: Science Future - Part III",
       "titreJp": "",
       "ep": 12,
-      "ago": "16h",
+      "ago": "21h",
       "img": "oxfds",
       "ahId": "xvd0a"
     },
@@ -76,7 +76,7 @@
       "titre": "The Barbarian's Bride",
       "titreJp": "Himekishi wa Barbaroi no Yome",
       "ep": 11,
-      "ago": "17h",
+      "ago": "22h",
       "img": "synxi",
       "ahId": "hi6b1"
     },
@@ -84,7 +84,7 @@
       "titre": "BAKI-DOU: The Invincible Samurai",
       "titreJp": "",
       "ep": 25,
-      "ago": "19h",
+      "ago": "1d",
       "img": "ww5ij",
       "ahId": "5ebj0"
     },
@@ -92,7 +92,7 @@
       "titre": "When They Cry: Higurashi",
       "titreJp": "Higurashi no Naku Koro ni",
       "ep": 26,
-      "ago": "21h",
+      "ago": "1d",
       "img": "k2u6q",
       "ahId": "govlg"
     },
@@ -292,7 +292,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 11,
-      "ago": "3d",
+      "ago": "4d",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -356,7 +356,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season",
       "titreJp": "Diamond no Ace: Act II 2nd Season",
       "ep": 11,
-      "ago": "4d",
+      "ago": "5d",
       "img": "c50pz",
       "ahId": "dd464"
     },
@@ -364,7 +364,7 @@
       "titre": "Wistoria: Wand and Sword 2nd Season",
       "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
       "ep": 10,
-      "ago": "4d",
+      "ago": "5d",
       "img": "h6l0c",
       "ahId": "y98v5"
     },
@@ -492,7 +492,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 11,
-      "ago": "5d",
+      "ago": "6d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -500,7 +500,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 10,
-      "ago": "5d",
+      "ago": "6d",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -545,7 +545,7 @@
       "ahId": "aplyf"
     }
   ],
-  "updatedAt": "2026-06-19T06:14:45.766Z",
+  "updatedAt": "2026-06-19T11:18:49.977Z",
   "source": "github-actions",
   "count": 68
 }
