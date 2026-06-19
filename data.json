@@ -4,7 +4,7 @@
       "titre": "Monster Eater",
       "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
       "ep": 12,
-      "ago": "6h",
+      "ago": "11h",
       "img": "anfea",
       "ahId": "pi6yi"
     },
@@ -12,7 +12,7 @@
       "titre": "Killed Again, Mr. Detective?",
       "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
       "ep": 12,
-      "ago": "6h",
+      "ago": "12h",
       "img": "j0cec",
       "ahId": "0cwi8"
     },
@@ -20,7 +20,7 @@
       "titre": "Haibara’s Teenage New Game+",
       "titreJp": "Haibara-kun no Tsuyokute Seishun New Game",
       "ep": 12,
-      "ago": "7h",
+      "ago": "13h",
       "img": "dw9gn",
       "ahId": "7s4ze"
     },
@@ -28,7 +28,7 @@
       "titre": "A Hundred Scenes of AWAJIMA",
       "titreJp": "Awajima Hyakkei",
       "ep": 11,
-      "ago": "7h",
+      "ago": "13h",
       "img": "r7ozz",
       "ahId": "oh0q2"
     },
@@ -36,7 +36,7 @@
       "titre": "The Ramparts of Ice",
       "titreJp": "Koori no Jouheki, Ice Castle Wall",
       "ep": 12,
-      "ago": "7h",
+      "ago": "13h",
       "img": "cs30h",
       "ahId": "jx2jr"
     },
@@ -44,7 +44,7 @@
       "titre": "Petals of Reincarnation",
       "titreJp": "Reincarnation no Kaben",
       "ep": 12,
-      "ago": "7h",
+      "ago": "13h",
       "img": "iideg",
       "ahId": "b2ybn"
     },
@@ -52,7 +52,7 @@
       "titre": "Kirio Fan Club",
       "titreJp": "",
       "ep": 12,
-      "ago": "8h",
+      "ago": "14h",
       "img": "f7jfv",
       "ahId": "ji7g1"
     },
@@ -60,7 +60,7 @@
       "titre": "Kujima: Why Sing, When You Can Warble?",
       "titreJp": "Kujima Utaeba Ie Hororo",
       "ep": 11,
-      "ago": "10h",
+      "ago": "16h",
       "img": "pv8qk",
       "ahId": "gbdj0"
     },
@@ -68,7 +68,7 @@
       "titre": "Dr. Stone: Science Future - Part III",
       "titreJp": "",
       "ep": 12,
-      "ago": "10h",
+      "ago": "16h",
       "img": "oxfds",
       "ahId": "xvd0a"
     },
@@ -76,7 +76,7 @@
       "titre": "The Barbarian's Bride",
       "titreJp": "Himekishi wa Barbaroi no Yome",
       "ep": 11,
-      "ago": "11h",
+      "ago": "17h",
       "img": "synxi",
       "ahId": "hi6b1"
     },
@@ -84,7 +84,7 @@
       "titre": "BAKI-DOU: The Invincible Samurai",
       "titreJp": "",
       "ep": 25,
-      "ago": "14h",
+      "ago": "19h",
       "img": "ww5ij",
       "ahId": "5ebj0"
     },
@@ -92,7 +92,7 @@
       "titre": "When They Cry: Higurashi",
       "titreJp": "Higurashi no Naku Koro ni",
       "ep": 26,
-      "ago": "15h",
+      "ago": "21h",
       "img": "k2u6q",
       "ahId": "govlg"
     },
@@ -164,7 +164,7 @@
       "titre": "Log Horizon 2",
       "titreJp": "",
       "ep": 25,
-      "ago": "1d",
+      "ago": "2d",
       "img": "9x7v7",
       "ahId": "0cezs"
     },
@@ -244,7 +244,7 @@
       "titre": "Log Horizon",
       "titreJp": "",
       "ep": 25,
-      "ago": "2d",
+      "ago": "3d",
       "img": "t3zck",
       "ahId": "4aij9"
     },
@@ -372,7 +372,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 35,
-      "ago": "4d",
+      "ago": "5d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -545,7 +545,7 @@
       "ahId": "aplyf"
     }
   ],
-  "updatedAt": "2026-06-19T00:23:44.022Z",
+  "updatedAt": "2026-06-19T06:14:45.766Z",
   "source": "github-actions",
   "count": 68
 }
