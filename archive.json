@@ -776,8 +776,22 @@
       "img": "ww5ij",
       "ahId": "5ebj0",
       "addedAt": "2026-06-18T12:21:57.602Z"
+    },
+    {
+      "titre": "Zombie Land Saga",
+      "titreJp": "",
+      "img": "4uaqu",
+      "ahId": "h4qss",
+      "addedAt": "2026-06-19T19:45:03.055Z"
+    },
+    {
+      "titre": "Zombie Land Saga Movie: Yumeginga Paradise",
+      "titreJp": "",
+      "img": "yb4l8",
+      "ahId": "6t6r9",
+      "addedAt": "2026-06-19T19:45:03.055Z"
     }
   ],
-  "updatedAt": "2026-06-19T17:20:57.822Z",
-  "count": 111
+  "updatedAt": "2026-06-19T19:45:03.055Z",
+  "count": 113
 }
