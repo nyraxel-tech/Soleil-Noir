@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Zombie Land Saga Revenge",
+      "titreJp": "",
+      "ep": 10,
+      "ago": "?",
+      "img": "vsiwj",
+      "ahId": "25c5q"
+    },
+    {
       "titre": "Zombie Land Saga",
       "titreJp": "",
       "ep": 12,
-      "ago": "1h",
+      "ago": "3h",
       "img": "4uaqu",
       "ahId": "h4qss"
     },
@@ -12,7 +20,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 13,
-      "ago": "4h",
+      "ago": "6h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -20,7 +28,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 11,
-      "ago": "4h",
+      "ago": "6h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -28,7 +36,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 11,
-      "ago": "5h",
+      "ago": "7h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -36,7 +44,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 12,
-      "ago": "5h",
+      "ago": "7h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -44,7 +52,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 11,
-      "ago": "5h",
+      "ago": "7h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -52,7 +60,7 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 12,
-      "ago": "7h",
+      "ago": "9h",
       "img": "8ezmn",
       "ahId": "nv9bp"
     },
@@ -60,7 +68,7 @@
       "titre": "Zombie Land Saga Movie: Yumeginga Paradise",
       "titreJp": "",
       "ep": 1,
-      "ago": "10h",
+      "ago": "12h",
       "img": "yb4l8",
       "ahId": "6t6r9"
     },
@@ -316,7 +324,7 @@
       "titre": "Tsuredure Children",
       "titreJp": "",
       "ep": 12,
-      "ago": "3d",
+      "ago": "4d",
       "img": "un6gb",
       "ahId": "xyc65"
     },
@@ -535,17 +543,9 @@
       "ago": "6d",
       "img": "hnxbm",
       "ahId": "ayudj"
-    },
-    {
-      "titre": "Yowayowa Teacher",
-      "titreJp": "Yowayowa Sensei",
-      "ep": 10,
-      "ago": "6d",
-      "img": "b6f8i",
-      "ahId": "pijt4"
     }
   ],
-  "updatedAt": "2026-06-19T21:06:47.045Z",
+  "updatedAt": "2026-06-19T22:53:30.835Z",
   "source": "github-actions",
   "count": 68
 }
