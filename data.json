@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Welcome to Demon School, Iruma-kun 4",
+      "titreJp": "Mairimashita! Iruma-kun 4",
+      "ep": 12,
+      "ago": "?",
+      "img": "lkpy4",
+      "ahId": "amsff"
+    },
+    {
+      "titre": "Ascendance of a Bookworm Season 4",
+      "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
+      "ep": 11,
+      "ago": "1h",
+      "img": "2m22z",
+      "ahId": "yeyrm"
+    },
+    {
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 141,
-      "ago": "?",
+      "ago": "2h",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -12,7 +28,7 @@
       "titre": "Lord of Mysteries Specials",
       "titreJp": "Guimi Zhi Zhu Specials",
       "ep": 1,
-      "ago": "6h",
+      "ago": "8h",
       "img": "5xaaz",
       "ahId": "okq7x"
     },
@@ -20,7 +36,7 @@
       "titre": "Zombie Land Saga Revenge",
       "titreJp": "",
       "ep": 12,
-      "ago": "9h",
+      "ago": "12h",
       "img": "vsiwj",
       "ahId": "25c5q"
     },
@@ -28,7 +44,7 @@
       "titre": "Zombie Land Saga",
       "titreJp": "",
       "ep": 12,
-      "ago": "13h",
+      "ago": "15h",
       "img": "4uaqu",
       "ahId": "h4qss"
     },
@@ -36,7 +52,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 13,
-      "ago": "16h",
+      "ago": "18h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -44,7 +60,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 11,
-      "ago": "16h",
+      "ago": "18h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -52,7 +68,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 11,
-      "ago": "17h",
+      "ago": "19h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -60,7 +76,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 12,
-      "ago": "17h",
+      "ago": "19h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -68,7 +84,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 11,
-      "ago": "17h",
+      "ago": "20h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -76,7 +92,7 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 12,
-      "ago": "19h",
+      "ago": "22h",
       "img": "8ezmn",
       "ahId": "nv9bp"
     },
@@ -84,7 +100,7 @@
       "titre": "Zombie Land Saga Movie: Yumeginga Paradise",
       "titreJp": "",
       "ep": 1,
-      "ago": "21h",
+      "ago": "1d",
       "img": "yb4l8",
       "ahId": "6t6r9"
     },
@@ -172,7 +188,7 @@
       "titre": "BAKI-DOU: The Invincible Samurai",
       "titreJp": "",
       "ep": 25,
-      "ago": "1d",
+      "ago": "2d",
       "img": "ww5ij",
       "ahId": "5ebj0"
     },
@@ -180,7 +196,7 @@
       "titre": "When They Cry: Higurashi",
       "titreJp": "Higurashi no Naku Koro ni",
       "ep": 26,
-      "ago": "1d",
+      "ago": "2d",
       "img": "k2u6q",
       "ahId": "govlg"
     },
@@ -380,7 +396,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 11,
-      "ago": "4d",
+      "ago": "5d",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -444,7 +460,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season",
       "titreJp": "Diamond no Ace: Act II 2nd Season",
       "ep": 11,
-      "ago": "5d",
+      "ago": "6d",
       "img": "c50pz",
       "ahId": "dd464"
     },
@@ -527,25 +543,9 @@
       "ago": "6d",
       "img": "7j7kb",
       "ahId": "o8996"
-    },
-    {
-      "titre": "The Great Sage Ryddel and the Hands of Time",
-      "titreJp": "Daikenja Riddle no Jikan Gyakko",
-      "ep": 11,
-      "ago": "6d",
-      "img": "tl46m",
-      "ahId": "rf6nw"
-    },
-    {
-      "titre": "Kill Blue",
-      "titreJp": "Kill Ao",
-      "ep": 10,
-      "ago": "6d",
-      "img": "dns6b",
-      "ahId": "y5v48"
     }
   ],
-  "updatedAt": "2026-06-20T08:49:57.644Z",
+  "updatedAt": "2026-06-20T11:14:26.259Z",
   "source": "github-actions",
   "count": 68
 }
