@@ -4,7 +4,7 @@
       "titre": "The Great Sage Ryddel and the Hands of Time",
       "titreJp": "Daikenja Riddle no Jikan Gyakko",
       "ep": 12,
-      "ago": "2h",
+      "ago": "3h",
       "img": "tl46m",
       "ahId": "rf6nw"
     },
@@ -12,7 +12,7 @@
       "titre": "Ichijouma Mankitsugurashi!",
       "titreJp": "",
       "ep": 11,
-      "ago": "3h",
+      "ago": "4h",
       "img": "wm2v7",
       "ahId": "ccxi5"
     },
@@ -20,7 +20,7 @@
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 23,
-      "ago": "3h",
+      "ago": "5h",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -28,7 +28,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 12,
-      "ago": "4h",
+      "ago": "5h",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -36,7 +36,7 @@
       "titre": "Agents of the Four Seasons: Dance of Spring",
       "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
       "ep": 13,
-      "ago": "4h",
+      "ago": "6h",
       "img": "fxza8",
       "ahId": "boii6"
     },
@@ -44,7 +44,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 12,
-      "ago": "4h",
+      "ago": "6h",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -52,7 +52,7 @@
       "titre": "Mistress Kanan is Devilishly Easy",
       "titreJp": "Kanan-sama wa Akumade Choroi",
       "ep": 12,
-      "ago": "4h",
+      "ago": "6h",
       "img": "8q6wl",
       "ahId": "3uz6y"
     },
@@ -60,7 +60,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 12,
-      "ago": "5h",
+      "ago": "6h",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -68,7 +68,7 @@
       "titre": "Akane-banashi",
       "titreJp": "",
       "ep": 12,
-      "ago": "5h",
+      "ago": "7h",
       "img": "7j7kb",
       "ahId": "o8996"
     },
@@ -76,7 +76,7 @@
       "titre": "Kill Blue",
       "titreJp": "Kill Ao",
       "ep": 11,
-      "ago": "6h",
+      "ago": "8h",
       "img": "dns6b",
       "ahId": "y5v48"
     },
@@ -84,7 +84,7 @@
       "titre": "Yowayowa Teacher",
       "titreJp": "Yowayowa Sensei",
       "ep": 11,
-      "ago": "8h",
+      "ago": "9h",
       "img": "b6f8i",
       "ahId": "pijt4"
     },
@@ -92,7 +92,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1204,
-      "ago": "9h",
+      "ago": "11h",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -100,7 +100,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 12,
-      "ago": "10h",
+      "ago": "12h",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -108,7 +108,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 11,
-      "ago": "11h",
+      "ago": "13h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -116,7 +116,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 141,
-      "ago": "12h",
+      "ago": "14h",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -124,7 +124,7 @@
       "titre": "Lord of Mysteries Specials",
       "titreJp": "Guimi Zhi Zhu Specials",
       "ep": 1,
-      "ago": "18h",
+      "ago": "20h",
       "img": "5xaaz",
       "ahId": "okq7x"
     },
@@ -132,7 +132,7 @@
       "titre": "Zombie Land Saga Revenge",
       "titreJp": "",
       "ep": 12,
-      "ago": "22h",
+      "ago": "23h",
       "img": "vsiwj",
       "ahId": "25c5q"
     },
@@ -452,7 +452,7 @@
       "titre": "Tsuredure Children",
       "titreJp": "",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "un6gb",
       "ahId": "xyc65"
     },
@@ -500,7 +500,7 @@
       "titre": "Girls' Last Tour",
       "titreJp": "Shoujo Shuumatsu Ryokou",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "3bxq0",
       "ahId": "x7nqp"
     },
@@ -545,7 +545,7 @@
       "ahId": "feqdi"
     }
   ],
-  "updatedAt": "2026-06-20T21:14:19.376Z",
+  "updatedAt": "2026-06-20T23:04:32.777Z",
   "source": "github-actions",
   "count": 68
 }
