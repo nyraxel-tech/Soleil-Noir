@@ -4,7 +4,7 @@
       "titre": "Zombie Land Saga Revenge",
       "titreJp": "",
       "ep": 12,
-      "ago": "1h",
+      "ago": "6h",
       "img": "vsiwj",
       "ahId": "25c5q"
     },
@@ -12,7 +12,7 @@
       "titre": "Zombie Land Saga",
       "titreJp": "",
       "ep": 12,
-      "ago": "4h",
+      "ago": "9h",
       "img": "4uaqu",
       "ahId": "h4qss"
     },
@@ -20,7 +20,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 13,
-      "ago": "7h",
+      "ago": "12h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -28,7 +28,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 11,
-      "ago": "7h",
+      "ago": "12h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -36,7 +36,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 11,
-      "ago": "8h",
+      "ago": "13h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -44,7 +44,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 12,
-      "ago": "8h",
+      "ago": "13h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -52,7 +52,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 11,
-      "ago": "8h",
+      "ago": "13h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -60,7 +60,7 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 12,
-      "ago": "10h",
+      "ago": "16h",
       "img": "8ezmn",
       "ahId": "nv9bp"
     },
@@ -68,7 +68,7 @@
       "titre": "Zombie Land Saga Movie: Yumeginga Paradise",
       "titreJp": "",
       "ep": 1,
-      "ago": "13h",
+      "ago": "18h",
       "img": "yb4l8",
       "ahId": "6t6r9"
     },
@@ -236,7 +236,7 @@
       "titre": "Log Horizon 2",
       "titreJp": "",
       "ep": 25,
-      "ago": "2d",
+      "ago": "3d",
       "img": "9x7v7",
       "ahId": "0cezs"
     },
@@ -316,7 +316,7 @@
       "titre": "Log Horizon",
       "titreJp": "",
       "ep": 25,
-      "ago": "3d",
+      "ago": "4d",
       "img": "t3zck",
       "ahId": "4aij9"
     },
@@ -444,7 +444,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 35,
-      "ago": "5d",
+      "ago": "6d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -545,7 +545,7 @@
       "ahId": "ayudj"
     }
   ],
-  "updatedAt": "2026-06-20T00:06:43.684Z",
+  "updatedAt": "2026-06-20T05:10:17.015Z",
   "source": "github-actions",
   "count": 68
 }
