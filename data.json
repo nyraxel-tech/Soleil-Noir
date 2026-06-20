@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Yowayowa Teacher",
+      "titreJp": "Yowayowa Sensei",
+      "ep": 11,
+      "ago": "?",
+      "img": "b6f8i",
+      "ahId": "pijt4"
+    },
+    {
+      "titre": "Detective Conan",
+      "titreJp": "Case Closed, Meitantei Conan",
+      "ep": 1204,
+      "ago": "2h",
+      "img": "lx86z",
+      "ahId": "y9prb"
+    },
+    {
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 12,
-      "ago": "?",
+      "ago": "3h",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -12,7 +28,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 11,
-      "ago": "1h",
+      "ago": "4h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -20,7 +36,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 141,
-      "ago": "2h",
+      "ago": "5h",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -28,7 +44,7 @@
       "titre": "Lord of Mysteries Specials",
       "titreJp": "Guimi Zhi Zhu Specials",
       "ep": 1,
-      "ago": "8h",
+      "ago": "11h",
       "img": "5xaaz",
       "ahId": "okq7x"
     },
@@ -36,7 +52,7 @@
       "titre": "Zombie Land Saga Revenge",
       "titreJp": "",
       "ep": 12,
-      "ago": "12h",
+      "ago": "14h",
       "img": "vsiwj",
       "ahId": "25c5q"
     },
@@ -44,7 +60,7 @@
       "titre": "Zombie Land Saga",
       "titreJp": "",
       "ep": 12,
-      "ago": "15h",
+      "ago": "18h",
       "img": "4uaqu",
       "ahId": "h4qss"
     },
@@ -52,7 +68,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 13,
-      "ago": "18h",
+      "ago": "21h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -60,7 +76,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 11,
-      "ago": "18h",
+      "ago": "21h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -68,7 +84,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 11,
-      "ago": "19h",
+      "ago": "22h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -76,7 +92,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 12,
-      "ago": "19h",
+      "ago": "22h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -84,7 +100,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 11,
-      "ago": "20h",
+      "ago": "22h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -92,7 +108,7 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 12,
-      "ago": "22h",
+      "ago": "1d",
       "img": "8ezmn",
       "ahId": "nv9bp"
     },
@@ -180,7 +196,7 @@
       "titre": "The Barbarian's Bride",
       "titreJp": "Himekishi wa Barbaroi no Yome",
       "ep": 11,
-      "ago": "1d",
+      "ago": "2d",
       "img": "synxi",
       "ahId": "hi6b1"
     },
@@ -252,7 +268,7 @@
       "titre": "Rent-a-Girlfriend Season 5",
       "titreJp": "Kanojo, Okarishimasu 5th Season",
       "ep": 11,
-      "ago": "2d",
+      "ago": "3d",
       "img": "7nqj7",
       "ahId": "i0kd0"
     },
@@ -260,7 +276,7 @@
       "titre": "Classroom of the Elite 4th Season",
       "titreJp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
       "ep": 15,
-      "ago": "2d",
+      "ago": "3d",
       "img": "npea5",
       "ahId": "nzwhr"
     },
@@ -340,7 +356,7 @@
       "titre": "The Most Heretical Last Boss Queen: From Villainess to Savior 2nd Season",
       "titreJp": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Min no Tame ni Tsukushimasu. 2nd Season",
       "ep": 11,
-      "ago": "3d",
+      "ago": "4d",
       "img": "5zcck",
       "ahId": "np9nt"
     },
@@ -527,25 +543,9 @@
       "ago": "6d",
       "img": "dks5o",
       "ahId": "pm96z"
-    },
-    {
-      "titre": "Mistress Kanan is Devilishly Easy",
-      "titreJp": "Kanan-sama wa Akumade Choroi",
-      "ep": 11,
-      "ago": "6d",
-      "img": "8q6wl",
-      "ahId": "3uz6y"
-    },
-    {
-      "titre": "Akane-banashi",
-      "titreJp": "",
-      "ep": 11,
-      "ago": "6d",
-      "img": "7j7kb",
-      "ahId": "o8996"
     }
   ],
-  "updatedAt": "2026-06-20T11:14:26.259Z",
+  "updatedAt": "2026-06-20T13:54:51.732Z",
   "source": "github-actions",
   "count": 68
 }
