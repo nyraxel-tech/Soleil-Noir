@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "The Great Sage Ryddel and the Hands of Time",
+      "titreJp": "Daikenja Riddle no Jikan Gyakko",
+      "ep": 12,
+      "ago": "?",
+      "img": "tl46m",
+      "ahId": "rf6nw"
+    },
+    {
+      "titre": "Ichijouma Mankitsugurashi!",
+      "titreJp": "",
+      "ep": 11,
+      "ago": "1h",
+      "img": "wm2v7",
+      "ahId": "ccxi5"
+    },
+    {
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 23,
-      "ago": "?",
+      "ago": "1h",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -12,7 +28,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 12,
-      "ago": "?",
+      "ago": "2h",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -20,7 +36,7 @@
       "titre": "Agents of the Four Seasons: Dance of Spring",
       "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
       "ep": 13,
-      "ago": "?",
+      "ago": "2h",
       "img": "fxza8",
       "ahId": "boii6"
     },
@@ -28,7 +44,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 12,
-      "ago": "1h",
+      "ago": "3h",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -36,7 +52,7 @@
       "titre": "Mistress Kanan is Devilishly Easy",
       "titreJp": "Kanan-sama wa Akumade Choroi",
       "ep": 12,
-      "ago": "1h",
+      "ago": "3h",
       "img": "8q6wl",
       "ahId": "3uz6y"
     },
@@ -44,7 +60,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 12,
-      "ago": "1h",
+      "ago": "3h",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -52,7 +68,7 @@
       "titre": "Akane-banashi",
       "titreJp": "",
       "ep": 12,
-      "ago": "1h",
+      "ago": "3h",
       "img": "7j7kb",
       "ahId": "o8996"
     },
@@ -60,7 +76,7 @@
       "titre": "Kill Blue",
       "titreJp": "Kill Ao",
       "ep": 11,
-      "ago": "2h",
+      "ago": "4h",
       "img": "dns6b",
       "ahId": "y5v48"
     },
@@ -68,7 +84,7 @@
       "titre": "Yowayowa Teacher",
       "titreJp": "Yowayowa Sensei",
       "ep": 11,
-      "ago": "4h",
+      "ago": "6h",
       "img": "b6f8i",
       "ahId": "pijt4"
     },
@@ -76,7 +92,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1204,
-      "ago": "5h",
+      "ago": "7h",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -84,7 +100,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 12,
-      "ago": "6h",
+      "ago": "8h",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -92,7 +108,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 11,
-      "ago": "7h",
+      "ago": "9h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -100,7 +116,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 141,
-      "ago": "8h",
+      "ago": "10h",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -108,7 +124,7 @@
       "titre": "Lord of Mysteries Specials",
       "titreJp": "Guimi Zhi Zhu Specials",
       "ep": 1,
-      "ago": "14h",
+      "ago": "16h",
       "img": "5xaaz",
       "ahId": "okq7x"
     },
@@ -116,7 +132,7 @@
       "titre": "Zombie Land Saga Revenge",
       "titreJp": "",
       "ep": 12,
-      "ago": "18h",
+      "ago": "20h",
       "img": "vsiwj",
       "ahId": "25c5q"
     },
@@ -124,7 +140,7 @@
       "titre": "Zombie Land Saga",
       "titreJp": "",
       "ep": 12,
-      "ago": "21h",
+      "ago": "23h",
       "img": "4uaqu",
       "ahId": "h4qss"
     },
@@ -188,7 +204,7 @@
       "titre": "Monster Eater",
       "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
       "ep": 12,
-      "ago": "1d",
+      "ago": "2d",
       "img": "anfea",
       "ahId": "pi6yi"
     },
@@ -196,7 +212,7 @@
       "titre": "Killed Again, Mr. Detective?",
       "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
       "ep": 12,
-      "ago": "1d",
+      "ago": "2d",
       "img": "j0cec",
       "ahId": "0cwi8"
     },
@@ -356,7 +372,7 @@
       "titre": "My Ribdiculous Reincarnation",
       "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
       "ep": 11,
-      "ago": "3d",
+      "ago": "4d",
       "img": "27pp6",
       "ahId": "xw4de"
     },
@@ -364,7 +380,7 @@
       "titre": "Pardon the Intrusion, I'm Home!",
       "titreJp": "Tadaima, Ojamasaremasu!",
       "ep": 11,
-      "ago": "3d",
+      "ago": "4d",
       "img": "mwvn6",
       "ahId": "c3nol"
     },
@@ -492,7 +508,7 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 11,
-      "ago": "5d",
+      "ago": "6d",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -527,25 +543,9 @@
       "ago": "6d",
       "img": "rgi7x",
       "ahId": "feqdi"
-    },
-    {
-      "titre": "The Food Diary of Miss Maid",
-      "titreJp": "Maid-san wa Taberu dake",
-      "ep": 12,
-      "ago": "6d",
-      "img": "w1qq7",
-      "ahId": "7b5z4"
-    },
-    {
-      "titre": "Ace of the Diamond: Act II 2nd Season",
-      "titreJp": "Diamond no Ace: Act II 2nd Season",
-      "ep": 11,
-      "ago": "6d",
-      "img": "c50pz",
-      "ahId": "dd464"
     }
   ],
-  "updatedAt": "2026-06-20T17:23:11.849Z",
+  "updatedAt": "2026-06-20T19:20:33.243Z",
   "source": "github-actions",
   "count": 68
 }
