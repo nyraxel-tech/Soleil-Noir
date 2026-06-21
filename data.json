@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Baka and Test - Summon the Beasts",
+      "titreJp": "Baka to Test to Shoukanjuu",
+      "ep": 2,
+      "ago": "?",
+      "img": "lcrl0",
+      "ahId": "ah4rl"
+    },
+    {
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 12,
-      "ago": "?",
+      "ago": "2h",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -12,7 +20,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1167,
-      "ago": "2h",
+      "ago": "4h",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -20,7 +28,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 12,
-      "ago": "2h",
+      "ago": "4h",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -28,7 +36,7 @@
       "titre": "Ghost Concert: Missing Songs",
       "titreJp": "",
       "ep": 12,
-      "ago": "2h",
+      "ago": "4h",
       "img": "1ljqb",
       "ahId": "8p2tr"
     },
@@ -36,7 +44,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 11,
-      "ago": "3h",
+      "ago": "5h",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -44,7 +52,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season",
       "titreJp": "Diamond no Ace: Act II 2nd Season",
       "ep": 12,
-      "ago": "9h",
+      "ago": "11h",
       "img": "c50pz",
       "ahId": "dd464"
     },
@@ -52,7 +60,7 @@
       "titre": "Wistoria: Wand and Sword 2nd Season",
       "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
       "ep": 11,
-      "ago": "9h",
+      "ago": "11h",
       "img": "h6l0c",
       "ahId": "y98v5"
     },
@@ -60,7 +68,7 @@
       "titre": "Mission: Yozakura Family Season 2",
       "titreJp": "Yozakura-san Chi no Daisakusen Season 2",
       "ep": 11,
-      "ago": "10h",
+      "ago": "12h",
       "img": "rgi7x",
       "ahId": "feqdi"
     },
@@ -68,7 +76,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 36,
-      "ago": "15h",
+      "ago": "17h",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -76,7 +84,7 @@
       "titre": "The Great Sage Ryddel and the Hands of Time",
       "titreJp": "Daikenja Riddle no Jikan Gyakko",
       "ep": 12,
-      "ago": "23h",
+      "ago": "1d",
       "img": "tl46m",
       "ahId": "rf6nw"
     },
@@ -212,7 +220,7 @@
       "titre": "Zombie Land Saga",
       "titreJp": "",
       "ep": 12,
-      "ago": "1d",
+      "ago": "2d",
       "img": "4uaqu",
       "ahId": "h4qss"
     },
@@ -276,7 +284,7 @@
       "titre": "Monster Eater",
       "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
       "ep": 12,
-      "ago": "2d",
+      "ago": "3d",
       "img": "anfea",
       "ahId": "pi6yi"
     },
@@ -444,7 +452,7 @@
       "titre": "My Ribdiculous Reincarnation",
       "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
       "ep": 11,
-      "ago": "4d",
+      "ago": "5d",
       "img": "27pp6",
       "ahId": "xw4de"
     },
@@ -535,17 +543,9 @@
       "ago": "6d",
       "img": "csbrl",
       "ahId": "l3kxg"
-    },
-    {
-      "titre": "The Klutzy Class Monitor and the Girl with the Short Skirt",
-      "titreJp": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
-      "ep": 11,
-      "ago": "6d",
-      "img": "jh4do",
-      "ahId": "fcmyo"
     }
   ],
-  "updatedAt": "2026-06-21T18:17:29.889Z",
+  "updatedAt": "2026-06-21T20:22:22.455Z",
   "source": "github-actions",
   "count": 68
 }
