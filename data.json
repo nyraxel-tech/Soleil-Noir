@@ -4,7 +4,7 @@
       "titre": "Baka and Test - Summon the Beasts 2",
       "titreJp": "Baka to Test to Shoukanjuu Ni!",
       "ep": 13,
-      "ago": "?",
+      "ago": "6h",
       "img": "lh4j8",
       "ahId": "o8tj1"
     },
@@ -12,7 +12,7 @@
       "titre": "Baka and Test - Summon the Beasts",
       "titreJp": "Baka to Test to Shoukanjuu",
       "ep": 13,
-      "ago": "2h",
+      "ago": "8h",
       "img": "lcrl0",
       "ahId": "ah4rl"
     },
@@ -20,7 +20,7 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 12,
-      "ago": "6h",
+      "ago": "12h",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -28,7 +28,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1167,
-      "ago": "7h",
+      "ago": "14h",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -36,7 +36,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 12,
-      "ago": "8h",
+      "ago": "14h",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -44,7 +44,7 @@
       "titre": "Ghost Concert: Missing Songs",
       "titreJp": "",
       "ep": 12,
-      "ago": "8h",
+      "ago": "14h",
       "img": "1ljqb",
       "ahId": "8p2tr"
     },
@@ -52,7 +52,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 11,
-      "ago": "8h",
+      "ago": "15h",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -60,7 +60,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season",
       "titreJp": "Diamond no Ace: Act II 2nd Season",
       "ep": 12,
-      "ago": "14h",
+      "ago": "21h",
       "img": "c50pz",
       "ahId": "dd464"
     },
@@ -68,7 +68,7 @@
       "titre": "Wistoria: Wand and Sword 2nd Season",
       "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
       "ep": 11,
-      "ago": "15h",
+      "ago": "21h",
       "img": "h6l0c",
       "ahId": "y98v5"
     },
@@ -76,7 +76,7 @@
       "titre": "Mission: Yozakura Family Season 2",
       "titreJp": "Yozakura-san Chi no Daisakusen Season 2",
       "ep": 11,
-      "ago": "16h",
+      "ago": "22h",
       "img": "rgi7x",
       "ahId": "feqdi"
     },
@@ -84,7 +84,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 36,
-      "ago": "20h",
+      "ago": "1d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -212,7 +212,7 @@
       "titre": "Lord of Mysteries Specials",
       "titreJp": "Guimi Zhi Zhu Specials",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "5xaaz",
       "ahId": "okq7x"
     },
@@ -452,7 +452,7 @@
       "titre": "Log Horizon 2",
       "titreJp": "",
       "ep": 25,
-      "ago": "4d",
+      "ago": "5d",
       "img": "9x7v7",
       "ahId": "0cezs"
     },
@@ -532,7 +532,7 @@
       "titre": "Log Horizon",
       "titreJp": "",
       "ep": 25,
-      "ago": "5d",
+      "ago": "6d",
       "img": "t3zck",
       "ahId": "4aij9"
     },
@@ -545,7 +545,7 @@
       "ahId": "xyc65"
     }
   ],
-  "updatedAt": "2026-06-22T00:08:14.899Z",
+  "updatedAt": "2026-06-22T06:26:00.122Z",
   "source": "github-actions",
   "count": 68
 }
