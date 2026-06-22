@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Magical Sisters Lulutto Lilly",
+      "titreJp": "Mahou no Shimai Lulutto Lilly",
+      "ep": 12,
+      "ago": "3h",
+      "img": "g8cab",
+      "ahId": "gnqba"
+    },
+    {
       "titre": "Baka and Test - Summon the Beasts 2",
       "titreJp": "Baka to Test to Shoukanjuu Ni!",
       "ep": 13,
-      "ago": "6h",
+      "ago": "12h",
       "img": "lh4j8",
       "ahId": "o8tj1"
     },
@@ -12,7 +20,7 @@
       "titre": "Baka and Test - Summon the Beasts",
       "titreJp": "Baka to Test to Shoukanjuu",
       "ep": 13,
-      "ago": "8h",
+      "ago": "14h",
       "img": "lcrl0",
       "ahId": "ah4rl"
     },
@@ -20,7 +28,7 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 12,
-      "ago": "12h",
+      "ago": "19h",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -28,23 +36,15 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1167,
-      "ago": "14h",
+      "ago": "20h",
       "img": "zbt7y",
       "ahId": "1ht8d"
-    },
-    {
-      "titre": "Magical Sisters Lulutto Lilly",
-      "titreJp": "Mahou no Shimai Lulutto Lilly",
-      "ep": 12,
-      "ago": "14h",
-      "img": "g8cab",
-      "ahId": "gnqba"
     },
     {
       "titre": "Ghost Concert: Missing Songs",
       "titreJp": "",
       "ep": 12,
-      "ago": "14h",
+      "ago": "21h",
       "img": "1ljqb",
       "ahId": "8p2tr"
     },
@@ -52,7 +52,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 11,
-      "ago": "15h",
+      "ago": "21h",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -60,7 +60,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season",
       "titreJp": "Diamond no Ace: Act II 2nd Season",
       "ep": 12,
-      "ago": "21h",
+      "ago": "1d",
       "img": "c50pz",
       "ahId": "dd464"
     },
@@ -68,7 +68,7 @@
       "titre": "Wistoria: Wand and Sword 2nd Season",
       "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
       "ep": 11,
-      "ago": "21h",
+      "ago": "1d",
       "img": "h6l0c",
       "ahId": "y98v5"
     },
@@ -76,7 +76,7 @@
       "titre": "Mission: Yozakura Family Season 2",
       "titreJp": "Yozakura-san Chi no Daisakusen Season 2",
       "ep": 11,
-      "ago": "22h",
+      "ago": "1d",
       "img": "rgi7x",
       "ahId": "feqdi"
     },
@@ -180,7 +180,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1204,
-      "ago": "1d",
+      "ago": "2d",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -188,7 +188,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 12,
-      "ago": "1d",
+      "ago": "2d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -196,7 +196,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 11,
-      "ago": "1d",
+      "ago": "2d",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -204,7 +204,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 141,
-      "ago": "1d",
+      "ago": "2d",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -284,7 +284,7 @@
       "titre": "Zombie Land Saga Movie: Yumeginga Paradise",
       "titreJp": "",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "yb4l8",
       "ahId": "6t6r9"
     },
@@ -364,7 +364,7 @@
       "titre": "The Barbarian's Bride",
       "titreJp": "Himekishi wa Barbaroi no Yome",
       "ep": 11,
-      "ago": "3d",
+      "ago": "4d",
       "img": "synxi",
       "ahId": "hi6b1"
     },
@@ -372,7 +372,7 @@
       "titre": "BAKI-DOU: The Invincible Samurai",
       "titreJp": "",
       "ep": 25,
-      "ago": "3d",
+      "ago": "4d",
       "img": "ww5ij",
       "ahId": "5ebj0"
     },
@@ -380,7 +380,7 @@
       "titre": "When They Cry: Higurashi",
       "titreJp": "Higurashi no Naku Koro ni",
       "ep": 26,
-      "ago": "3d",
+      "ago": "4d",
       "img": "k2u6q",
       "ahId": "govlg"
     },
@@ -444,7 +444,7 @@
       "titre": "Classroom of the Elite 4th Season",
       "titreJp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
       "ep": 15,
-      "ago": "4d",
+      "ago": "5d",
       "img": "npea5",
       "ahId": "nzwhr"
     },
@@ -545,7 +545,7 @@
       "ahId": "xyc65"
     }
   ],
-  "updatedAt": "2026-06-22T06:26:00.122Z",
+  "updatedAt": "2026-06-22T12:46:53.437Z",
   "source": "github-actions",
   "count": 68
 }
