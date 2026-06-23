@@ -4,7 +4,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 12,
-      "ago": "7h",
+      "ago": "12h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -12,7 +12,7 @@
       "titre": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "titreJp": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
       "ep": 12,
-      "ago": "8h",
+      "ago": "13h",
       "img": "jh4do",
       "ahId": "fcmyo"
     },
@@ -20,7 +20,7 @@
       "titre": "Witch Hat Atelier",
       "titreJp": "Tongari Boushi no Atelier",
       "ep": 13,
-      "ago": "9h",
+      "ago": "14h",
       "img": "6rlo7",
       "ahId": "df4in"
     },
@@ -28,7 +28,7 @@
       "titre": "Farming Life in Another World 2",
       "titreJp": "Isekai Nonbiri Nouka 2",
       "ep": 12,
-      "ago": "9h",
+      "ago": "14h",
       "img": "b7en4",
       "ahId": "fae6d"
     },
@@ -36,7 +36,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 12,
-      "ago": "15h",
+      "ago": "20h",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -116,7 +116,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 36,
-      "ago": "1d",
+      "ago": "2d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -244,7 +244,7 @@
       "titre": "Lord of Mysteries Specials",
       "titreJp": "Guimi Zhi Zhu Specials",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "5xaaz",
       "ahId": "okq7x"
     },
@@ -484,7 +484,7 @@
       "titre": "Log Horizon 2",
       "titreJp": "",
       "ep": 25,
-      "ago": "5d",
+      "ago": "6d",
       "img": "9x7v7",
       "ahId": "0cezs"
     },
@@ -545,7 +545,7 @@
       "ahId": "jrvi5"
     }
   ],
-  "updatedAt": "2026-06-23T00:02:37.015Z",
+  "updatedAt": "2026-06-23T04:57:05.157Z",
   "source": "github-actions",
   "count": 68
 }
