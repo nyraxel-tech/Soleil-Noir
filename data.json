@@ -4,7 +4,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 12,
-      "ago": "12h",
+      "ago": "16h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -12,7 +12,7 @@
       "titre": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "titreJp": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
       "ep": 12,
-      "ago": "13h",
+      "ago": "17h",
       "img": "jh4do",
       "ahId": "fcmyo"
     },
@@ -20,7 +20,7 @@
       "titre": "Witch Hat Atelier",
       "titreJp": "Tongari Boushi no Atelier",
       "ep": 13,
-      "ago": "14h",
+      "ago": "18h",
       "img": "6rlo7",
       "ahId": "df4in"
     },
@@ -28,7 +28,7 @@
       "titre": "Farming Life in Another World 2",
       "titreJp": "Isekai Nonbiri Nouka 2",
       "ep": 12,
-      "ago": "14h",
+      "ago": "18h",
       "img": "b7en4",
       "ahId": "fae6d"
     },
@@ -36,7 +36,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 12,
-      "ago": "20h",
+      "ago": "23h",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -108,7 +108,7 @@
       "titre": "Mission: Yozakura Family Season 2",
       "titreJp": "Yozakura-san Chi no Daisakusen Season 2",
       "ep": 11,
-      "ago": "1d",
+      "ago": "2d",
       "img": "rgi7x",
       "ahId": "feqdi"
     },
@@ -545,7 +545,7 @@
       "ahId": "jrvi5"
     }
   ],
-  "updatedAt": "2026-06-23T04:57:05.157Z",
+  "updatedAt": "2026-06-23T08:29:52.500Z",
   "source": "github-actions",
   "count": 68
 }
