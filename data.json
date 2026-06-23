@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "My Ribdiculous Reincarnation",
+      "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
+      "ep": 12,
+      "ago": "1h",
+      "img": "27pp6",
+      "ahId": "xw4de"
+    },
+    {
+      "titre": "Pardon the Intrusion, I'm Home!",
+      "titreJp": "Tadaima, Ojamasaremasu!",
+      "ep": 12,
+      "ago": "2h",
+      "img": "mwvn6",
+      "ahId": "c3nol"
+    },
+    {
       "titre": "Eren the Southpaw",
       "titreJp": "Hidarikiki no Eren",
       "ep": 12,
-      "ago": "1h",
+      "ago": "3h",
       "img": "w5epl",
       "ahId": "j26hl"
     },
@@ -12,7 +28,7 @@
       "titre": "I Made Friends with the Second Prettiest Girl in My Class",
       "titreJp": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
       "ep": 12,
-      "ago": "2h",
+      "ago": "4h",
       "img": "kfuf2",
       "ahId": "3c38p"
     },
@@ -20,7 +36,7 @@
       "titre": "Even a Replica Can Fall in Love",
       "titreJp": "Replica datte, Koi wo Suru.",
       "ep": 12,
-      "ago": "2h",
+      "ago": "5h",
       "img": "z35jq",
       "ahId": "k662x"
     },
@@ -28,7 +44,7 @@
       "titre": "Marriagetoxin",
       "titreJp": "Marriage Toxin",
       "ep": 12,
-      "ago": "2h",
+      "ago": "5h",
       "img": "ljkt9",
       "ahId": "lf9gt"
     },
@@ -36,7 +52,7 @@
       "titre": "I Want to End This Love Game",
       "titreJp": "Aishiteru Game wo Owarasetai",
       "ep": 11,
-      "ago": "2h",
+      "ago": "5h",
       "img": "438x1",
       "ahId": "jrvi5"
     },
@@ -44,7 +60,7 @@
       "titre": "The Most Heretical Last Boss Queen: From Villainess to Savior 2nd Season",
       "titreJp": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Min no Tame ni Tsukushimasu. 2nd Season",
       "ep": 12,
-      "ago": "3h",
+      "ago": "6h",
       "img": "5zcck",
       "ahId": "np9nt"
     },
@@ -52,7 +68,7 @@
       "titre": "Beyond Twilight",
       "titreJp": "Hyakki Yakoushou",
       "ep": 12,
-      "ago": "3h",
+      "ago": "6h",
       "img": "0gwes",
       "ahId": "r32sr"
     },
@@ -116,7 +132,7 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 12,
-      "ago": "1d",
+      "ago": "2d",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -180,7 +196,7 @@
       "titre": "The Great Sage Ryddel and the Hands of Time",
       "titreJp": "Daikenja Riddle no Jikan Gyakko",
       "ep": 12,
-      "ago": "2d",
+      "ago": "3d",
       "img": "tl46m",
       "ahId": "rf6nw"
     },
@@ -188,7 +204,7 @@
       "titre": "Ichijouma Mankitsugurashi!",
       "titreJp": "",
       "ep": 11,
-      "ago": "2d",
+      "ago": "3d",
       "img": "wm2v7",
       "ahId": "ccxi5"
     },
@@ -196,7 +212,7 @@
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 23,
-      "ago": "2d",
+      "ago": "3d",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -316,7 +332,7 @@
       "titre": "Zombie Land Saga",
       "titreJp": "",
       "ep": 12,
-      "ago": "3d",
+      "ago": "4d",
       "img": "4uaqu",
       "ahId": "h4qss"
     },
@@ -380,7 +396,7 @@
       "titre": "Monster Eater",
       "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "anfea",
       "ahId": "pi6yi"
     },
@@ -388,7 +404,7 @@
       "titre": "Killed Again, Mr. Detective?",
       "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "j0cec",
       "ahId": "0cwi8"
     },
@@ -527,25 +543,9 @@
       "ago": "6d",
       "img": "7nqj7",
       "ahId": "i0kd0"
-    },
-    {
-      "titre": "Classroom of the Elite 4th Season",
-      "titreJp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
-      "ep": 15,
-      "ago": "6d",
-      "img": "npea5",
-      "ahId": "nzwhr"
-    },
-    {
-      "titre": "Log Horizon 2",
-      "titreJp": "",
-      "ep": 25,
-      "ago": "6d",
-      "img": "9x7v7",
-      "ahId": "0cezs"
     }
   ],
-  "updatedAt": "2026-06-23T17:17:52.430Z",
+  "updatedAt": "2026-06-23T19:58:07.668Z",
   "source": "github-actions",
   "count": 68
 }
