@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Rent-a-Girlfriend Season 5",
+      "titreJp": "Kanojo, Okarishimasu 5th Season",
+      "ep": 12,
+      "ago": "?",
+      "img": "7nqj7",
+      "ahId": "i0kd0"
+    },
+    {
+      "titre": "Classroom of the Elite 4th Season",
+      "titreJp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "ep": 16,
+      "ago": "?",
+      "img": "npea5",
+      "ahId": "nzwhr"
+    },
+    {
       "titre": "My Ribdiculous Reincarnation",
       "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
       "ep": 12,
-      "ago": "15h",
+      "ago": "18h",
       "img": "27pp6",
       "ahId": "xw4de"
     },
@@ -12,7 +28,7 @@
       "titre": "Pardon the Intrusion, I'm Home!",
       "titreJp": "Tadaima, Ojamasaremasu!",
       "ep": 12,
-      "ago": "16h",
+      "ago": "19h",
       "img": "mwvn6",
       "ahId": "c3nol"
     },
@@ -20,7 +36,7 @@
       "titre": "Eren the Southpaw",
       "titreJp": "Hidarikiki no Eren",
       "ep": 12,
-      "ago": "18h",
+      "ago": "21h",
       "img": "w5epl",
       "ahId": "j26hl"
     },
@@ -28,7 +44,7 @@
       "titre": "I Made Friends with the Second Prettiest Girl in My Class",
       "titreJp": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
       "ep": 12,
-      "ago": "19h",
+      "ago": "22h",
       "img": "kfuf2",
       "ahId": "3c38p"
     },
@@ -36,7 +52,7 @@
       "titre": "Even a Replica Can Fall in Love",
       "titreJp": "Replica datte, Koi wo Suru.",
       "ep": 12,
-      "ago": "19h",
+      "ago": "22h",
       "img": "z35jq",
       "ahId": "k662x"
     },
@@ -44,7 +60,7 @@
       "titre": "Marriagetoxin",
       "titreJp": "Marriage Toxin",
       "ep": 12,
-      "ago": "19h",
+      "ago": "22h",
       "img": "ljkt9",
       "ahId": "lf9gt"
     },
@@ -52,7 +68,7 @@
       "titre": "I Want to End This Love Game",
       "titreJp": "Aishiteru Game wo Owarasetai",
       "ep": 11,
-      "ago": "19h",
+      "ago": "22h",
       "img": "438x1",
       "ahId": "jrvi5"
     },
@@ -60,7 +76,7 @@
       "titre": "The Most Heretical Last Boss Queen: From Villainess to Savior 2nd Season",
       "titreJp": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Min no Tame ni Tsukushimasu. 2nd Season",
       "ep": 12,
-      "ago": "20h",
+      "ago": "23h",
       "img": "5zcck",
       "ahId": "np9nt"
     },
@@ -68,7 +84,7 @@
       "titre": "Beyond Twilight",
       "titreJp": "Hyakki Yakoushou",
       "ep": 12,
-      "ago": "20h",
+      "ago": "23h",
       "img": "0gwes",
       "ahId": "r32sr"
     },
@@ -276,7 +292,7 @@
       "titre": "Yowayowa Teacher",
       "titreJp": "Yowayowa Sensei",
       "ep": 11,
-      "ago": "3d",
+      "ago": "4d",
       "img": "b6f8i",
       "ahId": "pijt4"
     },
@@ -284,7 +300,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1204,
-      "ago": "3d",
+      "ago": "4d",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -292,7 +308,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 12,
-      "ago": "3d",
+      "ago": "4d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -380,7 +396,7 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "8ezmn",
       "ahId": "nv9bp"
     },
@@ -388,7 +404,7 @@
       "titre": "Zombie Land Saga Movie: Yumeginga Paradise",
       "titreJp": "",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "yb4l8",
       "ahId": "6t6r9"
     },
@@ -468,7 +484,7 @@
       "titre": "The Barbarian's Bride",
       "titreJp": "Himekishi wa Barbaroi no Yome",
       "ep": 11,
-      "ago": "5d",
+      "ago": "6d",
       "img": "synxi",
       "ahId": "hi6b1"
     },
@@ -527,25 +543,9 @@
       "ago": "6d",
       "img": "7tc0j",
       "ahId": "ilp9j"
-    },
-    {
-      "titre": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season",
-      "titreJp": "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
-      "ep": 11,
-      "ago": "6d",
-      "img": "cirfw",
-      "ahId": "5iqzo"
-    },
-    {
-      "titre": "Rent-a-Girlfriend Season 5",
-      "titreJp": "Kanojo, Okarishimasu 5th Season",
-      "ep": 11,
-      "ago": "6d",
-      "img": "7nqj7",
-      "ahId": "i0kd0"
     }
   ],
-  "updatedAt": "2026-06-24T10:20:13.277Z",
+  "updatedAt": "2026-06-24T13:18:56.905Z",
   "source": "github-actions",
   "count": 68
 }
