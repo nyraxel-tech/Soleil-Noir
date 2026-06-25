@@ -4,7 +4,7 @@
       "titre": "The Beginning After the End Season 2",
       "titreJp": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
       "ep": 12,
-      "ago": "5h",
+      "ago": "7h",
       "img": "zmy4z",
       "ahId": "fv1vj"
     },
@@ -12,7 +12,7 @@
       "titre": "Gals Can’t Be Kind to Otaku!?",
       "titreJp": "Otaku ni Yasashii Gyaru wa Inai!?",
       "ep": 12,
-      "ago": "6h",
+      "ago": "8h",
       "img": "j5umi",
       "ahId": "kq3pz"
     },
@@ -20,7 +20,7 @@
       "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
       "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
       "ep": 1,
-      "ago": "7h",
+      "ago": "9h",
       "img": "ycs89",
       "ahId": "q3n2b"
     },
@@ -28,7 +28,7 @@
       "titre": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season",
       "titreJp": "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
       "ep": 12,
-      "ago": "8h",
+      "ago": "9h",
       "img": "cirfw",
       "ahId": "5iqzo"
     },
@@ -36,7 +36,7 @@
       "titre": "Rent-a-Girlfriend Season 5",
       "titreJp": "Kanojo, Okarishimasu 5th Season",
       "ep": 12,
-      "ago": "9h",
+      "ago": "10h",
       "img": "7nqj7",
       "ahId": "i0kd0"
     },
@@ -44,7 +44,7 @@
       "titre": "Classroom of the Elite 4th Season",
       "titreJp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
       "ep": 16,
-      "ago": "9h",
+      "ago": "11h",
       "img": "npea5",
       "ahId": "nzwhr"
     },
@@ -164,7 +164,7 @@
       "titre": "Baka and Test - Summon the Beasts 2",
       "titreJp": "Baka to Test to Shoukanjuu Ni!",
       "ep": 13,
-      "ago": "2d",
+      "ago": "3d",
       "img": "lh4j8",
       "ahId": "o8tj1"
     },
@@ -372,7 +372,7 @@
       "titre": "Zombie Land Saga Revenge",
       "titreJp": "",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "vsiwj",
       "ahId": "25c5q"
     },
@@ -545,7 +545,7 @@
       "ahId": "rviy5"
     }
   ],
-  "updatedAt": "2026-06-24T22:14:04.566Z",
+  "updatedAt": "2026-06-25T00:08:04.723Z",
   "source": "github-actions",
   "count": 68
 }
