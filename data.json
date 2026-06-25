@@ -4,7 +4,7 @@
       "titre": "The Ramparts of Ice",
       "titreJp": "Koori no Jouheki, Ice Castle Wall",
       "ep": 13,
-      "ago": "3h",
+      "ago": "5h",
       "img": "cs30h",
       "ahId": "jx2jr"
     },
@@ -12,7 +12,7 @@
       "titre": "A Hundred Scenes of AWAJIMA",
       "titreJp": "Awajima Hyakkei",
       "ep": 12,
-      "ago": "4h",
+      "ago": "6h",
       "img": "r7ozz",
       "ahId": "oh0q2"
     },
@@ -20,7 +20,7 @@
       "titre": "Petals of Reincarnation",
       "titreJp": "Reincarnation no Kaben",
       "ep": 13,
-      "ago": "4h",
+      "ago": "6h",
       "img": "iideg",
       "ahId": "b2ybn"
     },
@@ -28,7 +28,7 @@
       "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
       "ep": 1,
-      "ago": "6h",
+      "ago": "8h",
       "img": "cy9ca",
       "ahId": "ultkb"
     },
@@ -36,7 +36,7 @@
       "titre": "Dr. Stone: Science Future - Part III",
       "titreJp": "",
       "ep": 13,
-      "ago": "7h",
+      "ago": "8h",
       "img": "oxfds",
       "ahId": "xvd0a"
     },
@@ -44,7 +44,7 @@
       "titre": "Kujima: Why Sing, When You Can Warble?",
       "titreJp": "Kujima Utaeba Ie Hororo",
       "ep": 12,
-      "ago": "7h",
+      "ago": "9h",
       "img": "pv8qk",
       "ahId": "gbdj0"
     },
@@ -52,7 +52,7 @@
       "titre": "The Barbarian's Bride",
       "titreJp": "Himekishi wa Barbaroi no Yome",
       "ep": 12,
-      "ago": "7h",
+      "ago": "9h",
       "img": "synxi",
       "ahId": "hi6b1"
     },
@@ -228,7 +228,7 @@
       "titre": "Baka and Test - Summon the Beasts",
       "titreJp": "Baka to Test to Shoukanjuu",
       "ep": 13,
-      "ago": "3d",
+      "ago": "4d",
       "img": "lcrl0",
       "ahId": "ah4rl"
     },
@@ -428,7 +428,7 @@
       "titre": "Zombie Land Saga Revenge",
       "titreJp": "",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "vsiwj",
       "ahId": "25c5q"
     },
@@ -545,7 +545,7 @@
       "ahId": "govlg"
     }
   ],
-  "updatedAt": "2026-06-25T21:39:58.548Z",
+  "updatedAt": "2026-06-25T23:14:44.111Z",
   "source": "github-actions",
   "count": 68
 }
