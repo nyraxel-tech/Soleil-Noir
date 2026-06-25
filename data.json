@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "The Ramparts of Ice",
+      "titreJp": "Koori no Jouheki, Ice Castle Wall",
+      "ep": 13,
+      "ago": "1h",
+      "img": "cs30h",
+      "ahId": "jx2jr"
+    },
+    {
       "titre": "A Hundred Scenes of AWAJIMA",
       "titreJp": "Awajima Hyakkei",
       "ep": 12,
-      "ago": "?",
+      "ago": "2h",
       "img": "r7ozz",
       "ahId": "oh0q2"
     },
@@ -12,7 +20,7 @@
       "titre": "Petals of Reincarnation",
       "titreJp": "Reincarnation no Kaben",
       "ep": 13,
-      "ago": "?",
+      "ago": "3h",
       "img": "iideg",
       "ahId": "b2ybn"
     },
@@ -20,7 +28,7 @@
       "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
       "ep": 1,
-      "ago": "2h",
+      "ago": "4h",
       "img": "cy9ca",
       "ahId": "ultkb"
     },
@@ -28,7 +36,7 @@
       "titre": "Dr. Stone: Science Future - Part III",
       "titreJp": "",
       "ep": 13,
-      "ago": "2h",
+      "ago": "5h",
       "img": "oxfds",
       "ahId": "xvd0a"
     },
@@ -36,7 +44,7 @@
       "titre": "Kujima: Why Sing, When You Can Warble?",
       "titreJp": "Kujima Utaeba Ie Hororo",
       "ep": 12,
-      "ago": "3h",
+      "ago": "5h",
       "img": "pv8qk",
       "ahId": "gbdj0"
     },
@@ -44,7 +52,7 @@
       "titre": "The Barbarian's Bride",
       "titreJp": "Himekishi wa Barbaroi no Yome",
       "ep": 12,
-      "ago": "3h",
+      "ago": "6h",
       "img": "synxi",
       "ahId": "hi6b1"
     },
@@ -100,7 +108,7 @@
       "titre": "My Ribdiculous Reincarnation",
       "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
       "ep": 12,
-      "ago": "1d",
+      "ago": "2d",
       "img": "27pp6",
       "ahId": "xw4de"
     },
@@ -108,7 +116,7 @@
       "titre": "Pardon the Intrusion, I'm Home!",
       "titreJp": "Tadaima, Ojamasaremasu!",
       "ep": 12,
-      "ago": "1d",
+      "ago": "2d",
       "img": "mwvn6",
       "ahId": "c3nol"
     },
@@ -228,7 +236,7 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 12,
-      "ago": "3d",
+      "ago": "4d",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -292,7 +300,7 @@
       "titre": "The Great Sage Ryddel and the Hands of Time",
       "titreJp": "Daikenja Riddle no Jikan Gyakko",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "tl46m",
       "ahId": "rf6nw"
     },
@@ -300,7 +308,7 @@
       "titre": "Ichijouma Mankitsugurashi!",
       "titreJp": "",
       "ep": 11,
-      "ago": "4d",
+      "ago": "5d",
       "img": "wm2v7",
       "ahId": "ccxi5"
     },
@@ -308,7 +316,7 @@
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 23,
-      "ago": "4d",
+      "ago": "5d",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -316,7 +324,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -428,7 +436,7 @@
       "titre": "Zombie Land Saga",
       "titreJp": "",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "4uaqu",
       "ahId": "h4qss"
     },
@@ -492,7 +500,7 @@
       "titre": "Monster Eater",
       "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
       "ep": 12,
-      "ago": "6d",
+      "ago": "7d",
       "img": "anfea",
       "ahId": "pi6yi"
     },
@@ -500,7 +508,7 @@
       "titre": "Killed Again, Mr. Detective?",
       "titreJp": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
       "ep": 12,
-      "ago": "6d",
+      "ago": "7d",
       "img": "j0cec",
       "ahId": "0cwi8"
     },
@@ -511,14 +519,6 @@
       "ago": "7d",
       "img": "dw9gn",
       "ahId": "7s4ze"
-    },
-    {
-      "titre": "The Ramparts of Ice",
-      "titreJp": "Koori no Jouheki, Ice Castle Wall",
-      "ep": 12,
-      "ago": "7d",
-      "img": "cs30h",
-      "ahId": "jx2jr"
     },
     {
       "titre": "Kirio Fan Club",
@@ -545,7 +545,7 @@
       "ahId": "govlg"
     }
   ],
-  "updatedAt": "2026-06-25T17:09:40.257Z",
+  "updatedAt": "2026-06-25T19:55:17.329Z",
   "source": "github-actions",
   "count": 68
 }
