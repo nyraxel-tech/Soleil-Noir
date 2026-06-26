@@ -4,7 +4,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 14,
-      "ago": "1h",
+      "ago": "3h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -12,7 +12,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 12,
-      "ago": "4h",
+      "ago": "5h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -20,7 +20,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 12,
-      "ago": "5h",
+      "ago": "6h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -28,7 +28,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 13,
-      "ago": "5h",
+      "ago": "6h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -36,7 +36,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 12,
-      "ago": "5h",
+      "ago": "6h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -268,7 +268,7 @@
       "titre": "Baka and Test - Summon the Beasts",
       "titreJp": "Baka to Test to Shoukanjuu",
       "ep": 13,
-      "ago": "4d",
+      "ago": "5d",
       "img": "lcrl0",
       "ahId": "ah4rl"
     },
@@ -545,7 +545,7 @@
       "ahId": "govlg"
     }
   ],
-  "updatedAt": "2026-06-26T20:44:29.732Z",
+  "updatedAt": "2026-06-26T22:09:24.998Z",
   "source": "github-actions",
   "count": 68
 }
