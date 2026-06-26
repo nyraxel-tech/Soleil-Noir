@@ -4,7 +4,7 @@
       "titre": "The Ramparts of Ice",
       "titreJp": "Koori no Jouheki, Ice Castle Wall",
       "ep": 13,
-      "ago": "5h",
+      "ago": "9h",
       "img": "cs30h",
       "ahId": "jx2jr"
     },
@@ -12,7 +12,7 @@
       "titre": "A Hundred Scenes of AWAJIMA",
       "titreJp": "Awajima Hyakkei",
       "ep": 12,
-      "ago": "6h",
+      "ago": "10h",
       "img": "r7ozz",
       "ahId": "oh0q2"
     },
@@ -20,7 +20,7 @@
       "titre": "Petals of Reincarnation",
       "titreJp": "Reincarnation no Kaben",
       "ep": 13,
-      "ago": "6h",
+      "ago": "10h",
       "img": "iideg",
       "ahId": "b2ybn"
     },
@@ -28,7 +28,7 @@
       "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
       "ep": 1,
-      "ago": "8h",
+      "ago": "12h",
       "img": "cy9ca",
       "ahId": "ultkb"
     },
@@ -36,7 +36,7 @@
       "titre": "Dr. Stone: Science Future - Part III",
       "titreJp": "",
       "ep": 13,
-      "ago": "8h",
+      "ago": "13h",
       "img": "oxfds",
       "ahId": "xvd0a"
     },
@@ -44,7 +44,7 @@
       "titre": "Kujima: Why Sing, When You Can Warble?",
       "titreJp": "Kujima Utaeba Ie Hororo",
       "ep": 12,
-      "ago": "9h",
+      "ago": "13h",
       "img": "pv8qk",
       "ahId": "gbdj0"
     },
@@ -52,7 +52,7 @@
       "titre": "The Barbarian's Bride",
       "titreJp": "Himekishi wa Barbaroi no Yome",
       "ep": 12,
-      "ago": "9h",
+      "ago": "13h",
       "img": "synxi",
       "ahId": "hi6b1"
     },
@@ -220,7 +220,7 @@
       "titre": "Baka and Test - Summon the Beasts 2",
       "titreJp": "Baka to Test to Shoukanjuu Ni!",
       "ep": 13,
-      "ago": "3d",
+      "ago": "4d",
       "img": "lh4j8",
       "ahId": "o8tj1"
     },
@@ -292,7 +292,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 36,
-      "ago": "4d",
+      "ago": "5d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -420,7 +420,7 @@
       "titre": "Lord of Mysteries Specials",
       "titreJp": "Guimi Zhi Zhu Specials",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "5xaaz",
       "ahId": "okq7x"
     },
@@ -545,7 +545,7 @@
       "ahId": "govlg"
     }
   ],
-  "updatedAt": "2026-06-25T23:14:44.111Z",
+  "updatedAt": "2026-06-26T03:23:07.104Z",
   "source": "github-actions",
   "count": 68
 }
