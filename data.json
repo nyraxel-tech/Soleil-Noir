@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Fist of the North Star (2026)",
+      "titreJp": "Hokuto no Ken: Fist of the North Star",
+      "ep": 14,
+      "ago": "1h",
+      "img": "ciyvs",
+      "ahId": "fpnp2"
+    },
+    {
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 12,
-      "ago": "1h",
+      "ago": "4h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -12,7 +20,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 12,
-      "ago": "2h",
+      "ago": "5h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -20,7 +28,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 13,
-      "ago": "2h",
+      "ago": "5h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -28,7 +36,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 12,
-      "ago": "3h",
+      "ago": "5h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -140,7 +148,7 @@
       "titre": "My Ribdiculous Reincarnation",
       "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
       "ep": 12,
-      "ago": "2d",
+      "ago": "3d",
       "img": "27pp6",
       "ahId": "xw4de"
     },
@@ -332,7 +340,7 @@
       "titre": "The Great Sage Ryddel and the Hands of Time",
       "titreJp": "Daikenja Riddle no Jikan Gyakko",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "tl46m",
       "ahId": "rf6nw"
     },
@@ -468,17 +476,9 @@
       "titre": "Zombie Land Saga",
       "titreJp": "",
       "ep": 12,
-      "ago": "6d",
+      "ago": "7d",
       "img": "4uaqu",
       "ahId": "h4qss"
-    },
-    {
-      "titre": "Fist of the North Star (2026)",
-      "titreJp": "Hokuto no Ken: Fist of the North Star",
-      "ep": 13,
-      "ago": "7d",
-      "img": "ciyvs",
-      "ahId": "fpnp2"
     },
     {
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
@@ -545,7 +545,7 @@
       "ahId": "govlg"
     }
   ],
-  "updatedAt": "2026-06-26T18:29:05.287Z",
+  "updatedAt": "2026-06-26T20:44:29.732Z",
   "source": "github-actions",
   "count": 68
 }
