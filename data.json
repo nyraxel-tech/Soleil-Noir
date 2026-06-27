@@ -4,7 +4,7 @@
       "titre": "Lord of Mysteries Specials",
       "titreJp": "Guimi Zhi Zhu Specials",
       "ep": 2,
-      "ago": "2h",
+      "ago": "5h",
       "img": "5xaaz",
       "ahId": "okq7x"
     },
@@ -12,7 +12,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Movie 2: Tears of the Azure Sea",
       "titreJp": "Tensei Shitara Slime Datta Ken Movie 2: Soukai no Namida Hen",
       "ep": 1,
-      "ago": "5h",
+      "ago": "8h",
       "img": "034lt",
       "ahId": "sa311"
     },
@@ -20,7 +20,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 14,
-      "ago": "9h",
+      "ago": "12h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -28,7 +28,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 12,
-      "ago": "12h",
+      "ago": "15h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -36,7 +36,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 12,
-      "ago": "13h",
+      "ago": "16h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -44,7 +44,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 13,
-      "ago": "13h",
+      "ago": "16h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -52,7 +52,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 12,
-      "ago": "13h",
+      "ago": "16h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -545,7 +545,7 @@
       "ahId": "5ebj0"
     }
   ],
-  "updatedAt": "2026-06-27T04:50:48.081Z",
+  "updatedAt": "2026-06-27T07:46:29.160Z",
   "source": "github-actions",
   "count": 68
 }
