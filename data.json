@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Ascendance of a Bookworm Season 4",
+      "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
+      "ep": 12,
+      "ago": "?",
+      "img": "2m22z",
+      "ahId": "yeyrm"
+    },
+    {
       "titre": "Lord of Mysteries Specials",
       "titreJp": "Guimi Zhi Zhu Specials",
       "ep": 2,
-      "ago": "5h",
+      "ago": "7h",
       "img": "5xaaz",
       "ahId": "okq7x"
     },
@@ -12,7 +20,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Movie 2: Tears of the Azure Sea",
       "titreJp": "Tensei Shitara Slime Datta Ken Movie 2: Soukai no Namida Hen",
       "ep": 1,
-      "ago": "8h",
+      "ago": "10h",
       "img": "034lt",
       "ahId": "sa311"
     },
@@ -20,7 +28,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 14,
-      "ago": "12h",
+      "ago": "14h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -28,7 +36,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 12,
-      "ago": "15h",
+      "ago": "17h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -36,7 +44,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 12,
-      "ago": "16h",
+      "ago": "18h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -44,7 +52,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 13,
-      "ago": "16h",
+      "ago": "18h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -52,7 +60,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 12,
-      "ago": "16h",
+      "ago": "18h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -268,7 +276,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -324,7 +332,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season",
       "titreJp": "Diamond no Ace: Act II 2nd Season",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "c50pz",
       "ahId": "dd464"
     },
@@ -332,7 +340,7 @@
       "titre": "Wistoria: Wand and Sword 2nd Season",
       "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
       "ep": 11,
-      "ago": "5d",
+      "ago": "6d",
       "img": "h6l0c",
       "ahId": "y98v5"
     },
@@ -340,7 +348,7 @@
       "titre": "Mission: Yozakura Family Season 2",
       "titreJp": "Yozakura-san Chi no Daisakusen Season 2",
       "ep": 11,
-      "ago": "5d",
+      "ago": "6d",
       "img": "rgi7x",
       "ahId": "feqdi"
     },
@@ -457,18 +465,10 @@
       "ahId": "amsff"
     },
     {
-      "titre": "Ascendance of a Bookworm Season 4",
-      "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
-      "ep": 11,
-      "ago": "6d",
-      "img": "2m22z",
-      "ahId": "yeyrm"
-    },
-    {
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 141,
-      "ago": "6d",
+      "ago": "7d",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -545,7 +545,7 @@
       "ahId": "5ebj0"
     }
   ],
-  "updatedAt": "2026-06-27T07:46:29.160Z",
+  "updatedAt": "2026-06-27T10:03:58.065Z",
   "source": "github-actions",
   "count": 68
 }
