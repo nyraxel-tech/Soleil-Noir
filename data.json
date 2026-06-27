@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "Victoria of Many Faces",
+      "titreJp": "Tefuda ga Oume no Victoria",
+      "ep": 1205,
+      "ago": "?",
+      "img": "zwc02",
+      "ahId": "lckgk"
+    },
+    {
+      "titre": "Detective Conan",
+      "titreJp": "Case Closed, Meitantei Conan",
+      "ep": 1205,
+      "ago": "?",
+      "img": "lx86z",
+      "ahId": "y9prb"
+    },
+    {
+      "titre": "Welcome to Demon School, Iruma-kun 4",
+      "titreJp": "Mairimashita! Iruma-kun 4",
+      "ep": 13,
+      "ago": "1h",
+      "img": "lkpy4",
+      "ahId": "amsff"
+    },
+    {
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 12,
-      "ago": "?",
+      "ago": "2h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -12,7 +36,7 @@
       "titre": "Lord of Mysteries Specials",
       "titreJp": "Guimi Zhi Zhu Specials",
       "ep": 2,
-      "ago": "7h",
+      "ago": "9h",
       "img": "5xaaz",
       "ahId": "okq7x"
     },
@@ -20,7 +44,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Movie 2: Tears of the Azure Sea",
       "titreJp": "Tensei Shitara Slime Datta Ken Movie 2: Soukai no Namida Hen",
       "ep": 1,
-      "ago": "10h",
+      "ago": "12h",
       "img": "034lt",
       "ahId": "sa311"
     },
@@ -28,7 +52,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 14,
-      "ago": "14h",
+      "ago": "16h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -36,7 +60,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 12,
-      "ago": "17h",
+      "ago": "19h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -44,7 +68,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 12,
-      "ago": "18h",
+      "ago": "20h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -52,7 +76,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 13,
-      "ago": "18h",
+      "ago": "20h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -60,7 +84,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 12,
-      "ago": "18h",
+      "ago": "20h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -449,22 +473,6 @@
       "ahId": "pijt4"
     },
     {
-      "titre": "Detective Conan",
-      "titreJp": "Case Closed, Meitantei Conan",
-      "ep": 1204,
-      "ago": "6d",
-      "img": "lx86z",
-      "ahId": "y9prb"
-    },
-    {
-      "titre": "Welcome to Demon School, Iruma-kun 4",
-      "titreJp": "Mairimashita! Iruma-kun 4",
-      "ep": 12,
-      "ago": "6d",
-      "img": "lkpy4",
-      "ahId": "amsff"
-    },
-    {
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 141,
@@ -500,7 +508,7 @@
       "titre": "Zombie Land Saga Movie: Yumeginga Paradise",
       "titreJp": "",
       "ep": 1,
-      "ago": "7d",
+      "ago": "8d",
       "img": "yb4l8",
       "ahId": "6t6r9"
     },
@@ -535,17 +543,9 @@
       "ago": "8d",
       "img": "f7jfv",
       "ahId": "ji7g1"
-    },
-    {
-      "titre": "BAKI-DOU: The Invincible Samurai",
-      "titreJp": "",
-      "ep": 25,
-      "ago": "8d",
-      "img": "ww5ij",
-      "ahId": "5ebj0"
     }
   ],
-  "updatedAt": "2026-06-27T10:03:58.065Z",
+  "updatedAt": "2026-06-27T12:06:50.981Z",
   "source": "github-actions",
   "count": 68
 }
