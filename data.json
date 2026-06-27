@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "MAO",
+      "titreJp": "",
+      "ep": 13,
+      "ago": "?",
+      "img": "topci",
+      "ahId": "qw2g9"
+    },
+    {
+      "titre": "Kill Blue",
+      "titreJp": "Kill Ao",
+      "ep": 12,
+      "ago": "1h",
+      "img": "dns6b",
+      "ahId": "y5v48"
+    },
+    {
       "titre": "The Cat and the Dragon",
       "titreJp": "Neko to Ryuu",
       "ep": 1,
-      "ago": "?",
+      "ago": "1h",
       "img": "828yy",
       "ahId": "9zg3f"
     },
@@ -12,7 +28,7 @@
       "titre": "Yowayowa Teacher",
       "titreJp": "Yowayowa Sensei",
       "ep": 12,
-      "ago": "1h",
+      "ago": "2h",
       "img": "b6f8i",
       "ahId": "pijt4"
     },
@@ -20,7 +36,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 1205,
-      "ago": "2h",
+      "ago": "4h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -28,7 +44,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1205,
-      "ago": "2h",
+      "ago": "4h",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -36,7 +52,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 13,
-      "ago": "3h",
+      "ago": "5h",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -44,7 +60,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 12,
-      "ago": "4h",
+      "ago": "6h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -52,7 +68,7 @@
       "titre": "Lord of Mysteries Specials",
       "titreJp": "Guimi Zhi Zhu Specials",
       "ep": 2,
-      "ago": "12h",
+      "ago": "13h",
       "img": "5xaaz",
       "ahId": "okq7x"
     },
@@ -60,7 +76,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Movie 2: Tears of the Azure Sea",
       "titreJp": "Tensei Shitara Slime Datta Ken Movie 2: Soukai no Namida Hen",
       "ep": 1,
-      "ago": "15h",
+      "ago": "16h",
       "img": "034lt",
       "ahId": "sa311"
     },
@@ -68,7 +84,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 14,
-      "ago": "19h",
+      "ago": "20h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -76,7 +92,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 12,
-      "ago": "21h",
+      "ago": "23h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -84,7 +100,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 12,
-      "ago": "22h",
+      "ago": "1d",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -92,7 +108,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 13,
-      "ago": "22h",
+      "ago": "1d",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -100,7 +116,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 12,
-      "ago": "23h",
+      "ago": "1d",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -132,7 +148,7 @@
       "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "cy9ca",
       "ahId": "ultkb"
     },
@@ -172,7 +188,7 @@
       "titre": "Gals Can’t Be Kind to Otaku!?",
       "titreJp": "Otaku ni Yasashii Gyaru wa Inai!?",
       "ep": 12,
-      "ago": "2d",
+      "ago": "3d",
       "img": "j5umi",
       "ahId": "kq3pz"
     },
@@ -180,7 +196,7 @@
       "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
       "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "ycs89",
       "ahId": "q3n2b"
     },
@@ -236,7 +252,7 @@
       "titre": "I Made Friends with the Second Prettiest Girl in My Class",
       "titreJp": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
       "ep": 12,
-      "ago": "3d",
+      "ago": "4d",
       "img": "kfuf2",
       "ahId": "3c38p"
     },
@@ -244,7 +260,7 @@
       "titre": "Even a Replica Can Fall in Love",
       "titreJp": "Replica datte, Koi wo Suru.",
       "ep": 12,
-      "ago": "3d",
+      "ago": "4d",
       "img": "z35jq",
       "ahId": "k662x"
     },
@@ -252,7 +268,7 @@
       "titre": "Marriagetoxin",
       "titreJp": "Marriage Toxin",
       "ep": 12,
-      "ago": "3d",
+      "ago": "4d",
       "img": "ljkt9",
       "ahId": "lf9gt"
     },
@@ -260,7 +276,7 @@
       "titre": "I Want to End This Love Game",
       "titreJp": "Aishiteru Game wo Owarasetai",
       "ep": 11,
-      "ago": "3d",
+      "ago": "4d",
       "img": "438x1",
       "ahId": "jrvi5"
     },
@@ -292,7 +308,7 @@
       "titre": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "titreJp": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "jh4do",
       "ahId": "fcmyo"
     },
@@ -356,7 +372,7 @@
       "titre": "Ghost Concert: Missing Songs",
       "titreJp": "",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "1ljqb",
       "ahId": "8p2tr"
     },
@@ -364,7 +380,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 11,
-      "ago": "5d",
+      "ago": "6d",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -441,14 +457,6 @@
       "ahId": "boii6"
     },
     {
-      "titre": "MAO",
-      "titreJp": "",
-      "ep": 12,
-      "ago": "6d",
-      "img": "topci",
-      "ahId": "qw2g9"
-    },
-    {
       "titre": "Mistress Kanan is Devilishly Easy",
       "titreJp": "Kanan-sama wa Akumade Choroi",
       "ep": 12,
@@ -468,17 +476,9 @@
       "titre": "Akane-banashi",
       "titreJp": "",
       "ep": 12,
-      "ago": "6d",
+      "ago": "7d",
       "img": "7j7kb",
       "ahId": "o8996"
-    },
-    {
-      "titre": "Kill Blue",
-      "titreJp": "Kill Ao",
-      "ep": 11,
-      "ago": "6d",
-      "img": "dns6b",
-      "ahId": "y5v48"
     },
     {
       "titre": "Pokemon Horizons: The Series",
@@ -545,7 +545,7 @@
       "ahId": "7s4ze"
     }
   ],
-  "updatedAt": "2026-06-27T14:26:41.318Z",
+  "updatedAt": "2026-06-27T16:02:09.649Z",
   "source": "github-actions",
   "count": 68
 }
