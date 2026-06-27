@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "That Time I Got Reincarnated as a Slime Movie 2: Tears of the Azure Sea",
+      "titreJp": "Tensei Shitara Slime Datta Ken Movie 2: Soukai no Namida Hen",
+      "ep": 1,
+      "ago": "?",
+      "img": "034lt",
+      "ahId": "sa311"
+    },
+    {
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 14,
-      "ago": "3h",
+      "ago": "4h",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -12,7 +20,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 12,
-      "ago": "5h",
+      "ago": "7h",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -20,7 +28,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 12,
-      "ago": "6h",
+      "ago": "8h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -28,7 +36,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 13,
-      "ago": "6h",
+      "ago": "8h",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -36,7 +44,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 12,
-      "ago": "6h",
+      "ago": "8h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -260,7 +268,7 @@
       "titre": "Baka and Test - Summon the Beasts 2",
       "titreJp": "Baka to Test to Shoukanjuu Ni!",
       "ep": 13,
-      "ago": "4d",
+      "ago": "5d",
       "img": "lh4j8",
       "ahId": "o8tj1"
     },
@@ -468,7 +476,7 @@
       "titre": "Zombie Land Saga Revenge",
       "titreJp": "",
       "ep": 12,
-      "ago": "6d",
+      "ago": "7d",
       "img": "vsiwj",
       "ahId": "25c5q"
     },
@@ -535,17 +543,9 @@
       "ago": "8d",
       "img": "ww5ij",
       "ahId": "5ebj0"
-    },
-    {
-      "titre": "When They Cry: Higurashi",
-      "titreJp": "Higurashi no Naku Koro ni",
-      "ep": 26,
-      "ago": "8d",
-      "img": "k2u6q",
-      "ahId": "govlg"
     }
   ],
-  "updatedAt": "2026-06-26T22:09:24.998Z",
+  "updatedAt": "2026-06-27T00:03:07.053Z",
   "source": "github-actions",
   "count": 68
 }
