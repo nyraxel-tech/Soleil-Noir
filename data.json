@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "Ace of the Diamond: Act II 2nd Season",
+      "titreJp": "Diamond no Ace: Act II 2nd Season",
+      "ep": 13,
+      "ago": "1h",
+      "img": "c50pz",
+      "ahId": "dd464"
+    },
+    {
+      "titre": "Wistoria: Wand and Sword 2nd Season",
+      "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
+      "ep": 12,
+      "ago": "2h",
+      "img": "h6l0c",
+      "ahId": "y98v5"
+    },
+    {
+      "titre": "Mission: Yozakura Family Season 2",
+      "titreJp": "Yozakura-san Chi no Daisakusen Season 2",
+      "ep": 12,
+      "ago": "2h",
+      "img": "rgi7x",
+      "ahId": "feqdi"
+    },
+    {
       "titre": "Lord of Mysteries Specials",
       "titreJp": "Guimi Zhi Zhu Specials",
       "ep": 3,
-      "ago": "6h",
+      "ago": "8h",
       "img": "5xaaz",
       "ahId": "okq7x"
     },
@@ -12,7 +36,7 @@
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 24,
-      "ago": "14h",
+      "ago": "17h",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -20,7 +44,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 13,
-      "ago": "15h",
+      "ago": "17h",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -28,7 +52,7 @@
       "titre": "Agents of the Four Seasons: Dance of Spring",
       "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
       "ep": 14,
-      "ago": "15h",
+      "ago": "18h",
       "img": "fxza8",
       "ahId": "boii6"
     },
@@ -36,7 +60,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 13,
-      "ago": "16h",
+      "ago": "19h",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -44,7 +68,7 @@
       "titre": "Kill Blue",
       "titreJp": "Kill Ao",
       "ep": 12,
-      "ago": "17h",
+      "ago": "20h",
       "img": "dns6b",
       "ahId": "y5v48"
     },
@@ -52,7 +76,7 @@
       "titre": "The Cat and the Dragon",
       "titreJp": "Neko to Ryuu",
       "ep": 1,
-      "ago": "17h",
+      "ago": "20h",
       "img": "828yy",
       "ahId": "9zg3f"
     },
@@ -60,7 +84,7 @@
       "titre": "Yowayowa Teacher",
       "titreJp": "Yowayowa Sensei",
       "ep": 12,
-      "ago": "19h",
+      "ago": "21h",
       "img": "b6f8i",
       "ahId": "pijt4"
     },
@@ -68,7 +92,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 1205,
-      "ago": "20h",
+      "ago": "23h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -76,7 +100,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1205,
-      "ago": "20h",
+      "ago": "23h",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -84,7 +108,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 13,
-      "ago": "21h",
+      "ago": "1d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -92,7 +116,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 12,
-      "ago": "22h",
+      "ago": "1d",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -356,7 +380,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -407,30 +431,6 @@
       "ago": "6d",
       "img": "cs0bn",
       "ahId": "7p5hz"
-    },
-    {
-      "titre": "Ace of the Diamond: Act II 2nd Season",
-      "titreJp": "Diamond no Ace: Act II 2nd Season",
-      "ep": 12,
-      "ago": "6d",
-      "img": "c50pz",
-      "ahId": "dd464"
-    },
-    {
-      "titre": "Wistoria: Wand and Sword 2nd Season",
-      "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
-      "ep": 11,
-      "ago": "6d",
-      "img": "h6l0c",
-      "ahId": "y98v5"
-    },
-    {
-      "titre": "Mission: Yozakura Family Season 2",
-      "titreJp": "Yozakura-san Chi no Daisakusen Season 2",
-      "ep": 11,
-      "ago": "7d",
-      "img": "rgi7x",
-      "ahId": "feqdi"
     },
     {
       "titre": "Digimon Beatbreak",
@@ -484,7 +484,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 141,
-      "ago": "7d",
+      "ago": "8d",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -516,7 +516,7 @@
       "titre": "Zombie Land Saga Movie: Yumeginga Paradise",
       "titreJp": "",
       "ep": 1,
-      "ago": "8d",
+      "ago": "9d",
       "img": "yb4l8",
       "ahId": "6t6r9"
     },
@@ -545,7 +545,7 @@
       "ahId": "7s4ze"
     }
   ],
-  "updatedAt": "2026-06-28T08:18:29.192Z",
+  "updatedAt": "2026-06-28T11:04:20.862Z",
   "source": "github-actions",
   "count": 68
 }
