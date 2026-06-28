@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Lord of Mysteries Specials",
+      "titreJp": "Guimi Zhi Zhu Specials",
+      "ep": 3,
+      "ago": "2h",
+      "img": "5xaaz",
+      "ahId": "okq7x"
+    },
+    {
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 24,
-      "ago": "6h",
+      "ago": "11h",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -12,7 +20,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 13,
-      "ago": "6h",
+      "ago": "11h",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -20,7 +28,7 @@
       "titre": "Agents of the Four Seasons: Dance of Spring",
       "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
       "ep": 14,
-      "ago": "7h",
+      "ago": "11h",
       "img": "fxza8",
       "ahId": "boii6"
     },
@@ -28,7 +36,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 13,
-      "ago": "8h",
+      "ago": "12h",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -36,7 +44,7 @@
       "titre": "Kill Blue",
       "titreJp": "Kill Ao",
       "ep": 12,
-      "ago": "9h",
+      "ago": "13h",
       "img": "dns6b",
       "ahId": "y5v48"
     },
@@ -44,7 +52,7 @@
       "titre": "The Cat and the Dragon",
       "titreJp": "Neko to Ryuu",
       "ep": 1,
-      "ago": "9h",
+      "ago": "14h",
       "img": "828yy",
       "ahId": "9zg3f"
     },
@@ -52,7 +60,7 @@
       "titre": "Yowayowa Teacher",
       "titreJp": "Yowayowa Sensei",
       "ep": 12,
-      "ago": "10h",
+      "ago": "15h",
       "img": "b6f8i",
       "ahId": "pijt4"
     },
@@ -60,7 +68,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 1205,
-      "ago": "12h",
+      "ago": "16h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -68,7 +76,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1205,
-      "ago": "12h",
+      "ago": "16h",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -76,7 +84,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 13,
-      "ago": "13h",
+      "ago": "17h",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -84,17 +92,9 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 12,
-      "ago": "14h",
+      "ago": "18h",
       "img": "2m22z",
       "ahId": "yeyrm"
-    },
-    {
-      "titre": "Lord of Mysteries Specials",
-      "titreJp": "Guimi Zhi Zhu Specials",
-      "ep": 2,
-      "ago": "21h",
-      "img": "5xaaz",
-      "ahId": "okq7x"
     },
     {
       "titre": "That Time I Got Reincarnated as a Slime Movie 2: Tears of the Azure Sea",
@@ -436,7 +436,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 36,
-      "ago": "6d",
+      "ago": "7d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -545,7 +545,7 @@
       "ahId": "7s4ze"
     }
   ],
-  "updatedAt": "2026-06-27T23:58:37.835Z",
+  "updatedAt": "2026-06-28T04:23:58.640Z",
   "source": "github-actions",
   "count": 68
 }
