@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Fate/Zero",
+      "titreJp": "",
+      "ep": 8,
+      "ago": "?",
+      "img": "2xov7",
+      "ahId": "1xbu0"
+    },
+    {
+      "titre": "Liar Game",
+      "titreJp": "",
+      "ep": 13,
+      "ago": "1h",
+      "img": "csbrl",
+      "ahId": "l3kxg"
+    },
+    {
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 1,
-      "ago": "?",
+      "ago": "3h",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -12,7 +28,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1168,
-      "ago": "22h",
+      "ago": "1d",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -20,7 +36,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 12,
-      "ago": "23h",
+      "ago": "1d",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -68,7 +84,7 @@
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 24,
-      "ago": "1d",
+      "ago": "2d",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -76,7 +92,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 13,
-      "ago": "1d",
+      "ago": "2d",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -84,7 +100,7 @@
       "titre": "Agents of the Four Seasons: Dance of Spring",
       "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
       "ep": 14,
-      "ago": "1d",
+      "ago": "2d",
       "img": "fxza8",
       "ahId": "boii6"
     },
@@ -92,7 +108,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 13,
-      "ago": "1d",
+      "ago": "2d",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -172,7 +188,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 12,
-      "ago": "2d",
+      "ago": "3d",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -180,7 +196,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 12,
-      "ago": "2d",
+      "ago": "3d",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -188,7 +204,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 13,
-      "ago": "2d",
+      "ago": "3d",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -196,7 +212,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 12,
-      "ago": "2d",
+      "ago": "3d",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -212,7 +228,7 @@
       "titre": "A Hundred Scenes of AWAJIMA",
       "titreJp": "Awajima Hyakkei",
       "ep": 12,
-      "ago": "3d",
+      "ago": "4d",
       "img": "r7ozz",
       "ahId": "oh0q2"
     },
@@ -220,7 +236,7 @@
       "titre": "Petals of Reincarnation",
       "titreJp": "Reincarnation no Kaben",
       "ep": 13,
-      "ago": "3d",
+      "ago": "4d",
       "img": "iideg",
       "ahId": "b2ybn"
     },
@@ -228,7 +244,7 @@
       "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "cy9ca",
       "ahId": "ultkb"
     },
@@ -260,7 +276,7 @@
       "titre": "The Beginning After the End Season 2",
       "titreJp": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "zmy4z",
       "ahId": "fv1vj"
     },
@@ -268,7 +284,7 @@
       "titre": "Gals Can’t Be Kind to Otaku!?",
       "titreJp": "Otaku ni Yasashii Gyaru wa Inai!?",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "j5umi",
       "ahId": "kq3pz"
     },
@@ -324,7 +340,7 @@
       "titre": "Eren the Southpaw",
       "titreJp": "Hidarikiki no Eren",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "w5epl",
       "ahId": "j26hl"
     },
@@ -332,7 +348,7 @@
       "titre": "I Made Friends with the Second Prettiest Girl in My Class",
       "titreJp": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "kfuf2",
       "ahId": "3c38p"
     },
@@ -340,7 +356,7 @@
       "titre": "Even a Replica Can Fall in Love",
       "titreJp": "Replica datte, Koi wo Suru.",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "z35jq",
       "ahId": "k662x"
     },
@@ -348,7 +364,7 @@
       "titre": "Marriagetoxin",
       "titreJp": "Marriage Toxin",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "ljkt9",
       "ahId": "lf9gt"
     },
@@ -377,18 +393,10 @@
       "ahId": "r32sr"
     },
     {
-      "titre": "Liar Game",
-      "titreJp": "",
-      "ep": 12,
-      "ago": "6d",
-      "img": "csbrl",
-      "ahId": "l3kxg"
-    },
-    {
       "titre": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "titreJp": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
       "ep": 12,
-      "ago": "6d",
+      "ago": "7d",
       "img": "jh4do",
       "ahId": "fcmyo"
     },
@@ -436,7 +444,7 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 12,
-      "ago": "7d",
+      "ago": "8d",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -444,7 +452,7 @@
       "titre": "Ghost Concert: Missing Songs",
       "titreJp": "",
       "ep": 12,
-      "ago": "7d",
+      "ago": "8d",
       "img": "1ljqb",
       "ahId": "8p2tr"
     },
@@ -476,7 +484,7 @@
       "titre": "Mistress Kanan is Devilishly Easy",
       "titreJp": "Kanan-sama wa Akumade Choroi",
       "ep": 12,
-      "ago": "8d",
+      "ago": "9d",
       "img": "8q6wl",
       "ahId": "3uz6y"
     },
@@ -484,7 +492,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 12,
-      "ago": "8d",
+      "ago": "9d",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -492,7 +500,7 @@
       "titre": "Akane-banashi",
       "titreJp": "",
       "ep": 12,
-      "ago": "8d",
+      "ago": "9d",
       "img": "7j7kb",
       "ahId": "o8996"
     },
@@ -535,17 +543,9 @@
       "ago": "10d",
       "img": "yb4l8",
       "ahId": "6t6r9"
-    },
-    {
-      "titre": "Monster Eater",
-      "titreJp": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
-      "ep": 12,
-      "ago": "10d",
-      "img": "anfea",
-      "ahId": "pi6yi"
     }
   ],
-  "updatedAt": "2026-06-29T14:45:47.630Z",
+  "updatedAt": "2026-06-29T17:33:03.154Z",
   "source": "github-actions",
   "count": 68
 }
