@@ -4,7 +4,7 @@
       "titre": "Fate/Zero",
       "titreJp": "",
       "ep": 13,
-      "ago": "1h",
+      "ago": "3h",
       "img": "2xov7",
       "ahId": "1xbu0"
     },
@@ -12,7 +12,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 13,
-      "ago": "3h",
+      "ago": "5h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -20,7 +20,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 1,
-      "ago": "6h",
+      "ago": "7h",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -545,7 +545,7 @@
       "ahId": "6t6r9"
     }
   ],
-  "updatedAt": "2026-06-29T19:52:09.096Z",
+  "updatedAt": "2026-06-29T21:22:50.761Z",
   "source": "github-actions",
   "count": 68
 }
