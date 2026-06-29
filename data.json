@@ -4,7 +4,7 @@
       "titre": "Fate/Zero",
       "titreJp": "",
       "ep": 13,
-      "ago": "3h",
+      "ago": "4h",
       "img": "2xov7",
       "ahId": "1xbu0"
     },
@@ -12,7 +12,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 13,
-      "ago": "5h",
+      "ago": "6h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -20,7 +20,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 1,
-      "ago": "7h",
+      "ago": "9h",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -436,7 +436,7 @@
       "titre": "Baka and Test - Summon the Beasts",
       "titreJp": "Baka to Test to Shoukanjuu",
       "ep": 13,
-      "ago": "7d",
+      "ago": "8d",
       "img": "lcrl0",
       "ahId": "ah4rl"
     },
@@ -545,7 +545,7 @@
       "ahId": "6t6r9"
     }
   ],
-  "updatedAt": "2026-06-29T21:22:50.761Z",
+  "updatedAt": "2026-06-29T22:53:06.314Z",
   "source": "github-actions",
   "count": 68
 }
