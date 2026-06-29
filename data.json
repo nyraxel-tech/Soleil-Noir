@@ -4,7 +4,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1168,
-      "ago": "7h",
+      "ago": "13h",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -12,7 +12,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 12,
-      "ago": "8h",
+      "ago": "14h",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -20,7 +20,7 @@
       "titre": "Fate/stay night: Heaven's Feel Movies",
       "titreJp": "",
       "ep": 3,
-      "ago": "9h",
+      "ago": "14h",
       "img": "xrngl",
       "ahId": "wbzq7"
     },
@@ -28,7 +28,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season",
       "titreJp": "Diamond no Ace: Act II 2nd Season",
       "ep": 13,
-      "ago": "14h",
+      "ago": "20h",
       "img": "c50pz",
       "ahId": "dd464"
     },
@@ -36,7 +36,7 @@
       "titre": "Wistoria: Wand and Sword 2nd Season",
       "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
       "ep": 12,
-      "ago": "15h",
+      "ago": "20h",
       "img": "h6l0c",
       "ahId": "y98v5"
     },
@@ -44,7 +44,7 @@
       "titre": "Mission: Yozakura Family Season 2",
       "titreJp": "Yozakura-san Chi no Daisakusen Season 2",
       "ep": 12,
-      "ago": "15h",
+      "ago": "21h",
       "img": "rgi7x",
       "ahId": "feqdi"
     },
@@ -52,7 +52,7 @@
       "titre": "Lord of Mysteries Specials",
       "titreJp": "Guimi Zhi Zhu Specials",
       "ep": 3,
-      "ago": "21h",
+      "ago": "1d",
       "img": "5xaaz",
       "ahId": "okq7x"
     },
@@ -444,7 +444,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 36,
-      "ago": "7d",
+      "ago": "8d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -545,7 +545,7 @@
       "ahId": "0cwi8"
     }
   ],
-  "updatedAt": "2026-06-29T00:05:10.750Z",
+  "updatedAt": "2026-06-29T05:28:02.227Z",
   "source": "github-actions",
   "count": 68
 }
