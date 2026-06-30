@@ -4,7 +4,7 @@
       "titre": "Fate/Zero",
       "titreJp": "",
       "ep": 13,
-      "ago": "4h",
+      "ago": "5h",
       "img": "2xov7",
       "ahId": "1xbu0"
     },
@@ -12,7 +12,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 13,
-      "ago": "6h",
+      "ago": "7h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -20,7 +20,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 1,
-      "ago": "9h",
+      "ago": "10h",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -172,7 +172,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Movie 2: Tears of the Azure Sea",
       "titreJp": "Tensei Shitara Slime Datta Ken Movie 2: Soukai no Namida Hen",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "034lt",
       "ahId": "sa311"
     },
@@ -428,7 +428,7 @@
       "titre": "Baka and Test - Summon the Beasts 2",
       "titreJp": "Baka to Test to Shoukanjuu Ni!",
       "ep": 13,
-      "ago": "7d",
+      "ago": "8d",
       "img": "lh4j8",
       "ahId": "o8tj1"
     },
@@ -516,7 +516,7 @@
       "titre": "Zombie Land Saga Revenge",
       "titreJp": "",
       "ep": 12,
-      "ago": "9d",
+      "ago": "10d",
       "img": "vsiwj",
       "ahId": "25c5q"
     },
@@ -545,7 +545,7 @@
       "ahId": "6t6r9"
     }
   ],
-  "updatedAt": "2026-06-29T22:53:06.314Z",
+  "updatedAt": "2026-06-30T00:00:57.874Z",
   "source": "github-actions",
   "count": 68
 }
