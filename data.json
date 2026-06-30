@@ -4,7 +4,7 @@
       "titre": "Fate/Zero",
       "titreJp": "",
       "ep": 13,
-      "ago": "10h",
+      "ago": "14h",
       "img": "2xov7",
       "ahId": "1xbu0"
     },
@@ -12,7 +12,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 13,
-      "ago": "12h",
+      "ago": "16h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -20,7 +20,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 1,
-      "ago": "15h",
+      "ago": "18h",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -68,7 +68,7 @@
       "titre": "Mission: Yozakura Family Season 2",
       "titreJp": "Yozakura-san Chi no Daisakusen Season 2",
       "ep": 12,
-      "ago": "1d",
+      "ago": "2d",
       "img": "rgi7x",
       "ahId": "feqdi"
     },
@@ -545,7 +545,7 @@
       "ahId": "6t6r9"
     }
   ],
-  "updatedAt": "2026-06-30T04:59:52.161Z",
+  "updatedAt": "2026-06-30T08:35:07.096Z",
   "source": "github-actions",
   "count": 68
 }
