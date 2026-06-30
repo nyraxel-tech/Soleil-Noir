@@ -3,8 +3,8 @@
     {
       "titre": "The Yakuza's Guide to Babysitting",
       "titreJp": "Kumichou Musume to Sewagakari",
-      "ep": 10,
-      "ago": "?",
+      "ep": 11,
+      "ago": "2h",
       "img": "sbvlf",
       "ahId": "jl4ns"
     },
@@ -12,7 +12,7 @@
       "titre": "Eren the Southpaw",
       "titreJp": "Hidarikiki no Eren",
       "ep": 13,
-      "ago": "?",
+      "ago": "3h",
       "img": "w5epl",
       "ahId": "j26hl"
     },
@@ -20,7 +20,7 @@
       "titre": "Even a Replica Can Fall in Love",
       "titreJp": "Replica datte, Koi wo Suru.",
       "ep": 13,
-      "ago": "2h",
+      "ago": "4h",
       "img": "z35jq",
       "ahId": "k662x"
     },
@@ -28,7 +28,7 @@
       "titre": "Marriagetoxin",
       "titreJp": "Marriage Toxin",
       "ep": 13,
-      "ago": "2h",
+      "ago": "5h",
       "img": "ljkt9",
       "ahId": "lf9gt"
     },
@@ -36,7 +36,7 @@
       "titre": "I Want to End This Love Game",
       "titreJp": "Aishiteru Game wo Owarasetai",
       "ep": 12,
-      "ago": "2h",
+      "ago": "5h",
       "img": "438x1",
       "ahId": "jrvi5"
     },
@@ -44,7 +44,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 1,
-      "ago": "3h",
+      "ago": "6h",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -52,7 +52,7 @@
       "titre": "Fate/Zero",
       "titreJp": "",
       "ep": 13,
-      "ago": "22h",
+      "ago": "1d",
       "img": "2xov7",
       "ahId": "1xbu0"
     },
@@ -132,7 +132,7 @@
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 24,
-      "ago": "2d",
+      "ago": "3d",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -140,7 +140,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 13,
-      "ago": "2d",
+      "ago": "3d",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -228,7 +228,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 14,
-      "ago": "3d",
+      "ago": "4d",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -268,7 +268,7 @@
       "titre": "The Ramparts of Ice",
       "titreJp": "Koori no Jouheki, Ice Castle Wall",
       "ep": 13,
-      "ago": "4d",
+      "ago": "5d",
       "img": "cs30h",
       "ahId": "jx2jr"
     },
@@ -276,7 +276,7 @@
       "titre": "A Hundred Scenes of AWAJIMA",
       "titreJp": "Awajima Hyakkei",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "r7ozz",
       "ahId": "oh0q2"
     },
@@ -372,7 +372,7 @@
       "titre": "My Ribdiculous Reincarnation",
       "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
       "ep": 12,
-      "ago": "6d",
+      "ago": "7d",
       "img": "27pp6",
       "ahId": "xw4de"
     },
@@ -380,7 +380,7 @@
       "titre": "Pardon the Intrusion, I'm Home!",
       "titreJp": "Tadaima, Ojamasaremasu!",
       "ep": 12,
-      "ago": "6d",
+      "ago": "7d",
       "img": "mwvn6",
       "ahId": "c3nol"
     },
@@ -460,7 +460,7 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 12,
-      "ago": "8d",
+      "ago": "9d",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -484,7 +484,7 @@
       "titre": "The Great Sage Ryddel and the Hands of Time",
       "titreJp": "Daikenja Riddle no Jikan Gyakko",
       "ep": 12,
-      "ago": "9d",
+      "ago": "10d",
       "img": "tl46m",
       "ahId": "rf6nw"
     },
@@ -492,7 +492,7 @@
       "titre": "Ichijouma Mankitsugurashi!",
       "titreJp": "",
       "ep": 11,
-      "ago": "9d",
+      "ago": "10d",
       "img": "wm2v7",
       "ahId": "ccxi5"
     },
@@ -540,12 +540,12 @@
       "titre": "Zombie Land Saga",
       "titreJp": "",
       "ep": 12,
-      "ago": "10d",
+      "ago": "11d",
       "img": "4uaqu",
       "ahId": "h4qss"
     }
   ],
-  "updatedAt": "2026-06-30T17:04:26.233Z",
+  "updatedAt": "2026-06-30T19:50:26.820Z",
   "source": "github-actions",
   "count": 68
 }
