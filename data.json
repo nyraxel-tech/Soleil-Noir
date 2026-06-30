@@ -4,7 +4,7 @@
       "titre": "Fate/Zero",
       "titreJp": "",
       "ep": 13,
-      "ago": "5h",
+      "ago": "10h",
       "img": "2xov7",
       "ahId": "1xbu0"
     },
@@ -12,7 +12,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 13,
-      "ago": "7h",
+      "ago": "12h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -20,7 +20,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 1,
-      "ago": "10h",
+      "ago": "15h",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -76,7 +76,7 @@
       "titre": "Lord of Mysteries Specials",
       "titreJp": "Guimi Zhi Zhu Specials",
       "ep": 3,
-      "ago": "1d",
+      "ago": "2d",
       "img": "5xaaz",
       "ahId": "okq7x"
     },
@@ -460,7 +460,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 36,
-      "ago": "8d",
+      "ago": "9d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -545,7 +545,7 @@
       "ahId": "6t6r9"
     }
   ],
-  "updatedAt": "2026-06-30T00:00:57.874Z",
+  "updatedAt": "2026-06-30T04:59:52.161Z",
   "source": "github-actions",
   "count": 68
 }
