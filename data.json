@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "The Oblivious Saint Can't Contain Her Power",
+      "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
+      "ep": 1,
+      "ago": "?",
+      "img": "fctsy",
+      "ahId": "mvh9u"
+    },
+    {
       "titre": "Fate/Zero",
       "titreJp": "",
       "ep": 13,
-      "ago": "17h",
+      "ago": "20h",
       "img": "2xov7",
       "ahId": "1xbu0"
     },
@@ -12,7 +20,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 13,
-      "ago": "19h",
+      "ago": "22h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -20,7 +28,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 1,
-      "ago": "21h",
+      "ago": "1d",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -132,7 +140,7 @@
       "titre": "Yowayowa Teacher",
       "titreJp": "Yowayowa Sensei",
       "ep": 12,
-      "ago": "2d",
+      "ago": "3d",
       "img": "b6f8i",
       "ahId": "pijt4"
     },
@@ -140,7 +148,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 1205,
-      "ago": "2d",
+      "ago": "3d",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -260,7 +268,7 @@
       "titre": "Kujima: Why Sing, When You Can Warble?",
       "titreJp": "Kujima Utaeba Ie Hororo",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "pv8qk",
       "ahId": "gbdj0"
     },
@@ -268,7 +276,7 @@
       "titre": "The Barbarian's Bride",
       "titreJp": "Himekishi wa Barbaroi no Yome",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "synxi",
       "ahId": "hi6b1"
     },
@@ -300,7 +308,7 @@
       "titre": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season",
       "titreJp": "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "cirfw",
       "ahId": "5iqzo"
     },
@@ -308,7 +316,7 @@
       "titre": "Rent-a-Girlfriend Season 5",
       "titreJp": "Kanojo, Okarishimasu 5th Season",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "7nqj7",
       "ahId": "i0kd0"
     },
@@ -316,7 +324,7 @@
       "titre": "Classroom of the Elite 4th Season",
       "titreJp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
       "ep": 16,
-      "ago": "5d",
+      "ago": "6d",
       "img": "npea5",
       "ahId": "nzwhr"
     },
@@ -380,7 +388,7 @@
       "titre": "The Most Heretical Last Boss Queen: From Villainess to Savior 2nd Season",
       "titreJp": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Min no Tame ni Tsukushimasu. 2nd Season",
       "ep": 12,
-      "ago": "6d",
+      "ago": "7d",
       "img": "5zcck",
       "ahId": "np9nt"
     },
@@ -388,7 +396,7 @@
       "titre": "Beyond Twilight",
       "titreJp": "Hyakki Yakoushou",
       "ep": 12,
-      "ago": "6d",
+      "ago": "7d",
       "img": "0gwes",
       "ahId": "r32sr"
     },
@@ -412,7 +420,7 @@
       "titre": "Farming Life in Another World 2",
       "titreJp": "Isekai Nonbiri Nouka 2",
       "ep": 12,
-      "ago": "7d",
+      "ago": "8d",
       "img": "b7en4",
       "ahId": "fae6d"
     },
@@ -532,20 +540,12 @@
       "titre": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "titreJp": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku., Fiancé&#039;s Observation Log of the Self-proclaimed Villainess",
       "ep": 12,
-      "ago": "10d",
+      "ago": "11d",
       "img": "8ezmn",
       "ahId": "nv9bp"
-    },
-    {
-      "titre": "Zombie Land Saga Movie: Yumeginga Paradise",
-      "titreJp": "",
-      "ep": 1,
-      "ago": "11d",
-      "img": "yb4l8",
-      "ahId": "6t6r9"
     }
   ],
-  "updatedAt": "2026-06-30T11:43:12.811Z",
+  "updatedAt": "2026-06-30T14:11:52.727Z",
   "source": "github-actions",
   "count": 68
 }
