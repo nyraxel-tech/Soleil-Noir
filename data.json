@@ -4,7 +4,7 @@
       "titre": "The Yakuza's Guide to Babysitting",
       "titreJp": "Kumichou Musume to Sewagakari",
       "ep": 11,
-      "ago": "5h",
+      "ago": "10h",
       "img": "sbvlf",
       "ahId": "jl4ns"
     },
@@ -12,7 +12,7 @@
       "titre": "Eren the Southpaw",
       "titreJp": "Hidarikiki no Eren",
       "ep": 13,
-      "ago": "6h",
+      "ago": "11h",
       "img": "w5epl",
       "ahId": "j26hl"
     },
@@ -20,7 +20,7 @@
       "titre": "Even a Replica Can Fall in Love",
       "titreJp": "Replica datte, Koi wo Suru.",
       "ep": 13,
-      "ago": "8h",
+      "ago": "12h",
       "img": "z35jq",
       "ahId": "k662x"
     },
@@ -28,7 +28,7 @@
       "titre": "Marriagetoxin",
       "titreJp": "Marriage Toxin",
       "ep": 13,
-      "ago": "8h",
+      "ago": "12h",
       "img": "ljkt9",
       "ahId": "lf9gt"
     },
@@ -36,7 +36,7 @@
       "titre": "I Want to End This Love Game",
       "titreJp": "Aishiteru Game wo Owarasetai",
       "ep": 12,
-      "ago": "8h",
+      "ago": "12h",
       "img": "438x1",
       "ahId": "jrvi5"
     },
@@ -44,7 +44,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 1,
-      "ago": "9h",
+      "ago": "13h",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -124,7 +124,7 @@
       "titre": "Lord of Mysteries Specials",
       "titreJp": "Guimi Zhi Zhu Specials",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "5xaaz",
       "ahId": "okq7x"
     },
@@ -220,7 +220,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Movie 2: Tears of the Azure Sea",
       "titreJp": "Tensei Shitara Slime Datta Ken Movie 2: Soukai no Namida Hen",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "034lt",
       "ahId": "sa311"
     },
@@ -444,7 +444,7 @@
       "titre": "Baka and Test - Summon the Beasts 2",
       "titreJp": "Baka to Test to Shoukanjuu Ni!",
       "ep": 13,
-      "ago": "8d",
+      "ago": "9d",
       "img": "lh4j8",
       "ahId": "o8tj1"
     },
@@ -476,7 +476,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 36,
-      "ago": "9d",
+      "ago": "10d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -545,7 +545,7 @@
       "ahId": "h4qss"
     }
   ],
-  "updatedAt": "2026-06-30T23:08:20.648Z",
+  "updatedAt": "2026-07-01T03:30:40.468Z",
   "source": "github-actions",
   "count": 68
 }
