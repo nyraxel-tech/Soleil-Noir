@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Hana-Kimi Season 2",
+      "titreJp": "Hanazakari no Kimi-tachi e Season 2",
+      "ep": 2,
+      "ago": "?",
+      "img": "yzbv7",
+      "ahId": "s3cd7"
+    },
+    {
+      "titre": "The Villager of LV999",
+      "titreJp": "LV999 no Murabito",
+      "ep": 2,
+      "ago": "?",
+      "img": "7vqbp",
+      "ahId": "mucnh"
+    },
+    {
       "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
       "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
       "ep": 2,
-      "ago": "?",
+      "ago": "2h",
       "img": "ycs89",
       "ahId": "q3n2b"
     },
@@ -12,7 +28,7 @@
       "titre": "Hana-Kimi",
       "titreJp": "Hanazakari no Kimi-tachi e",
       "ep": 4,
-      "ago": "4h",
+      "ago": "6h",
       "img": "futcv",
       "ahId": "bs07m"
     },
@@ -20,7 +36,7 @@
       "titre": "The Yakuza's Guide to Babysitting",
       "titreJp": "Kumichou Musume to Sewagakari",
       "ep": 11,
-      "ago": "21h",
+      "ago": "1d",
       "img": "sbvlf",
       "ahId": "jl4ns"
     },
@@ -28,7 +44,7 @@
       "titre": "Eren the Southpaw",
       "titreJp": "Hidarikiki no Eren",
       "ep": 13,
-      "ago": "22h",
+      "ago": "1d",
       "img": "w5epl",
       "ahId": "j26hl"
     },
@@ -36,7 +52,7 @@
       "titre": "Even a Replica Can Fall in Love",
       "titreJp": "Replica datte, Koi wo Suru.",
       "ep": 13,
-      "ago": "23h",
+      "ago": "1d",
       "img": "z35jq",
       "ahId": "k662x"
     },
@@ -76,7 +92,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 13,
-      "ago": "1d",
+      "ago": "2d",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -92,7 +108,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1168,
-      "ago": "2d",
+      "ago": "3d",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -100,7 +116,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 12,
-      "ago": "2d",
+      "ago": "3d",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -156,7 +172,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 13,
-      "ago": "3d",
+      "ago": "4d",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -164,7 +180,7 @@
       "titre": "Agents of the Four Seasons: Dance of Spring",
       "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
       "ep": 14,
-      "ago": "3d",
+      "ago": "4d",
       "img": "fxza8",
       "ahId": "boii6"
     },
@@ -172,7 +188,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 13,
-      "ago": "3d",
+      "ago": "4d",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -252,7 +268,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -260,7 +276,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -268,7 +284,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 13,
-      "ago": "4d",
+      "ago": "5d",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -276,7 +292,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -292,7 +308,7 @@
       "titre": "A Hundred Scenes of AWAJIMA",
       "titreJp": "Awajima Hyakkei",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "r7ozz",
       "ahId": "oh0q2"
     },
@@ -300,7 +316,7 @@
       "titre": "Petals of Reincarnation",
       "titreJp": "Reincarnation no Kaben",
       "ep": 13,
-      "ago": "5d",
+      "ago": "6d",
       "img": "iideg",
       "ahId": "b2ybn"
     },
@@ -308,7 +324,7 @@
       "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "cy9ca",
       "ahId": "ultkb"
     },
@@ -340,7 +356,7 @@
       "titre": "The Beginning After the End Season 2",
       "titreJp": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
       "ep": 12,
-      "ago": "6d",
+      "ago": "7d",
       "img": "zmy4z",
       "ahId": "fv1vj"
     },
@@ -348,7 +364,7 @@
       "titre": "Gals Can’t Be Kind to Otaku!?",
       "titreJp": "Otaku ni Yasashii Gyaru wa Inai!?",
       "ep": 12,
-      "ago": "6d",
+      "ago": "7d",
       "img": "j5umi",
       "ahId": "kq3pz"
     },
@@ -396,7 +412,7 @@
       "titre": "I Made Friends with the Second Prettiest Girl in My Class",
       "titreJp": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
       "ep": 12,
-      "ago": "7d",
+      "ago": "8d",
       "img": "kfuf2",
       "ahId": "3c38p"
     },
@@ -420,7 +436,7 @@
       "titre": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "titreJp": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
       "ep": 12,
-      "ago": "8d",
+      "ago": "9d",
       "img": "jh4do",
       "ahId": "fcmyo"
     },
@@ -476,7 +492,7 @@
       "titre": "Ghost Concert: Missing Songs",
       "titreJp": "",
       "ep": 12,
-      "ago": "9d",
+      "ago": "10d",
       "img": "1ljqb",
       "ahId": "8p2tr"
     },
@@ -508,7 +524,7 @@
       "titre": "Mistress Kanan is Devilishly Easy",
       "titreJp": "Kanan-sama wa Akumade Choroi",
       "ep": 12,
-      "ago": "10d",
+      "ago": "11d",
       "img": "8q6wl",
       "ahId": "3uz6y"
     },
@@ -516,7 +532,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 12,
-      "ago": "10d",
+      "ago": "11d",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -524,7 +540,7 @@
       "titre": "Akane-banashi",
       "titreJp": "",
       "ep": 12,
-      "ago": "10d",
+      "ago": "11d",
       "img": "7j7kb",
       "ahId": "o8996"
     },
@@ -535,25 +551,9 @@
       "ago": "11d",
       "img": "9fsft",
       "ahId": "9v661"
-    },
-    {
-      "titre": "Zombie Land Saga Revenge",
-      "titreJp": "",
-      "ep": 12,
-      "ago": "11d",
-      "img": "vsiwj",
-      "ahId": "25c5q"
-    },
-    {
-      "titre": "Zombie Land Saga",
-      "titreJp": "",
-      "ep": 12,
-      "ago": "11d",
-      "img": "4uaqu",
-      "ahId": "h4qss"
     }
   ],
-  "updatedAt": "2026-07-01T14:47:56.514Z",
+  "updatedAt": "2026-07-01T17:11:15.430Z",
   "source": "github-actions",
   "count": 69
 }

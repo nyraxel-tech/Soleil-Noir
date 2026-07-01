@@ -895,8 +895,22 @@
       "img": "futcv",
       "ahId": "bs07m",
       "addedAt": "2026-07-01T11:58:25.443Z"
+    },
+    {
+      "titre": "Hana-Kimi Season 2",
+      "titreJp": "Hanazakari no Kimi-tachi e Season 2",
+      "img": "yzbv7",
+      "ahId": "s3cd7",
+      "addedAt": "2026-07-01T17:11:15.439Z"
+    },
+    {
+      "titre": "The Villager of LV999",
+      "titreJp": "LV999 no Murabito",
+      "img": "7vqbp",
+      "ahId": "mucnh",
+      "addedAt": "2026-07-01T17:11:15.439Z"
     }
   ],
-  "updatedAt": "2026-07-01T14:47:56.518Z",
-  "count": 128
+  "updatedAt": "2026-07-01T17:11:15.439Z",
+  "count": 130
 }
