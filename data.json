@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
+      "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
+      "ep": 2,
+      "ago": "?",
+      "img": "ycs89",
+      "ahId": "q3n2b"
+    },
+    {
       "titre": "Hana-Kimi",
       "titreJp": "Hanazakari no Kimi-tachi e",
       "ep": 4,
-      "ago": "1h",
+      "ago": "4h",
       "img": "futcv",
       "ahId": "bs07m"
     },
@@ -12,7 +20,7 @@
       "titre": "The Yakuza's Guide to Babysitting",
       "titreJp": "Kumichou Musume to Sewagakari",
       "ep": 11,
-      "ago": "18h",
+      "ago": "21h",
       "img": "sbvlf",
       "ahId": "jl4ns"
     },
@@ -20,7 +28,7 @@
       "titre": "Eren the Southpaw",
       "titreJp": "Hidarikiki no Eren",
       "ep": 13,
-      "ago": "19h",
+      "ago": "22h",
       "img": "w5epl",
       "ahId": "j26hl"
     },
@@ -28,7 +36,7 @@
       "titre": "Even a Replica Can Fall in Love",
       "titreJp": "Replica datte, Koi wo Suru.",
       "ep": 13,
-      "ago": "21h",
+      "ago": "23h",
       "img": "z35jq",
       "ahId": "k662x"
     },
@@ -36,7 +44,7 @@
       "titre": "Marriagetoxin",
       "titreJp": "Marriage Toxin",
       "ep": 13,
-      "ago": "21h",
+      "ago": "1d",
       "img": "ljkt9",
       "ahId": "lf9gt"
     },
@@ -44,7 +52,7 @@
       "titre": "I Want to End This Love Game",
       "titreJp": "Aishiteru Game wo Owarasetai",
       "ep": 12,
-      "ago": "21h",
+      "ago": "1d",
       "img": "438x1",
       "ahId": "jrvi5"
     },
@@ -52,7 +60,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 1,
-      "ago": "22h",
+      "ago": "1d",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -76,7 +84,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -100,7 +108,7 @@
       "titre": "Fate/stay night: Heaven's Feel Movies",
       "titreJp": "",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "xrngl",
       "ahId": "wbzq7"
     },
@@ -172,7 +180,7 @@
       "titre": "Kill Blue",
       "titreJp": "Kill Ao",
       "ep": 12,
-      "ago": "3d",
+      "ago": "4d",
       "img": "dns6b",
       "ahId": "y5v48"
     },
@@ -180,7 +188,7 @@
       "titre": "The Cat and the Dragon",
       "titreJp": "Neko to Ryuu",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "828yy",
       "ahId": "9zg3f"
     },
@@ -188,7 +196,7 @@
       "titre": "Yowayowa Teacher",
       "titreJp": "Yowayowa Sensei",
       "ep": 12,
-      "ago": "3d",
+      "ago": "4d",
       "img": "b6f8i",
       "ahId": "pijt4"
     },
@@ -308,7 +316,7 @@
       "titre": "Dr. Stone: Science Future - Part III",
       "titreJp": "",
       "ep": 13,
-      "ago": "5d",
+      "ago": "6d",
       "img": "oxfds",
       "ahId": "xvd0a"
     },
@@ -316,7 +324,7 @@
       "titre": "Kujima: Why Sing, When You Can Warble?",
       "titreJp": "Kujima Utaeba Ie Hororo",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "pv8qk",
       "ahId": "gbdj0"
     },
@@ -324,7 +332,7 @@
       "titre": "The Barbarian's Bride",
       "titreJp": "Himekishi wa Barbaroi no Yome",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "synxi",
       "ahId": "hi6b1"
     },
@@ -345,18 +353,10 @@
       "ahId": "kq3pz"
     },
     {
-      "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
-      "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
-      "ep": 1,
-      "ago": "6d",
-      "img": "ycs89",
-      "ahId": "q3n2b"
-    },
-    {
       "titre": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season",
       "titreJp": "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
       "ep": 12,
-      "ago": "6d",
+      "ago": "7d",
       "img": "cirfw",
       "ahId": "5iqzo"
     },
@@ -364,7 +364,7 @@
       "titre": "Rent-a-Girlfriend Season 5",
       "titreJp": "Kanojo, Okarishimasu 5th Season",
       "ep": 12,
-      "ago": "6d",
+      "ago": "7d",
       "img": "7nqj7",
       "ahId": "i0kd0"
     },
@@ -372,7 +372,7 @@
       "titre": "Classroom of the Elite 4th Season",
       "titreJp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
       "ep": 16,
-      "ago": "6d",
+      "ago": "7d",
       "img": "npea5",
       "ahId": "nzwhr"
     },
@@ -404,7 +404,7 @@
       "titre": "The Most Heretical Last Boss Queen: From Villainess to Savior 2nd Season",
       "titreJp": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Min no Tame ni Tsukushimasu. 2nd Season",
       "ep": 12,
-      "ago": "7d",
+      "ago": "8d",
       "img": "5zcck",
       "ahId": "np9nt"
     },
@@ -412,7 +412,7 @@
       "titre": "Beyond Twilight",
       "titreJp": "Hyakki Yakoushou",
       "ep": 12,
-      "ago": "7d",
+      "ago": "8d",
       "img": "0gwes",
       "ahId": "r32sr"
     },
@@ -428,7 +428,7 @@
       "titre": "Witch Hat Atelier",
       "titreJp": "Tongari Boushi no Atelier",
       "ep": 13,
-      "ago": "8d",
+      "ago": "9d",
       "img": "6rlo7",
       "ahId": "df4in"
     },
@@ -436,7 +436,7 @@
       "titre": "Farming Life in Another World 2",
       "titreJp": "Isekai Nonbiri Nouka 2",
       "ep": 12,
-      "ago": "8d",
+      "ago": "9d",
       "img": "b7en4",
       "ahId": "fae6d"
     },
@@ -553,7 +553,7 @@
       "ahId": "h4qss"
     }
   ],
-  "updatedAt": "2026-07-01T11:58:25.438Z",
+  "updatedAt": "2026-07-01T14:47:56.514Z",
   "source": "github-actions",
   "count": 69
 }
