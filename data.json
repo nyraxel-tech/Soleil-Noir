@@ -4,7 +4,7 @@
       "titre": "The Yakuza's Guide to Babysitting",
       "titreJp": "Kumichou Musume to Sewagakari",
       "ep": 11,
-      "ago": "10h",
+      "ago": "14h",
       "img": "sbvlf",
       "ahId": "jl4ns"
     },
@@ -12,7 +12,7 @@
       "titre": "Eren the Southpaw",
       "titreJp": "Hidarikiki no Eren",
       "ep": 13,
-      "ago": "11h",
+      "ago": "15h",
       "img": "w5epl",
       "ahId": "j26hl"
     },
@@ -20,7 +20,7 @@
       "titre": "Even a Replica Can Fall in Love",
       "titreJp": "Replica datte, Koi wo Suru.",
       "ep": 13,
-      "ago": "12h",
+      "ago": "17h",
       "img": "z35jq",
       "ahId": "k662x"
     },
@@ -28,7 +28,7 @@
       "titre": "Marriagetoxin",
       "titreJp": "Marriage Toxin",
       "ep": 13,
-      "ago": "12h",
+      "ago": "17h",
       "img": "ljkt9",
       "ahId": "lf9gt"
     },
@@ -36,7 +36,7 @@
       "titre": "I Want to End This Love Game",
       "titreJp": "Aishiteru Game wo Owarasetai",
       "ep": 12,
-      "ago": "12h",
+      "ago": "17h",
       "img": "438x1",
       "ahId": "jrvi5"
     },
@@ -44,7 +44,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 1,
-      "ago": "13h",
+      "ago": "18h",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -545,7 +545,7 @@
       "ahId": "h4qss"
     }
   ],
-  "updatedAt": "2026-07-01T03:30:40.468Z",
+  "updatedAt": "2026-07-01T08:08:24.891Z",
   "source": "github-actions",
   "count": 68
 }
