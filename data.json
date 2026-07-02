@@ -4,7 +4,7 @@
       "titre": "Hana-Kimi Season 2",
       "titreJp": "Hanazakari no Kimi-tachi e Season 2",
       "ep": 2,
-      "ago": "14h",
+      "ago": "17h",
       "img": "yzbv7",
       "ahId": "s3cd7"
     },
@@ -12,7 +12,7 @@
       "titre": "The Villager of LV999",
       "titreJp": "LV999 no Murabito",
       "ep": 2,
-      "ago": "14h",
+      "ago": "17h",
       "img": "7vqbp",
       "ahId": "mucnh"
     },
@@ -20,7 +20,7 @@
       "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
       "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
       "ep": 2,
-      "ago": "16h",
+      "ago": "19h",
       "img": "ycs89",
       "ahId": "q3n2b"
     },
@@ -28,7 +28,7 @@
       "titre": "Hana-Kimi",
       "titreJp": "Hanazakari no Kimi-tachi e",
       "ep": 4,
-      "ago": "20h",
+      "ago": "23h",
       "img": "futcv",
       "ahId": "bs07m"
     },
@@ -132,7 +132,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season",
       "titreJp": "Diamond no Ace: Act II 2nd Season",
       "ep": 13,
-      "ago": "3d",
+      "ago": "4d",
       "img": "c50pz",
       "ahId": "dd464"
     },
@@ -140,7 +140,7 @@
       "titre": "Wistoria: Wand and Sword 2nd Season",
       "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
       "ep": 12,
-      "ago": "3d",
+      "ago": "4d",
       "img": "h6l0c",
       "ahId": "y98v5"
     },
@@ -148,7 +148,7 @@
       "titre": "Mission: Yozakura Family Season 2",
       "titreJp": "Yozakura-san Chi no Daisakusen Season 2",
       "ep": 12,
-      "ago": "3d",
+      "ago": "4d",
       "img": "rgi7x",
       "ahId": "feqdi"
     },
@@ -244,7 +244,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -460,7 +460,7 @@
       "titre": "Magical Sisters Lulutto Lilly",
       "titreJp": "Mahou no Shimai Lulutto Lilly",
       "ep": 12,
-      "ago": "9d",
+      "ago": "10d",
       "img": "g8cab",
       "ahId": "gnqba"
     },
@@ -548,12 +548,12 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 141,
-      "ago": "11d",
+      "ago": "12d",
       "img": "9fsft",
       "ahId": "9v661"
     }
   ],
-  "updatedAt": "2026-07-02T06:39:17.245Z",
+  "updatedAt": "2026-07-02T10:07:55.648Z",
   "source": "github-actions",
   "count": 69
 }
