@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Dara-san of Reiwa",
+      "titreJp": "Reiwa no Dara-san",
+      "ep": 1,
+      "ago": "?",
+      "img": "bkz60",
+      "ahId": "59rhi"
+    },
+    {
       "titre": "Hana-Kimi Season 2",
       "titreJp": "Hanazakari no Kimi-tachi e Season 2",
       "ep": 2,
-      "ago": "17h",
+      "ago": "20h",
       "img": "yzbv7",
       "ahId": "s3cd7"
     },
@@ -12,7 +20,7 @@
       "titre": "The Villager of LV999",
       "titreJp": "LV999 no Murabito",
       "ep": 2,
-      "ago": "17h",
+      "ago": "20h",
       "img": "7vqbp",
       "ahId": "mucnh"
     },
@@ -20,7 +28,7 @@
       "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
       "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
       "ep": 2,
-      "ago": "19h",
+      "ago": "22h",
       "img": "ycs89",
       "ahId": "q3n2b"
     },
@@ -28,7 +36,7 @@
       "titre": "Hana-Kimi",
       "titreJp": "Hanazakari no Kimi-tachi e",
       "ep": 4,
-      "ago": "23h",
+      "ago": "1d",
       "img": "futcv",
       "ahId": "bs07m"
     },
@@ -220,7 +228,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 1205,
-      "ago": "4d",
+      "ago": "5d",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -228,7 +236,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1205,
-      "ago": "4d",
+      "ago": "5d",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -236,7 +244,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 13,
-      "ago": "4d",
+      "ago": "5d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -388,7 +396,7 @@
       "titre": "Classroom of the Elite 4th Season",
       "titreJp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
       "ep": 16,
-      "ago": "7d",
+      "ago": "8d",
       "img": "npea5",
       "ahId": "nzwhr"
     },
@@ -543,17 +551,9 @@
       "ago": "11d",
       "img": "7j7kb",
       "ahId": "o8996"
-    },
-    {
-      "titre": "Pokemon Horizons: The Series",
-      "titreJp": "Pocket Monsters (2023)",
-      "ep": 141,
-      "ago": "12d",
-      "img": "9fsft",
-      "ahId": "9v661"
     }
   ],
-  "updatedAt": "2026-07-02T10:07:55.648Z",
+  "updatedAt": "2026-07-02T12:54:45.675Z",
   "source": "github-actions",
   "count": 69
 }
