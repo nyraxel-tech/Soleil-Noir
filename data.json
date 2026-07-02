@@ -1,10 +1,42 @@
 {
   "animes": [
     {
+      "titre": "Chainsmoker Cat",
+      "titreJp": "Yani Neko",
+      "ep": 1,
+      "ago": "1h",
+      "img": "r45h0",
+      "ahId": "6hqka"
+    },
+    {
+      "titre": "The Exiled Heavy Knight Knows How to Game the System",
+      "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+      "ep": 1,
+      "ago": "1h",
+      "img": "3ks09",
+      "ahId": "6uopw"
+    },
+    {
+      "titre": "The Ramparts of Ice",
+      "titreJp": "Koori no Jouheki, Ice Castle Wall",
+      "ep": 14,
+      "ago": "1h",
+      "img": "cs30h",
+      "ahId": "jx2jr"
+    },
+    {
+      "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+      "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
+      "ep": 2,
+      "ago": "2h",
+      "img": "cy9ca",
+      "ahId": "ultkb"
+    },
+    {
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 3,
-      "ago": "?",
+      "ago": "3h",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -12,7 +44,7 @@
       "titre": "Bungo Stray Dogs Wan!",
       "titreJp": "",
       "ep": 12,
-      "ago": "1h",
+      "ago": "3h",
       "img": "ofyoh",
       "ahId": "rtmcg"
     },
@@ -20,7 +52,7 @@
       "titre": "Bungo Stray Dogs Wan! 2",
       "titreJp": "",
       "ep": 1,
-      "ago": "2h",
+      "ago": "4h",
       "img": "gob1n",
       "ahId": "1wtvp"
     },
@@ -28,7 +60,7 @@
       "titre": "Dara-san of Reiwa",
       "titreJp": "Reiwa no Dara-san",
       "ep": 1,
-      "ago": "2h",
+      "ago": "5h",
       "img": "bkz60",
       "ahId": "59rhi"
     },
@@ -36,7 +68,7 @@
       "titre": "Hana-Kimi Season 2",
       "titreJp": "Hanazakari no Kimi-tachi e Season 2",
       "ep": 2,
-      "ago": "22h",
+      "ago": "1d",
       "img": "yzbv7",
       "ahId": "s3cd7"
     },
@@ -44,7 +76,7 @@
       "titre": "The Villager of LV999",
       "titreJp": "LV999 no Murabito",
       "ep": 2,
-      "ago": "22h",
+      "ago": "1d",
       "img": "7vqbp",
       "ahId": "mucnh"
     },
@@ -68,7 +100,7 @@
       "titre": "The Yakuza's Guide to Babysitting",
       "titreJp": "Kumichou Musume to Sewagakari",
       "ep": 11,
-      "ago": "1d",
+      "ago": "2d",
       "img": "sbvlf",
       "ahId": "jl4ns"
     },
@@ -76,7 +108,7 @@
       "titre": "Eren the Southpaw",
       "titreJp": "Hidarikiki no Eren",
       "ep": 13,
-      "ago": "1d",
+      "ago": "2d",
       "img": "w5epl",
       "ahId": "j26hl"
     },
@@ -124,7 +156,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 13,
-      "ago": "2d",
+      "ago": "3d",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -140,7 +172,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1168,
-      "ago": "3d",
+      "ago": "4d",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -196,7 +228,7 @@
       "titre": "Scum of the Brave",
       "titreJp": "Yuusha no Kuzu",
       "ep": 24,
-      "ago": "4d",
+      "ago": "5d",
       "img": "97302",
       "ahId": "oxx6c"
     },
@@ -204,7 +236,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 13,
-      "ago": "4d",
+      "ago": "5d",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -212,7 +244,7 @@
       "titre": "Agents of the Four Seasons: Dance of Spring",
       "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
       "ep": 14,
-      "ago": "4d",
+      "ago": "5d",
       "img": "fxza8",
       "ahId": "boii6"
     },
@@ -220,7 +252,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 13,
-      "ago": "4d",
+      "ago": "5d",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -300,7 +332,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -308,7 +340,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -316,7 +348,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 13,
-      "ago": "5d",
+      "ago": "6d",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -329,18 +361,10 @@
       "ahId": "aplyf"
     },
     {
-      "titre": "The Ramparts of Ice",
-      "titreJp": "Koori no Jouheki, Ice Castle Wall",
-      "ep": 13,
-      "ago": "6d",
-      "img": "cs30h",
-      "ahId": "jx2jr"
-    },
-    {
       "titre": "A Hundred Scenes of AWAJIMA",
       "titreJp": "Awajima Hyakkei",
       "ep": 12,
-      "ago": "6d",
+      "ago": "7d",
       "img": "r7ozz",
       "ahId": "oh0q2"
     },
@@ -348,17 +372,9 @@
       "titre": "Petals of Reincarnation",
       "titreJp": "Reincarnation no Kaben",
       "ep": 13,
-      "ago": "6d",
+      "ago": "7d",
       "img": "iideg",
       "ahId": "b2ybn"
-    },
-    {
-      "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
-      "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
-      "ep": 1,
-      "ago": "7d",
-      "img": "cy9ca",
-      "ahId": "ultkb"
     },
     {
       "titre": "Dr. Stone: Science Future - Part III",
@@ -388,7 +404,7 @@
       "titre": "The Beginning After the End Season 2",
       "titreJp": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
       "ep": 12,
-      "ago": "7d",
+      "ago": "8d",
       "img": "zmy4z",
       "ahId": "fv1vj"
     },
@@ -396,7 +412,7 @@
       "titre": "Gals Can’t Be Kind to Otaku!?",
       "titreJp": "Otaku ni Yasashii Gyaru wa Inai!?",
       "ep": 12,
-      "ago": "7d",
+      "ago": "8d",
       "img": "j5umi",
       "ahId": "kq3pz"
     },
@@ -516,7 +532,7 @@
       "titre": "Ingoku Danchi: Deviant's Apartment Complex",
       "titreJp": "Ingoku Danchi",
       "ep": 12,
-      "ago": "10d",
+      "ago": "11d",
       "img": "4gqwj",
       "ahId": "bgi3j"
     },
@@ -524,7 +540,7 @@
       "titre": "Ghost Concert: Missing Songs",
       "titreJp": "",
       "ep": 12,
-      "ago": "10d",
+      "ago": "11d",
       "img": "1ljqb",
       "ahId": "8p2tr"
     },
@@ -543,17 +559,9 @@
       "ago": "11d",
       "img": "tl46m",
       "ahId": "rf6nw"
-    },
-    {
-      "titre": "Ichijouma Mankitsugurashi!",
-      "titreJp": "",
-      "ep": 11,
-      "ago": "11d",
-      "img": "wm2v7",
-      "ahId": "ccxi5"
     }
   ],
-  "updatedAt": "2026-07-02T15:12:25.685Z",
+  "updatedAt": "2026-07-02T17:43:17.501Z",
   "source": "github-actions",
-  "count": 69
+  "count": 70
 }
