@@ -4,7 +4,7 @@
       "titre": "Kaiju Girl Caramelise",
       "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
       "ep": 1,
-      "ago": "3h",
+      "ago": "5h",
       "img": "gtz8g",
       "ahId": "wfsth"
     },
@@ -12,7 +12,7 @@
       "titre": "Chainsmoker Cat",
       "titreJp": "Yani Neko",
       "ep": 1,
-      "ago": "4h",
+      "ago": "6h",
       "img": "r45h0",
       "ahId": "6hqka"
     },
@@ -20,7 +20,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 1,
-      "ago": "4h",
+      "ago": "6h",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -28,7 +28,7 @@
       "titre": "The Ramparts of Ice",
       "titreJp": "Koori no Jouheki, Ice Castle Wall",
       "ep": 14,
-      "ago": "4h",
+      "ago": "6h",
       "img": "cs30h",
       "ahId": "jx2jr"
     },
@@ -36,7 +36,7 @@
       "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
       "ep": 2,
-      "ago": "5h",
+      "ago": "7h",
       "img": "cy9ca",
       "ahId": "ultkb"
     },
@@ -44,7 +44,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 3,
-      "ago": "6h",
+      "ago": "8h",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -52,7 +52,7 @@
       "titre": "Bungo Stray Dogs Wan!",
       "titreJp": "",
       "ep": 12,
-      "ago": "7h",
+      "ago": "9h",
       "img": "ofyoh",
       "ahId": "rtmcg"
     },
@@ -60,7 +60,7 @@
       "titre": "Bungo Stray Dogs Wan! 2",
       "titreJp": "",
       "ep": 1,
-      "ago": "8h",
+      "ago": "10h",
       "img": "gob1n",
       "ahId": "1wtvp"
     },
@@ -68,7 +68,7 @@
       "titre": "Dara-san of Reiwa",
       "titreJp": "Reiwa no Dara-san",
       "ep": 1,
-      "ago": "8h",
+      "ago": "10h",
       "img": "bkz60",
       "ahId": "59rhi"
     },
@@ -532,7 +532,7 @@
       "titre": "Baka and Test - Summon the Beasts",
       "titreJp": "Baka to Test to Shoukanjuu",
       "ep": 13,
-      "ago": "10d",
+      "ago": "11d",
       "img": "lcrl0",
       "ahId": "ah4rl"
     },
@@ -561,7 +561,7 @@
       "ahId": "kqa66"
     }
   ],
-  "updatedAt": "2026-07-02T21:01:46.049Z",
+  "updatedAt": "2026-07-02T23:01:43.993Z",
   "source": "github-actions",
   "count": 70
 }
