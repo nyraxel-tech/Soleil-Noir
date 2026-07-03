@@ -4,7 +4,7 @@
       "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
       "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
       "ep": 1,
-      "ago": "?",
+      "ago": "2h",
       "img": "c5wg4",
       "ahId": "vnlfg"
     },
@@ -12,7 +12,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 1,
-      "ago": "?",
+      "ago": "2h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -20,7 +20,7 @@
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 1,
-      "ago": "1h",
+      "ago": "3h",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -28,7 +28,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 13,
-      "ago": "1h",
+      "ago": "3h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -36,7 +36,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 13,
-      "ago": "2h",
+      "ago": "4h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -44,7 +44,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 1,
-      "ago": "3h",
+      "ago": "5h",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -52,7 +52,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 1,
-      "ago": "3h",
+      "ago": "5h",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -60,7 +60,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 2,
-      "ago": "8h",
+      "ago": "10h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -68,7 +68,7 @@
       "titre": "Kaiju Girl Caramelise",
       "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
       "ep": 1,
-      "ago": "23h",
+      "ago": "1d",
       "img": "gtz8g",
       "ahId": "wfsth"
     },
@@ -220,7 +220,7 @@
       "titre": "Fate/Zero",
       "titreJp": "",
       "ep": 13,
-      "ago": "3d",
+      "ago": "4d",
       "img": "2xov7",
       "ahId": "1xbu0"
     },
@@ -396,7 +396,7 @@
       "titre": "Fist of the North Star (2026)",
       "titreJp": "Hokuto no Ken: Fist of the North Star",
       "ep": 14,
-      "ago": "6d",
+      "ago": "7d",
       "img": "ciyvs",
       "ahId": "fpnp2"
     },
@@ -500,7 +500,7 @@
       "titre": "My Ribdiculous Reincarnation",
       "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
       "ep": 12,
-      "ago": "9d",
+      "ago": "10d",
       "img": "27pp6",
       "ahId": "xw4de"
     },
@@ -508,7 +508,7 @@
       "titre": "Pardon the Intrusion, I'm Home!",
       "titreJp": "Tadaima, Ojamasaremasu!",
       "ep": 12,
-      "ago": "9d",
+      "ago": "10d",
       "img": "mwvn6",
       "ahId": "c3nol"
     },
@@ -569,7 +569,7 @@
       "ahId": "gnqba"
     }
   ],
-  "updatedAt": "2026-07-03T17:21:39.242Z",
+  "updatedAt": "2026-07-03T19:15:29.357Z",
   "source": "github-actions",
   "count": 71
 }
