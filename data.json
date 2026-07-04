@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "Skeleton Knight in Another World 2",
+      "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
+      "ep": 1,
+      "ago": "?",
+      "img": "3ol6v",
+      "ahId": "1oaxo"
+    },
+    {
+      "titre": "Mushoku Tensei: Jobless Reincarnation 3rd Season",
+      "titreJp": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+      "ep": 2,
+      "ago": "?",
+      "img": "b1dg7",
+      "ahId": "sfvog"
+    },
+    {
+      "titre": "Welcome to Demon School, Iruma-kun 4",
+      "titreJp": "Mairimashita! Iruma-kun 4",
+      "ep": 14,
+      "ago": "1h",
+      "img": "lkpy4",
+      "ahId": "amsff"
+    },
+    {
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 142,
-      "ago": "?",
+      "ago": "2h",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -12,7 +36,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 3,
-      "ago": "14h",
+      "ago": "16h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -20,7 +44,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 1,
-      "ago": "14h",
+      "ago": "16h",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -28,7 +52,7 @@
       "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
       "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
       "ep": 1,
-      "ago": "17h",
+      "ago": "19h",
       "img": "c5wg4",
       "ahId": "vnlfg"
     },
@@ -36,7 +60,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 1,
-      "ago": "17h",
+      "ago": "19h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -44,7 +68,7 @@
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 1,
-      "ago": "18h",
+      "ago": "20h",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -52,7 +76,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 13,
-      "ago": "18h",
+      "ago": "20h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -60,7 +84,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 13,
-      "ago": "18h",
+      "ago": "20h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -68,7 +92,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 1,
-      "ago": "19h",
+      "ago": "21h",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -76,7 +100,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 1,
-      "ago": "20h",
+      "ago": "22h",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -180,7 +204,7 @@
       "titre": "Hana-Kimi",
       "titreJp": "Hanazakari no Kimi-tachi e",
       "ep": 4,
-      "ago": "2d",
+      "ago": "3d",
       "img": "futcv",
       "ahId": "bs07m"
     },
@@ -372,7 +396,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 1205,
-      "ago": "6d",
+      "ago": "7d",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -380,17 +404,9 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1205,
-      "ago": "6d",
+      "ago": "7d",
       "img": "lx86z",
       "ahId": "y9prb"
-    },
-    {
-      "titre": "Welcome to Demon School, Iruma-kun 4",
-      "titreJp": "Mairimashita! Iruma-kun 4",
-      "ep": 13,
-      "ago": "6d",
-      "img": "lkpy4",
-      "ahId": "amsff"
     },
     {
       "titre": "Ascendance of a Bookworm Season 4",
@@ -551,25 +567,9 @@
       "ago": "10d",
       "img": "0gwes",
       "ahId": "r32sr"
-    },
-    {
-      "titre": "The Klutzy Class Monitor and the Girl with the Short Skirt",
-      "titreJp": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
-      "ep": 12,
-      "ago": "11d",
-      "img": "jh4do",
-      "ahId": "fcmyo"
-    },
-    {
-      "titre": "Witch Hat Atelier",
-      "titreJp": "Tongari Boushi no Atelier",
-      "ep": 13,
-      "ago": "11d",
-      "img": "6rlo7",
-      "ahId": "df4in"
     }
   ],
-  "updatedAt": "2026-07-04T10:05:55.641Z",
+  "updatedAt": "2026-07-04T12:04:39.032Z",
   "source": "github-actions",
   "count": 71
 }
