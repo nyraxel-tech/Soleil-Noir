@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Jaadugar: A Witch in Mongolia",
+      "titreJp": "Tenmaku no Jaadugar",
+      "ep": 2,
+      "ago": "?",
+      "img": "9ihs5",
+      "ahId": "t1ey0"
+    },
+    {
+      "titre": "Daemons of The Shadow Realm",
+      "titreJp": "Yomi no Tsugai",
+      "ep": 13,
+      "ago": "1h",
+      "img": "dks5o",
+      "ahId": "pm96z"
+    },
+    {
       "titre": "Recommendations from Iwamoto-Senpai",
       "titreJp": "Iwamoto-senpai no Suisen",
       "ep": 1,
-      "ago": "?",
+      "ago": "2h",
       "img": "gnmlq",
       "ahId": "nn6k9"
     },
@@ -12,7 +28,7 @@
       "titre": "The Cat and the Dragon",
       "titreJp": "Neko to Ryuu",
       "ep": 2,
-      "ago": "?",
+      "ago": "3h",
       "img": "828yy",
       "ahId": "9zg3f"
     },
@@ -20,7 +36,7 @@
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 1,
-      "ago": "1h",
+      "ago": "4h",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -28,7 +44,7 @@
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 1,
-      "ago": "2h",
+      "ago": "5h",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -36,7 +52,7 @@
       "titre": "Mushoku Tensei: Jobless Reincarnation 3rd Season",
       "titreJp": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
       "ep": 2,
-      "ago": "2h",
+      "ago": "5h",
       "img": "b1dg7",
       "ahId": "sfvog"
     },
@@ -44,7 +60,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 14,
-      "ago": "3h",
+      "ago": "6h",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -52,7 +68,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 142,
-      "ago": "5h",
+      "ago": "8h",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -60,7 +76,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 3,
-      "ago": "19h",
+      "ago": "21h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -68,7 +84,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 1,
-      "ago": "19h",
+      "ago": "21h",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -76,7 +92,7 @@
       "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
       "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
       "ep": 1,
-      "ago": "21h",
+      "ago": "1d",
       "img": "c5wg4",
       "ahId": "vnlfg"
     },
@@ -84,7 +100,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 1,
-      "ago": "21h",
+      "ago": "1d",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -92,7 +108,7 @@
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 1,
-      "ago": "22h",
+      "ago": "1d",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -100,7 +116,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 13,
-      "ago": "22h",
+      "ago": "1d",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -108,7 +124,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 13,
-      "ago": "23h",
+      "ago": "1d",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -140,7 +156,7 @@
       "titre": "Chainsmoker Cat",
       "titreJp": "Yani Neko",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "r45h0",
       "ahId": "6hqka"
     },
@@ -148,7 +164,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -156,7 +172,7 @@
       "titre": "The Ramparts of Ice",
       "titreJp": "Koori no Jouheki, Ice Castle Wall",
       "ep": 14,
-      "ago": "1d",
+      "ago": "2d",
       "img": "cs30h",
       "ahId": "jx2jr"
     },
@@ -164,7 +180,7 @@
       "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
       "ep": 2,
-      "ago": "1d",
+      "ago": "2d",
       "img": "cy9ca",
       "ahId": "ultkb"
     },
@@ -204,7 +220,7 @@
       "titre": "Hana-Kimi Season 2",
       "titreJp": "Hanazakari no Kimi-tachi e Season 2",
       "ep": 2,
-      "ago": "2d",
+      "ago": "3d",
       "img": "yzbv7",
       "ahId": "s3cd7"
     },
@@ -212,7 +228,7 @@
       "titre": "The Villager of LV999",
       "titreJp": "LV999 no Murabito",
       "ep": 2,
-      "ago": "2d",
+      "ago": "3d",
       "img": "7vqbp",
       "ahId": "mucnh"
     },
@@ -220,7 +236,7 @@
       "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
       "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
       "ep": 2,
-      "ago": "2d",
+      "ago": "3d",
       "img": "ycs89",
       "ahId": "q3n2b"
     },
@@ -236,7 +252,7 @@
       "titre": "The Yakuza's Guide to Babysitting",
       "titreJp": "Kumichou Musume to Sewagakari",
       "ep": 11,
-      "ago": "3d",
+      "ago": "4d",
       "img": "sbvlf",
       "ahId": "jl4ns"
     },
@@ -244,7 +260,7 @@
       "titre": "Eren the Southpaw",
       "titreJp": "Hidarikiki no Eren",
       "ep": 13,
-      "ago": "3d",
+      "ago": "4d",
       "img": "w5epl",
       "ahId": "j26hl"
     },
@@ -252,7 +268,7 @@
       "titre": "Even a Replica Can Fall in Love",
       "titreJp": "Replica datte, Koi wo Suru.",
       "ep": 13,
-      "ago": "3d",
+      "ago": "4d",
       "img": "z35jq",
       "ahId": "k662x"
     },
@@ -260,7 +276,7 @@
       "titre": "Marriagetoxin",
       "titreJp": "Marriage Toxin",
       "ep": 13,
-      "ago": "3d",
+      "ago": "4d",
       "img": "ljkt9",
       "ahId": "lf9gt"
     },
@@ -268,7 +284,7 @@
       "titre": "I Want to End This Love Game",
       "titreJp": "Aishiteru Game wo Owarasetai",
       "ep": 12,
-      "ago": "3d",
+      "ago": "4d",
       "img": "438x1",
       "ahId": "jrvi5"
     },
@@ -292,7 +308,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 13,
-      "ago": "4d",
+      "ago": "5d",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -308,7 +324,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1168,
-      "ago": "5d",
+      "ago": "6d",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -316,7 +332,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -324,7 +340,7 @@
       "titre": "Fate/stay night: Heaven's Feel Movies",
       "titreJp": "",
       "ep": 3,
-      "ago": "5d",
+      "ago": "6d",
       "img": "xrngl",
       "ahId": "wbzq7"
     },
@@ -372,7 +388,7 @@
       "titre": "Needy Girl Overdose",
       "titreJp": "",
       "ep": 13,
-      "ago": "6d",
+      "ago": "7d",
       "img": "57g7m",
       "ahId": "z320l"
     },
@@ -380,7 +396,7 @@
       "titre": "Agents of the Four Seasons: Dance of Spring",
       "titreJp": "Shunkashuutou Daikousha: Haru no Mai",
       "ep": 14,
-      "ago": "6d",
+      "ago": "7d",
       "img": "fxza8",
       "ahId": "boii6"
     },
@@ -388,7 +404,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 13,
-      "ago": "6d",
+      "ago": "7d",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -396,7 +412,7 @@
       "titre": "Kill Blue",
       "titreJp": "Kill Ao",
       "ep": 12,
-      "ago": "6d",
+      "ago": "7d",
       "img": "dns6b",
       "ahId": "y5v48"
     },
@@ -452,7 +468,7 @@
       "titre": "Botan Kamiina Fully Blossoms When Drunk",
       "titreJp": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana, Kamiina Botan, the Drunken Form is a Lily Flower",
       "ep": 12,
-      "ago": "7d",
+      "ago": "8d",
       "img": "sbyve",
       "ahId": "b0vsk"
     },
@@ -460,7 +476,7 @@
       "titre": "Snowball Earth",
       "titreJp": "",
       "ep": 13,
-      "ago": "7d",
+      "ago": "8d",
       "img": "g0kk7",
       "ahId": "3kfyx"
     },
@@ -468,7 +484,7 @@
       "titre": "A Hundred Scenes of AWAJIMA",
       "titreJp": "Awajima Hyakkei",
       "ep": 12,
-      "ago": "8d",
+      "ago": "9d",
       "img": "r7ozz",
       "ahId": "oh0q2"
     },
@@ -476,7 +492,7 @@
       "titre": "Petals of Reincarnation",
       "titreJp": "Reincarnation no Kaben",
       "ep": 13,
-      "ago": "8d",
+      "ago": "9d",
       "img": "iideg",
       "ahId": "b2ybn"
     },
@@ -508,7 +524,7 @@
       "titre": "The Beginning After the End Season 2",
       "titreJp": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
       "ep": 12,
-      "ago": "9d",
+      "ago": "10d",
       "img": "zmy4z",
       "ahId": "fv1vj"
     },
@@ -516,7 +532,7 @@
       "titre": "Gals Can’t Be Kind to Otaku!?",
       "titreJp": "Otaku ni Yasashii Gyaru wa Inai!?",
       "ep": 12,
-      "ago": "9d",
+      "ago": "10d",
       "img": "j5umi",
       "ahId": "kq3pz"
     },
@@ -543,33 +559,9 @@
       "ago": "10d",
       "img": "npea5",
       "ahId": "nzwhr"
-    },
-    {
-      "titre": "My Ribdiculous Reincarnation",
-      "titreJp": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”, Goddess: &quot;What Do You Want to Turn Into When You&#039;re Reincarnated in Another World?&quot; Me: &quot;Into a Hero&#039;s Rib&quot;",
-      "ep": 12,
-      "ago": "10d",
-      "img": "27pp6",
-      "ahId": "xw4de"
-    },
-    {
-      "titre": "Pardon the Intrusion, I'm Home!",
-      "titreJp": "Tadaima, Ojamasaremasu!",
-      "ep": 12,
-      "ago": "10d",
-      "img": "mwvn6",
-      "ahId": "c3nol"
-    },
-    {
-      "titre": "I Made Friends with the Second Prettiest Girl in My Class",
-      "titreJp": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
-      "ep": 12,
-      "ago": "10d",
-      "img": "kfuf2",
-      "ahId": "3c38p"
     }
   ],
-  "updatedAt": "2026-07-04T14:26:37.239Z",
+  "updatedAt": "2026-07-04T17:13:54.657Z",
   "source": "github-actions",
-  "count": 71
+  "count": 70
 }
