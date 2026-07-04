@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Pokemon Horizons: The Series",
+      "titreJp": "Pocket Monsters (2023)",
+      "ep": 142,
+      "ago": "?",
+      "img": "9fsft",
+      "ahId": "9v661"
+    },
+    {
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 3,
-      "ago": "12h",
+      "ago": "14h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -12,7 +20,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 1,
-      "ago": "12h",
+      "ago": "14h",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -20,7 +28,7 @@
       "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
       "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
       "ep": 1,
-      "ago": "14h",
+      "ago": "17h",
       "img": "c5wg4",
       "ahId": "vnlfg"
     },
@@ -28,7 +36,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 1,
-      "ago": "15h",
+      "ago": "17h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -36,7 +44,7 @@
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 1,
-      "ago": "15h",
+      "ago": "18h",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -44,7 +52,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 13,
-      "ago": "16h",
+      "ago": "18h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -52,7 +60,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 13,
-      "ago": "16h",
+      "ago": "18h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -60,7 +68,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 1,
-      "ago": "17h",
+      "ago": "19h",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -68,7 +76,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 1,
-      "ago": "18h",
+      "ago": "20h",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -276,7 +284,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season",
       "titreJp": "Diamond no Ace: Act II 2nd Season",
       "ep": 13,
-      "ago": "5d",
+      "ago": "6d",
       "img": "c50pz",
       "ahId": "dd464"
     },
@@ -284,7 +292,7 @@
       "titre": "Wistoria: Wand and Sword 2nd Season",
       "titreJp": "Tsue to Tsurugi no Wistoria 2nd Season",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "h6l0c",
       "ahId": "y98v5"
     },
@@ -292,7 +300,7 @@
       "titre": "Mission: Yozakura Family Season 2",
       "titreJp": "Yozakura-san Chi no Daisakusen Season 2",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "rgi7x",
       "ahId": "feqdi"
     },
@@ -388,7 +396,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 12,
-      "ago": "6d",
+      "ago": "7d",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -559,17 +567,9 @@
       "ago": "11d",
       "img": "6rlo7",
       "ahId": "df4in"
-    },
-    {
-      "titre": "Farming Life in Another World 2",
-      "titreJp": "Isekai Nonbiri Nouka 2",
-      "ep": 12,
-      "ago": "11d",
-      "img": "b7en4",
-      "ahId": "fae6d"
     }
   ],
-  "updatedAt": "2026-07-04T07:43:11.666Z",
+  "updatedAt": "2026-07-04T10:05:55.641Z",
   "source": "github-actions",
   "count": 71
 }
