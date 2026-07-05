@@ -1133,8 +1133,22 @@
       "img": "tak3w",
       "ahId": "y01g1",
       "addedAt": "2026-07-05T14:38:36.892Z"
+    },
+    {
+      "titre": "Goodbye, Lara",
+      "titreJp": "Sayonara Lara",
+      "img": "c5pih",
+      "ahId": "f76b2",
+      "addedAt": "2026-07-05T16:04:42.403Z"
+    },
+    {
+      "titre": "Sparks of Tomorrow",
+      "titreJp": "Nijusseiki Denki Mokuroku: Eureka Evrika, 20 Seiki Denki Mokuroku: Eureka Evrika",
+      "img": "2e371",
+      "ahId": "1wghj",
+      "addedAt": "2026-07-05T16:04:42.403Z"
     }
   ],
-  "updatedAt": "2026-07-05T14:38:36.892Z",
-  "count": 162
+  "updatedAt": "2026-07-05T16:04:42.404Z",
+  "count": 164
 }

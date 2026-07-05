@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "Goodbye, Lara",
+      "titreJp": "Sayonara Lara",
+      "ep": 1,
+      "ago": "?",
+      "img": "c5pih",
+      "ahId": "f76b2"
+    },
+    {
+      "titre": "The Classroom of a Black Cat and a Witch",
+      "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
+      "ep": 13,
+      "ago": "?",
+      "img": "cs0bn",
+      "ahId": "7p5hz"
+    },
+    {
+      "titre": "Sparks of Tomorrow",
+      "titreJp": "Nijusseiki Denki Mokuroku: Eureka Evrika, 20 Seiki Denki Mokuroku: Eureka Evrika",
+      "ep": 1,
+      "ago": "1h",
+      "img": "2e371",
+      "ahId": "1wghj"
+    },
+    {
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 1,
-      "ago": "?",
+      "ago": "1h",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -12,7 +36,7 @@
       "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
       "titreJp": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
       "ep": 1,
-      "ago": "1h",
+      "ago": "2h",
       "img": "tak3w",
       "ahId": "y01g1"
     },
@@ -20,7 +44,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 2",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season",
       "ep": 12,
-      "ago": "3h",
+      "ago": "4h",
       "img": "d4h4l",
       "ahId": "ahsr3"
     },
@@ -28,7 +52,7 @@
       "titre": "You and I are Polar Opposites",
       "titreJp": "Seihantai na Kimi to Boku",
       "ep": 1,
-      "ago": "3h",
+      "ago": "5h",
       "img": "dcend",
       "ahId": "90tky"
     },
@@ -36,7 +60,7 @@
       "titre": "Iron Wok Jan!",
       "titreJp": "Tetsunabe no Jan!",
       "ep": 1,
-      "ago": "3h",
+      "ago": "5h",
       "img": "5yj1u",
       "ahId": "3l7kl"
     },
@@ -44,7 +68,7 @@
       "titre": "You and I are Polar Opposites 2nd Season",
       "titreJp": "Seihantai na Kimi to Boku 2nd Season",
       "ep": 1,
-      "ago": "3h",
+      "ago": "5h",
       "img": "j1ir5",
       "ahId": "th5p2"
     },
@@ -52,7 +76,7 @@
       "titre": "Let's Go Kaikigumi",
       "titreJp": "",
       "ep": 1,
-      "ago": "3h",
+      "ago": "5h",
       "img": "03516",
       "ahId": "2ydm9"
     },
@@ -60,7 +84,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 37,
-      "ago": "11h",
+      "ago": "12h",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -68,7 +92,7 @@
       "titre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School.",
       "titreJp": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewasuru Koto ni Narimashita",
       "ep": 1,
-      "ago": "20h",
+      "ago": "21h",
       "img": "bprh4",
       "ahId": "n2apg"
     },
@@ -76,7 +100,7 @@
       "titre": "Magilumiere Co. Ltd. 2nd Season",
       "titreJp": "Kabushikigaisha Magi-Lumière 2nd Season",
       "ep": 1,
-      "ago": "20h",
+      "ago": "22h",
       "img": "a0m9j",
       "ahId": "7776o"
     },
@@ -84,7 +108,7 @@
       "titre": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
       "titreJp": "",
       "ep": 1,
-      "ago": "20h",
+      "ago": "22h",
       "img": "zpm54",
       "ahId": "zweu6"
     },
@@ -92,7 +116,7 @@
       "titre": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
       "titreJp": "\\&quot;Kimi wo Aisuru Ki wa Nai\\&quot; to Itta Jiki Koushaku-sama ga nazeka Dekiaishitekimasu",
       "ep": 1,
-      "ago": "21h",
+      "ago": "22h",
       "img": "r5tg3",
       "ahId": "m6wg7"
     },
@@ -100,7 +124,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 14,
-      "ago": "21h",
+      "ago": "22h",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -108,7 +132,7 @@
       "titre": "The Ogre's Bride",
       "titreJp": "Oni no Hanayome",
       "ep": 1,
-      "ago": "21h",
+      "ago": "22h",
       "img": "csu03",
       "ahId": "u6fdm"
     },
@@ -116,7 +140,7 @@
       "titre": "Jaadugar: A Witch in Mongolia",
       "titreJp": "Tenmaku no Jaadugar",
       "ep": 2,
-      "ago": "21h",
+      "ago": "23h",
       "img": "9ihs5",
       "ahId": "t1ey0"
     },
@@ -124,7 +148,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 13,
-      "ago": "22h",
+      "ago": "23h",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -220,7 +244,7 @@
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -228,7 +252,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 13,
-      "ago": "1d",
+      "ago": "2d",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -236,7 +260,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 13,
-      "ago": "1d",
+      "ago": "2d",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -292,7 +316,7 @@
       "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
       "ep": 2,
-      "ago": "2d",
+      "ago": "3d",
       "img": "cy9ca",
       "ahId": "ultkb"
     },
@@ -380,7 +404,7 @@
       "titre": "Even a Replica Can Fall in Love",
       "titreJp": "Replica datte, Koi wo Suru.",
       "ep": 13,
-      "ago": "4d",
+      "ago": "5d",
       "img": "z35jq",
       "ahId": "k662x"
     },
@@ -388,7 +412,7 @@
       "titre": "Marriagetoxin",
       "titreJp": "Marriage Toxin",
       "ep": 13,
-      "ago": "4d",
+      "ago": "5d",
       "img": "ljkt9",
       "ahId": "lf9gt"
     },
@@ -396,7 +420,7 @@
       "titre": "I Want to End This Love Game",
       "titreJp": "Aishiteru Game wo Owarasetai",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "438x1",
       "ahId": "jrvi5"
     },
@@ -439,14 +463,6 @@
       "ago": "6d",
       "img": "zbt7y",
       "ahId": "1ht8d"
-    },
-    {
-      "titre": "The Classroom of a Black Cat and a Witch",
-      "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
-      "ep": 12,
-      "ago": "6d",
-      "img": "cs0bn",
-      "ahId": "7p5hz"
     },
     {
       "titre": "Fate/stay night: Heaven's Feel Movies",
@@ -516,7 +532,7 @@
       "titre": "Kill Blue",
       "titreJp": "Kill Ao",
       "ep": 12,
-      "ago": "7d",
+      "ago": "8d",
       "img": "dns6b",
       "ahId": "y5v48"
     },
@@ -543,25 +559,9 @@
       "ago": "8d",
       "img": "lx86z",
       "ahId": "y9prb"
-    },
-    {
-      "titre": "Ascendance of a Bookworm Season 4",
-      "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
-      "ep": 12,
-      "ago": "8d",
-      "img": "2m22z",
-      "ahId": "yeyrm"
-    },
-    {
-      "titre": "That Time I Got Reincarnated as a Slime Movie 2: Tears of the Azure Sea",
-      "titreJp": "Tensei Shitara Slime Datta Ken Movie 2: Soukai no Namida Hen",
-      "ep": 1,
-      "ago": "8d",
-      "img": "034lt",
-      "ahId": "sa311"
     }
   ],
-  "updatedAt": "2026-07-05T14:38:36.886Z",
+  "updatedAt": "2026-07-05T16:04:42.398Z",
   "source": "github-actions",
   "count": 70
 }
