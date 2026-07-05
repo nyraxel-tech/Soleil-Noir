@@ -4,7 +4,7 @@
       "titre": "One Piece Heroines",
       "titreJp": "",
       "ep": 1,
-      "ago": "1h",
+      "ago": "3h",
       "img": "giul6",
       "ahId": "ckqsc"
     },
@@ -12,7 +12,7 @@
       "titre": "Goodbye, Lara",
       "titreJp": "Sayonara Lara",
       "ep": 1,
-      "ago": "2h",
+      "ago": "3h",
       "img": "c5pih",
       "ahId": "f76b2"
     },
@@ -20,7 +20,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 13,
-      "ago": "2h",
+      "ago": "4h",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -28,7 +28,7 @@
       "titre": "Sparks of Tomorrow",
       "titreJp": "Nijusseiki Denki Mokuroku: Eureka Evrika, 20 Seiki Denki Mokuroku: Eureka Evrika",
       "ep": 1,
-      "ago": "3h",
+      "ago": "4h",
       "img": "2e371",
       "ahId": "1wghj"
     },
@@ -36,7 +36,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 1,
-      "ago": "3h",
+      "ago": "5h",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -44,7 +44,7 @@
       "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
       "titreJp": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
       "ep": 1,
-      "ago": "4h",
+      "ago": "6h",
       "img": "tak3w",
       "ahId": "y01g1"
     },
@@ -52,7 +52,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 2",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season",
       "ep": 12,
-      "ago": "6h",
+      "ago": "8h",
       "img": "d4h4l",
       "ahId": "ahsr3"
     },
@@ -60,7 +60,7 @@
       "titre": "You and I are Polar Opposites",
       "titreJp": "Seihantai na Kimi to Boku",
       "ep": 1,
-      "ago": "6h",
+      "ago": "8h",
       "img": "dcend",
       "ahId": "90tky"
     },
@@ -68,7 +68,7 @@
       "titre": "Iron Wok Jan!",
       "titreJp": "Tetsunabe no Jan!",
       "ep": 1,
-      "ago": "7h",
+      "ago": "8h",
       "img": "5yj1u",
       "ahId": "3l7kl"
     },
@@ -76,7 +76,7 @@
       "titre": "You and I are Polar Opposites 2nd Season",
       "titreJp": "Seihantai na Kimi to Boku 2nd Season",
       "ep": 1,
-      "ago": "7h",
+      "ago": "8h",
       "img": "j1ir5",
       "ahId": "th5p2"
     },
@@ -84,7 +84,7 @@
       "titre": "Let's Go Kaikigumi",
       "titreJp": "",
       "ep": 1,
-      "ago": "7h",
+      "ago": "8h",
       "img": "03516",
       "ahId": "2ydm9"
     },
@@ -92,7 +92,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 37,
-      "ago": "14h",
+      "ago": "16h",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -100,7 +100,7 @@
       "titre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School.",
       "titreJp": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewasuru Koto ni Narimashita",
       "ep": 1,
-      "ago": "23h",
+      "ago": "1d",
       "img": "bprh4",
       "ahId": "n2apg"
     },
@@ -220,7 +220,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 3,
-      "ago": "1d",
+      "ago": "2d",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -228,7 +228,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -444,7 +444,7 @@
       "titre": "Fate/Zero",
       "titreJp": "",
       "ep": 13,
-      "ago": "5d",
+      "ago": "6d",
       "img": "2xov7",
       "ahId": "1xbu0"
     },
@@ -561,7 +561,7 @@
       "ahId": "lckgk"
     }
   ],
-  "updatedAt": "2026-07-05T17:59:28.231Z",
+  "updatedAt": "2026-07-05T19:36:57.322Z",
   "source": "github-actions",
   "count": 70
 }
