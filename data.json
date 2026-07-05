@@ -3,7 +3,7 @@
     {
       "titre": "Azur Lane",
       "titreJp": "",
-      "ep": 6,
+      "ep": 10,
       "ago": "?",
       "img": "g8puj",
       "ahId": "yjv4a"
@@ -12,7 +12,7 @@
       "titre": "Azur Lane: Slow Ahead!",
       "titreJp": "Azur Lane: Bisoku Zenshin!",
       "ep": 12,
-      "ago": "?",
+      "ago": "1h",
       "img": "butmb",
       "ahId": "zxy6h"
     },
@@ -20,7 +20,7 @@
       "titre": "Azur Lane: Slow Ahead! 2nd Season",
       "titreJp": "Azur Lane: Bisoku Zenshin! 2nd Season",
       "ep": 1,
-      "ago": "4h",
+      "ago": "5h",
       "img": "8j4y6",
       "ahId": "marhn"
     },
@@ -28,7 +28,7 @@
       "titre": "One Piece Heroines",
       "titreJp": "",
       "ep": 1,
-      "ago": "4h",
+      "ago": "5h",
       "img": "giul6",
       "ahId": "ckqsc"
     },
@@ -36,7 +36,7 @@
       "titre": "Goodbye, Lara",
       "titreJp": "Sayonara Lara",
       "ep": 1,
-      "ago": "5h",
+      "ago": "6h",
       "img": "c5pih",
       "ahId": "f76b2"
     },
@@ -44,7 +44,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 13,
-      "ago": "5h",
+      "ago": "6h",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -52,7 +52,7 @@
       "titre": "Sparks of Tomorrow",
       "titreJp": "Nijusseiki Denki Mokuroku: Eureka Evrika, 20 Seiki Denki Mokuroku: Eureka Evrika",
       "ep": 1,
-      "ago": "6h",
+      "ago": "7h",
       "img": "2e371",
       "ahId": "1wghj"
     },
@@ -60,7 +60,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 1,
-      "ago": "6h",
+      "ago": "7h",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -68,7 +68,7 @@
       "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
       "titreJp": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
       "ep": 1,
-      "ago": "7h",
+      "ago": "8h",
       "img": "tak3w",
       "ahId": "y01g1"
     },
@@ -76,7 +76,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 2",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season",
       "ep": 12,
-      "ago": "9h",
+      "ago": "10h",
       "img": "d4h4l",
       "ahId": "ahsr3"
     },
@@ -84,7 +84,7 @@
       "titre": "You and I are Polar Opposites",
       "titreJp": "Seihantai na Kimi to Boku",
       "ep": 1,
-      "ago": "9h",
+      "ago": "10h",
       "img": "dcend",
       "ahId": "90tky"
     },
@@ -92,7 +92,7 @@
       "titre": "Iron Wok Jan!",
       "titreJp": "Tetsunabe no Jan!",
       "ep": 1,
-      "ago": "10h",
+      "ago": "11h",
       "img": "5yj1u",
       "ahId": "3l7kl"
     },
@@ -100,7 +100,7 @@
       "titre": "You and I are Polar Opposites 2nd Season",
       "titreJp": "Seihantai na Kimi to Boku 2nd Season",
       "ep": 1,
-      "ago": "10h",
+      "ago": "11h",
       "img": "j1ir5",
       "ahId": "th5p2"
     },
@@ -108,7 +108,7 @@
       "titre": "Let's Go Kaikigumi",
       "titreJp": "",
       "ep": 1,
-      "ago": "10h",
+      "ago": "11h",
       "img": "03516",
       "ahId": "2ydm9"
     },
@@ -116,7 +116,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 37,
-      "ago": "17h",
+      "ago": "18h",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -561,7 +561,7 @@
       "ahId": "boii6"
     }
   ],
-  "updatedAt": "2026-07-05T20:55:32.089Z",
+  "updatedAt": "2026-07-05T21:59:19.959Z",
   "source": "github-actions",
   "count": 70
 }
