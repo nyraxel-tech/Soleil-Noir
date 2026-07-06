@@ -4,7 +4,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 14,
-      "ago": "4h",
+      "ago": "6h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -12,7 +12,7 @@
       "titre": "Grand Blue Season 3",
       "titreJp": "Grand Blue Dreaming Season 3",
       "ep": 1,
-      "ago": "5h",
+      "ago": "6h",
       "img": "o5w0q",
       "ahId": "gwokm"
     },
@@ -20,7 +20,7 @@
       "titre": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
       "titreJp": "Buchikire Reijou wa Houfuku wo Chikai Mashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
       "ep": 1,
-      "ago": "5h",
+      "ago": "6h",
       "img": "s5q25",
       "ahId": "o0cpo"
     },
@@ -28,7 +28,7 @@
       "titre": "Oh Boy, Was I Wrong About Her",
       "titreJp": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
       "ep": 1,
-      "ago": "5h",
+      "ago": "7h",
       "img": "vse6w",
       "ahId": "7e6hd"
     },
@@ -36,7 +36,7 @@
       "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
       "titreJp": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
       "ep": 1,
-      "ago": "6h",
+      "ago": "7h",
       "img": "0vaar",
       "ahId": "x2njz"
     },
@@ -44,7 +44,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 2,
-      "ago": "7h",
+      "ago": "8h",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -52,7 +52,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 1,
-      "ago": "7h",
+      "ago": "8h",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -60,7 +60,7 @@
       "titre": "Love Unseen Beneath the Clear Night Sky",
       "titreJp": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "ep": 1,
-      "ago": "8h",
+      "ago": "9h",
       "img": "2qfc1",
       "ahId": "fn31g"
     },
@@ -68,7 +68,7 @@
       "titre": "Bloom Into You",
       "titreJp": "Yagate Kimi ni Naru",
       "ep": 13,
-      "ago": "21h",
+      "ago": "22h",
       "img": "jfrlj",
       "ahId": "odbas"
     },
@@ -76,7 +76,7 @@
       "titre": "Azur Lane",
       "titreJp": "",
       "ep": 12,
-      "ago": "22h",
+      "ago": "1d",
       "img": "g8puj",
       "ahId": "yjv4a"
     },
@@ -561,7 +561,7 @@
       "ahId": "wbzq7"
     }
   ],
-  "updatedAt": "2026-07-06T20:50:30.955Z",
+  "updatedAt": "2026-07-06T22:10:48.773Z",
   "source": "github-actions",
   "count": 70
 }
