@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Young Ladies Don't Play Fighting Games",
+      "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
+      "ep": 1,
+      "ago": "?",
+      "img": "q69uk",
+      "ahId": "vgurt"
+    },
+    {
+      "titre": "Crowned in a Hundred Days",
+      "titreJp": "Bai Ri Cheng Wang",
+      "ep": 5,
+      "ago": "?",
+      "img": "c1n5b",
+      "ahId": "z1cl4"
+    },
+    {
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 14,
-      "ago": "16h",
+      "ago": "19h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -12,7 +28,7 @@
       "titre": "Grand Blue Season 3",
       "titreJp": "Grand Blue Dreaming Season 3",
       "ep": 1,
-      "ago": "16h",
+      "ago": "20h",
       "img": "o5w0q",
       "ahId": "gwokm"
     },
@@ -20,7 +36,7 @@
       "titre": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
       "titreJp": "Buchikire Reijou wa Houfuku wo Chikai Mashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
       "ep": 1,
-      "ago": "16h",
+      "ago": "20h",
       "img": "s5q25",
       "ahId": "o0cpo"
     },
@@ -28,7 +44,7 @@
       "titre": "Oh Boy, Was I Wrong About Her",
       "titreJp": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
       "ep": 1,
-      "ago": "17h",
+      "ago": "20h",
       "img": "vse6w",
       "ahId": "7e6hd"
     },
@@ -36,7 +52,7 @@
       "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
       "titreJp": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
       "ep": 1,
-      "ago": "17h",
+      "ago": "20h",
       "img": "0vaar",
       "ahId": "x2njz"
     },
@@ -44,7 +60,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 2,
-      "ago": "18h",
+      "ago": "22h",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -52,7 +68,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 1,
-      "ago": "19h",
+      "ago": "22h",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -60,7 +76,7 @@
       "titre": "Love Unseen Beneath the Clear Night Sky",
       "titreJp": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "ep": 1,
-      "ago": "19h",
+      "ago": "23h",
       "img": "2qfc1",
       "ahId": "fn31g"
     },
@@ -148,7 +164,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 2",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season",
       "ep": 12,
-      "ago": "1d",
+      "ago": "2d",
       "img": "d4h4l",
       "ahId": "ahsr3"
     },
@@ -156,7 +172,7 @@
       "titre": "You and I are Polar Opposites",
       "titreJp": "Seihantai na Kimi to Boku",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "dcend",
       "ahId": "90tky"
     },
@@ -164,7 +180,7 @@
       "titre": "Iron Wok Jan!",
       "titreJp": "Tetsunabe no Jan!",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "5yj1u",
       "ahId": "3l7kl"
     },
@@ -172,7 +188,7 @@
       "titre": "You and I are Polar Opposites 2nd Season",
       "titreJp": "Seihantai na Kimi to Boku 2nd Season",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "j1ir5",
       "ahId": "th5p2"
     },
@@ -180,7 +196,7 @@
       "titre": "Let's Go Kaikigumi",
       "titreJp": "",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "03516",
       "ahId": "2ydm9"
     },
@@ -292,7 +308,7 @@
       "titre": "Mushoku Tensei: Jobless Reincarnation 3rd Season",
       "titreJp": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
       "ep": 2,
-      "ago": "2d",
+      "ago": "3d",
       "img": "b1dg7",
       "ahId": "sfvog"
     },
@@ -300,7 +316,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 14,
-      "ago": "2d",
+      "ago": "3d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -308,17 +324,9 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 142,
-      "ago": "2d",
+      "ago": "3d",
       "img": "9fsft",
       "ahId": "9v661"
-    },
-    {
-      "titre": "Crowned in a Hundred Days",
-      "titreJp": "Bai Ri Cheng Wang",
-      "ep": 3,
-      "ago": "3d",
-      "img": "c1n5b",
-      "ahId": "z1cl4"
     },
     {
       "titre": "Kamui-san Directly Behind You",
@@ -484,7 +492,7 @@
       "titre": "Hana-Kimi",
       "titreJp": "Hanazakari no Kimi-tachi e",
       "ep": 4,
-      "ago": "5d",
+      "ago": "6d",
       "img": "futcv",
       "ahId": "bs07m"
     },
@@ -551,17 +559,9 @@
       "ago": "8d",
       "img": "zbt7y",
       "ahId": "1ht8d"
-    },
-    {
-      "titre": "Fate/stay night: Heaven's Feel Movies",
-      "titreJp": "",
-      "ep": 3,
-      "ago": "8d",
-      "img": "xrngl",
-      "ahId": "wbzq7"
     }
   ],
-  "updatedAt": "2026-07-07T08:19:43.722Z",
+  "updatedAt": "2026-07-07T11:45:41.154Z",
   "source": "github-actions",
   "count": 70
 }
