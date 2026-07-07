@@ -1245,8 +1245,36 @@
       "img": "po8jo",
       "ahId": "bzdq4",
       "addedAt": "2026-07-07T14:24:35.344Z"
+    },
+    {
+      "titre": "The Ghost in the Shell",
+      "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
+      "img": "8vo2j",
+      "ahId": "nqbd0",
+      "addedAt": "2026-07-07T19:50:19.305Z"
+    },
+    {
+      "titre": "Flaming Dodgeball Girl Danko",
+      "titreJp": "Honoo no Toukyuujo: Dodge Danko",
+      "img": "t7nlu",
+      "ahId": "usbqy",
+      "addedAt": "2026-07-07T19:50:19.305Z"
+    },
+    {
+      "titre": "Red River",
+      "titreJp": "Sora wa Akai Kawa no Hotori",
+      "img": "zh355",
+      "ahId": "x48y1",
+      "addedAt": "2026-07-07T19:50:19.305Z"
+    },
+    {
+      "titre": "Yoroi-Shinden Samurai Troopers - Part II",
+      "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
+      "img": "pnulh",
+      "ahId": "2oq0n",
+      "addedAt": "2026-07-07T19:50:19.305Z"
     }
   ],
-  "updatedAt": "2026-07-07T17:10:48.496Z",
-  "count": 178
+  "updatedAt": "2026-07-07T19:50:19.305Z",
+  "count": 182
 }
