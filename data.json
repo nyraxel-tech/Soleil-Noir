@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "My Stepmother and Stepsisters Aren’t Wicked",
+      "titreJp": "Ibitte Konai Gibo to Gishi",
+      "ep": 1,
+      "ago": "?",
+      "img": "b8zqi",
+      "ahId": "8e1k6"
+    },
+    {
+      "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
+      "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
+      "ep": 3,
+      "ago": "?",
+      "img": "ycs89",
+      "ahId": "q3n2b"
+    },
+    {
+      "titre": "Saga of Tanya the Evil II",
+      "titreJp": "",
+      "ep": 1,
+      "ago": "1h",
+      "img": "wr5w2",
+      "ahId": "jrus1"
+    },
+    {
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 1,
-      "ago": "?",
+      "ago": "3h",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -12,7 +36,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 1,
-      "ago": "16h",
+      "ago": "19h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -20,7 +44,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 1,
-      "ago": "18h",
+      "ago": "21h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -28,7 +52,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 4,
-      "ago": "18h",
+      "ago": "21h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -36,7 +60,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 1,
-      "ago": "18h",
+      "ago": "21h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -44,7 +68,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 1,
-      "ago": "21h",
+      "ago": "1d",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -52,7 +76,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 1,
-      "ago": "21h",
+      "ago": "1d",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -60,7 +84,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 2,
-      "ago": "22h",
+      "ago": "1d",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -68,7 +92,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 1,
-      "ago": "23h",
+      "ago": "1d",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -116,7 +140,7 @@
       "titre": "Oh Boy, Was I Wrong About Her",
       "titreJp": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "vse6w",
       "ahId": "7e6hd"
     },
@@ -124,7 +148,7 @@
       "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
       "titreJp": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "0vaar",
       "ahId": "x2njz"
     },
@@ -132,7 +156,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 2,
-      "ago": "1d",
+      "ago": "2d",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -140,7 +164,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -148,7 +172,7 @@
       "titre": "Love Unseen Beneath the Clear Night Sky",
       "titreJp": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "2qfc1",
       "ahId": "fn31g"
     },
@@ -204,7 +228,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 13,
-      "ago": "2d",
+      "ago": "3d",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -212,7 +236,7 @@
       "titre": "Sparks of Tomorrow",
       "titreJp": "Nijusseiki Denki Mokuroku: Eureka Evrika, 20 Seiki Denki Mokuroku: Eureka Evrika",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "2e371",
       "ahId": "1wghj"
     },
@@ -220,7 +244,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -228,7 +252,7 @@
       "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
       "titreJp": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "tak3w",
       "ahId": "y01g1"
     },
@@ -348,7 +372,7 @@
       "titre": "Recommendations from Iwamoto-Senpai",
       "titreJp": "Iwamoto-senpai no Suisen",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "gnmlq",
       "ahId": "nn6k9"
     },
@@ -356,7 +380,7 @@
       "titre": "The Cat and the Dragon",
       "titreJp": "Neko to Ryuu",
       "ep": 2,
-      "ago": "3d",
+      "ago": "4d",
       "img": "828yy",
       "ahId": "9zg3f"
     },
@@ -364,7 +388,7 @@
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -444,7 +468,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 13,
-      "ago": "4d",
+      "ago": "5d",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -452,7 +476,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -460,7 +484,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -500,7 +524,7 @@
       "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "cy9ca",
       "ahId": "ultkb"
     },
@@ -508,7 +532,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 3,
-      "ago": "5d",
+      "ago": "6d",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -516,7 +540,7 @@
       "titre": "Bungo Stray Dogs Wan!",
       "titreJp": "",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "ofyoh",
       "ahId": "rtmcg"
     },
@@ -524,7 +548,7 @@
       "titre": "Bungo Stray Dogs Wan! 2",
       "titreJp": "",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "gob1n",
       "ahId": "1wtvp"
     },
@@ -532,36 +556,12 @@
       "titre": "Dara-san of Reiwa",
       "titreJp": "Reiwa no Dara-san",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "bkz60",
       "ahId": "59rhi"
-    },
-    {
-      "titre": "Hana-Kimi Season 2",
-      "titreJp": "Hanazakari no Kimi-tachi e Season 2",
-      "ep": 2,
-      "ago": "6d",
-      "img": "yzbv7",
-      "ahId": "s3cd7"
-    },
-    {
-      "titre": "The Villager of LV999",
-      "titreJp": "LV999 no Murabito",
-      "ep": 2,
-      "ago": "6d",
-      "img": "7vqbp",
-      "ahId": "mucnh"
-    },
-    {
-      "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
-      "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
-      "ep": 2,
-      "ago": "6d",
-      "img": "ycs89",
-      "ahId": "q3n2b"
     }
   ],
-  "updatedAt": "2026-07-08T12:17:38.863Z",
+  "updatedAt": "2026-07-08T15:17:46.137Z",
   "source": "github-actions",
   "count": 70
 }
