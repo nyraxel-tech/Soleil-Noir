@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Tomb Raider King",
+      "titreJp": "Dogurwang",
+      "ep": 1,
+      "ago": "1h",
+      "img": "1i8dr",
+      "ahId": "7p85t"
+    },
+    {
       "titre": "From Old Country Bumpkin to Master Swordsman Season 2",
       "titreJp": "Katainaka no Ossan, Kensei ni Naru II",
       "ep": 1,
-      "ago": "?",
+      "ago": "2h",
       "img": "8yx8x",
       "ahId": "hoi3i"
     },
@@ -12,7 +20,7 @@
       "titre": "The Villager of LV999",
       "titreJp": "LV999 no Murabito",
       "ep": 3,
-      "ago": "1h",
+      "ago": "3h",
       "img": "7vqbp",
       "ahId": "mucnh"
     },
@@ -20,7 +28,7 @@
       "titre": "Hana-Kimi Season 2",
       "titreJp": "Hanazakari no Kimi-tachi e Season 2",
       "ep": 3,
-      "ago": "1h",
+      "ago": "3h",
       "img": "yzbv7",
       "ahId": "s3cd7"
     },
@@ -28,7 +36,7 @@
       "titre": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2nd Season",
       "titreJp": "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2nd Season",
       "ep": 1,
-      "ago": "1h",
+      "ago": "3h",
       "img": "l7tno",
       "ahId": "6rmgo"
     },
@@ -36,7 +44,7 @@
       "titre": "My Stepmother and Stepsisters Aren’t Wicked",
       "titreJp": "Ibitte Konai Gibo to Gishi",
       "ep": 1,
-      "ago": "2h",
+      "ago": "4h",
       "img": "b8zqi",
       "ahId": "8e1k6"
     },
@@ -44,7 +52,7 @@
       "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
       "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
       "ep": 3,
-      "ago": "2h",
+      "ago": "4h",
       "img": "ycs89",
       "ahId": "q3n2b"
     },
@@ -52,7 +60,7 @@
       "titre": "Saga of Tanya the Evil II",
       "titreJp": "",
       "ep": 1,
-      "ago": "3h",
+      "ago": "5h",
       "img": "wr5w2",
       "ahId": "jrus1"
     },
@@ -60,7 +68,7 @@
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 1,
-      "ago": "5h",
+      "ago": "7h",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -68,7 +76,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 1,
-      "ago": "21h",
+      "ago": "23h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -76,7 +84,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 1,
-      "ago": "23h",
+      "ago": "1d",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -84,7 +92,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 4,
-      "ago": "23h",
+      "ago": "1d",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -92,7 +100,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 1,
-      "ago": "23h",
+      "ago": "1d",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -340,7 +348,7 @@
       "titre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School.",
       "titreJp": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewasuru Koto ni Narimashita",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "bprh4",
       "ahId": "n2apg"
     },
@@ -348,7 +356,7 @@
       "titre": "Magilumiere Co. Ltd. 2nd Season",
       "titreJp": "Kabushikigaisha Magi-Lumière 2nd Season",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "a0m9j",
       "ahId": "7776o"
     },
@@ -356,7 +364,7 @@
       "titre": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
       "titreJp": "",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "zpm54",
       "ahId": "zweu6"
     },
@@ -364,7 +372,7 @@
       "titre": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
       "titreJp": "\\&quot;Kimi wo Aisuru Ki wa Nai\\&quot; to Itta Jiki Koushaku-sama ga nazeka Dekiaishitekimasu",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "r5tg3",
       "ahId": "m6wg7"
     },
@@ -460,7 +468,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -524,7 +532,7 @@
       "titre": "Kaiju Girl Caramelise",
       "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "gtz8g",
       "ahId": "wfsth"
     },
@@ -551,17 +559,9 @@
       "ago": "6d",
       "img": "cs30h",
       "ahId": "jx2jr"
-    },
-    {
-      "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
-      "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
-      "ep": 2,
-      "ago": "6d",
-      "img": "cy9ca",
-      "ahId": "ultkb"
     }
   ],
-  "updatedAt": "2026-07-08T17:25:38.913Z",
+  "updatedAt": "2026-07-08T19:19:40.991Z",
   "source": "github-actions",
   "count": 70
 }
