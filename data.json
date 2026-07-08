@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Clevatess Season 2",
+      "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
+      "ep": 1,
+      "ago": "?",
+      "img": "lz0uu",
+      "ahId": "d99rj"
+    },
+    {
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 1,
-      "ago": "14h",
+      "ago": "16h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -12,7 +20,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 1,
-      "ago": "16h",
+      "ago": "18h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -20,7 +28,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 4,
-      "ago": "16h",
+      "ago": "18h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -28,7 +36,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 1,
-      "ago": "16h",
+      "ago": "18h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -36,7 +44,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 1,
-      "ago": "18h",
+      "ago": "21h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -44,7 +52,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 1,
-      "ago": "18h",
+      "ago": "21h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -52,7 +60,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 2,
-      "ago": "20h",
+      "ago": "22h",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -60,7 +68,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 1,
-      "ago": "21h",
+      "ago": "23h",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -68,7 +76,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers",
       "titreJp": "Yoroi Shin Den Samurai Troopers, Ronin Warriors",
       "ep": 11,
-      "ago": "22h",
+      "ago": "1d",
       "img": "po8jo",
       "ahId": "bzdq4"
     },
@@ -76,7 +84,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 1,
-      "ago": "22h",
+      "ago": "1d",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -228,7 +236,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 2",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season",
       "ep": 12,
-      "ago": "2d",
+      "ago": "3d",
       "img": "d4h4l",
       "ahId": "ahsr3"
     },
@@ -236,7 +244,7 @@
       "titre": "You and I are Polar Opposites",
       "titreJp": "Seihantai na Kimi to Boku",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "dcend",
       "ahId": "90tky"
     },
@@ -244,7 +252,7 @@
       "titre": "Iron Wok Jan!",
       "titreJp": "Tetsunabe no Jan!",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "5yj1u",
       "ahId": "3l7kl"
     },
@@ -252,7 +260,7 @@
       "titre": "You and I are Polar Opposites 2nd Season",
       "titreJp": "Seihantai na Kimi to Boku 2nd Season",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "j1ir5",
       "ahId": "th5p2"
     },
@@ -260,7 +268,7 @@
       "titre": "Let's Go Kaikigumi",
       "titreJp": "",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "03516",
       "ahId": "2ydm9"
     },
@@ -364,7 +372,7 @@
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -372,7 +380,7 @@
       "titre": "Mushoku Tensei: Jobless Reincarnation 3rd Season",
       "titreJp": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
       "ep": 2,
-      "ago": "3d",
+      "ago": "4d",
       "img": "b1dg7",
       "ahId": "sfvog"
     },
@@ -380,7 +388,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 14,
-      "ago": "3d",
+      "ago": "4d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -551,17 +559,9 @@
       "ago": "6d",
       "img": "ycs89",
       "ahId": "q3n2b"
-    },
-    {
-      "titre": "Hana-Kimi",
-      "titreJp": "Hanazakari no Kimi-tachi e",
-      "ep": 4,
-      "ago": "6d",
-      "img": "futcv",
-      "ahId": "bs07m"
     }
   ],
-  "updatedAt": "2026-07-08T10:12:44.394Z",
+  "updatedAt": "2026-07-08T12:17:38.863Z",
   "source": "github-actions",
   "count": 70
 }
