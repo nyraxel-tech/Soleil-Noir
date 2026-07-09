@@ -4,7 +4,7 @@
       "titre": "Tomb Raider King",
       "titreJp": "Dogurwang",
       "ep": 1,
-      "ago": "9h",
+      "ago": "13h",
       "img": "1i8dr",
       "ahId": "7p85t"
     },
@@ -12,7 +12,7 @@
       "titre": "From Old Country Bumpkin to Master Swordsman Season 2",
       "titreJp": "Katainaka no Ossan, Kensei ni Naru II",
       "ep": 1,
-      "ago": "10h",
+      "ago": "14h",
       "img": "8yx8x",
       "ahId": "hoi3i"
     },
@@ -20,7 +20,7 @@
       "titre": "The Villager of LV999",
       "titreJp": "LV999 no Murabito",
       "ep": 3,
-      "ago": "10h",
+      "ago": "14h",
       "img": "7vqbp",
       "ahId": "mucnh"
     },
@@ -28,7 +28,7 @@
       "titre": "Hana-Kimi Season 2",
       "titreJp": "Hanazakari no Kimi-tachi e Season 2",
       "ep": 3,
-      "ago": "10h",
+      "ago": "14h",
       "img": "yzbv7",
       "ahId": "s3cd7"
     },
@@ -36,7 +36,7 @@
       "titre": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2nd Season",
       "titreJp": "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2nd Season",
       "ep": 1,
-      "ago": "10h",
+      "ago": "14h",
       "img": "l7tno",
       "ahId": "6rmgo"
     },
@@ -44,7 +44,7 @@
       "titre": "My Stepmother and Stepsisters Aren’t Wicked",
       "titreJp": "Ibitte Konai Gibo to Gishi",
       "ep": 1,
-      "ago": "11h",
+      "ago": "15h",
       "img": "b8zqi",
       "ahId": "8e1k6"
     },
@@ -52,7 +52,7 @@
       "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
       "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
       "ep": 3,
-      "ago": "12h",
+      "ago": "16h",
       "img": "ycs89",
       "ahId": "q3n2b"
     },
@@ -60,7 +60,7 @@
       "titre": "Saga of Tanya the Evil II",
       "titreJp": "",
       "ep": 1,
-      "ago": "12h",
+      "ago": "16h",
       "img": "wr5w2",
       "ahId": "jrus1"
     },
@@ -68,7 +68,7 @@
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 1,
-      "ago": "14h",
+      "ago": "18h",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -340,7 +340,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 37,
-      "ago": "3d",
+      "ago": "4d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -561,7 +561,7 @@
       "ahId": "jx2jr"
     }
   ],
-  "updatedAt": "2026-07-09T02:38:39.513Z",
+  "updatedAt": "2026-07-09T06:40:16.241Z",
   "source": "github-actions",
   "count": 70
 }
