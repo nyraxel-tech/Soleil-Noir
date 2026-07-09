@@ -1,10 +1,42 @@
 {
   "animes": [
     {
+      "titre": "Chainsmoker Cat",
+      "titreJp": "Yani Neko",
+      "ep": 2,
+      "ago": "?",
+      "img": "r45h0",
+      "ahId": "6hqka"
+    },
+    {
+      "titre": "Mebius Dust",
+      "titreJp": "",
+      "ep": 1,
+      "ago": "1h",
+      "img": "02htn",
+      "ahId": "yv7me"
+    },
+    {
+      "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+      "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
+      "ep": 3,
+      "ago": "1h",
+      "img": "cy9ca",
+      "ahId": "ultkb"
+    },
+    {
+      "titre": "BanG Dream! Yume∞Mita",
+      "titreJp": "",
+      "ep": 4,
+      "ago": "2h",
+      "img": "8z55a",
+      "ahId": "78byl"
+    },
+    {
       "titre": "Bungo Stray Dogs Wan! 2",
       "titreJp": "",
       "ep": 2,
-      "ago": "1h",
+      "ago": "3h",
       "img": "gob1n",
       "ahId": "1wtvp"
     },
@@ -12,7 +44,7 @@
       "titre": "Dara-san of Reiwa",
       "titreJp": "Reiwa no Dara-san",
       "ep": 2,
-      "ago": "1h",
+      "ago": "3h",
       "img": "bkz60",
       "ahId": "59rhi"
     },
@@ -20,7 +52,7 @@
       "titre": "Tomb Raider King",
       "titreJp": "Dogurwang",
       "ep": 1,
-      "ago": "20h",
+      "ago": "22h",
       "img": "1i8dr",
       "ahId": "7p85t"
     },
@@ -28,7 +60,7 @@
       "titre": "From Old Country Bumpkin to Master Swordsman Season 2",
       "titreJp": "Katainaka no Ossan, Kensei ni Naru II",
       "ep": 1,
-      "ago": "21h",
+      "ago": "23h",
       "img": "8yx8x",
       "ahId": "hoi3i"
     },
@@ -36,7 +68,7 @@
       "titre": "The Villager of LV999",
       "titreJp": "LV999 no Murabito",
       "ep": 3,
-      "ago": "21h",
+      "ago": "1d",
       "img": "7vqbp",
       "ahId": "mucnh"
     },
@@ -44,7 +76,7 @@
       "titre": "Hana-Kimi Season 2",
       "titreJp": "Hanazakari no Kimi-tachi e Season 2",
       "ep": 3,
-      "ago": "21h",
+      "ago": "1d",
       "img": "yzbv7",
       "ahId": "s3cd7"
     },
@@ -52,7 +84,7 @@
       "titre": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2nd Season",
       "titreJp": "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2nd Season",
       "ep": 1,
-      "ago": "22h",
+      "ago": "1d",
       "img": "l7tno",
       "ahId": "6rmgo"
     },
@@ -60,7 +92,7 @@
       "titre": "My Stepmother and Stepsisters Aren’t Wicked",
       "titreJp": "Ibitte Konai Gibo to Gishi",
       "ep": 1,
-      "ago": "22h",
+      "ago": "1d",
       "img": "b8zqi",
       "ahId": "8e1k6"
     },
@@ -68,7 +100,7 @@
       "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
       "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
       "ep": 3,
-      "ago": "23h",
+      "ago": "1d",
       "img": "ycs89",
       "ahId": "q3n2b"
     },
@@ -124,7 +156,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -132,7 +164,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -172,7 +204,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 14,
-      "ago": "2d",
+      "ago": "3d",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -180,7 +212,7 @@
       "titre": "Grand Blue Season 3",
       "titreJp": "Grand Blue Dreaming Season 3",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "o5w0q",
       "ahId": "gwokm"
     },
@@ -188,7 +220,7 @@
       "titre": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
       "titreJp": "Buchikire Reijou wa Houfuku wo Chikai Mashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "s5q25",
       "ahId": "o0cpo"
     },
@@ -196,7 +228,7 @@
       "titre": "Oh Boy, Was I Wrong About Her",
       "titreJp": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "vse6w",
       "ahId": "7e6hd"
     },
@@ -204,7 +236,7 @@
       "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
       "titreJp": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "0vaar",
       "ahId": "x2njz"
     },
@@ -268,7 +300,7 @@
       "titre": "One Piece Heroines",
       "titreJp": "",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "giul6",
       "ahId": "ckqsc"
     },
@@ -276,7 +308,7 @@
       "titre": "Goodbye, Lara",
       "titreJp": "Sayonara Lara",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "c5pih",
       "ahId": "f76b2"
     },
@@ -284,7 +316,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 13,
-      "ago": "3d",
+      "ago": "4d",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -292,7 +324,7 @@
       "titre": "Sparks of Tomorrow",
       "titreJp": "Nijusseiki Denki Mokuroku: Eureka Evrika, 20 Seiki Denki Mokuroku: Eureka Evrika",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "2e371",
       "ahId": "1wghj"
     },
@@ -300,7 +332,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -420,7 +452,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 13,
-      "ago": "4d",
+      "ago": "5d",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -428,7 +460,7 @@
       "titre": "Recommendations from Iwamoto-Senpai",
       "titreJp": "Iwamoto-senpai no Suisen",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "gnmlq",
       "ahId": "nn6k9"
     },
@@ -508,7 +540,7 @@
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -516,7 +548,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 13,
-      "ago": "5d",
+      "ago": "6d",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -524,44 +556,12 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 13,
-      "ago": "5d",
+      "ago": "6d",
       "img": "pjoyd",
       "ahId": "aplyf"
-    },
-    {
-      "titre": "I Became a Legend after My 10 Year-Long Last Stand",
-      "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
-      "ep": 1,
-      "ago": "5d",
-      "img": "atd9e",
-      "ahId": "4cpxl"
-    },
-    {
-      "titre": "The Frontier Lord Begins with Zero Subjects",
-      "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
-      "ep": 1,
-      "ago": "6d",
-      "img": "lq61b",
-      "ahId": "wj4jh"
-    },
-    {
-      "titre": "Kaiju Girl Caramelise",
-      "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
-      "ep": 1,
-      "ago": "6d",
-      "img": "gtz8g",
-      "ahId": "wfsth"
-    },
-    {
-      "titre": "Chainsmoker Cat",
-      "titreJp": "Yani Neko",
-      "ep": 1,
-      "ago": "6d",
-      "img": "r45h0",
-      "ahId": "6hqka"
     }
   ],
-  "updatedAt": "2026-07-09T13:46:15.439Z",
+  "updatedAt": "2026-07-09T16:25:04.897Z",
   "source": "github-actions",
   "count": 70
 }
