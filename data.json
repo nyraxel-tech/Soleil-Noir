@@ -1,18 +1,34 @@
 {
   "animes": [
     {
+      "titre": "I Became a Legend after My 10 Year-Long Last Stand",
+      "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
+      "ep": 2,
+      "ago": "?",
+      "img": "atd9e",
+      "ahId": "4cpxl"
+    },
+    {
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
-      "ep": 5,
-      "ago": "7h",
+      "ep": 6,
+      "ago": "?",
       "img": "c1n5b",
       "ahId": "z1cl4"
+    },
+    {
+      "titre": "The Frontier Lord Begins with Zero Subjects",
+      "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
+      "ep": 2,
+      "ago": "?",
+      "img": "lq61b",
+      "ahId": "wj4jh"
     },
     {
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 2,
-      "ago": "17h",
+      "ago": "19h",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -20,7 +36,7 @@
       "titre": "Smoking Behind the Supermarket with You",
       "titreJp": "Super no Ura de Yani Suu Futari",
       "ep": 1,
-      "ago": "17h",
+      "ago": "20h",
       "img": "z18pc",
       "ahId": "gnv5p"
     },
@@ -28,7 +44,7 @@
       "titre": "Kaiju Girl Caramelise",
       "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
       "ep": 2,
-      "ago": "18h",
+      "ago": "20h",
       "img": "gtz8g",
       "ahId": "wfsth"
     },
@@ -36,7 +52,7 @@
       "titre": "Chainsmoker Cat",
       "titreJp": "Yani Neko",
       "ep": 2,
-      "ago": "19h",
+      "ago": "21h",
       "img": "r45h0",
       "ahId": "6hqka"
     },
@@ -44,7 +60,7 @@
       "titre": "Mebius Dust",
       "titreJp": "",
       "ep": 1,
-      "ago": "20h",
+      "ago": "22h",
       "img": "02htn",
       "ahId": "yv7me"
     },
@@ -52,7 +68,7 @@
       "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
       "ep": 3,
-      "ago": "20h",
+      "ago": "23h",
       "img": "cy9ca",
       "ahId": "ultkb"
     },
@@ -60,7 +76,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 4,
-      "ago": "21h",
+      "ago": "1d",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -68,7 +84,7 @@
       "titre": "Bungo Stray Dogs Wan! 2",
       "titreJp": "",
       "ep": 2,
-      "ago": "23h",
+      "ago": "1d",
       "img": "gob1n",
       "ahId": "1wtvp"
     },
@@ -76,7 +92,7 @@
       "titre": "Dara-san of Reiwa",
       "titreJp": "Reiwa no Dara-san",
       "ep": 2,
-      "ago": "23h",
+      "ago": "1d",
       "img": "bkz60",
       "ahId": "59rhi"
     },
@@ -140,7 +156,7 @@
       "titre": "Saga of Tanya the Evil II",
       "titreJp": "",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "wr5w2",
       "ahId": "jrus1"
     },
@@ -148,7 +164,7 @@
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -196,7 +212,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 2,
-      "ago": "2d",
+      "ago": "3d",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -204,7 +220,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -212,7 +228,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers",
       "titreJp": "Yoroi Shin Den Samurai Troopers, Ronin Warriors",
       "ep": 11,
-      "ago": "2d",
+      "ago": "3d",
       "img": "po8jo",
       "ahId": "bzdq4"
     },
@@ -268,7 +284,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 2,
-      "ago": "3d",
+      "ago": "4d",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -276,7 +292,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -284,7 +300,7 @@
       "titre": "Love Unseen Beneath the Clear Night Sky",
       "titreJp": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "2qfc1",
       "ahId": "fn31g"
     },
@@ -356,7 +372,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -364,7 +380,7 @@
       "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
       "titreJp": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "tak3w",
       "ahId": "y01g1"
     },
@@ -492,7 +508,7 @@
       "titre": "The Cat and the Dragon",
       "titreJp": "Neko to Ryuu",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "828yy",
       "ahId": "9zg3f"
     },
@@ -500,7 +516,7 @@
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -543,25 +559,9 @@
       "ago": "6d",
       "img": "e9nx0",
       "ahId": "cc9vg"
-    },
-    {
-      "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
-      "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
-      "ep": 1,
-      "ago": "6d",
-      "img": "c5wg4",
-      "ahId": "vnlfg"
-    },
-    {
-      "titre": "Sorry About My Little Brothers",
-      "titreJp": "Uchi no Otouto-domo ga Sumimasen",
-      "ep": 1,
-      "ago": "6d",
-      "img": "9jn5c",
-      "ahId": "ldpso"
     }
   ],
-  "updatedAt": "2026-07-10T11:48:00.200Z",
+  "updatedAt": "2026-07-10T14:15:51.653Z",
   "source": "github-actions",
   "count": 70
 }
