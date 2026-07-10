@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Kamui-san Directly Behind You",
+      "titreJp": "Ushirou no Shoumen Kamui-san",
+      "ep": 2,
+      "ago": "?",
+      "img": "e9nx0",
+      "ahId": "cc9vg"
+    },
+    {
       "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
       "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
       "ep": 2,
-      "ago": "1h",
+      "ago": "3h",
       "img": "c5wg4",
       "ahId": "vnlfg"
     },
@@ -12,7 +20,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 2,
-      "ago": "1h",
+      "ago": "3h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -20,7 +28,7 @@
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 2,
-      "ago": "2h",
+      "ago": "4h",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -28,7 +36,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 14,
-      "ago": "2h",
+      "ago": "4h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -36,7 +44,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 14,
-      "ago": "3h",
+      "ago": "5h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -44,7 +52,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 2,
-      "ago": "4h",
+      "ago": "6h",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -52,7 +60,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 6,
-      "ago": "4h",
+      "ago": "6h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -60,7 +68,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 2,
-      "ago": "4h",
+      "ago": "6h",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -68,7 +76,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 2,
-      "ago": "23h",
+      "ago": "1d",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -212,7 +220,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -364,7 +372,7 @@
       "titre": "Azur Lane: Slow Ahead!",
       "titreJp": "Azur Lane: Bisoku Zenshin!",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "butmb",
       "ahId": "zxy6h"
     },
@@ -551,17 +559,9 @@
       "ago": "6d",
       "img": "828yy",
       "ahId": "9zg3f"
-    },
-    {
-      "titre": "Black Torch",
-      "titreJp": "",
-      "ep": 1,
-      "ago": "6d",
-      "img": "xq99f",
-      "ahId": "7tq84"
     }
   ],
-  "updatedAt": "2026-07-10T18:20:31.472Z",
+  "updatedAt": "2026-07-10T20:19:39.178Z",
   "source": "github-actions",
   "count": 70
 }
