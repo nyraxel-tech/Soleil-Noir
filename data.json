@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Recommendations from Iwamoto-Senpai",
+      "titreJp": "Iwamoto-senpai no Suisen",
+      "ep": 2,
+      "ago": "?",
+      "img": "gnmlq",
+      "ahId": "nn6k9"
+    },
+    {
+      "titre": "The Cat and the Dragon",
+      "titreJp": "Neko to Ryuu",
+      "ep": 3,
+      "ago": "1h",
+      "img": "828yy",
+      "ahId": "9zg3f"
+    },
+    {
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 2,
-      "ago": "?",
+      "ago": "1h",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -12,7 +28,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1206,
-      "ago": "1h",
+      "ago": "3h",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -20,7 +36,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 15,
-      "ago": "2h",
+      "ago": "4h",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -28,7 +44,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 13,
-      "ago": "3h",
+      "ago": "5h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -36,7 +52,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 2,
-      "ago": "17h",
+      "ago": "18h",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -44,7 +60,7 @@
       "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
       "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
       "ep": 2,
-      "ago": "20h",
+      "ago": "22h",
       "img": "c5wg4",
       "ahId": "vnlfg"
     },
@@ -52,7 +68,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 2,
-      "ago": "20h",
+      "ago": "22h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -60,7 +76,7 @@
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 2,
-      "ago": "21h",
+      "ago": "22h",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -68,7 +84,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 14,
-      "ago": "21h",
+      "ago": "23h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -76,7 +92,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 14,
-      "ago": "21h",
+      "ago": "23h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -84,7 +100,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 2,
-      "ago": "23h",
+      "ago": "1d",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -92,7 +108,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 6,
-      "ago": "23h",
+      "ago": "1d",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -100,7 +116,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 2,
-      "ago": "23h",
+      "ago": "1d",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -156,7 +172,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 4,
-      "ago": "1d",
+      "ago": "2d",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -228,7 +244,7 @@
       "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
       "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "ycs89",
       "ahId": "q3n2b"
     },
@@ -236,7 +252,7 @@
       "titre": "Saga of Tanya the Evil II",
       "titreJp": "",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "wr5w2",
       "ahId": "jrus1"
     },
@@ -292,7 +308,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 2,
-      "ago": "3d",
+      "ago": "4d",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -364,7 +380,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -372,7 +388,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -444,7 +460,7 @@
       "titre": "Sparks of Tomorrow",
       "titreJp": "Nijusseiki Denki Mokuroku: Eureka Evrika, 20 Seiki Denki Mokuroku: Eureka Evrika",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "2e371",
       "ahId": "1wghj"
     },
@@ -452,7 +468,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -551,25 +567,9 @@
       "ago": "6d",
       "img": "topci",
       "ahId": "qw2g9"
-    },
-    {
-      "titre": "The Ogre's Bride",
-      "titreJp": "Oni no Hanayome",
-      "ep": 1,
-      "ago": "6d",
-      "img": "csu03",
-      "ahId": "u6fdm"
-    },
-    {
-      "titre": "Jaadugar: A Witch in Mongolia",
-      "titreJp": "Tenmaku no Jaadugar",
-      "ep": 2,
-      "ago": "6d",
-      "img": "9ihs5",
-      "ahId": "t1ey0"
     }
   ],
-  "updatedAt": "2026-07-11T13:10:36.370Z",
+  "updatedAt": "2026-07-11T14:49:41.179Z",
   "source": "github-actions",
   "count": 71
 }
