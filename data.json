@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "Daemons of The Shadow Realm",
+      "titreJp": "Yomi no Tsugai",
+      "ep": 2,
+      "ago": "?",
+      "img": "dks5o",
+      "ahId": "pm96z"
+    },
+    {
+      "titre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School.",
+      "titreJp": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewasuru Koto ni Narimashita",
+      "ep": 2,
+      "ago": "?",
+      "img": "bprh4",
+      "ahId": "n2apg"
+    },
+    {
+      "titre": "Magilumiere Co. Ltd. 2nd Season",
+      "titreJp": "Kabushikigaisha Magi-Lumière 2nd Season",
+      "ep": 2,
+      "ago": "?",
+      "img": "a0m9j",
+      "ahId": "7776o"
+    },
+    {
       "titre": "The Ogre's Bride",
       "titreJp": "Oni no Hanayome",
       "ep": 2,
-      "ago": "?",
+      "ago": "1h",
       "img": "csu03",
       "ahId": "u6fdm"
     },
@@ -12,7 +36,7 @@
       "titre": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
       "titreJp": "",
       "ep": 2,
-      "ago": "?",
+      "ago": "1h",
       "img": "zpm54",
       "ahId": "zweu6"
     },
@@ -20,23 +44,15 @@
       "titre": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
       "titreJp": "&quot;Kimi wo Aisuru Ki wa Nai&quot; to Itta Jiki Koushaku-sama ga nazeka Dekiaishitekimasu",
       "ep": 2,
-      "ago": "?",
+      "ago": "1h",
       "img": "r5tg3",
       "ahId": "m6wg7"
-    },
-    {
-      "titre": "Daemons of The Shadow Realm",
-      "titreJp": "Yomi no Tsugai",
-      "ep": 14,
-      "ago": "?",
-      "img": "dks5o",
-      "ahId": "pm96z"
     },
     {
       "titre": "Jaadugar: A Witch in Mongolia",
       "titreJp": "Tenmaku no Jaadugar",
       "ep": 3,
-      "ago": "?",
+      "ago": "1h",
       "img": "9ihs5",
       "ahId": "t1ey0"
     },
@@ -44,7 +60,7 @@
       "titre": "Recommendations from Iwamoto-Senpai",
       "titreJp": "Iwamoto-senpai no Suisen",
       "ep": 2,
-      "ago": "3h",
+      "ago": "4h",
       "img": "gnmlq",
       "ahId": "nn6k9"
     },
@@ -52,7 +68,7 @@
       "titre": "The Cat and the Dragon",
       "titreJp": "Neko to Ryuu",
       "ep": 3,
-      "ago": "4h",
+      "ago": "5h",
       "img": "828yy",
       "ahId": "9zg3f"
     },
@@ -60,7 +76,7 @@
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 2,
-      "ago": "4h",
+      "ago": "5h",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -68,7 +84,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1206,
-      "ago": "6h",
+      "ago": "7h",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -76,7 +92,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 15,
-      "ago": "7h",
+      "ago": "8h",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -84,7 +100,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 13,
-      "ago": "8h",
+      "ago": "9h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -92,7 +108,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 2,
-      "ago": "22h",
+      "ago": "23h",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -164,7 +180,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 2,
-      "ago": "1d",
+      "ago": "2d",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -172,7 +188,7 @@
       "titre": "Smoking Behind the Supermarket with You",
       "titreJp": "Super no Ura de Yani Suu Futari",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "z18pc",
       "ahId": "gnv5p"
     },
@@ -316,7 +332,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -535,25 +551,9 @@
       "ago": "6d",
       "img": "dcend",
       "ahId": "90tky"
-    },
-    {
-      "titre": "Iron Wok Jan!",
-      "titreJp": "Tetsunabe no Jan!",
-      "ep": 1,
-      "ago": "6d",
-      "img": "5yj1u",
-      "ahId": "3l7kl"
-    },
-    {
-      "titre": "You and I are Polar Opposites 2nd Season",
-      "titreJp": "Seihantai na Kimi to Boku 2nd Season",
-      "ep": 1,
-      "ago": "6d",
-      "img": "j1ir5",
-      "ahId": "th5p2"
     }
   ],
-  "updatedAt": "2026-07-11T17:52:32.509Z",
+  "updatedAt": "2026-07-11T18:56:53.927Z",
   "source": "github-actions",
   "count": 69
 }
