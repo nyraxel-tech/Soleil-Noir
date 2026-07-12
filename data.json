@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
+      "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
+      "ep": 2,
+      "ago": "?",
+      "img": "xtq52",
+      "ahId": "atyey"
+    },
+    {
       "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
       "titreJp": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
       "ep": 2,
-      "ago": "?",
+      "ago": "1h",
       "img": "tak3w",
       "ahId": "y01g1"
     },
@@ -12,7 +20,7 @@
       "titre": "Iron Wok Jan!",
       "titreJp": "Tetsunabe no Jan!",
       "ep": 2,
-      "ago": "4h",
+      "ago": "5h",
       "img": "5yj1u",
       "ahId": "3l7kl"
     },
@@ -20,7 +28,7 @@
       "titre": "You and I are Polar Opposites 2nd Season",
       "titreJp": "Seihantai na Kimi to Boku 2nd Season",
       "ep": 2,
-      "ago": "4h",
+      "ago": "6h",
       "img": "j1ir5",
       "ahId": "th5p2"
     },
@@ -28,7 +36,7 @@
       "titre": "Let's Go Kaikigumi",
       "titreJp": "",
       "ep": 2,
-      "ago": "4h",
+      "ago": "6h",
       "img": "03516",
       "ahId": "2ydm9"
     },
@@ -36,7 +44,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 38,
-      "ago": "10h",
+      "ago": "11h",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -44,7 +52,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 14,
-      "ago": "18h",
+      "ago": "19h",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -52,7 +60,7 @@
       "titre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School.",
       "titreJp": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewasuru Koto ni Narimashita",
       "ep": 2,
-      "ago": "18h",
+      "ago": "20h",
       "img": "bprh4",
       "ahId": "n2apg"
     },
@@ -60,7 +68,7 @@
       "titre": "Magilumiere Co. Ltd. 2nd Season",
       "titreJp": "Kabushikigaisha Magi-Lumière 2nd Season",
       "ep": 2,
-      "ago": "19h",
+      "ago": "20h",
       "img": "a0m9j",
       "ahId": "7776o"
     },
@@ -68,7 +76,7 @@
       "titre": "The Ogre's Bride",
       "titreJp": "Oni no Hanayome",
       "ep": 2,
-      "ago": "19h",
+      "ago": "21h",
       "img": "csu03",
       "ahId": "u6fdm"
     },
@@ -76,7 +84,7 @@
       "titre": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
       "titreJp": "",
       "ep": 2,
-      "ago": "19h",
+      "ago": "21h",
       "img": "zpm54",
       "ahId": "zweu6"
     },
@@ -84,7 +92,7 @@
       "titre": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
       "titreJp": "&quot;Kimi wo Aisuru Ki wa Nai&quot; to Itta Jiki Koushaku-sama ga nazeka Dekiaishitekimasu",
       "ep": 2,
-      "ago": "20h",
+      "ago": "21h",
       "img": "r5tg3",
       "ahId": "m6wg7"
     },
@@ -92,7 +100,7 @@
       "titre": "Jaadugar: A Witch in Mongolia",
       "titreJp": "Tenmaku no Jaadugar",
       "ep": 3,
-      "ago": "20h",
+      "ago": "21h",
       "img": "9ihs5",
       "ahId": "t1ey0"
     },
@@ -100,7 +108,7 @@
       "titre": "Recommendations from Iwamoto-Senpai",
       "titreJp": "Iwamoto-senpai no Suisen",
       "ep": 2,
-      "ago": "23h",
+      "ago": "1d",
       "img": "gnmlq",
       "ahId": "nn6k9"
     },
@@ -108,7 +116,7 @@
       "titre": "The Cat and the Dragon",
       "titreJp": "Neko to Ryuu",
       "ep": 3,
-      "ago": "23h",
+      "ago": "1d",
       "img": "828yy",
       "ahId": "9zg3f"
     },
@@ -196,7 +204,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 2,
-      "ago": "1d",
+      "ago": "2d",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -204,7 +212,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 6,
-      "ago": "1d",
+      "ago": "2d",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -212,7 +220,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 2,
-      "ago": "1d",
+      "ago": "2d",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -268,7 +276,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 4,
-      "ago": "2d",
+      "ago": "3d",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -340,7 +348,7 @@
       "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
       "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
       "ep": 3,
-      "ago": "3d",
+      "ago": "4d",
       "img": "ycs89",
       "ahId": "q3n2b"
     },
@@ -348,7 +356,7 @@
       "titre": "Saga of Tanya the Evil II",
       "titreJp": "",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "wr5w2",
       "ahId": "jrus1"
     },
@@ -404,7 +412,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -468,7 +476,7 @@
       "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
       "titreJp": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "0vaar",
       "ahId": "x2njz"
     },
@@ -476,7 +484,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "c5pih",
       "ahId": "f76b2"
-    },
-    {
-      "titre": "The Classroom of a Black Cat and a Witch",
-      "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
-      "ep": 13,
-      "ago": "6d",
-      "img": "cs0bn",
-      "ahId": "7p5hz"
     }
   ],
-  "updatedAt": "2026-07-12T13:17:12.302Z",
+  "updatedAt": "2026-07-12T14:52:45.073Z",
   "source": "github-actions",
   "count": 69
 }
