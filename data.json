@@ -4,7 +4,7 @@
       "titre": "Azur Lane: Slow Ahead! 2nd Season",
       "titreJp": "Azur Lane: Bisoku Zenshin! 2nd Season",
       "ep": 2,
-      "ago": "7h",
+      "ago": "9h",
       "img": "8j4y6",
       "ahId": "marhn"
     },
@@ -12,7 +12,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1169,
-      "ago": "7h",
+      "ago": "10h",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -20,7 +20,7 @@
       "titre": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
       "titreJp": "Futsutsuka na Akujo de wa Gozaimasu ga: Hina Miya Chou Nezumi Torikaeden",
       "ep": 1,
-      "ago": "7h",
+      "ago": "10h",
       "img": "0jvwd",
       "ahId": "f7d85"
     },
@@ -28,7 +28,7 @@
       "titre": "Goodbye, Lara",
       "titreJp": "Sayonara Lara",
       "ep": 2,
-      "ago": "8h",
+      "ago": "10h",
       "img": "c5pih",
       "ahId": "f76b2"
     },
@@ -36,7 +36,7 @@
       "titre": "Mushoku Tensei: Jobless Reincarnation 3rd Season",
       "titreJp": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
       "ep": 3,
-      "ago": "8h",
+      "ago": "11h",
       "img": "b1dg7",
       "ahId": "sfvog"
     },
@@ -44,7 +44,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 14,
-      "ago": "8h",
+      "ago": "11h",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -52,7 +52,7 @@
       "titre": "Sparks of Tomorrow",
       "titreJp": "Nijusseiki Denki Mokuroku: Eureka Evrika, 20 Seiki Denki Mokuroku: Eureka Evrika",
       "ep": 2,
-      "ago": "8h",
+      "ago": "11h",
       "img": "2e371",
       "ahId": "1wghj"
     },
@@ -60,7 +60,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 2,
-      "ago": "9h",
+      "ago": "12h",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -68,7 +68,7 @@
       "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
       "titreJp": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
       "ep": 2,
-      "ago": "10h",
+      "ago": "13h",
       "img": "tak3w",
       "ahId": "y01g1"
     },
@@ -76,7 +76,7 @@
       "titre": "Iron Wok Jan!",
       "titreJp": "Tetsunabe no Jan!",
       "ep": 2,
-      "ago": "14h",
+      "ago": "17h",
       "img": "5yj1u",
       "ahId": "3l7kl"
     },
@@ -84,7 +84,7 @@
       "titre": "You and I are Polar Opposites 2nd Season",
       "titreJp": "Seihantai na Kimi to Boku 2nd Season",
       "ep": 2,
-      "ago": "15h",
+      "ago": "17h",
       "img": "j1ir5",
       "ahId": "th5p2"
     },
@@ -92,7 +92,7 @@
       "titre": "Let's Go Kaikigumi",
       "titreJp": "",
       "ep": 2,
-      "ago": "15h",
+      "ago": "17h",
       "img": "03516",
       "ahId": "2ydm9"
     },
@@ -100,7 +100,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 38,
-      "ago": "20h",
+      "ago": "23h",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -553,7 +553,7 @@
       "ahId": "jdq4y"
     }
   ],
-  "updatedAt": "2026-07-12T23:50:19.204Z",
+  "updatedAt": "2026-07-13T02:28:20.900Z",
   "source": "github-actions",
   "count": 69
 }
