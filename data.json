@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "Skeleton Knight in Another World 2",
+      "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
+      "ep": 2,
+      "ago": "?",
+      "img": "3ol6v",
+      "ahId": "1oaxo"
+    },
+    {
+      "titre": "The Insipid Prince's Furtive Grab for The Throne",
+      "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
+      "ep": 2,
+      "ago": "?",
+      "img": "lzwax",
+      "ahId": "jdq4y"
+    },
+    {
+      "titre": "Love Unseen Beneath the Clear Night Sky",
+      "titreJp": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+      "ep": 2,
+      "ago": "?",
+      "img": "2qfc1",
+      "ahId": "fn31g"
+    },
+    {
       "titre": "Azur Lane: Slow Ahead! 2nd Season",
       "titreJp": "Azur Lane: Bisoku Zenshin! 2nd Season",
       "ep": 2,
-      "ago": "17h",
+      "ago": "20h",
       "img": "8j4y6",
       "ahId": "marhn"
     },
@@ -12,7 +36,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1169,
-      "ago": "18h",
+      "ago": "21h",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -20,7 +44,7 @@
       "titre": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
       "titreJp": "Futsutsuka na Akujo de wa Gozaimasu ga: Hina Miya Chou Nezumi Torikaeden",
       "ep": 1,
-      "ago": "18h",
+      "ago": "21h",
       "img": "0jvwd",
       "ahId": "f7d85"
     },
@@ -28,7 +52,7 @@
       "titre": "Goodbye, Lara",
       "titreJp": "Sayonara Lara",
       "ep": 2,
-      "ago": "18h",
+      "ago": "21h",
       "img": "c5pih",
       "ahId": "f76b2"
     },
@@ -36,7 +60,7 @@
       "titre": "Mushoku Tensei: Jobless Reincarnation 3rd Season",
       "titreJp": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
       "ep": 3,
-      "ago": "19h",
+      "ago": "22h",
       "img": "b1dg7",
       "ahId": "sfvog"
     },
@@ -44,7 +68,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 14,
-      "ago": "19h",
+      "ago": "22h",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -52,7 +76,7 @@
       "titre": "Sparks of Tomorrow",
       "titreJp": "Nijusseiki Denki Mokuroku: Eureka Evrika, 20 Seiki Denki Mokuroku: Eureka Evrika",
       "ep": 2,
-      "ago": "19h",
+      "ago": "22h",
       "img": "2e371",
       "ahId": "1wghj"
     },
@@ -60,7 +84,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 2,
-      "ago": "20h",
+      "ago": "23h",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -68,7 +92,7 @@
       "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
       "titreJp": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
       "ep": 2,
-      "ago": "21h",
+      "ago": "1d",
       "img": "tak3w",
       "ahId": "y01g1"
     },
@@ -180,7 +204,7 @@
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 2,
-      "ago": "1d",
+      "ago": "2d",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -188,7 +212,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1206,
-      "ago": "1d",
+      "ago": "2d",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -196,7 +220,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 15,
-      "ago": "1d",
+      "ago": "2d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -340,7 +364,7 @@
       "titre": "Bungo Stray Dogs Wan! 2",
       "titreJp": "",
       "ep": 2,
-      "ago": "3d",
+      "ago": "4d",
       "img": "gob1n",
       "ahId": "1wtvp"
     },
@@ -348,7 +372,7 @@
       "titre": "Dara-san of Reiwa",
       "titreJp": "Reiwa no Dara-san",
       "ep": 2,
-      "ago": "3d",
+      "ago": "4d",
       "img": "bkz60",
       "ahId": "59rhi"
     },
@@ -420,7 +444,7 @@
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -476,7 +500,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -484,7 +508,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers",
       "titreJp": "Yoroi Shin Den Samurai Troopers, Ronin Warriors",
       "ep": 11,
-      "ago": "5d",
+      "ago": "6d",
       "img": "po8jo",
       "ahId": "bzdq4"
     },
@@ -492,7 +516,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -527,33 +551,9 @@
       "ago": "6d",
       "img": "vse6w",
       "ahId": "7e6hd"
-    },
-    {
-      "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
-      "titreJp": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
-      "ep": 1,
-      "ago": "6d",
-      "img": "0vaar",
-      "ahId": "x2njz"
-    },
-    {
-      "titre": "The World Is Dancing",
-      "titreJp": "World Is Dancing",
-      "ep": 2,
-      "ago": "6d",
-      "img": "ob8k9",
-      "ahId": "jc70y"
-    },
-    {
-      "titre": "The Insipid Prince's Furtive Grab for The Throne",
-      "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
-      "ep": 1,
-      "ago": "6d",
-      "img": "lzwax",
-      "ahId": "jdq4y"
     }
   ],
-  "updatedAt": "2026-07-13T10:21:35.165Z",
+  "updatedAt": "2026-07-13T13:20:18.617Z",
   "source": "github-actions",
   "count": 69
 }
