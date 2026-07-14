@@ -4,7 +4,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 15,
-      "ago": "17h",
+      "ago": "19h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -12,7 +12,7 @@
       "titre": "Grand Blue Season 3",
       "titreJp": "Grand Blue Dreaming Season 3",
       "ep": 2,
-      "ago": "18h",
+      "ago": "19h",
       "img": "o5w0q",
       "ahId": "gwokm"
     },
@@ -20,7 +20,7 @@
       "titre": "Oh Boy, Was I Wrong About Her",
       "titreJp": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
       "ep": 2,
-      "ago": "18h",
+      "ago": "20h",
       "img": "vse6w",
       "ahId": "7e6hd"
     },
@@ -28,7 +28,7 @@
       "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
       "titreJp": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
       "ep": 2,
-      "ago": "19h",
+      "ago": "20h",
       "img": "0vaar",
       "ahId": "x2njz"
     },
@@ -36,7 +36,7 @@
       "titre": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
       "titreJp": "Buchikire Reijou wa Houfuku wo Chikai Mashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
       "ep": 2,
-      "ago": "19h",
+      "ago": "20h",
       "img": "s5q25",
       "ahId": "o0cpo"
     },
@@ -44,7 +44,7 @@
       "titre": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
       "titreJp": "Shibou Yuugi de Meshi wo Kuu.",
       "ep": 12,
-      "ago": "19h",
+      "ago": "20h",
       "img": "q9p5h",
       "ahId": "hlafi"
     },
@@ -52,7 +52,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 3,
-      "ago": "20h",
+      "ago": "21h",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -60,7 +60,7 @@
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 2,
-      "ago": "20h",
+      "ago": "22h",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -68,7 +68,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 2,
-      "ago": "20h",
+      "ago": "22h",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -76,7 +76,7 @@
       "titre": "Love Unseen Beneath the Clear Night Sky",
       "titreJp": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "ep": 2,
-      "ago": "21h",
+      "ago": "22h",
       "img": "2qfc1",
       "ahId": "fn31g"
     },
@@ -276,7 +276,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 15,
-      "ago": "2d",
+      "ago": "3d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -553,7 +553,7 @@
       "ahId": "mvh9u"
     }
   ],
-  "updatedAt": "2026-07-14T09:59:39.549Z",
+  "updatedAt": "2026-07-14T11:38:15.167Z",
   "source": "github-actions",
   "count": 69
 }
