@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Crowned in a Hundred Days",
+      "titreJp": "Bai Ri Cheng Wang",
+      "ep": 7,
+      "ago": "1h",
+      "img": "c1n5b",
+      "ahId": "z1cl4"
+    },
+    {
+      "titre": "Red River",
+      "titreJp": "Sora wa Akai Kawa no Hotori",
+      "ep": 2,
+      "ago": "1h",
+      "img": "zh355",
+      "ahId": "x48y1"
+    },
+    {
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 2,
-      "ago": "1h",
+      "ago": "3h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -12,7 +28,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 2,
-      "ago": "2h",
+      "ago": "4h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -20,7 +36,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 2,
-      "ago": "2h",
+      "ago": "4h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -28,7 +44,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 3,
-      "ago": "3h",
+      "ago": "5h",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -36,7 +52,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 2,
-      "ago": "3h",
+      "ago": "5h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -44,7 +60,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 2,
-      "ago": "4h",
+      "ago": "6h",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -52,7 +68,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 2,
-      "ago": "5h",
+      "ago": "7h",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -252,7 +268,7 @@
       "titre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School.",
       "titreJp": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewasuru Koto ni Narimashita",
       "ep": 2,
-      "ago": "2d",
+      "ago": "3d",
       "img": "bprh4",
       "ahId": "n2apg"
     },
@@ -260,7 +276,7 @@
       "titre": "Magilumiere Co. Ltd. 2nd Season",
       "titreJp": "Kabushikigaisha Magi-Lumière 2nd Season",
       "ep": 2,
-      "ago": "2d",
+      "ago": "3d",
       "img": "a0m9j",
       "ahId": "7776o"
     },
@@ -268,7 +284,7 @@
       "titre": "The Ogre's Bride",
       "titreJp": "Oni no Hanayome",
       "ep": 2,
-      "ago": "2d",
+      "ago": "3d",
       "img": "csu03",
       "ahId": "u6fdm"
     },
@@ -276,7 +292,7 @@
       "titre": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
       "titreJp": "",
       "ep": 2,
-      "ago": "2d",
+      "ago": "3d",
       "img": "zpm54",
       "ahId": "zweu6"
     },
@@ -284,7 +300,7 @@
       "titre": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
       "titreJp": "&quot;Kimi wo Aisuru Ki wa Nai&quot; to Itta Jiki Koushaku-sama ga nazeka Dekiaishitekimasu",
       "ep": 2,
-      "ago": "2d",
+      "ago": "3d",
       "img": "r5tg3",
       "ahId": "m6wg7"
     },
@@ -401,14 +417,6 @@
       "ahId": "4cpxl"
     },
     {
-      "titre": "Crowned in a Hundred Days",
-      "titreJp": "Bai Ri Cheng Wang",
-      "ep": 6,
-      "ago": "4d",
-      "img": "c1n5b",
-      "ahId": "z1cl4"
-    },
-    {
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 2,
@@ -420,7 +428,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -428,7 +436,7 @@
       "titre": "Smoking Behind the Supermarket with You",
       "titreJp": "Super no Ura de Yani Suu Futari",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "z18pc",
       "ahId": "gnv5p"
     },
@@ -436,7 +444,7 @@
       "titre": "Kaiju Girl Caramelise",
       "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "gtz8g",
       "ahId": "wfsth"
     },
@@ -492,7 +500,7 @@
       "titre": "Tomb Raider King",
       "titreJp": "Dogurwang",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "1i8dr",
       "ahId": "7p85t"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "ycs89",
       "ahId": "q3n2b"
-    },
-    {
-      "titre": "Saga of Tanya the Evil II",
-      "titreJp": "",
-      "ep": 1,
-      "ago": "6d",
-      "img": "wr5w2",
-      "ahId": "jrus1"
     }
   ],
-  "updatedAt": "2026-07-14T17:11:16.192Z",
+  "updatedAt": "2026-07-14T19:14:17.078Z",
   "source": "github-actions",
   "count": 69
 }
