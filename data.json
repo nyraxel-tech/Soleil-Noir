@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "The Dangers in My Heart Movie",
+      "titreJp": "Boku no Kokoro no Yabai Yatsu  Movie",
+      "ep": 1,
+      "ago": "?",
+      "img": "tnocf",
+      "ahId": "bnvnu"
+    },
+    {
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 7,
-      "ago": "1h",
+      "ago": "3h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -12,7 +20,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 2,
-      "ago": "1h",
+      "ago": "3h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -20,7 +28,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 2,
-      "ago": "3h",
+      "ago": "5h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -28,7 +36,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 2,
-      "ago": "4h",
+      "ago": "5h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -36,7 +44,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 2,
-      "ago": "4h",
+      "ago": "6h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -44,7 +52,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 3,
-      "ago": "5h",
+      "ago": "7h",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -52,7 +60,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 2,
-      "ago": "5h",
+      "ago": "7h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -60,7 +68,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 2,
-      "ago": "6h",
+      "ago": "8h",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -68,7 +76,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 2,
-      "ago": "7h",
+      "ago": "9h",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -260,7 +268,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 14,
-      "ago": "2d",
+      "ago": "3d",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -364,7 +372,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 2,
-      "ago": "3d",
+      "ago": "4d",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "b8zqi",
       "ahId": "8e1k6"
-    },
-    {
-      "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
-      "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
-      "ep": 3,
-      "ago": "6d",
-      "img": "ycs89",
-      "ahId": "q3n2b"
     }
   ],
-  "updatedAt": "2026-07-14T19:14:17.078Z",
+  "updatedAt": "2026-07-14T20:57:06.929Z",
   "source": "github-actions",
   "count": 69
 }
