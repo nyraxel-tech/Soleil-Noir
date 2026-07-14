@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "Flaming Dodgeball Girl Danko",
+      "titreJp": "Honoo no Toukyuujo: Dodge Danko",
+      "ep": 2,
+      "ago": "?",
+      "img": "t7nlu",
+      "ahId": "usbqy"
+    },
+    {
+      "titre": "I Want to Love You Till Your Dying Day",
+      "titreJp": "Kimi ga Shinu made Koi wo Shitai",
+      "ep": 2,
+      "ago": "?",
+      "img": "5kivb",
+      "ahId": "f6u2m"
+    },
+    {
+      "titre": "Young Ladies Don't Play Fighting Games",
+      "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
+      "ep": 2,
+      "ago": "1h",
+      "img": "q69uk",
+      "ahId": "vgurt"
+    },
+    {
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 15,
-      "ago": "19h",
+      "ago": "21h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -12,7 +36,7 @@
       "titre": "Grand Blue Season 3",
       "titreJp": "Grand Blue Dreaming Season 3",
       "ep": 2,
-      "ago": "19h",
+      "ago": "21h",
       "img": "o5w0q",
       "ahId": "gwokm"
     },
@@ -20,7 +44,7 @@
       "titre": "Oh Boy, Was I Wrong About Her",
       "titreJp": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
       "ep": 2,
-      "ago": "20h",
+      "ago": "22h",
       "img": "vse6w",
       "ahId": "7e6hd"
     },
@@ -28,7 +52,7 @@
       "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
       "titreJp": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
       "ep": 2,
-      "ago": "20h",
+      "ago": "22h",
       "img": "0vaar",
       "ahId": "x2njz"
     },
@@ -36,7 +60,7 @@
       "titre": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
       "titreJp": "Buchikire Reijou wa Houfuku wo Chikai Mashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
       "ep": 2,
-      "ago": "20h",
+      "ago": "22h",
       "img": "s5q25",
       "ahId": "o0cpo"
     },
@@ -44,7 +68,7 @@
       "titre": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
       "titreJp": "Shibou Yuugi de Meshi wo Kuu.",
       "ep": 12,
-      "ago": "20h",
+      "ago": "22h",
       "img": "q9p5h",
       "ahId": "hlafi"
     },
@@ -52,7 +76,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 3,
-      "ago": "21h",
+      "ago": "23h",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -60,7 +84,7 @@
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 2,
-      "ago": "22h",
+      "ago": "1d",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -68,7 +92,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 2,
-      "ago": "22h",
+      "ago": "1d",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -76,7 +100,7 @@
       "titre": "Love Unseen Beneath the Clear Night Sky",
       "titreJp": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "ep": 2,
-      "ago": "22h",
+      "ago": "1d",
       "img": "2qfc1",
       "ahId": "fn31g"
     },
@@ -148,7 +172,7 @@
       "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
       "titreJp": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
       "ep": 2,
-      "ago": "1d",
+      "ago": "2d",
       "img": "tak3w",
       "ahId": "y01g1"
     },
@@ -260,7 +284,7 @@
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 2,
-      "ago": "2d",
+      "ago": "3d",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -268,7 +292,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1206,
-      "ago": "2d",
+      "ago": "3d",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -420,7 +444,7 @@
       "titre": "Bungo Stray Dogs Wan! 2",
       "titreJp": "",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "gob1n",
       "ahId": "1wtvp"
     },
@@ -428,7 +452,7 @@
       "titre": "Dara-san of Reiwa",
       "titreJp": "Reiwa no Dara-san",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "bkz60",
       "ahId": "59rhi"
     },
@@ -500,7 +524,7 @@
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -511,14 +535,6 @@
       "ago": "6d",
       "img": "8vo2j",
       "ahId": "nqbd0"
-    },
-    {
-      "titre": "Flaming Dodgeball Girl Danko",
-      "titreJp": "Honoo no Toukyuujo: Dodge Danko",
-      "ep": 1,
-      "ago": "6d",
-      "img": "t7nlu",
-      "ahId": "usbqy"
     },
     {
       "titre": "Red River",
@@ -535,25 +551,9 @@
       "ago": "6d",
       "img": "zwc02",
       "ahId": "lckgk"
-    },
-    {
-      "titre": "Yoroi-Shinden Samurai Troopers - Part II",
-      "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
-      "ep": 1,
-      "ago": "6d",
-      "img": "pnulh",
-      "ahId": "2oq0n"
-    },
-    {
-      "titre": "The Oblivious Saint Can't Contain Her Power",
-      "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
-      "ep": 2,
-      "ago": "6d",
-      "img": "fctsy",
-      "ahId": "mvh9u"
     }
   ],
-  "updatedAt": "2026-07-14T11:38:15.167Z",
+  "updatedAt": "2026-07-14T13:26:43.548Z",
   "source": "github-actions",
   "count": 69
 }
