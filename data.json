@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Tomb Raider King",
+      "titreJp": "Dogurwang",
+      "ep": 2,
+      "ago": "?",
+      "img": "1i8dr",
+      "ahId": "7p85t"
+    },
+    {
+      "titre": "The Villager of LV999",
+      "titreJp": "LV999 no Murabito",
+      "ep": 4,
+      "ago": "1h",
+      "img": "7vqbp",
+      "ahId": "mucnh"
+    },
+    {
       "titre": "Hana-Kimi Season 2",
       "titreJp": "Hanazakari no Kimi-tachi e Season 2",
       "ep": 4,
-      "ago": "?",
+      "ago": "1h",
       "img": "yzbv7",
       "ahId": "s3cd7"
     },
@@ -12,7 +28,7 @@
       "titre": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2nd Season",
       "titreJp": "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2nd Season",
       "ep": 2,
-      "ago": "?",
+      "ago": "2h",
       "img": "l7tno",
       "ahId": "6rmgo"
     },
@@ -20,7 +36,7 @@
       "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
       "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
       "ep": 4,
-      "ago": "1h",
+      "ago": "3h",
       "img": "ycs89",
       "ahId": "q3n2b"
     },
@@ -28,7 +44,7 @@
       "titre": "Saga of Tanya the Evil II",
       "titreJp": "",
       "ep": 2,
-      "ago": "2h",
+      "ago": "4h",
       "img": "wr5w2",
       "ahId": "jrus1"
     },
@@ -36,7 +52,7 @@
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 2,
-      "ago": "4h",
+      "ago": "5h",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -44,7 +60,7 @@
       "titre": "The Dangers in My Heart Movie",
       "titreJp": "Boku no Kokoro no Yabai Yatsu  Movie",
       "ep": 1,
-      "ago": "19h",
+      "ago": "21h",
       "img": "tnocf",
       "ahId": "bnvnu"
     },
@@ -52,7 +68,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 7,
-      "ago": "22h",
+      "ago": "1d",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -60,7 +76,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 2,
-      "ago": "22h",
+      "ago": "1d",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -204,7 +220,7 @@
       "titre": "Azur Lane: Slow Ahead! 2nd Season",
       "titreJp": "Azur Lane: Bisoku Zenshin! 2nd Season",
       "ep": 2,
-      "ago": "2d",
+      "ago": "3d",
       "img": "8j4y6",
       "ahId": "marhn"
     },
@@ -332,7 +348,7 @@
       "titre": "The Ogre's Bride",
       "titreJp": "Oni no Hanayome",
       "ep": 2,
-      "ago": "3d",
+      "ago": "4d",
       "img": "csu03",
       "ahId": "u6fdm"
     },
@@ -340,7 +356,7 @@
       "titre": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
       "titreJp": "",
       "ep": 2,
-      "ago": "3d",
+      "ago": "4d",
       "img": "zpm54",
       "ahId": "zweu6"
     },
@@ -348,7 +364,7 @@
       "titre": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
       "titreJp": "&quot;Kimi wo Aisuru Ki wa Nai&quot; to Itta Jiki Koushaku-sama ga nazeka Dekiaishitekimasu",
       "ep": 2,
-      "ago": "3d",
+      "ago": "4d",
       "img": "r5tg3",
       "ahId": "m6wg7"
     },
@@ -356,7 +372,7 @@
       "titre": "Jaadugar: A Witch in Mongolia",
       "titreJp": "Tenmaku no Jaadugar",
       "ep": 3,
-      "ago": "3d",
+      "ago": "4d",
       "img": "9ihs5",
       "ahId": "t1ey0"
     },
@@ -420,7 +436,7 @@
       "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
       "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "c5wg4",
       "ahId": "vnlfg"
     },
@@ -428,7 +444,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -492,7 +508,7 @@
       "titre": "Kaiju Girl Caramelise",
       "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "gtz8g",
       "ahId": "wfsth"
     },
@@ -500,7 +516,7 @@
       "titre": "Chainsmoker Cat",
       "titreJp": "Yani Neko",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "r45h0",
       "ahId": "6hqka"
     },
@@ -535,25 +551,9 @@
       "ago": "6d",
       "img": "gob1n",
       "ahId": "1wtvp"
-    },
-    {
-      "titre": "Dara-san of Reiwa",
-      "titreJp": "Reiwa no Dara-san",
-      "ep": 2,
-      "ago": "6d",
-      "img": "bkz60",
-      "ahId": "59rhi"
-    },
-    {
-      "titre": "Tomb Raider King",
-      "titreJp": "Dogurwang",
-      "ep": 1,
-      "ago": "6d",
-      "img": "1i8dr",
-      "ahId": "7p85t"
     }
   ],
-  "updatedAt": "2026-07-15T16:17:53.000Z",
+  "updatedAt": "2026-07-15T18:02:49.817Z",
   "source": "github-actions",
   "count": 69
 }
