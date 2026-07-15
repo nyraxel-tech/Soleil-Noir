@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
+      "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
+      "ep": 4,
+      "ago": "?",
+      "img": "ycs89",
+      "ahId": "q3n2b"
+    },
+    {
+      "titre": "Saga of Tanya the Evil II",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "1h",
+      "img": "wr5w2",
+      "ahId": "jrus1"
+    },
+    {
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 2,
-      "ago": "?",
+      "ago": "2h",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -12,7 +28,7 @@
       "titre": "The Dangers in My Heart Movie",
       "titreJp": "Boku no Kokoro no Yabai Yatsu  Movie",
       "ep": 1,
-      "ago": "15h",
+      "ago": "18h",
       "img": "tnocf",
       "ahId": "bnvnu"
     },
@@ -20,7 +36,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 7,
-      "ago": "18h",
+      "ago": "20h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -28,7 +44,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 2,
-      "ago": "18h",
+      "ago": "20h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -36,7 +52,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 2,
-      "ago": "20h",
+      "ago": "23h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -44,7 +60,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 2,
-      "ago": "21h",
+      "ago": "23h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -52,7 +68,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 2,
-      "ago": "21h",
+      "ago": "23h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -60,7 +76,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 3,
-      "ago": "22h",
+      "ago": "1d",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -68,7 +84,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 2,
-      "ago": "22h",
+      "ago": "1d",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -76,7 +92,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 2,
-      "ago": "23h",
+      "ago": "1d",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -140,7 +156,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 3,
-      "ago": "1d",
+      "ago": "2d",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -148,7 +164,7 @@
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 2,
-      "ago": "1d",
+      "ago": "2d",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -156,7 +172,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 2,
-      "ago": "1d",
+      "ago": "2d",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -164,7 +180,7 @@
       "titre": "Love Unseen Beneath the Clear Night Sky",
       "titreJp": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "ep": 2,
-      "ago": "1d",
+      "ago": "2d",
       "img": "2qfc1",
       "ahId": "fn31g"
     },
@@ -228,7 +244,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 2,
-      "ago": "2d",
+      "ago": "3d",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -236,7 +252,7 @@
       "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
       "titreJp": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
       "ep": 2,
-      "ago": "2d",
+      "ago": "3d",
       "img": "tak3w",
       "ahId": "y01g1"
     },
@@ -332,7 +348,7 @@
       "titre": "Recommendations from Iwamoto-Senpai",
       "titreJp": "Iwamoto-senpai no Suisen",
       "ep": 2,
-      "ago": "3d",
+      "ago": "4d",
       "img": "gnmlq",
       "ahId": "nn6k9"
     },
@@ -340,7 +356,7 @@
       "titre": "The Cat and the Dragon",
       "titreJp": "Neko to Ryuu",
       "ep": 3,
-      "ago": "3d",
+      "ago": "4d",
       "img": "828yy",
       "ahId": "9zg3f"
     },
@@ -348,7 +364,7 @@
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 2,
-      "ago": "3d",
+      "ago": "4d",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -428,7 +444,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -436,7 +452,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -492,7 +508,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 4,
-      "ago": "5d",
+      "ago": "6d",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -500,7 +516,7 @@
       "titre": "Bungo Stray Dogs Wan! 2",
       "titreJp": "",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "gob1n",
       "ahId": "1wtvp"
     },
@@ -508,7 +524,7 @@
       "titre": "Dara-san of Reiwa",
       "titreJp": "Reiwa no Dara-san",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "bkz60",
       "ahId": "59rhi"
     },
@@ -535,25 +551,9 @@
       "ago": "6d",
       "img": "7vqbp",
       "ahId": "mucnh"
-    },
-    {
-      "titre": "Hana-Kimi Season 2",
-      "titreJp": "Hanazakari no Kimi-tachi e Season 2",
-      "ep": 3,
-      "ago": "6d",
-      "img": "yzbv7",
-      "ahId": "s3cd7"
-    },
-    {
-      "titre": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2nd Season",
-      "titreJp": "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2nd Season",
-      "ep": 1,
-      "ago": "6d",
-      "img": "l7tno",
-      "ahId": "6rmgo"
     }
   ],
-  "updatedAt": "2026-07-15T12:12:08.174Z",
+  "updatedAt": "2026-07-15T14:45:48.023Z",
   "source": "github-actions",
   "count": 69
 }
