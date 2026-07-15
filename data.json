@@ -4,7 +4,7 @@
       "titre": "The Dangers in My Heart Movie",
       "titreJp": "Boku no Kokoro no Yabai Yatsu  Movie",
       "ep": 1,
-      "ago": "5h",
+      "ago": "9h",
       "img": "tnocf",
       "ahId": "bnvnu"
     },
@@ -12,7 +12,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 7,
-      "ago": "8h",
+      "ago": "11h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -20,7 +20,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 2,
-      "ago": "8h",
+      "ago": "11h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -28,7 +28,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 2,
-      "ago": "10h",
+      "ago": "14h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -36,7 +36,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 2,
-      "ago": "10h",
+      "ago": "14h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -44,7 +44,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 2,
-      "ago": "11h",
+      "ago": "14h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -52,7 +52,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 3,
-      "ago": "12h",
+      "ago": "15h",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -60,7 +60,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 2,
-      "ago": "12h",
+      "ago": "16h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -68,7 +68,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 2,
-      "ago": "13h",
+      "ago": "16h",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -76,7 +76,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 2,
-      "ago": "14h",
+      "ago": "17h",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -260,7 +260,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 38,
-      "ago": "2d",
+      "ago": "3d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -553,7 +553,7 @@
       "ahId": "8e1k6"
     }
   ],
-  "updatedAt": "2026-07-15T02:05:48.689Z",
+  "updatedAt": "2026-07-15T05:26:58.297Z",
   "source": "github-actions",
   "count": 69
 }
