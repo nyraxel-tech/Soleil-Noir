@@ -4,7 +4,7 @@
       "titre": "My Stepmother and Stepsisters Aren’t Wicked",
       "titreJp": "Ibitte Konai Gibo to Gishi",
       "ep": 2,
-      "ago": "1h",
+      "ago": "2h",
       "img": "b8zqi",
       "ahId": "8e1k6"
     },
@@ -12,7 +12,7 @@
       "titre": "From Old Country Bumpkin to Master Swordsman Season 2",
       "titreJp": "Katainaka no Ossan, Kensei ni Naru II",
       "ep": 2,
-      "ago": "1h",
+      "ago": "2h",
       "img": "8yx8x",
       "ahId": "hoi3i"
     },
@@ -20,7 +20,7 @@
       "titre": "Tomb Raider King",
       "titreJp": "Dogurwang",
       "ep": 2,
-      "ago": "4h",
+      "ago": "5h",
       "img": "1i8dr",
       "ahId": "7p85t"
     },
@@ -28,7 +28,7 @@
       "titre": "The Villager of LV999",
       "titreJp": "LV999 no Murabito",
       "ep": 4,
-      "ago": "5h",
+      "ago": "6h",
       "img": "7vqbp",
       "ahId": "mucnh"
     },
@@ -36,7 +36,7 @@
       "titre": "Hana-Kimi Season 2",
       "titreJp": "Hanazakari no Kimi-tachi e Season 2",
       "ep": 4,
-      "ago": "5h",
+      "ago": "6h",
       "img": "yzbv7",
       "ahId": "s3cd7"
     },
@@ -44,7 +44,7 @@
       "titre": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2nd Season",
       "titreJp": "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2nd Season",
       "ep": 2,
-      "ago": "6h",
+      "ago": "7h",
       "img": "l7tno",
       "ahId": "6rmgo"
     },
@@ -52,7 +52,7 @@
       "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
       "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
       "ep": 4,
-      "ago": "7h",
+      "ago": "8h",
       "img": "ycs89",
       "ahId": "q3n2b"
     },
@@ -60,7 +60,7 @@
       "titre": "Saga of Tanya the Evil II",
       "titreJp": "",
       "ep": 2,
-      "ago": "8h",
+      "ago": "9h",
       "img": "wr5w2",
       "ahId": "jrus1"
     },
@@ -68,7 +68,7 @@
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 2,
-      "ago": "9h",
+      "ago": "10h",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -553,7 +553,7 @@
       "ahId": "ultkb"
     }
   ],
-  "updatedAt": "2026-07-15T21:56:03.394Z",
+  "updatedAt": "2026-07-15T22:57:06.550Z",
   "source": "github-actions",
   "count": 69
 }
