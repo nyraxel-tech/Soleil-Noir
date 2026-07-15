@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "From Old Country Bumpkin to Master Swordsman Season 2",
+      "titreJp": "Katainaka no Ossan, Kensei ni Naru II",
+      "ep": 2,
+      "ago": "?",
+      "img": "8yx8x",
+      "ahId": "hoi3i"
+    },
+    {
       "titre": "Tomb Raider King",
       "titreJp": "Dogurwang",
       "ep": 2,
-      "ago": "?",
+      "ago": "2h",
       "img": "1i8dr",
       "ahId": "7p85t"
     },
@@ -12,7 +20,7 @@
       "titre": "The Villager of LV999",
       "titreJp": "LV999 no Murabito",
       "ep": 4,
-      "ago": "1h",
+      "ago": "3h",
       "img": "7vqbp",
       "ahId": "mucnh"
     },
@@ -20,7 +28,7 @@
       "titre": "Hana-Kimi Season 2",
       "titreJp": "Hanazakari no Kimi-tachi e Season 2",
       "ep": 4,
-      "ago": "1h",
+      "ago": "3h",
       "img": "yzbv7",
       "ahId": "s3cd7"
     },
@@ -28,7 +36,7 @@
       "titre": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2nd Season",
       "titreJp": "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2nd Season",
       "ep": 2,
-      "ago": "2h",
+      "ago": "4h",
       "img": "l7tno",
       "ahId": "6rmgo"
     },
@@ -36,7 +44,7 @@
       "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
       "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
       "ep": 4,
-      "ago": "3h",
+      "ago": "5h",
       "img": "ycs89",
       "ahId": "q3n2b"
     },
@@ -44,7 +52,7 @@
       "titre": "Saga of Tanya the Evil II",
       "titreJp": "",
       "ep": 2,
-      "ago": "4h",
+      "ago": "6h",
       "img": "wr5w2",
       "ahId": "jrus1"
     },
@@ -52,7 +60,7 @@
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 2,
-      "ago": "5h",
+      "ago": "7h",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -60,7 +68,7 @@
       "titre": "The Dangers in My Heart Movie",
       "titreJp": "Boku no Kokoro no Yabai Yatsu  Movie",
       "ep": 1,
-      "ago": "21h",
+      "ago": "23h",
       "img": "tnocf",
       "ahId": "bnvnu"
     },
@@ -324,7 +332,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 14,
-      "ago": "3d",
+      "ago": "4d",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -332,7 +340,7 @@
       "titre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School.",
       "titreJp": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewasuru Koto ni Narimashita",
       "ep": 2,
-      "ago": "3d",
+      "ago": "4d",
       "img": "bprh4",
       "ahId": "n2apg"
     },
@@ -340,7 +348,7 @@
       "titre": "Magilumiere Co. Ltd. 2nd Season",
       "titreJp": "Kabushikigaisha Magi-Lumière 2nd Season",
       "ep": 2,
-      "ago": "3d",
+      "ago": "4d",
       "img": "a0m9j",
       "ahId": "7776o"
     },
@@ -428,7 +436,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -492,7 +500,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -500,7 +508,7 @@
       "titre": "Smoking Behind the Supermarket with You",
       "titreJp": "Super no Ura de Yani Suu Futari",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "z18pc",
       "ahId": "gnv5p"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "8z55a",
       "ahId": "78byl"
-    },
-    {
-      "titre": "Bungo Stray Dogs Wan! 2",
-      "titreJp": "",
-      "ep": 2,
-      "ago": "6d",
-      "img": "gob1n",
-      "ahId": "1wtvp"
     }
   ],
-  "updatedAt": "2026-07-15T18:02:49.817Z",
+  "updatedAt": "2026-07-15T20:05:07.713Z",
   "source": "github-actions",
   "count": 69
 }
