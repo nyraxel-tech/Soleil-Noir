@@ -4,7 +4,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 8,
-      "ago": "3h",
+      "ago": "6h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -12,7 +12,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 3,
-      "ago": "13h",
+      "ago": "16h",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -20,7 +20,7 @@
       "titre": "Smoking Behind the Supermarket with You",
       "titreJp": "Super no Ura de Yani Suu Futari",
       "ep": 2,
-      "ago": "13h",
+      "ago": "16h",
       "img": "z18pc",
       "ahId": "gnv5p"
     },
@@ -28,7 +28,7 @@
       "titre": "Kaiju Girl Caramelise",
       "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
       "ep": 3,
-      "ago": "14h",
+      "ago": "17h",
       "img": "gtz8g",
       "ahId": "wfsth"
     },
@@ -36,7 +36,7 @@
       "titre": "Chainsmoker Cat",
       "titreJp": "Yani Neko",
       "ep": 3,
-      "ago": "14h",
+      "ago": "17h",
       "img": "r45h0",
       "ahId": "6hqka"
     },
@@ -44,7 +44,7 @@
       "titre": "Mebius Dust",
       "titreJp": "",
       "ep": 2,
-      "ago": "16h",
+      "ago": "19h",
       "img": "02htn",
       "ahId": "yv7me"
     },
@@ -52,7 +52,7 @@
       "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
       "ep": 4,
-      "ago": "16h",
+      "ago": "19h",
       "img": "cy9ca",
       "ahId": "ultkb"
     },
@@ -60,7 +60,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 5,
-      "ago": "17h",
+      "ago": "20h",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -68,7 +68,7 @@
       "titre": "Bungo Stray Dogs Wan! 2",
       "titreJp": "",
       "ep": 3,
-      "ago": "19h",
+      "ago": "21h",
       "img": "gob1n",
       "ahId": "1wtvp"
     },
@@ -76,7 +76,7 @@
       "titre": "Dara-san of Reiwa",
       "titreJp": "Reiwa no Dara-san",
       "ep": 3,
-      "ago": "19h",
+      "ago": "22h",
       "img": "bkz60",
       "ahId": "59rhi"
     },
@@ -380,7 +380,7 @@
       "titre": "Iron Wok Jan!",
       "titreJp": "Tetsunabe no Jan!",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "5yj1u",
       "ahId": "3l7kl"
     },
@@ -388,7 +388,7 @@
       "titre": "You and I are Polar Opposites 2nd Season",
       "titreJp": "Seihantai na Kimi to Boku 2nd Season",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "j1ir5",
       "ahId": "th5p2"
     },
@@ -396,7 +396,7 @@
       "titre": "Let's Go Kaikigumi",
       "titreJp": "",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "03516",
       "ahId": "2ydm9"
     },
@@ -500,7 +500,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 15,
-      "ago": "5d",
+      "ago": "6d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -508,7 +508,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 13,
-      "ago": "5d",
+      "ago": "6d",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -553,7 +553,7 @@
       "ahId": "m2zjn"
     }
   ],
-  "updatedAt": "2026-07-17T08:03:48.989Z",
+  "updatedAt": "2026-07-17T10:43:18.501Z",
   "source": "github-actions",
   "count": 69
 }
