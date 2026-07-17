@@ -4,7 +4,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 8,
-      "ago": "6h",
+      "ago": "8h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -12,7 +12,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 3,
-      "ago": "16h",
+      "ago": "17h",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -20,7 +20,7 @@
       "titre": "Smoking Behind the Supermarket with You",
       "titreJp": "Super no Ura de Yani Suu Futari",
       "ep": 2,
-      "ago": "16h",
+      "ago": "17h",
       "img": "z18pc",
       "ahId": "gnv5p"
     },
@@ -28,7 +28,7 @@
       "titre": "Kaiju Girl Caramelise",
       "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
       "ep": 3,
-      "ago": "17h",
+      "ago": "18h",
       "img": "gtz8g",
       "ahId": "wfsth"
     },
@@ -36,7 +36,7 @@
       "titre": "Chainsmoker Cat",
       "titreJp": "Yani Neko",
       "ep": 3,
-      "ago": "17h",
+      "ago": "19h",
       "img": "r45h0",
       "ahId": "6hqka"
     },
@@ -44,7 +44,7 @@
       "titre": "Mebius Dust",
       "titreJp": "",
       "ep": 2,
-      "ago": "19h",
+      "ago": "20h",
       "img": "02htn",
       "ahId": "yv7me"
     },
@@ -52,7 +52,7 @@
       "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
       "ep": 4,
-      "ago": "19h",
+      "ago": "20h",
       "img": "cy9ca",
       "ahId": "ultkb"
     },
@@ -60,7 +60,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 5,
-      "ago": "20h",
+      "ago": "21h",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -68,7 +68,7 @@
       "titre": "Bungo Stray Dogs Wan! 2",
       "titreJp": "",
       "ep": 3,
-      "ago": "21h",
+      "ago": "23h",
       "img": "gob1n",
       "ahId": "1wtvp"
     },
@@ -76,7 +76,7 @@
       "titre": "Dara-san of Reiwa",
       "titreJp": "Reiwa no Dara-san",
       "ep": 3,
-      "ago": "22h",
+      "ago": "23h",
       "img": "bkz60",
       "ahId": "59rhi"
     },
@@ -220,7 +220,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 2,
-      "ago": "2d",
+      "ago": "3d",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -492,7 +492,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1206,
-      "ago": "5d",
+      "ago": "6d",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -553,7 +553,7 @@
       "ahId": "m2zjn"
     }
   ],
-  "updatedAt": "2026-07-17T10:43:18.501Z",
+  "updatedAt": "2026-07-17T12:05:53.695Z",
   "source": "github-actions",
   "count": 69
 }
