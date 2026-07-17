@@ -4,7 +4,7 @@
       "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
       "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
       "ep": 3,
-      "ago": "3h",
+      "ago": "5h",
       "img": "c5wg4",
       "ahId": "vnlfg"
     },
@@ -12,7 +12,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 3,
-      "ago": "3h",
+      "ago": "5h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -20,7 +20,7 @@
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 3,
-      "ago": "3h",
+      "ago": "5h",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -28,7 +28,7 @@
       "titre": "The Elusive Samurai 2nd Season",
       "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
       "ep": 1,
-      "ago": "3h",
+      "ago": "5h",
       "img": "xg229",
       "ahId": "8s06m"
     },
@@ -36,7 +36,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 15,
-      "ago": "4h",
+      "ago": "6h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -44,7 +44,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 15,
-      "ago": "4h",
+      "ago": "6h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -52,7 +52,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 3,
-      "ago": "5h",
+      "ago": "7h",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -60,7 +60,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 3,
-      "ago": "6h",
+      "ago": "8h",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -68,7 +68,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 8,
-      "ago": "15h",
+      "ago": "17h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -148,7 +148,7 @@
       "titre": "My Stepmother and Stepsisters Aren’t Wicked",
       "titreJp": "Ibitte Konai Gibo to Gishi",
       "ep": 2,
-      "ago": "1d",
+      "ago": "2d",
       "img": "b8zqi",
       "ahId": "8e1k6"
     },
@@ -220,7 +220,7 @@
       "titre": "The Dangers in My Heart Movie",
       "titreJp": "Boku no Kokoro no Yabai Yatsu  Movie",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "tnocf",
       "ahId": "bnvnu"
     },
@@ -553,7 +553,7 @@
       "ahId": "7tq84"
     }
   ],
-  "updatedAt": "2026-07-17T20:03:10.229Z",
+  "updatedAt": "2026-07-17T21:49:26.419Z",
   "source": "github-actions",
   "count": 69
 }
