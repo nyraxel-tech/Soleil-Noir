@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "MAO",
+      "titreJp": "",
+      "ep": 15,
+      "ago": "1h",
+      "img": "topci",
+      "ahId": "qw2g9"
+    },
+    {
+      "titre": "Magilumiere Co. Ltd. 2nd Season",
+      "titreJp": "Kabushikigaisha Magi-Lumière 2nd Season",
+      "ep": 3,
+      "ago": "1h",
+      "img": "a0m9j",
+      "ahId": "7776o"
+    },
+    {
       "titre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School.",
       "titreJp": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewasuru Koto ni Narimashita",
       "ep": 3,
-      "ago": "1h",
+      "ago": "3h",
       "img": "bprh4",
       "ahId": "n2apg"
     },
@@ -12,7 +28,7 @@
       "titre": "The Ogre's Bride",
       "titreJp": "Oni no Hanayome",
       "ep": 3,
-      "ago": "2h",
+      "ago": "4h",
       "img": "csu03",
       "ahId": "u6fdm"
     },
@@ -20,7 +36,7 @@
       "titre": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
       "titreJp": "&quot;Kimi wo Aisuru Ki wa Nai&quot; to Itta Jiki Koushaku-sama ga nazeka Dekiaishitekimasu",
       "ep": 3,
-      "ago": "2h",
+      "ago": "4h",
       "img": "r5tg3",
       "ahId": "m6wg7"
     },
@@ -28,7 +44,7 @@
       "titre": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
       "titreJp": "",
       "ep": 3,
-      "ago": "2h",
+      "ago": "4h",
       "img": "zpm54",
       "ahId": "zweu6"
     },
@@ -36,7 +52,7 @@
       "titre": "Jaadugar: A Witch in Mongolia",
       "titreJp": "Tenmaku no Jaadugar",
       "ep": 4,
-      "ago": "3h",
+      "ago": "5h",
       "img": "9ihs5",
       "ahId": "t1ey0"
     },
@@ -44,7 +60,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 15,
-      "ago": "3h",
+      "ago": "5h",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -52,7 +68,7 @@
       "titre": "Recommendations from Iwamoto-Senpai",
       "titreJp": "Iwamoto-senpai no Suisen",
       "ep": 3,
-      "ago": "5h",
+      "ago": "7h",
       "img": "gnmlq",
       "ahId": "nn6k9"
     },
@@ -60,7 +76,7 @@
       "titre": "The Cat and the Dragon",
       "titreJp": "Neko to Ryuu",
       "ep": 4,
-      "ago": "6h",
+      "ago": "8h",
       "img": "828yy",
       "ahId": "9zg3f"
     },
@@ -68,7 +84,7 @@
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 3,
-      "ago": "6h",
+      "ago": "8h",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -76,7 +92,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1207,
-      "ago": "8h",
+      "ago": "10h",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -84,7 +100,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 16,
-      "ago": "9h",
+      "ago": "11h",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -92,7 +108,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 14,
-      "ago": "10h",
+      "ago": "12h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -100,7 +116,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 3,
-      "ago": "21h",
+      "ago": "23h",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -252,7 +268,7 @@
       "titre": "My Stepmother and Stepsisters Aren’t Wicked",
       "titreJp": "Ibitte Konai Gibo to Gishi",
       "ep": 2,
-      "ago": "2d",
+      "ago": "3d",
       "img": "b8zqi",
       "ahId": "8e1k6"
     },
@@ -324,7 +340,7 @@
       "titre": "The Dangers in My Heart Movie",
       "titreJp": "Boku no Kokoro no Yabai Yatsu  Movie",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "tnocf",
       "ahId": "bnvnu"
     },
@@ -535,25 +551,9 @@
       "ago": "6d",
       "img": "xtq52",
       "ahId": "atyey"
-    },
-    {
-      "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
-      "titreJp": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
-      "ep": 2,
-      "ago": "6d",
-      "img": "tak3w",
-      "ahId": "y01g1"
-    },
-    {
-      "titre": "Iron Wok Jan!",
-      "titreJp": "Tetsunabe no Jan!",
-      "ep": 2,
-      "ago": "6d",
-      "img": "5yj1u",
-      "ahId": "3l7kl"
     }
   ],
-  "updatedAt": "2026-07-18T20:04:54.044Z",
+  "updatedAt": "2026-07-18T21:46:47.504Z",
   "source": "github-actions",
   "count": 69
 }
