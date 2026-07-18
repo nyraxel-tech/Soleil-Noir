@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "The Ogre's Bride",
+      "titreJp": "Oni no Hanayome",
+      "ep": 3,
+      "ago": "?",
+      "img": "csu03",
+      "ahId": "u6fdm"
+    },
+    {
+      "titre": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
+      "titreJp": "&quot;Kimi wo Aisuru Ki wa Nai&quot; to Itta Jiki Koushaku-sama ga nazeka Dekiaishitekimasu",
+      "ep": 3,
+      "ago": "?",
+      "img": "r5tg3",
+      "ahId": "m6wg7"
+    },
+    {
+      "titre": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
+      "titreJp": "",
+      "ep": 3,
+      "ago": "?",
+      "img": "zpm54",
+      "ahId": "zweu6"
+    },
+    {
       "titre": "Jaadugar: A Witch in Mongolia",
       "titreJp": "Tenmaku no Jaadugar",
       "ep": 4,
-      "ago": "?",
+      "ago": "1h",
       "img": "9ihs5",
       "ahId": "t1ey0"
     },
@@ -12,7 +36,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 15,
-      "ago": "?",
+      "ago": "1h",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -20,7 +44,7 @@
       "titre": "Recommendations from Iwamoto-Senpai",
       "titreJp": "Iwamoto-senpai no Suisen",
       "ep": 3,
-      "ago": "2h",
+      "ago": "3h",
       "img": "gnmlq",
       "ahId": "nn6k9"
     },
@@ -28,7 +52,7 @@
       "titre": "The Cat and the Dragon",
       "titreJp": "Neko to Ryuu",
       "ep": 4,
-      "ago": "3h",
+      "ago": "4h",
       "img": "828yy",
       "ahId": "9zg3f"
     },
@@ -36,7 +60,7 @@
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 3,
-      "ago": "3h",
+      "ago": "4h",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -44,7 +68,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1207,
-      "ago": "5h",
+      "ago": "6h",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -52,7 +76,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 16,
-      "ago": "6h",
+      "ago": "7h",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -60,7 +84,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 14,
-      "ago": "7h",
+      "ago": "8h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -68,7 +92,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 3,
-      "ago": "18h",
+      "ago": "19h",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -164,7 +188,7 @@
       "titre": "Kaiju Girl Caramelise",
       "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
       "ep": 3,
-      "ago": "1d",
+      "ago": "2d",
       "img": "gtz8g",
       "ahId": "wfsth"
     },
@@ -172,7 +196,7 @@
       "titre": "Chainsmoker Cat",
       "titreJp": "Yani Neko",
       "ep": 3,
-      "ago": "1d",
+      "ago": "2d",
       "img": "r45h0",
       "ahId": "6hqka"
     },
@@ -236,7 +260,7 @@
       "titre": "Tomb Raider King",
       "titreJp": "Dogurwang",
       "ep": 2,
-      "ago": "2d",
+      "ago": "3d",
       "img": "1i8dr",
       "ahId": "7p85t"
     },
@@ -300,7 +324,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 2,
-      "ago": "3d",
+      "ago": "4d",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -527,41 +551,9 @@
       "ago": "6d",
       "img": "j1ir5",
       "ahId": "th5p2"
-    },
-    {
-      "titre": "Let's Go Kaikigumi",
-      "titreJp": "",
-      "ep": 2,
-      "ago": "6d",
-      "img": "03516",
-      "ahId": "2ydm9"
-    },
-    {
-      "titre": "Digimon Beatbreak",
-      "titreJp": "",
-      "ep": 38,
-      "ago": "6d",
-      "img": "88ts8",
-      "ahId": "kqa66"
-    },
-    {
-      "titre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School.",
-      "titreJp": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewasuru Koto ni Narimashita",
-      "ep": 2,
-      "ago": "6d",
-      "img": "bprh4",
-      "ahId": "n2apg"
-    },
-    {
-      "titre": "Magilumiere Co. Ltd. 2nd Season",
-      "titreJp": "Kabushikigaisha Magi-Lumière 2nd Season",
-      "ep": 2,
-      "ago": "6d",
-      "img": "a0m9j",
-      "ahId": "7776o"
     }
   ],
-  "updatedAt": "2026-07-18T16:53:27.871Z",
+  "updatedAt": "2026-07-18T17:53:43.628Z",
   "source": "github-actions",
-  "count": 70
+  "count": 69
 }
