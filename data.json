@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Detective Conan",
+      "titreJp": "Case Closed, Meitantei Conan",
+      "ep": 1207,
+      "ago": "?",
+      "img": "lx86z",
+      "ahId": "y9prb"
+    },
+    {
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 16,
-      "ago": "?",
+      "ago": "1h",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -12,7 +20,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 14,
-      "ago": "1h",
+      "ago": "2h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -20,7 +28,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 3,
-      "ago": "12h",
+      "ago": "13h",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -28,7 +36,7 @@
       "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
       "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
       "ep": 3,
-      "ago": "18h",
+      "ago": "19h",
       "img": "c5wg4",
       "ahId": "vnlfg"
     },
@@ -36,7 +44,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 3,
-      "ago": "18h",
+      "ago": "19h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -44,7 +52,7 @@
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 3,
-      "ago": "18h",
+      "ago": "19h",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -52,7 +60,7 @@
       "titre": "The Elusive Samurai 2nd Season",
       "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
       "ep": 1,
-      "ago": "18h",
+      "ago": "19h",
       "img": "xg229",
       "ahId": "8s06m"
     },
@@ -60,7 +68,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 15,
-      "ago": "19h",
+      "ago": "20h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -68,7 +76,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 15,
-      "ago": "19h",
+      "ago": "20h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -76,7 +84,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 3,
-      "ago": "20h",
+      "ago": "21h",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -84,7 +92,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 3,
-      "ago": "21h",
+      "ago": "22h",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -308,7 +316,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 2,
-      "ago": "3d",
+      "ago": "4d",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -553,7 +561,7 @@
       "ahId": "t1ey0"
     }
   ],
-  "updatedAt": "2026-07-18T10:59:28.552Z",
+  "updatedAt": "2026-07-18T11:58:37.611Z",
   "source": "github-actions",
-  "count": 69
+  "count": 70
 }
