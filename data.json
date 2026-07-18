@@ -4,7 +4,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 3,
-      "ago": "9h",
+      "ago": "10h",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -12,7 +12,7 @@
       "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
       "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
       "ep": 3,
-      "ago": "14h",
+      "ago": "16h",
       "img": "c5wg4",
       "ahId": "vnlfg"
     },
@@ -20,7 +20,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 3,
-      "ago": "15h",
+      "ago": "16h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -28,7 +28,7 @@
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 3,
-      "ago": "15h",
+      "ago": "17h",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -36,7 +36,7 @@
       "titre": "The Elusive Samurai 2nd Season",
       "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
       "ep": 1,
-      "ago": "15h",
+      "ago": "17h",
       "img": "xg229",
       "ahId": "8s06m"
     },
@@ -44,7 +44,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 15,
-      "ago": "16h",
+      "ago": "17h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -52,7 +52,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 15,
-      "ago": "16h",
+      "ago": "18h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -60,7 +60,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 3,
-      "ago": "17h",
+      "ago": "19h",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -68,7 +68,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 3,
-      "ago": "18h",
+      "ago": "19h",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -452,7 +452,7 @@
       "titre": "Iron Wok Jan!",
       "titreJp": "Tetsunabe no Jan!",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "5yj1u",
       "ahId": "3l7kl"
     },
@@ -460,7 +460,7 @@
       "titre": "You and I are Polar Opposites 2nd Season",
       "titreJp": "Seihantai na Kimi to Boku 2nd Season",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "j1ir5",
       "ahId": "th5p2"
     },
@@ -468,7 +468,7 @@
       "titre": "Let's Go Kaikigumi",
       "titreJp": "",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "03516",
       "ahId": "2ydm9"
     },
@@ -553,7 +553,7 @@
       "ahId": "9zg3f"
     }
   ],
-  "updatedAt": "2026-07-18T07:43:03.242Z",
+  "updatedAt": "2026-07-18T09:20:32.842Z",
   "source": "github-actions",
   "count": 69
 }
