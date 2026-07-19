@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Pokemon Horizons: The Series",
+      "titreJp": "Pocket Monsters (2023)",
+      "ep": 143,
+      "ago": "?",
+      "img": "9fsft",
+      "ahId": "9v661"
+    },
+    {
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1170,
-      "ago": "?",
+      "ago": "2h",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -12,7 +20,7 @@
       "titre": "Azur Lane: Slow Ahead! 2nd Season",
       "titreJp": "Azur Lane: Bisoku Zenshin! 2nd Season",
       "ep": 3,
-      "ago": "1h",
+      "ago": "2h",
       "img": "8j4y6",
       "ahId": "marhn"
     },
@@ -20,7 +28,7 @@
       "titre": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
       "titreJp": "Futsutsuka na Akujo de wa Gozaimasu ga: Hina Miya Chou Nezumi Torikaeden",
       "ep": 2,
-      "ago": "2h",
+      "ago": "3h",
       "img": "0jvwd",
       "ahId": "f7d85"
     },
@@ -28,7 +36,7 @@
       "titre": "Goodbye, Lara",
       "titreJp": "Sayonara Lara",
       "ep": 3,
-      "ago": "2h",
+      "ago": "3h",
       "img": "c5pih",
       "ahId": "f76b2"
     },
@@ -36,7 +44,7 @@
       "titre": "Mushoku Tensei: Jobless Reincarnation 3rd Season",
       "titreJp": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
       "ep": 4,
-      "ago": "2h",
+      "ago": "3h",
       "img": "b1dg7",
       "ahId": "sfvog"
     },
@@ -44,7 +52,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 15,
-      "ago": "2h",
+      "ago": "3h",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -52,7 +60,7 @@
       "titre": "Sparks of Tomorrow",
       "titreJp": "Nijusseiki Denki Mokuroku: Eureka Evrika, 20 Seiki Denki Mokuroku: Eureka Evrika",
       "ep": 3,
-      "ago": "3h",
+      "ago": "4h",
       "img": "2e371",
       "ahId": "1wghj"
     },
@@ -60,7 +68,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 3,
-      "ago": "3h",
+      "ago": "4h",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -68,7 +76,7 @@
       "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
       "titreJp": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
       "ep": 3,
-      "ago": "4h",
+      "ago": "5h",
       "img": "tak3w",
       "ahId": "y01g1"
     },
@@ -76,7 +84,7 @@
       "titre": "Iron Wok Jan!",
       "titreJp": "Tetsunabe no Jan!",
       "ep": 3,
-      "ago": "8h",
+      "ago": "9h",
       "img": "5yj1u",
       "ahId": "3l7kl"
     },
@@ -84,7 +92,7 @@
       "titre": "You and I are Polar Opposites 2nd Season",
       "titreJp": "Seihantai na Kimi to Boku 2nd Season",
       "ep": 3,
-      "ago": "9h",
+      "ago": "10h",
       "img": "j1ir5",
       "ahId": "th5p2"
     },
@@ -92,7 +100,7 @@
       "titre": "Let's Go Kaikigumi",
       "titreJp": "",
       "ep": 3,
-      "ago": "9h",
+      "ago": "10h",
       "img": "03516",
       "ahId": "2ydm9"
     },
@@ -100,7 +108,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 39,
-      "ago": "14h",
+      "ago": "15h",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -108,7 +116,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 16,
-      "ago": "17h",
+      "ago": "18h",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -116,7 +124,7 @@
       "titre": "Magilumiere Co. Ltd. 2nd Season",
       "titreJp": "Kabushikigaisha Magi-Lumière 2nd Season",
       "ep": 3,
-      "ago": "21h",
+      "ago": "22h",
       "img": "a0m9j",
       "ahId": "7776o"
     },
@@ -124,7 +132,7 @@
       "titre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School.",
       "titreJp": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewasuru Koto ni Narimashita",
       "ep": 3,
-      "ago": "23h",
+      "ago": "1d",
       "img": "bprh4",
       "ahId": "n2apg"
     },
@@ -300,7 +308,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -308,7 +316,7 @@
       "titre": "Smoking Behind the Supermarket with You",
       "titreJp": "Super no Ura de Yani Suu Futari",
       "ep": 2,
-      "ago": "2d",
+      "ago": "3d",
       "img": "z18pc",
       "ahId": "gnv5p"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "0vaar",
       "ahId": "x2njz"
-    },
-    {
-      "titre": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
-      "titreJp": "Buchikire Reijou wa Houfuku wo Chikai Mashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
-      "ep": 2,
-      "ago": "6d",
-      "img": "s5q25",
-      "ahId": "o0cpo"
     }
   ],
-  "updatedAt": "2026-07-19T17:55:31.643Z",
+  "updatedAt": "2026-07-19T19:02:22.641Z",
   "source": "github-actions",
   "count": 69
 }
