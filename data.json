@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "Liar Game",
+      "titreJp": "",
+      "ep": 16,
+      "ago": "1h",
+      "img": "csbrl",
+      "ahId": "l3kxg"
+    },
+    {
+      "titre": "Grand Blue Season 3",
+      "titreJp": "Grand Blue Dreaming Season 3",
+      "ep": 3,
+      "ago": "2h",
+      "img": "o5w0q",
+      "ahId": "gwokm"
+    },
+    {
+      "titre": "Oh Boy, Was I Wrong About Her",
+      "titreJp": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
+      "ep": 3,
+      "ago": "2h",
+      "img": "vse6w",
+      "ahId": "7e6hd"
+    },
+    {
       "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
       "titreJp": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
       "ep": 3,
-      "ago": "?",
+      "ago": "3h",
       "img": "0vaar",
       "ahId": "x2njz"
     },
@@ -12,7 +36,7 @@
       "titre": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
       "titreJp": "Buchikire Reijou wa Houfuku wo Chikai Mashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
       "ep": 3,
-      "ago": "?",
+      "ago": "3h",
       "img": "s5q25",
       "ahId": "o0cpo"
     },
@@ -20,7 +44,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 4,
-      "ago": "1h",
+      "ago": "4h",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -28,7 +52,7 @@
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 3,
-      "ago": "1h",
+      "ago": "4h",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -36,7 +60,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 3,
-      "ago": "2h",
+      "ago": "4h",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -44,7 +68,7 @@
       "titre": "Love Unseen Beneath the Clear Night Sky",
       "titreJp": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "ep": 3,
-      "ago": "2h",
+      "ago": "5h",
       "img": "2qfc1",
       "ahId": "fn31g"
     },
@@ -52,7 +76,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 143,
-      "ago": "21h",
+      "ago": "23h",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -60,7 +84,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1170,
-      "ago": "22h",
+      "ago": "1d",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -68,7 +92,7 @@
       "titre": "Azur Lane: Slow Ahead! 2nd Season",
       "titreJp": "Azur Lane: Bisoku Zenshin! 2nd Season",
       "ep": 3,
-      "ago": "22h",
+      "ago": "1d",
       "img": "8j4y6",
       "ahId": "marhn"
     },
@@ -76,7 +100,7 @@
       "titre": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
       "titreJp": "Futsutsuka na Akujo de wa Gozaimasu ga: Hina Miya Chou Nezumi Torikaeden",
       "ep": 2,
-      "ago": "23h",
+      "ago": "1d",
       "img": "0jvwd",
       "ahId": "f7d85"
     },
@@ -84,7 +108,7 @@
       "titre": "Goodbye, Lara",
       "titreJp": "Sayonara Lara",
       "ep": 3,
-      "ago": "23h",
+      "ago": "1d",
       "img": "c5pih",
       "ahId": "f76b2"
     },
@@ -92,7 +116,7 @@
       "titre": "Mushoku Tensei: Jobless Reincarnation 3rd Season",
       "titreJp": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
       "ep": 4,
-      "ago": "23h",
+      "ago": "1d",
       "img": "b1dg7",
       "ahId": "sfvog"
     },
@@ -100,7 +124,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 15,
-      "ago": "23h",
+      "ago": "1d",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -188,7 +212,7 @@
       "titre": "The Ogre's Bride",
       "titreJp": "Oni no Hanayome",
       "ep": 3,
-      "ago": "1d",
+      "ago": "2d",
       "img": "csu03",
       "ahId": "u6fdm"
     },
@@ -196,7 +220,7 @@
       "titre": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
       "titreJp": "&quot;Kimi wo Aisuru Ki wa Nai&quot; to Itta Jiki Koushaku-sama ga nazeka Dekiaishitekimasu",
       "ep": 3,
-      "ago": "1d",
+      "ago": "2d",
       "img": "r5tg3",
       "ahId": "m6wg7"
     },
@@ -204,7 +228,7 @@
       "titre": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
       "titreJp": "",
       "ep": 3,
-      "ago": "1d",
+      "ago": "2d",
       "img": "zpm54",
       "ahId": "zweu6"
     },
@@ -212,7 +236,7 @@
       "titre": "Jaadugar: A Witch in Mongolia",
       "titreJp": "Tenmaku no Jaadugar",
       "ep": 4,
-      "ago": "1d",
+      "ago": "2d",
       "img": "9ihs5",
       "ahId": "t1ey0"
     },
@@ -220,7 +244,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 15,
-      "ago": "1d",
+      "ago": "2d",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -284,7 +308,7 @@
       "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
       "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "c5wg4",
       "ahId": "vnlfg"
     },
@@ -292,7 +316,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -300,7 +324,7 @@
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -308,7 +332,7 @@
       "titre": "The Elusive Samurai 2nd Season",
       "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "xg229",
       "ahId": "8s06m"
     },
@@ -316,7 +340,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 15,
-      "ago": "2d",
+      "ago": "3d",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -324,7 +348,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 15,
-      "ago": "2d",
+      "ago": "3d",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -372,7 +396,7 @@
       "titre": "Kaiju Girl Caramelise",
       "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
       "ep": 3,
-      "ago": "3d",
+      "ago": "4d",
       "img": "gtz8g",
       "ahId": "wfsth"
     },
@@ -380,7 +404,7 @@
       "titre": "Chainsmoker Cat",
       "titreJp": "Yani Neko",
       "ep": 3,
-      "ago": "3d",
+      "ago": "4d",
       "img": "r45h0",
       "ahId": "6hqka"
     },
@@ -388,7 +412,7 @@
       "titre": "Mebius Dust",
       "titreJp": "",
       "ep": 2,
-      "ago": "3d",
+      "ago": "4d",
       "img": "02htn",
       "ahId": "yv7me"
     },
@@ -396,7 +420,7 @@
       "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
       "ep": 4,
-      "ago": "3d",
+      "ago": "4d",
       "img": "cy9ca",
       "ahId": "ultkb"
     },
@@ -444,7 +468,7 @@
       "titre": "Tomb Raider King",
       "titreJp": "Dogurwang",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "1i8dr",
       "ahId": "7p85t"
     },
@@ -452,7 +476,7 @@
       "titre": "The Villager of LV999",
       "titreJp": "LV999 no Murabito",
       "ep": 4,
-      "ago": "4d",
+      "ago": "5d",
       "img": "7vqbp",
       "ahId": "mucnh"
     },
@@ -460,7 +484,7 @@
       "titre": "Hana-Kimi Season 2",
       "titreJp": "Hanazakari no Kimi-tachi e Season 2",
       "ep": 4,
-      "ago": "4d",
+      "ago": "5d",
       "img": "yzbv7",
       "ahId": "s3cd7"
     },
@@ -468,7 +492,7 @@
       "titre": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2nd Season",
       "titreJp": "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2nd Season",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "l7tno",
       "ahId": "6rmgo"
     },
@@ -508,7 +532,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -516,7 +540,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -524,36 +548,12 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "zwc02",
       "ahId": "lckgk"
-    },
-    {
-      "titre": "The Ghost in the Shell",
-      "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
-      "ep": 2,
-      "ago": "6d",
-      "img": "8vo2j",
-      "ahId": "nqbd0"
-    },
-    {
-      "titre": "The Oblivious Saint Can't Contain Her Power",
-      "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
-      "ep": 3,
-      "ago": "6d",
-      "img": "fctsy",
-      "ahId": "mvh9u"
-    },
-    {
-      "titre": "Flaming Dodgeball Girl Danko",
-      "titreJp": "Honoo no Toukyuujo: Dodge Danko",
-      "ep": 2,
-      "ago": "6d",
-      "img": "t7nlu",
-      "ahId": "usbqy"
     }
   ],
-  "updatedAt": "2026-07-20T15:08:39.979Z",
+  "updatedAt": "2026-07-20T17:57:51.304Z",
   "source": "github-actions",
   "count": 69
 }
