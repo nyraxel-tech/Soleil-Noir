@@ -4,7 +4,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 3,
-      "ago": "1h",
+      "ago": "3h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -12,7 +12,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 3,
-      "ago": "3h",
+      "ago": "5h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -20,7 +20,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 3,
-      "ago": "4h",
+      "ago": "5h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -28,7 +28,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 3,
-      "ago": "4h",
+      "ago": "6h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -36,7 +36,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 4,
-      "ago": "5h",
+      "ago": "7h",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -44,7 +44,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 3,
-      "ago": "6h",
+      "ago": "8h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -52,7 +52,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 3,
-      "ago": "6h",
+      "ago": "8h",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -60,7 +60,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 3,
-      "ago": "7h",
+      "ago": "9h",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -68,7 +68,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 9,
-      "ago": "15h",
+      "ago": "16h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -268,7 +268,7 @@
       "titre": "Magilumiere Co. Ltd. 2nd Season",
       "titreJp": "Kabushikigaisha Magi-Lumière 2nd Season",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "a0m9j",
       "ahId": "7776o"
     },
@@ -516,7 +516,7 @@
       "titre": "My Stepmother and Stepsisters Aren’t Wicked",
       "titreJp": "Ibitte Konai Gibo to Gishi",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "b8zqi",
       "ahId": "8e1k6"
     },
@@ -524,7 +524,7 @@
       "titre": "From Old Country Bumpkin to Master Swordsman Season 2",
       "titreJp": "Katainaka no Ossan, Kensei ni Naru II",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "8yx8x",
       "ahId": "hoi3i"
     },
@@ -553,7 +553,7 @@
       "ahId": "s3cd7"
     }
   ],
-  "updatedAt": "2026-07-21T19:15:33.441Z",
+  "updatedAt": "2026-07-21T21:04:12.031Z",
   "source": "github-actions",
   "count": 69
 }
