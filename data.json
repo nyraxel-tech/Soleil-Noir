@@ -4,7 +4,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 3,
-      "ago": "5h",
+      "ago": "6h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -12,7 +12,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 3,
-      "ago": "7h",
+      "ago": "8h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -20,7 +20,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 3,
-      "ago": "7h",
+      "ago": "8h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -28,7 +28,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 3,
-      "ago": "7h",
+      "ago": "8h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -36,7 +36,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 4,
-      "ago": "9h",
+      "ago": "10h",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -44,7 +44,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 3,
-      "ago": "10h",
+      "ago": "11h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -52,7 +52,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 3,
-      "ago": "10h",
+      "ago": "11h",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -60,7 +60,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 3,
-      "ago": "11h",
+      "ago": "12h",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -68,7 +68,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 9,
-      "ago": "18h",
+      "ago": "19h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -553,7 +553,7 @@
       "ahId": "s3cd7"
     }
   ],
-  "updatedAt": "2026-07-21T22:52:37.289Z",
+  "updatedAt": "2026-07-21T23:53:23.138Z",
   "source": "github-actions",
   "count": 69
 }
