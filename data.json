@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "Flaming Dodgeball Girl Danko",
+      "titreJp": "Honoo no Toukyuujo: Dodge Danko",
+      "ep": 3,
+      "ago": "?",
+      "img": "t7nlu",
+      "ahId": "usbqy"
+    },
+    {
+      "titre": "I Want to Love You Till Your Dying Day",
+      "titreJp": "Kimi ga Shinu made Koi wo Shitai",
+      "ep": 3,
+      "ago": "1h",
+      "img": "5kivb",
+      "ahId": "f6u2m"
+    },
+    {
+      "titre": "Young Ladies Don't Play Fighting Games",
+      "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
+      "ep": 3,
+      "ago": "2h",
+      "img": "q69uk",
+      "ahId": "vgurt"
+    },
+    {
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 9,
-      "ago": "7h",
+      "ago": "9h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -12,7 +36,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 16,
-      "ago": "18h",
+      "ago": "21h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -20,7 +44,7 @@
       "titre": "Grand Blue Season 3",
       "titreJp": "Grand Blue Dreaming Season 3",
       "ep": 3,
-      "ago": "19h",
+      "ago": "22h",
       "img": "o5w0q",
       "ahId": "gwokm"
     },
@@ -28,7 +52,7 @@
       "titre": "Oh Boy, Was I Wrong About Her",
       "titreJp": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
       "ep": 3,
-      "ago": "19h",
+      "ago": "22h",
       "img": "vse6w",
       "ahId": "7e6hd"
     },
@@ -36,7 +60,7 @@
       "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
       "titreJp": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
       "ep": 3,
-      "ago": "20h",
+      "ago": "22h",
       "img": "0vaar",
       "ahId": "x2njz"
     },
@@ -44,7 +68,7 @@
       "titre": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
       "titreJp": "Buchikire Reijou wa Houfuku wo Chikai Mashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
       "ep": 3,
-      "ago": "20h",
+      "ago": "22h",
       "img": "s5q25",
       "ahId": "o0cpo"
     },
@@ -52,7 +76,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 4,
-      "ago": "21h",
+      "ago": "23h",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -60,7 +84,7 @@
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 3,
-      "ago": "21h",
+      "ago": "1d",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -68,7 +92,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 3,
-      "ago": "21h",
+      "ago": "1d",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -76,7 +100,7 @@
       "titre": "Love Unseen Beneath the Clear Night Sky",
       "titreJp": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "ep": 3,
-      "ago": "22h",
+      "ago": "1d",
       "img": "2qfc1",
       "ahId": "fn31g"
     },
@@ -156,7 +180,7 @@
       "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
       "titreJp": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
       "ep": 3,
-      "ago": "1d",
+      "ago": "2d",
       "img": "tak3w",
       "ahId": "y01g1"
     },
@@ -268,7 +292,7 @@
       "titre": "The Cat and the Dragon",
       "titreJp": "Neko to Ryuu",
       "ep": 4,
-      "ago": "2d",
+      "ago": "3d",
       "img": "828yy",
       "ahId": "9zg3f"
     },
@@ -276,7 +300,7 @@
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -284,7 +308,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1207,
-      "ago": "2d",
+      "ago": "3d",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -372,7 +396,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 3,
-      "ago": "3d",
+      "ago": "4d",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -436,7 +460,7 @@
       "titre": "Bungo Stray Dogs Wan! 2",
       "titreJp": "",
       "ep": 3,
-      "ago": "4d",
+      "ago": "5d",
       "img": "gob1n",
       "ahId": "1wtvp"
     },
@@ -444,7 +468,7 @@
       "titre": "Dara-san of Reiwa",
       "titreJp": "Reiwa no Dara-san",
       "ep": 3,
-      "ago": "4d",
+      "ago": "5d",
       "img": "bkz60",
       "ahId": "59rhi"
     },
@@ -508,7 +532,7 @@
       "titre": "Saga of Tanya the Evil II",
       "titreJp": "",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "wr5w2",
       "ahId": "jrus1"
     },
@@ -516,7 +540,7 @@
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -527,33 +551,9 @@
       "ago": "6d",
       "img": "tnocf",
       "ahId": "bnvnu"
-    },
-    {
-      "titre": "Red River",
-      "titreJp": "Sora wa Akai Kawa no Hotori",
-      "ep": 2,
-      "ago": "6d",
-      "img": "zh355",
-      "ahId": "x48y1"
-    },
-    {
-      "titre": "Yoroi-Shinden Samurai Troopers - Part II",
-      "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
-      "ep": 2,
-      "ago": "6d",
-      "img": "pnulh",
-      "ahId": "2oq0n"
-    },
-    {
-      "titre": "Victoria of Many Faces",
-      "titreJp": "Tefuda ga Oume no Victoria",
-      "ep": 2,
-      "ago": "6d",
-      "img": "zwc02",
-      "ahId": "lckgk"
     }
   ],
-  "updatedAt": "2026-07-21T11:05:05.676Z",
+  "updatedAt": "2026-07-21T13:40:27.412Z",
   "source": "github-actions",
   "count": 69
 }
