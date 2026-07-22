@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
+      "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
+      "ep": 5,
+      "ago": "?",
+      "img": "ycs89",
+      "ahId": "q3n2b"
+    },
+    {
       "titre": "Saga of Tanya the Evil II",
       "titreJp": "",
       "ep": 3,
-      "ago": "?",
+      "ago": "1h",
       "img": "wr5w2",
       "ahId": "jrus1"
     },
@@ -12,7 +20,7 @@
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 3,
-      "ago": "1h",
+      "ago": "3h",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -20,7 +28,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 3,
-      "ago": "19h",
+      "ago": "21h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -28,7 +36,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 3,
-      "ago": "22h",
+      "ago": "1d",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -36,7 +44,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 3,
-      "ago": "22h",
+      "ago": "1d",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -44,7 +52,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 3,
-      "ago": "22h",
+      "ago": "1d",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -108,7 +116,7 @@
       "titre": "Oh Boy, Was I Wrong About Her",
       "titreJp": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
       "ep": 3,
-      "ago": "1d",
+      "ago": "2d",
       "img": "vse6w",
       "ahId": "7e6hd"
     },
@@ -116,7 +124,7 @@
       "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
       "titreJp": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
       "ep": 3,
-      "ago": "1d",
+      "ago": "2d",
       "img": "0vaar",
       "ahId": "x2njz"
     },
@@ -124,7 +132,7 @@
       "titre": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
       "titreJp": "Buchikire Reijou wa Houfuku wo Chikai Mashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
       "ep": 3,
-      "ago": "1d",
+      "ago": "2d",
       "img": "s5q25",
       "ahId": "o0cpo"
     },
@@ -204,7 +212,7 @@
       "titre": "Mushoku Tensei: Jobless Reincarnation 3rd Season",
       "titreJp": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
       "ep": 4,
-      "ago": "2d",
+      "ago": "3d",
       "img": "b1dg7",
       "ahId": "sfvog"
     },
@@ -212,7 +220,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 15,
-      "ago": "2d",
+      "ago": "3d",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -220,7 +228,7 @@
       "titre": "Sparks of Tomorrow",
       "titreJp": "Nijusseiki Denki Mokuroku: Eureka Evrika, 20 Seiki Denki Mokuroku: Eureka Evrika",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "2e371",
       "ahId": "1wghj"
     },
@@ -228,7 +236,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -340,7 +348,7 @@
       "titre": "Recommendations from Iwamoto-Senpai",
       "titreJp": "Iwamoto-senpai no Suisen",
       "ep": 3,
-      "ago": "3d",
+      "ago": "4d",
       "img": "gnmlq",
       "ahId": "nn6k9"
     },
@@ -436,7 +444,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 15,
-      "ago": "4d",
+      "ago": "5d",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -444,7 +452,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 3,
-      "ago": "4d",
+      "ago": "5d",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -492,7 +500,7 @@
       "titre": "Mebius Dust",
       "titreJp": "",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "02htn",
       "ahId": "yv7me"
     },
@@ -500,7 +508,7 @@
       "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
       "ep": 4,
-      "ago": "5d",
+      "ago": "6d",
       "img": "cy9ca",
       "ahId": "ultkb"
     },
@@ -508,7 +516,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 5,
-      "ago": "5d",
+      "ago": "6d",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "8yx8x",
       "ahId": "hoi3i"
-    },
-    {
-      "titre": "Tomb Raider King",
-      "titreJp": "Dogurwang",
-      "ep": 2,
-      "ago": "6d",
-      "img": "1i8dr",
-      "ahId": "7p85t"
     }
   ],
-  "updatedAt": "2026-07-22T13:43:30.829Z",
+  "updatedAt": "2026-07-22T15:37:36.205Z",
   "source": "github-actions",
   "count": 69
 }
