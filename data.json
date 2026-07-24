@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Kamui-san Directly Behind You",
+      "titreJp": "Ushirou no Shoumen Kamui-san",
+      "ep": 4,
+      "ago": "1h",
+      "img": "e9nx0",
+      "ahId": "cc9vg"
+    },
+    {
+      "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
+      "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
+      "ep": 4,
+      "ago": "1h",
+      "img": "c5wg4",
+      "ahId": "vnlfg"
+    },
+    {
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 4,
-      "ago": "?",
+      "ago": "2h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -12,7 +28,7 @@
       "titre": "The Elusive Samurai 2nd Season",
       "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
       "ep": 2,
-      "ago": "1h",
+      "ago": "3h",
       "img": "xg229",
       "ahId": "8s06m"
     },
@@ -20,7 +36,7 @@
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 4,
-      "ago": "1h",
+      "ago": "3h",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -28,7 +44,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 16,
-      "ago": "1h",
+      "ago": "3h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -36,7 +52,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 16,
-      "ago": "2h",
+      "ago": "4h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -44,7 +60,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 4,
-      "ago": "3h",
+      "ago": "5h",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -52,7 +68,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 4,
-      "ago": "3h",
+      "ago": "5h",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -60,7 +76,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 10,
-      "ago": "13h",
+      "ago": "15h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -68,7 +84,7 @@
       "titre": "Assassination Classroom the Movie: Our Time",
       "titreJp": "Ansatsu Kyoushitsu: Minna no Jikan",
       "ep": 1,
-      "ago": "16h",
+      "ago": "18h",
       "img": "h8bqn",
       "ahId": "gerj9"
     },
@@ -76,7 +92,7 @@
       "titre": "Smoking Behind the Supermarket with You",
       "titreJp": "Super no Ura de Yani Suu Futari",
       "ep": 3,
-      "ago": "23h",
+      "ago": "1d",
       "img": "z18pc",
       "ahId": "gnv5p"
     },
@@ -84,7 +100,7 @@
       "titre": "Kaiju Girl Caramelise",
       "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
       "ep": 4,
-      "ago": "23h",
+      "ago": "1d",
       "img": "gtz8g",
       "ahId": "wfsth"
     },
@@ -148,7 +164,7 @@
       "titre": "My Stepmother and Stepsisters Aren’t Wicked",
       "titreJp": "Ibitte Konai Gibo to Gishi",
       "ep": 3,
-      "ago": "1d",
+      "ago": "2d",
       "img": "b8zqi",
       "ahId": "8e1k6"
     },
@@ -156,7 +172,7 @@
       "titre": "From Old Country Bumpkin to Master Swordsman Season 2",
       "titreJp": "Katainaka no Ossan, Kensei ni Naru II",
       "ep": 3,
-      "ago": "1d",
+      "ago": "2d",
       "img": "8yx8x",
       "ahId": "hoi3i"
     },
@@ -164,7 +180,7 @@
       "titre": "Tomb Raider King",
       "titreJp": "Dogurwang",
       "ep": 3,
-      "ago": "1d",
+      "ago": "2d",
       "img": "1i8dr",
       "ahId": "7p85t"
     },
@@ -220,7 +236,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -356,7 +372,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 143,
-      "ago": "4d",
+      "ago": "5d",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -484,7 +500,7 @@
       "titre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School.",
       "titreJp": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewasuru Koto ni Narimashita",
       "ep": 3,
-      "ago": "5d",
+      "ago": "6d",
       "img": "bprh4",
       "ahId": "n2apg"
     },
@@ -535,25 +551,9 @@
       "ago": "6d",
       "img": "gnmlq",
       "ahId": "nn6k9"
-    },
-    {
-      "titre": "The Cat and the Dragon",
-      "titreJp": "Neko to Ryuu",
-      "ep": 4,
-      "ago": "6d",
-      "img": "828yy",
-      "ahId": "9zg3f"
-    },
-    {
-      "titre": "Black Torch",
-      "titreJp": "",
-      "ep": 3,
-      "ago": "6d",
-      "img": "xq99f",
-      "ahId": "7tq84"
     }
   ],
-  "updatedAt": "2026-07-24T17:26:11.243Z",
+  "updatedAt": "2026-07-24T19:19:25.840Z",
   "source": "github-actions",
   "count": 69
 }
