@@ -1,18 +1,34 @@
 {
   "animes": [
     {
+      "titre": "That Time I Got Reincarnated as a Slime Season 4",
+      "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
+      "ep": 16,
+      "ago": "?",
+      "img": "pjoyd",
+      "ahId": "aplyf"
+    },
+    {
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
-      "ep": 2,
-      "ago": "3h",
+      "ep": 4,
+      "ago": "1h",
       "img": "atd9e",
       "ahId": "4cpxl"
+    },
+    {
+      "titre": "The Frontier Lord Begins with Zero Subjects",
+      "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
+      "ep": 4,
+      "ago": "1h",
+      "img": "lq61b",
+      "ahId": "wj4jh"
     },
     {
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 10,
-      "ago": "9h",
+      "ago": "11h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -20,7 +36,7 @@
       "titre": "Assassination Classroom the Movie: Our Time",
       "titreJp": "Ansatsu Kyoushitsu: Minna no Jikan",
       "ep": 1,
-      "ago": "12h",
+      "ago": "14h",
       "img": "h8bqn",
       "ahId": "gerj9"
     },
@@ -28,7 +44,7 @@
       "titre": "Smoking Behind the Supermarket with You",
       "titreJp": "Super no Ura de Yani Suu Futari",
       "ep": 3,
-      "ago": "19h",
+      "ago": "21h",
       "img": "z18pc",
       "ahId": "gnv5p"
     },
@@ -36,7 +52,7 @@
       "titre": "Kaiju Girl Caramelise",
       "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
       "ep": 4,
-      "ago": "19h",
+      "ago": "21h",
       "img": "gtz8g",
       "ahId": "wfsth"
     },
@@ -44,7 +60,7 @@
       "titre": "Chainsmoker Cat",
       "titreJp": "Yani Neko",
       "ep": 4,
-      "ago": "20h",
+      "ago": "22h",
       "img": "r45h0",
       "ahId": "6hqka"
     },
@@ -52,7 +68,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 4,
-      "ago": "21h",
+      "ago": "23h",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -60,7 +76,7 @@
       "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
       "ep": 5,
-      "ago": "22h",
+      "ago": "1d",
       "img": "cy9ca",
       "ahId": "ultkb"
     },
@@ -68,7 +84,7 @@
       "titre": "Mebius Dust",
       "titreJp": "",
       "ep": 3,
-      "ago": "22h",
+      "ago": "1d",
       "img": "02htn",
       "ahId": "yv7me"
     },
@@ -76,7 +92,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 6,
-      "ago": "23h",
+      "ago": "1d",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -148,7 +164,7 @@
       "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
       "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
       "ep": 5,
-      "ago": "1d",
+      "ago": "2d",
       "img": "ycs89",
       "ahId": "q3n2b"
     },
@@ -156,7 +172,7 @@
       "titre": "Saga of Tanya the Evil II",
       "titreJp": "",
       "ep": 3,
-      "ago": "1d",
+      "ago": "2d",
       "img": "wr5w2",
       "ahId": "jrus1"
     },
@@ -180,7 +196,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -188,7 +204,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -196,7 +212,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -204,7 +220,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 4,
-      "ago": "2d",
+      "ago": "3d",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -252,7 +268,7 @@
       "titre": "Oh Boy, Was I Wrong About Her",
       "titreJp": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
       "ep": 3,
-      "ago": "3d",
+      "ago": "4d",
       "img": "vse6w",
       "ahId": "7e6hd"
     },
@@ -260,7 +276,7 @@
       "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
       "titreJp": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
       "ep": 3,
-      "ago": "3d",
+      "ago": "4d",
       "img": "0vaar",
       "ahId": "x2njz"
     },
@@ -268,7 +284,7 @@
       "titre": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
       "titreJp": "Buchikire Reijou wa Houfuku wo Chikai Mashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
       "ep": 3,
-      "ago": "3d",
+      "ago": "4d",
       "img": "s5q25",
       "ahId": "o0cpo"
     },
@@ -276,7 +292,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 4,
-      "ago": "3d",
+      "ago": "4d",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -348,7 +364,7 @@
       "titre": "Mushoku Tensei: Jobless Reincarnation 3rd Season",
       "titreJp": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
       "ep": 4,
-      "ago": "4d",
+      "ago": "5d",
       "img": "b1dg7",
       "ahId": "sfvog"
     },
@@ -356,7 +372,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 15,
-      "ago": "4d",
+      "ago": "5d",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -364,7 +380,7 @@
       "titre": "Sparks of Tomorrow",
       "titreJp": "Nijusseiki Denki Mokuroku: Eureka Evrika, 20 Seiki Denki Mokuroku: Eureka Evrika",
       "ep": 3,
-      "ago": "4d",
+      "ago": "5d",
       "img": "2e371",
       "ahId": "1wghj"
     },
@@ -372,7 +388,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 3,
-      "ago": "4d",
+      "ago": "5d",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -484,7 +500,7 @@
       "titre": "Recommendations from Iwamoto-Senpai",
       "titreJp": "Iwamoto-senpai no Suisen",
       "ep": 3,
-      "ago": "5d",
+      "ago": "6d",
       "img": "gnmlq",
       "ahId": "nn6k9"
     },
@@ -492,7 +508,7 @@
       "titre": "The Cat and the Dragon",
       "titreJp": "Neko to Ryuu",
       "ep": 4,
-      "ago": "5d",
+      "ago": "6d",
       "img": "828yy",
       "ahId": "9zg3f"
     },
@@ -535,25 +551,9 @@
       "ago": "6d",
       "img": "e9nx0",
       "ahId": "cc9vg"
-    },
-    {
-      "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
-      "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
-      "ep": 3,
-      "ago": "6d",
-      "img": "c5wg4",
-      "ahId": "vnlfg"
-    },
-    {
-      "titre": "Sorry About My Little Brothers",
-      "titreJp": "Uchi no Otouto-domo ga Sumimasen",
-      "ep": 3,
-      "ago": "6d",
-      "img": "9jn5c",
-      "ahId": "ldpso"
     }
   ],
-  "updatedAt": "2026-07-24T13:28:44.985Z",
+  "updatedAt": "2026-07-24T15:22:39.701Z",
   "source": "github-actions",
   "count": 69
 }
