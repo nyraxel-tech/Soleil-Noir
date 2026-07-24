@@ -4,7 +4,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 3,
-      "ago": "2h",
+      "ago": "5h",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -12,7 +12,7 @@
       "titre": "Smoking Behind the Supermarket with You",
       "titreJp": "Super no Ura de Yani Suu Futari",
       "ep": 3,
-      "ago": "5h",
+      "ago": "8h",
       "img": "z18pc",
       "ahId": "gnv5p"
     },
@@ -20,7 +20,7 @@
       "titre": "Kaiju Girl Caramelise",
       "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
       "ep": 4,
-      "ago": "6h",
+      "ago": "9h",
       "img": "gtz8g",
       "ahId": "wfsth"
     },
@@ -28,7 +28,7 @@
       "titre": "Chainsmoker Cat",
       "titreJp": "Yani Neko",
       "ep": 4,
-      "ago": "6h",
+      "ago": "9h",
       "img": "r45h0",
       "ahId": "6hqka"
     },
@@ -36,7 +36,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 4,
-      "ago": "7h",
+      "ago": "10h",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -44,7 +44,7 @@
       "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
       "ep": 5,
-      "ago": "8h",
+      "ago": "11h",
       "img": "cy9ca",
       "ahId": "ultkb"
     },
@@ -52,7 +52,7 @@
       "titre": "Mebius Dust",
       "titreJp": "",
       "ep": 3,
-      "ago": "8h",
+      "ago": "11h",
       "img": "02htn",
       "ahId": "yv7me"
     },
@@ -60,7 +60,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 6,
-      "ago": "9h",
+      "ago": "12h",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -68,7 +68,7 @@
       "titre": "Bungo Stray Dogs Wan! 2",
       "titreJp": "",
       "ep": 4,
-      "ago": "11h",
+      "ago": "13h",
       "img": "gob1n",
       "ahId": "1wtvp"
     },
@@ -76,7 +76,7 @@
       "titre": "Dara-san of Reiwa",
       "titreJp": "Reiwa no Dara-san",
       "ep": 4,
-      "ago": "11h",
+      "ago": "14h",
       "img": "bkz60",
       "ahId": "59rhi"
     },
@@ -412,7 +412,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 16,
-      "ago": "4d",
+      "ago": "5d",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -553,7 +553,7 @@
       "ahId": "zc42w"
     }
   ],
-  "updatedAt": "2026-07-23T23:56:43.481Z",
+  "updatedAt": "2026-07-24T02:44:03.193Z",
   "source": "github-actions",
   "count": 69
 }
