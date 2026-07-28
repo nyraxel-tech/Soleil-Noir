@@ -4,15 +4,23 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 4,
-      "ago": "?",
+      "ago": "2h",
       "img": "zh355",
       "ahId": "x48y1"
+    },
+    {
+      "titre": "Demon Slayer: Kimetsu no Yaiba Movie - Infinity Castle",
+      "titreJp": "Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai",
+      "ep": 1,
+      "ago": "2h",
+      "img": "7myv4",
+      "ahId": "9rp26"
     },
     {
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 4,
-      "ago": "2h",
+      "ago": "4h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -20,7 +28,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 4,
-      "ago": "2h",
+      "ago": "5h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -28,7 +36,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 4,
-      "ago": "3h",
+      "ago": "5h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -36,7 +44,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 5,
-      "ago": "4h",
+      "ago": "6h",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -44,7 +52,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 4,
-      "ago": "5h",
+      "ago": "7h",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -52,7 +60,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 4,
-      "ago": "6h",
+      "ago": "8h",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -60,7 +68,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 11,
-      "ago": "14h",
+      "ago": "16h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -532,7 +540,7 @@
       "titre": "My Stepmother and Stepsisters Aren’t Wicked",
       "titreJp": "Ibitte Konai Gibo to Gishi",
       "ep": 3,
-      "ago": "5d",
+      "ago": "6d",
       "img": "b8zqi",
       "ahId": "8e1k6"
     },
@@ -540,20 +548,12 @@
       "titre": "From Old Country Bumpkin to Master Swordsman Season 2",
       "titreJp": "Katainaka no Ossan, Kensei ni Naru II",
       "ep": 3,
-      "ago": "5d",
+      "ago": "6d",
       "img": "8yx8x",
       "ahId": "hoi3i"
-    },
-    {
-      "titre": "Tomb Raider King",
-      "titreJp": "Dogurwang",
-      "ep": 3,
-      "ago": "6d",
-      "img": "1i8dr",
-      "ahId": "7p85t"
     }
   ],
-  "updatedAt": "2026-07-28T18:11:19.709Z",
+  "updatedAt": "2026-07-28T20:13:49.497Z",
   "source": "github-actions",
   "count": 69
 }
