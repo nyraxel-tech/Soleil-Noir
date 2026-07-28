@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Young Ladies Don't Play Fighting Games",
+      "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
+      "ep": 4,
+      "ago": "?",
+      "img": "q69uk",
+      "ahId": "vgurt"
+    },
+    {
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 11,
-      "ago": "5h",
+      "ago": "7h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -12,7 +20,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 4,
-      "ago": "15h",
+      "ago": "18h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -20,7 +28,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 17,
-      "ago": "17h",
+      "ago": "19h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -28,7 +36,7 @@
       "titre": "Grand Blue Season 3",
       "titreJp": "Grand Blue Dreaming Season 3",
       "ep": 4,
-      "ago": "17h",
+      "ago": "20h",
       "img": "o5w0q",
       "ahId": "gwokm"
     },
@@ -36,7 +44,7 @@
       "titre": "Oh Boy, Was I Wrong About Her",
       "titreJp": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
       "ep": 4,
-      "ago": "18h",
+      "ago": "20h",
       "img": "vse6w",
       "ahId": "7e6hd"
     },
@@ -44,7 +52,7 @@
       "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
       "titreJp": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
       "ep": 4,
-      "ago": "18h",
+      "ago": "21h",
       "img": "0vaar",
       "ahId": "x2njz"
     },
@@ -52,7 +60,7 @@
       "titre": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
       "titreJp": "Buchikire Reijou wa Houfuku wo Chikai Mashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
       "ep": 4,
-      "ago": "18h",
+      "ago": "21h",
       "img": "s5q25",
       "ahId": "o0cpo"
     },
@@ -60,7 +68,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 5,
-      "ago": "19h",
+      "ago": "22h",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -68,7 +76,7 @@
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 4,
-      "ago": "20h",
+      "ago": "22h",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -76,7 +84,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 4,
-      "ago": "20h",
+      "ago": "22h",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -84,7 +92,7 @@
       "titre": "Love Unseen Beneath the Clear Night Sky",
       "titreJp": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "ep": 4,
-      "ago": "20h",
+      "ago": "23h",
       "img": "2qfc1",
       "ahId": "fn31g"
     },
@@ -300,7 +308,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1208,
-      "ago": "2d",
+      "ago": "3d",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -308,7 +316,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 17,
-      "ago": "2d",
+      "ago": "3d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -316,7 +324,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 15,
-      "ago": "2d",
+      "ago": "3d",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -543,17 +551,9 @@
       "ago": "5d",
       "img": "lz0uu",
       "ahId": "d99rj"
-    },
-    {
-      "titre": "Red River",
-      "titreJp": "Sora wa Akai Kawa no Hotori",
-      "ep": 3,
-      "ago": "6d",
-      "img": "zh355",
-      "ahId": "x48y1"
     }
   ],
-  "updatedAt": "2026-07-28T09:33:26.843Z",
+  "updatedAt": "2026-07-28T11:54:14.474Z",
   "source": "github-actions",
   "count": 69
 }
