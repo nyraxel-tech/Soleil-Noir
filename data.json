@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Sonny Boy",
+      "titreJp": "",
+      "ep": 11,
+      "ago": "?",
+      "img": "2pi7t",
+      "ahId": "jhany"
+    },
+    {
       "titre": "Kaiju Girl Caramelise",
       "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
       "ep": 5,
-      "ago": "1h",
+      "ago": "3h",
       "img": "gtz8g",
       "ahId": "wfsth"
     },
@@ -12,7 +20,7 @@
       "titre": "Chainsmoker Cat",
       "titreJp": "Yani Neko",
       "ep": 5,
-      "ago": "2h",
+      "ago": "4h",
       "img": "r45h0",
       "ahId": "6hqka"
     },
@@ -20,7 +28,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 5,
-      "ago": "3h",
+      "ago": "4h",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -28,7 +36,7 @@
       "titre": "Smoking Behind the Supermarket with You",
       "titreJp": "Super no Ura de Yani Suu Futari",
       "ep": 4,
-      "ago": "3h",
+      "ago": "4h",
       "img": "z18pc",
       "ahId": "gnv5p"
     },
@@ -36,7 +44,7 @@
       "titre": "Mebius Dust",
       "titreJp": "",
       "ep": 4,
-      "ago": "4h",
+      "ago": "5h",
       "img": "02htn",
       "ahId": "yv7me"
     },
@@ -44,7 +52,7 @@
       "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
       "ep": 6,
-      "ago": "4h",
+      "ago": "5h",
       "img": "cy9ca",
       "ahId": "ultkb"
     },
@@ -52,7 +60,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 7,
-      "ago": "5h",
+      "ago": "6h",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -60,7 +68,7 @@
       "titre": "Bungo Stray Dogs Wan! 2",
       "titreJp": "",
       "ep": 5,
-      "ago": "6h",
+      "ago": "8h",
       "img": "gob1n",
       "ahId": "1wtvp"
     },
@@ -68,7 +76,7 @@
       "titre": "Dara-san of Reiwa",
       "titreJp": "Reiwa no Dara-san",
       "ep": 5,
-      "ago": "6h",
+      "ago": "8h",
       "img": "bkz60",
       "ahId": "59rhi"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "c5wg4",
       "ahId": "vnlfg"
-    },
-    {
-      "titre": "Sorry About My Little Brothers",
-      "titreJp": "Uchi no Otouto-domo ga Sumimasen",
-      "ep": 4,
-      "ago": "6d",
-      "img": "9jn5c",
-      "ahId": "ldpso"
     }
   ],
-  "updatedAt": "2026-07-30T19:19:57.950Z",
+  "updatedAt": "2026-07-30T21:04:31.619Z",
   "source": "github-actions",
   "count": 69
 }
