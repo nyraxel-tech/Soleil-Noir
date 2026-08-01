@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School.",
+      "titreJp": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewasuru Koto ni Narimashita",
+      "ep": 5,
+      "ago": "?",
+      "img": "bprh4",
+      "ahId": "n2apg"
+    },
+    {
       "titre": "Magilumiere Co. Ltd. 2nd Season",
       "titreJp": "Kabushikigaisha Magi-Lumière 2nd Season",
       "ep": 5,
-      "ago": "?",
+      "ago": "1h",
       "img": "a0m9j",
       "ahId": "7776o"
     },
@@ -12,7 +20,7 @@
       "titre": "The Ogre's Bride",
       "titreJp": "Oni no Hanayome",
       "ep": 5,
-      "ago": "?",
+      "ago": "1h",
       "img": "csu03",
       "ahId": "u6fdm"
     },
@@ -20,7 +28,7 @@
       "titre": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
       "titreJp": "",
       "ep": 5,
-      "ago": "?",
+      "ago": "1h",
       "img": "zpm54",
       "ahId": "zweu6"
     },
@@ -28,7 +36,7 @@
       "titre": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
       "titreJp": "&quot;Kimi wo Aisuru Ki wa Nai&quot; to Itta Jiki Koushaku-sama ga nazeka Dekiaishitekimasu",
       "ep": 5,
-      "ago": "?",
+      "ago": "1h",
       "img": "r5tg3",
       "ahId": "m6wg7"
     },
@@ -36,7 +44,7 @@
       "titre": "Jaadugar: A Witch in Mongolia",
       "titreJp": "Tenmaku no Jaadugar",
       "ep": 6,
-      "ago": "1h",
+      "ago": "2h",
       "img": "9ihs5",
       "ahId": "t1ey0"
     },
@@ -44,7 +52,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 17,
-      "ago": "1h",
+      "ago": "2h",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -52,7 +60,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 18,
-      "ago": "1h",
+      "ago": "3h",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -60,7 +68,7 @@
       "titre": "Bleach: Thousand-Year Blood War: Part IV - The Calamity",
       "titreJp": "Bleach: Sennen Kessen-hen: Part IV - Wazawai Suzumu-tan",
       "ep": 2,
-      "ago": "3h",
+      "ago": "4h",
       "img": "bd05n",
       "ahId": "07v8r"
     },
@@ -68,7 +76,7 @@
       "titre": "Recommendations from Iwamoto-Senpai",
       "titreJp": "Iwamoto-senpai no Suisen",
       "ep": 5,
-      "ago": "3h",
+      "ago": "4h",
       "img": "gnmlq",
       "ahId": "nn6k9"
     },
@@ -76,7 +84,7 @@
       "titre": "The Cat and the Dragon",
       "titreJp": "Neko to Ryuu",
       "ep": 6,
-      "ago": "4h",
+      "ago": "5h",
       "img": "828yy",
       "ahId": "9zg3f"
     },
@@ -84,7 +92,7 @@
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 5,
-      "ago": "4h",
+      "ago": "5h",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -92,7 +100,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1209,
-      "ago": "6h",
+      "ago": "7h",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -100,7 +108,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 18,
-      "ago": "7h",
+      "ago": "8h",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -108,7 +116,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 16,
-      "ago": "8h",
+      "ago": "9h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -116,7 +124,7 @@
       "titre": "Odd Taxi",
       "titreJp": "",
       "ep": 13,
-      "ago": "19h",
+      "ago": "20h",
       "img": "iyr0i",
       "ahId": "wgpso"
     },
@@ -124,7 +132,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Movie 2: Tears of the Azure Sea",
       "titreJp": "Tensei Shitara Slime Datta Ken Movie 2: Soukai no Namida Hen",
       "ep": 1,
-      "ago": "22h",
+      "ago": "1d",
       "img": "034lt",
       "ahId": "sa311"
     },
@@ -132,7 +140,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 17,
-      "ago": "23h",
+      "ago": "1d",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -140,7 +148,7 @@
       "titre": "The Elusive Samurai 2nd Season",
       "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
       "ep": 3,
-      "ago": "23h",
+      "ago": "1d",
       "img": "xg229",
       "ahId": "8s06m"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "c5pih",
       "ahId": "f76b2"
-    },
-    {
-      "titre": "Mushoku Tensei: Jobless Reincarnation 3rd Season",
-      "titreJp": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
-      "ep": 5,
-      "ago": "6d",
-      "img": "b1dg7",
-      "ahId": "sfvog"
     }
   ],
-  "updatedAt": "2026-08-01T17:57:03.705Z",
+  "updatedAt": "2026-08-01T19:09:33.126Z",
   "source": "github-actions",
   "count": 69
 }
