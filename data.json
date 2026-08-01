@@ -4,7 +4,7 @@
       "titre": "Odd Taxi",
       "titreJp": "",
       "ep": 13,
-      "ago": "1h",
+      "ago": "4h",
       "img": "iyr0i",
       "ahId": "wgpso"
     },
@@ -12,7 +12,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Movie 2: Tears of the Azure Sea",
       "titreJp": "Tensei Shitara Slime Datta Ken Movie 2: Soukai no Namida Hen",
       "ep": 1,
-      "ago": "4h",
+      "ago": "8h",
       "img": "034lt",
       "ahId": "sa311"
     },
@@ -20,7 +20,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 17,
-      "ago": "5h",
+      "ago": "8h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -28,7 +28,7 @@
       "titre": "The Elusive Samurai 2nd Season",
       "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
       "ep": 3,
-      "ago": "5h",
+      "ago": "9h",
       "img": "xg229",
       "ahId": "8s06m"
     },
@@ -36,7 +36,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 5,
-      "ago": "6h",
+      "ago": "10h",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -44,7 +44,7 @@
       "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
       "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
       "ep": 5,
-      "ago": "7h",
+      "ago": "10h",
       "img": "c5wg4",
       "ahId": "vnlfg"
     },
@@ -52,7 +52,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 5,
-      "ago": "7h",
+      "ago": "10h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -60,7 +60,7 @@
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 5,
-      "ago": "8h",
+      "ago": "11h",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -68,7 +68,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 5,
-      "ago": "9h",
+      "ago": "13h",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -76,7 +76,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 5,
-      "ago": "10h",
+      "ago": "13h",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -84,7 +84,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 12,
-      "ago": "19h",
+      "ago": "23h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -492,7 +492,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 40,
-      "ago": "5d",
+      "ago": "6d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -553,7 +553,7 @@
       "ahId": "t1ey0"
     }
   ],
-  "updatedAt": "2026-07-31T23:58:13.850Z",
+  "updatedAt": "2026-08-01T03:27:02.983Z",
   "source": "github-actions",
   "count": 69
 }
