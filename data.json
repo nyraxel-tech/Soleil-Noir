@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "Bleach: Thousand-Year Blood War: Part IV - The Calamity",
+      "titreJp": "Bleach: Sennen Kessen-hen: Part IV - Wazawai Suzumu-tan",
+      "ep": 2,
+      "ago": "?",
+      "img": "bd05n",
+      "ahId": "07v8r"
+    },
+    {
+      "titre": "Recommendations from Iwamoto-Senpai",
+      "titreJp": "Iwamoto-senpai no Suisen",
+      "ep": 5,
+      "ago": "?",
+      "img": "gnmlq",
+      "ahId": "nn6k9"
+    },
+    {
+      "titre": "The Cat and the Dragon",
+      "titreJp": "Neko to Ryuu",
+      "ep": 6,
+      "ago": "1h",
+      "img": "828yy",
+      "ahId": "9zg3f"
+    },
+    {
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 5,
-      "ago": "?",
+      "ago": "1h",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -12,7 +36,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1209,
-      "ago": "1h",
+      "ago": "3h",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -20,7 +44,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 18,
-      "ago": "2h",
+      "ago": "4h",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -28,7 +52,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 16,
-      "ago": "3h",
+      "ago": "5h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -36,7 +60,7 @@
       "titre": "Odd Taxi",
       "titreJp": "",
       "ep": 13,
-      "ago": "14h",
+      "ago": "16h",
       "img": "iyr0i",
       "ahId": "wgpso"
     },
@@ -44,7 +68,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Movie 2: Tears of the Azure Sea",
       "titreJp": "Tensei Shitara Slime Datta Ken Movie 2: Soukai no Namida Hen",
       "ep": 1,
-      "ago": "18h",
+      "ago": "19h",
       "img": "034lt",
       "ahId": "sa311"
     },
@@ -52,7 +76,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 17,
-      "ago": "18h",
+      "ago": "20h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -60,7 +84,7 @@
       "titre": "The Elusive Samurai 2nd Season",
       "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
       "ep": 3,
-      "ago": "19h",
+      "ago": "20h",
       "img": "xg229",
       "ahId": "8s06m"
     },
@@ -68,7 +92,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 5,
-      "ago": "20h",
+      "ago": "21h",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -76,7 +100,7 @@
       "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
       "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
       "ep": 5,
-      "ago": "20h",
+      "ago": "22h",
       "img": "c5wg4",
       "ahId": "vnlfg"
     },
@@ -84,7 +108,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 5,
-      "ago": "20h",
+      "ago": "22h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -92,7 +116,7 @@
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 5,
-      "ago": "21h",
+      "ago": "23h",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -100,7 +124,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 5,
-      "ago": "23h",
+      "ago": "1d",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -108,7 +132,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 5,
-      "ago": "23h",
+      "ago": "1d",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -180,7 +204,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -252,7 +276,7 @@
       "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
       "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "ycs89",
       "ahId": "q3n2b"
     },
@@ -260,7 +284,7 @@
       "titre": "Saga of Tanya the Evil II",
       "titreJp": "",
       "ep": 4,
-      "ago": "2d",
+      "ago": "3d",
       "img": "wr5w2",
       "ahId": "jrus1"
     },
@@ -308,7 +332,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 4,
-      "ago": "3d",
+      "ago": "4d",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -316,7 +340,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 5,
-      "ago": "3d",
+      "ago": "4d",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -372,7 +396,7 @@
       "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
       "titreJp": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
       "ep": 4,
-      "ago": "4d",
+      "ago": "5d",
       "img": "0vaar",
       "ahId": "x2njz"
     },
@@ -380,7 +404,7 @@
       "titre": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
       "titreJp": "Buchikire Reijou wa Houfuku wo Chikai Mashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
       "ep": 4,
-      "ago": "4d",
+      "ago": "5d",
       "img": "s5q25",
       "ahId": "o0cpo"
     },
@@ -388,7 +412,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 5,
-      "ago": "4d",
+      "ago": "5d",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -396,7 +420,7 @@
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 4,
-      "ago": "4d",
+      "ago": "5d",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -484,7 +508,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 4,
-      "ago": "5d",
+      "ago": "6d",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -543,25 +567,9 @@
       "ago": "6d",
       "img": "a0m9j",
       "ahId": "7776o"
-    },
-    {
-      "titre": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
-      "titreJp": "&quot;Kimi wo Aisuru Ki wa Nai&quot; to Itta Jiki Koushaku-sama ga nazeka Dekiaishitekimasu",
-      "ep": 4,
-      "ago": "6d",
-      "img": "r5tg3",
-      "ahId": "m6wg7"
-    },
-    {
-      "titre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School.",
-      "titreJp": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewasuru Koto ni Narimashita",
-      "ep": 4,
-      "ago": "6d",
-      "img": "bprh4",
-      "ahId": "n2apg"
     }
   ],
-  "updatedAt": "2026-08-01T13:11:36.873Z",
+  "updatedAt": "2026-08-01T14:57:12.283Z",
   "source": "github-actions",
-  "count": 70
+  "count": 71
 }
