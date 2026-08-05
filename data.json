@@ -4,7 +4,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 5,
-      "ago": "15h",
+      "ago": "18h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -12,7 +12,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 5,
-      "ago": "18h",
+      "ago": "20h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -20,7 +20,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 5,
-      "ago": "18h",
+      "ago": "20h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -28,7 +28,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 5,
-      "ago": "18h",
+      "ago": "20h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -36,7 +36,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 6,
-      "ago": "19h",
+      "ago": "22h",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -44,7 +44,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 5,
-      "ago": "20h",
+      "ago": "23h",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -52,7 +52,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 5,
-      "ago": "21h",
+      "ago": "1d",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -228,7 +228,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 144,
-      "ago": "2d",
+      "ago": "3d",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -364,7 +364,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1209,
-      "ago": "3d",
+      "ago": "4d",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -372,7 +372,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 18,
-      "ago": "3d",
+      "ago": "4d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -380,7 +380,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 16,
-      "ago": "3d",
+      "ago": "4d",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -553,7 +553,7 @@
       "ahId": "7p85t"
     }
   ],
-  "updatedAt": "2026-08-05T09:33:45.103Z",
+  "updatedAt": "2026-08-05T11:56:19.411Z",
   "source": "github-actions",
   "count": 69
 }
