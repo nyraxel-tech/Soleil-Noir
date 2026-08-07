@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
+      "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
+      "ep": 6,
+      "ago": "?",
+      "img": "c5wg4",
+      "ahId": "vnlfg"
+    },
+    {
+      "titre": "Sorry About My Little Brothers",
+      "titreJp": "Uchi no Otouto-domo ga Sumimasen",
+      "ep": 6,
+      "ago": "?",
+      "img": "9jn5c",
+      "ahId": "ldpso"
+    },
+    {
+      "titre": "The Elusive Samurai 2nd Season",
+      "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
+      "ep": 4,
+      "ago": "?",
+      "img": "xg229",
+      "ahId": "8s06m"
+    },
+    {
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 6,
-      "ago": "?",
+      "ago": "1h",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -12,7 +36,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 18,
-      "ago": "?",
+      "ago": "1h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -20,7 +44,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 17,
-      "ago": "?",
+      "ago": "1h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -28,7 +52,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 6,
-      "ago": "1h",
+      "ago": "2h",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -36,7 +60,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 6,
-      "ago": "2h",
+      "ago": "3h",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -44,7 +68,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 14,
-      "ago": "11h",
+      "ago": "12h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -52,7 +76,7 @@
       "titre": "Kaiju Girl Caramelise",
       "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
       "ep": 6,
-      "ago": "22h",
+      "ago": "23h",
       "img": "gtz8g",
       "ahId": "wfsth"
     },
@@ -60,7 +84,7 @@
       "titre": "Chainsmoker Cat",
       "titreJp": "Yani Neko",
       "ep": 6,
-      "ago": "23h",
+      "ago": "1d",
       "img": "r45h0",
       "ahId": "6hqka"
     },
@@ -68,7 +92,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 6,
-      "ago": "23h",
+      "ago": "1d",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -76,7 +100,7 @@
       "titre": "Smoking Behind the Supermarket with You",
       "titreJp": "Super no Ura de Yani Suu Futari",
       "ep": 5,
-      "ago": "23h",
+      "ago": "1d",
       "img": "z18pc",
       "ahId": "gnv5p"
     },
@@ -132,7 +156,7 @@
       "titre": "From Old Country Bumpkin to Master Swordsman Season 2",
       "titreJp": "Katainaka no Ossan, Kensei ni Naru II",
       "ep": 5,
-      "ago": "1d",
+      "ago": "2d",
       "img": "8yx8x",
       "ahId": "hoi3i"
     },
@@ -140,7 +164,7 @@
       "titre": "My Stepmother and Stepsisters Aren’t Wicked",
       "titreJp": "Ibitte Konai Gibo to Gishi",
       "ep": 5,
-      "ago": "1d",
+      "ago": "2d",
       "img": "b8zqi",
       "ahId": "8e1k6"
     },
@@ -148,7 +172,7 @@
       "titre": "The Villager of LV999",
       "titreJp": "LV999 no Murabito",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "7vqbp",
       "ahId": "mucnh"
     },
@@ -156,7 +180,7 @@
       "titre": "Hana-Kimi Season 2",
       "titreJp": "Hanazakari no Kimi-tachi e Season 2",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "yzbv7",
       "ahId": "s3cd7"
     },
@@ -260,7 +284,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 18,
-      "ago": "3d",
+      "ago": "4d",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -332,7 +356,7 @@
       "titre": "Azur Lane: Slow Ahead! 2nd Season",
       "titreJp": "Azur Lane: Bisoku Zenshin! 2nd Season",
       "ep": 5,
-      "ago": "4d",
+      "ago": "5d",
       "img": "8j4y6",
       "ahId": "marhn"
     },
@@ -340,7 +364,7 @@
       "titre": "Sparks of Tomorrow",
       "titreJp": "Nijusseiki Denki Mokuroku: Eureka Evrika, 20 Seiki Denki Mokuroku: Eureka Evrika",
       "ep": 5,
-      "ago": "4d",
+      "ago": "5d",
       "img": "2e371",
       "ahId": "1wghj"
     },
@@ -348,7 +372,7 @@
       "titre": "My Hero Academia 170+1: More",
       "titreJp": "Boku no Hero Academia 170+1: More",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "f525x",
       "ahId": "6jhnt"
     },
@@ -356,7 +380,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1172,
-      "ago": "4d",
+      "ago": "5d",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -364,7 +388,7 @@
       "titre": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
       "titreJp": "Futsutsuka na Akujo de wa Gozaimasu ga: Hina Miya Chou Nezumi Torikaeden",
       "ep": 4,
-      "ago": "4d",
+      "ago": "5d",
       "img": "0jvwd",
       "ahId": "f7d85"
     },
@@ -492,7 +516,7 @@
       "titre": "Jaadugar: A Witch in Mongolia",
       "titreJp": "Tenmaku no Jaadugar",
       "ep": 6,
-      "ago": "5d",
+      "ago": "6d",
       "img": "9ihs5",
       "ahId": "t1ey0"
     },
@@ -500,7 +524,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 17,
-      "ago": "5d",
+      "ago": "6d",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -508,7 +532,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 18,
-      "ago": "5d",
+      "ago": "6d",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -527,33 +551,9 @@
       "ago": "6d",
       "img": "gnmlq",
       "ahId": "nn6k9"
-    },
-    {
-      "titre": "The Cat and the Dragon",
-      "titreJp": "Neko to Ryuu",
-      "ep": 6,
-      "ago": "6d",
-      "img": "828yy",
-      "ahId": "9zg3f"
-    },
-    {
-      "titre": "Black Torch",
-      "titreJp": "",
-      "ep": 5,
-      "ago": "6d",
-      "img": "xq99f",
-      "ahId": "7tq84"
-    },
-    {
-      "titre": "Detective Conan",
-      "titreJp": "Case Closed, Meitantei Conan",
-      "ep": 1209,
-      "ago": "6d",
-      "img": "lx86z",
-      "ahId": "y9prb"
     }
   ],
-  "updatedAt": "2026-08-07T15:52:31.281Z",
+  "updatedAt": "2026-08-07T16:50:17.116Z",
   "source": "github-actions",
   "count": 69
 }
