@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "Draw this, then die!",
+      "titreJp": "Kore Kaite Shine",
+      "ep": 6,
+      "ago": "?",
+      "img": "6ku09",
+      "ahId": "zc42w"
+    },
+    {
+      "titre": "The Drops of God",
+      "titreJp": "Kami no Shizuku",
+      "ep": 18,
+      "ago": "?",
+      "img": "par8w",
+      "ahId": "m2zjn"
+    },
+    {
+      "titre": "That Time I Got Reincarnated as a Slime Season 4",
+      "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
+      "ep": 17,
+      "ago": "?",
+      "img": "pjoyd",
+      "ahId": "aplyf"
+    },
+    {
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 6,
-      "ago": "?",
+      "ago": "1h",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -12,7 +36,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 6,
-      "ago": "?",
+      "ago": "2h",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -20,7 +44,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 14,
-      "ago": "10h",
+      "ago": "11h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -28,7 +52,7 @@
       "titre": "Kaiju Girl Caramelise",
       "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
       "ep": 6,
-      "ago": "20h",
+      "ago": "22h",
       "img": "gtz8g",
       "ahId": "wfsth"
     },
@@ -36,7 +60,7 @@
       "titre": "Chainsmoker Cat",
       "titreJp": "Yani Neko",
       "ep": 6,
-      "ago": "21h",
+      "ago": "23h",
       "img": "r45h0",
       "ahId": "6hqka"
     },
@@ -44,7 +68,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 6,
-      "ago": "21h",
+      "ago": "23h",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -52,7 +76,7 @@
       "titre": "Smoking Behind the Supermarket with You",
       "titreJp": "Super no Ura de Yani Suu Futari",
       "ep": 5,
-      "ago": "22h",
+      "ago": "23h",
       "img": "z18pc",
       "ahId": "gnv5p"
     },
@@ -60,7 +84,7 @@
       "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
       "ep": 7,
-      "ago": "22h",
+      "ago": "1d",
       "img": "cy9ca",
       "ahId": "ultkb"
     },
@@ -68,7 +92,7 @@
       "titre": "Mebius Dust",
       "titreJp": "",
       "ep": 5,
-      "ago": "23h",
+      "ago": "1d",
       "img": "02htn",
       "ahId": "yv7me"
     },
@@ -76,7 +100,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 8,
-      "ago": "23h",
+      "ago": "1d",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -140,7 +164,7 @@
       "titre": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2nd Season",
       "titreJp": "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2nd Season",
       "ep": 5,
-      "ago": "1d",
+      "ago": "2d",
       "img": "l7tno",
       "ahId": "6rmgo"
     },
@@ -148,7 +172,7 @@
       "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
       "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "ycs89",
       "ahId": "q3n2b"
     },
@@ -180,7 +204,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 5,
-      "ago": "2d",
+      "ago": "3d",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -188,7 +212,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 5,
-      "ago": "2d",
+      "ago": "3d",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -196,7 +220,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 5,
-      "ago": "2d",
+      "ago": "3d",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -244,7 +268,7 @@
       "titre": "Grand Blue Season 3",
       "titreJp": "Grand Blue Dreaming Season 3",
       "ep": 5,
-      "ago": "3d",
+      "ago": "4d",
       "img": "o5w0q",
       "ahId": "gwokm"
     },
@@ -252,7 +276,7 @@
       "titre": "Oh Boy, Was I Wrong About Her",
       "titreJp": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
       "ep": 5,
-      "ago": "3d",
+      "ago": "4d",
       "img": "vse6w",
       "ahId": "7e6hd"
     },
@@ -260,7 +284,7 @@
       "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
       "titreJp": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
       "ep": 5,
-      "ago": "3d",
+      "ago": "4d",
       "img": "0vaar",
       "ahId": "x2njz"
     },
@@ -268,7 +292,7 @@
       "titre": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
       "titreJp": "Buchikire Reijou wa Houfuku wo Chikai Mashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
       "ep": 5,
-      "ago": "3d",
+      "ago": "4d",
       "img": "s5q25",
       "ahId": "o0cpo"
     },
@@ -348,7 +372,7 @@
       "titre": "Goodbye, Lara",
       "titreJp": "Sayonara Lara",
       "ep": 5,
-      "ago": "4d",
+      "ago": "5d",
       "img": "c5pih",
       "ahId": "f76b2"
     },
@@ -356,7 +380,7 @@
       "titre": "Mushoku Tensei: Jobless Reincarnation 3rd Season",
       "titreJp": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "b1dg7",
       "ahId": "sfvog"
     },
@@ -364,7 +388,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 17,
-      "ago": "4d",
+      "ago": "5d",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -492,7 +516,7 @@
       "titre": "Bleach: Thousand-Year Blood War: Part IV - The Calamity",
       "titreJp": "Bleach: Sennen Kessen-hen: Part IV - Wazawai Suzumu-tan",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "bd05n",
       "ahId": "07v8r"
     },
@@ -527,33 +551,9 @@
       "ago": "6d",
       "img": "lx86z",
       "ahId": "y9prb"
-    },
-    {
-      "titre": "Welcome to Demon School, Iruma-kun 4",
-      "titreJp": "Mairimashita! Iruma-kun 4",
-      "ep": 18,
-      "ago": "6d",
-      "img": "lkpy4",
-      "ahId": "amsff"
-    },
-    {
-      "titre": "Ascendance of a Bookworm Season 4",
-      "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
-      "ep": 16,
-      "ago": "6d",
-      "img": "2m22z",
-      "ahId": "yeyrm"
-    },
-    {
-      "titre": "Odd Taxi",
-      "titreJp": "",
-      "ep": 13,
-      "ago": "6d",
-      "img": "iyr0i",
-      "ahId": "wgpso"
     }
   ],
-  "updatedAt": "2026-08-07T14:10:47.091Z",
+  "updatedAt": "2026-08-07T15:52:31.281Z",
   "source": "github-actions",
   "count": 69
 }
