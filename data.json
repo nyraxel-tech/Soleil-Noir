@@ -4,7 +4,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 14,
-      "ago": "1h",
+      "ago": "3h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -12,7 +12,7 @@
       "titre": "Kaiju Girl Caramelise",
       "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
       "ep": 6,
-      "ago": "11h",
+      "ago": "13h",
       "img": "gtz8g",
       "ahId": "wfsth"
     },
@@ -20,7 +20,7 @@
       "titre": "Chainsmoker Cat",
       "titreJp": "Yani Neko",
       "ep": 6,
-      "ago": "13h",
+      "ago": "14h",
       "img": "r45h0",
       "ahId": "6hqka"
     },
@@ -28,7 +28,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 6,
-      "ago": "13h",
+      "ago": "14h",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -36,7 +36,7 @@
       "titre": "Smoking Behind the Supermarket with You",
       "titreJp": "Super no Ura de Yani Suu Futari",
       "ep": 5,
-      "ago": "13h",
+      "ago": "15h",
       "img": "z18pc",
       "ahId": "gnv5p"
     },
@@ -44,7 +44,7 @@
       "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
       "ep": 7,
-      "ago": "14h",
+      "ago": "15h",
       "img": "cy9ca",
       "ahId": "ultkb"
     },
@@ -52,7 +52,7 @@
       "titre": "Mebius Dust",
       "titreJp": "",
       "ep": 5,
-      "ago": "14h",
+      "ago": "15h",
       "img": "02htn",
       "ahId": "yv7me"
     },
@@ -60,7 +60,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 8,
-      "ago": "15h",
+      "ago": "16h",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -68,7 +68,7 @@
       "titre": "Bungo Stray Dogs Wan! 2",
       "titreJp": "",
       "ep": 6,
-      "ago": "16h",
+      "ago": "18h",
       "img": "gob1n",
       "ahId": "1wtvp"
     },
@@ -76,7 +76,7 @@
       "titre": "Dara-san of Reiwa",
       "titreJp": "Reiwa no Dara-san",
       "ep": 6,
-      "ago": "16h",
+      "ago": "18h",
       "img": "bkz60",
       "ahId": "59rhi"
     },
@@ -553,7 +553,7 @@
       "ahId": "m2zjn"
     }
   ],
-  "updatedAt": "2026-08-07T05:37:12.907Z",
+  "updatedAt": "2026-08-07T07:09:08.304Z",
   "source": "github-actions",
   "count": 69
 }
