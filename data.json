@@ -1,6 +1,38 @@
 {
   "animes": [
     {
+      "titre": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
+      "titreJp": "",
+      "ep": 6,
+      "ago": "?",
+      "img": "zpm54",
+      "ahId": "zweu6"
+    },
+    {
+      "titre": "The Ogre's Bride",
+      "titreJp": "Oni no Hanayome",
+      "ep": 6,
+      "ago": "?",
+      "img": "csu03",
+      "ahId": "u6fdm"
+    },
+    {
+      "titre": "MAO",
+      "titreJp": "",
+      "ep": 19,
+      "ago": "?",
+      "img": "topci",
+      "ahId": "qw2g9"
+    },
+    {
+      "titre": "Bleach: Thousand-Year Blood War: Part IV - The Calamity",
+      "titreJp": "Bleach: Sennen Kessen-hen: Part IV - Wazawai Suzumu-tan",
+      "ep": 3,
+      "ago": "?",
+      "img": "bd05n",
+      "ahId": "07v8r"
+    },
+    {
       "titre": "Jaadugar: A Witch in Mongolia",
       "titreJp": "Tenmaku no Jaadugar",
       "ep": 7,
@@ -12,7 +44,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 18,
-      "ago": "?",
+      "ago": "1h",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -20,7 +52,7 @@
       "titre": "Recommendations from Iwamoto-Senpai",
       "titreJp": "Iwamoto-senpai no Suisen",
       "ep": 6,
-      "ago": "2h",
+      "ago": "3h",
       "img": "gnmlq",
       "ahId": "nn6k9"
     },
@@ -28,7 +60,7 @@
       "titre": "The Cat and the Dragon",
       "titreJp": "Neko to Ryuu",
       "ep": 7,
-      "ago": "2h",
+      "ago": "3h",
       "img": "828yy",
       "ahId": "9zg3f"
     },
@@ -36,7 +68,7 @@
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 6,
-      "ago": "3h",
+      "ago": "4h",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -44,7 +76,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 17,
-      "ago": "6h",
+      "ago": "7h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -52,7 +84,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 6,
-      "ago": "20h",
+      "ago": "21h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -60,7 +92,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 6,
-      "ago": "23h",
+      "ago": "1d",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -68,7 +100,7 @@
       "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
       "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
       "ep": 6,
-      "ago": "23h",
+      "ago": "1d",
       "img": "c5wg4",
       "ahId": "vnlfg"
     },
@@ -412,7 +444,7 @@
       "titre": "Azur Lane: Slow Ahead! 2nd Season",
       "titreJp": "Azur Lane: Bisoku Zenshin! 2nd Season",
       "ep": 5,
-      "ago": "5d",
+      "ago": "6d",
       "img": "8j4y6",
       "ahId": "marhn"
     },
@@ -420,7 +452,7 @@
       "titre": "Sparks of Tomorrow",
       "titreJp": "Nijusseiki Denki Mokuroku: Eureka Evrika, 20 Seiki Denki Mokuroku: Eureka Evrika",
       "ep": 5,
-      "ago": "5d",
+      "ago": "6d",
       "img": "2e371",
       "ahId": "1wghj"
     },
@@ -527,33 +559,9 @@
       "ago": "6d",
       "img": "88ts8",
       "ahId": "kqa66"
-    },
-    {
-      "titre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School.",
-      "titreJp": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewasuru Koto ni Narimashita",
-      "ep": 5,
-      "ago": "6d",
-      "img": "bprh4",
-      "ahId": "n2apg"
-    },
-    {
-      "titre": "Magilumiere Co. Ltd. 2nd Season",
-      "titreJp": "Kabushikigaisha Magi-Lumière 2nd Season",
-      "ep": 5,
-      "ago": "6d",
-      "img": "a0m9j",
-      "ahId": "7776o"
-    },
-    {
-      "titre": "The Ogre's Bride",
-      "titreJp": "Oni no Hanayome",
-      "ep": 5,
-      "ago": "6d",
-      "img": "csu03",
-      "ahId": "u6fdm"
     }
   ],
-  "updatedAt": "2026-08-08T16:28:25.485Z",
+  "updatedAt": "2026-08-08T17:25:45.889Z",
   "source": "github-actions",
-  "count": 69
+  "count": 70
 }
