@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "The Cat and the Dragon",
+      "titreJp": "Neko to Ryuu",
+      "ep": 7,
+      "ago": "?",
+      "img": "828yy",
+      "ahId": "9zg3f"
+    },
+    {
+      "titre": "Black Torch",
+      "titreJp": "",
+      "ep": 6,
+      "ago": "?",
+      "img": "xq99f",
+      "ahId": "7tq84"
+    },
+    {
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 17,
-      "ago": "2h",
+      "ago": "4h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -12,7 +28,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 6,
-      "ago": "16h",
+      "ago": "17h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -20,7 +36,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 6,
-      "ago": "19h",
+      "ago": "20h",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -28,7 +44,7 @@
       "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
       "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
       "ep": 6,
-      "ago": "19h",
+      "ago": "20h",
       "img": "c5wg4",
       "ahId": "vnlfg"
     },
@@ -36,7 +52,7 @@
       "titre": "The Elusive Samurai 2nd Season",
       "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
       "ep": 4,
-      "ago": "20h",
+      "ago": "21h",
       "img": "xg229",
       "ahId": "8s06m"
     },
@@ -44,7 +60,7 @@
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 6,
-      "ago": "20h",
+      "ago": "21h",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -52,7 +68,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 18,
-      "ago": "20h",
+      "ago": "22h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -60,7 +76,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 17,
-      "ago": "21h",
+      "ago": "22h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -68,7 +84,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 6,
-      "ago": "22h",
+      "ago": "23h",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -76,7 +92,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 6,
-      "ago": "22h",
+      "ago": "1d",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -148,7 +164,7 @@
       "titre": "Bungo Stray Dogs Wan! 2",
       "titreJp": "",
       "ep": 6,
-      "ago": "1d",
+      "ago": "2d",
       "img": "gob1n",
       "ahId": "1wtvp"
     },
@@ -156,7 +172,7 @@
       "titre": "Dara-san of Reiwa",
       "titreJp": "Reiwa no Dara-san",
       "ep": 6,
-      "ago": "1d",
+      "ago": "2d",
       "img": "bkz60",
       "ahId": "59rhi"
     },
@@ -220,7 +236,7 @@
       "titre": "Saga of Tanya the Evil II",
       "titreJp": "",
       "ep": 5,
-      "ago": "2d",
+      "ago": "3d",
       "img": "wr5w2",
       "ahId": "jrus1"
     },
@@ -228,7 +244,7 @@
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 5,
-      "ago": "2d",
+      "ago": "3d",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -268,7 +284,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 6,
-      "ago": "3d",
+      "ago": "4d",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -276,7 +292,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 5,
-      "ago": "3d",
+      "ago": "4d",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -348,7 +364,7 @@
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 5,
-      "ago": "4d",
+      "ago": "5d",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -356,7 +372,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 5,
-      "ago": "4d",
+      "ago": "5d",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -364,7 +380,7 @@
       "titre": "Love Unseen Beneath the Clear Night Sky",
       "titreJp": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "ep": 5,
-      "ago": "4d",
+      "ago": "5d",
       "img": "2qfc1",
       "ahId": "fn31g"
     },
@@ -444,7 +460,7 @@
       "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
       "titreJp": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
       "ep": 5,
-      "ago": "5d",
+      "ago": "6d",
       "img": "tak3w",
       "ahId": "y01g1"
     },
@@ -535,25 +551,9 @@
       "ago": "6d",
       "img": "9ihs5",
       "ahId": "t1ey0"
-    },
-    {
-      "titre": "Daemons of The Shadow Realm",
-      "titreJp": "Yomi no Tsugai",
-      "ep": 17,
-      "ago": "6d",
-      "img": "dks5o",
-      "ahId": "pm96z"
-    },
-    {
-      "titre": "MAO",
-      "titreJp": "",
-      "ep": 18,
-      "ago": "6d",
-      "img": "topci",
-      "ahId": "qw2g9"
     }
   ],
-  "updatedAt": "2026-08-08T12:39:24.865Z",
+  "updatedAt": "2026-08-08T13:42:05.644Z",
   "source": "github-actions",
   "count": 69
 }
