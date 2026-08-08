@@ -1,6 +1,14 @@
 {
   "animes": [
     {
+      "titre": "Recommendations from Iwamoto-Senpai",
+      "titreJp": "Iwamoto-senpai no Suisen",
+      "ep": 6,
+      "ago": "?",
+      "img": "gnmlq",
+      "ahId": "nn6k9"
+    },
+    {
       "titre": "The Cat and the Dragon",
       "titreJp": "Neko to Ryuu",
       "ep": 7,
@@ -12,7 +20,7 @@
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 6,
-      "ago": "?",
+      "ago": "1h",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -28,7 +36,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 6,
-      "ago": "17h",
+      "ago": "18h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -36,7 +44,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 6,
-      "ago": "20h",
+      "ago": "21h",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -44,7 +52,7 @@
       "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
       "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
       "ep": 6,
-      "ago": "20h",
+      "ago": "21h",
       "img": "c5wg4",
       "ahId": "vnlfg"
     },
@@ -52,7 +60,7 @@
       "titre": "The Elusive Samurai 2nd Season",
       "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
       "ep": 4,
-      "ago": "21h",
+      "ago": "22h",
       "img": "xg229",
       "ahId": "8s06m"
     },
@@ -60,7 +68,7 @@
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 6,
-      "ago": "21h",
+      "ago": "22h",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -76,7 +84,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 17,
-      "ago": "22h",
+      "ago": "23h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -84,7 +92,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 6,
-      "ago": "23h",
+      "ago": "1d",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -156,7 +164,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -356,7 +364,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -452,7 +460,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 5,
-      "ago": "5d",
+      "ago": "6d",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -553,7 +561,7 @@
       "ahId": "t1ey0"
     }
   ],
-  "updatedAt": "2026-08-08T13:42:05.644Z",
+  "updatedAt": "2026-08-08T14:28:07.601Z",
   "source": "github-actions",
-  "count": 69
+  "count": 70
 }
