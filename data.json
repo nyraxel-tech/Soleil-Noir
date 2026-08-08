@@ -12,7 +12,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 6,
-      "ago": "11h",
+      "ago": "12h",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -28,7 +28,7 @@
       "titre": "The Elusive Samurai 2nd Season",
       "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
       "ep": 4,
-      "ago": "12h",
+      "ago": "13h",
       "img": "xg229",
       "ahId": "8s06m"
     },
@@ -52,7 +52,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 17,
-      "ago": "13h",
+      "ago": "14h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -60,7 +60,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 6,
-      "ago": "14h",
+      "ago": "15h",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -553,7 +553,7 @@
       "ahId": "07v8r"
     }
   ],
-  "updatedAt": "2026-08-08T04:52:17.244Z",
+  "updatedAt": "2026-08-08T05:39:24.671Z",
   "source": "github-actions",
   "count": 69
 }
