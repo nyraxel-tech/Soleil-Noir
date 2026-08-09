@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
+      "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
+      "ep": 6,
+      "ago": "?",
+      "img": "xtq52",
+      "ahId": "atyey"
+    },
+    {
       "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
       "titreJp": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
       "ep": 6,
-      "ago": "?",
+      "ago": "1h",
       "img": "tak3w",
       "ahId": "y01g1"
     },
@@ -12,7 +20,7 @@
       "titre": "Iron Wok Jan!",
       "titreJp": "Tetsunabe no Jan!",
       "ep": 6,
-      "ago": "4h",
+      "ago": "5h",
       "img": "5yj1u",
       "ahId": "3l7kl"
     },
@@ -36,7 +44,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 42,
-      "ago": "10h",
+      "ago": "11h",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -44,7 +52,7 @@
       "titre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School.",
       "titreJp": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewasuru Koto ni Narimashita",
       "ep": 6,
-      "ago": "19h",
+      "ago": "20h",
       "img": "bprh4",
       "ahId": "n2apg"
     },
@@ -52,7 +60,7 @@
       "titre": "Magilumiere Co. Ltd. 2nd Season",
       "titreJp": "Kabushikigaisha Magi-Lumière 2nd Season",
       "ep": 6,
-      "ago": "19h",
+      "ago": "20h",
       "img": "a0m9j",
       "ahId": "7776o"
     },
@@ -68,7 +76,7 @@
       "titre": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
       "titreJp": "",
       "ep": 6,
-      "ago": "20h",
+      "ago": "21h",
       "img": "zpm54",
       "ahId": "zweu6"
     },
@@ -76,7 +84,7 @@
       "titre": "The Ogre's Bride",
       "titreJp": "Oni no Hanayome",
       "ep": 6,
-      "ago": "20h",
+      "ago": "21h",
       "img": "csu03",
       "ahId": "u6fdm"
     },
@@ -100,7 +108,7 @@
       "titre": "Jaadugar: A Witch in Mongolia",
       "titreJp": "Tenmaku no Jaadugar",
       "ep": 7,
-      "ago": "21h",
+      "ago": "22h",
       "img": "9ihs5",
       "ahId": "t1ey0"
     },
@@ -108,7 +116,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 18,
-      "ago": "21h",
+      "ago": "22h",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -116,7 +124,7 @@
       "titre": "Recommendations from Iwamoto-Senpai",
       "titreJp": "Iwamoto-senpai no Suisen",
       "ep": 6,
-      "ago": "23h",
+      "ago": "1d",
       "img": "gnmlq",
       "ahId": "nn6k9"
     },
@@ -204,7 +212,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 6,
-      "ago": "1d",
+      "ago": "2d",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -276,7 +284,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 8,
-      "ago": "2d",
+      "ago": "3d",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "0jvwd",
       "ahId": "f7d85"
-    },
-    {
-      "titre": "Goodbye, Lara",
-      "titreJp": "Sayonara Lara",
-      "ep": 5,
-      "ago": "6d",
-      "img": "c5pih",
-      "ahId": "f76b2"
     }
   ],
-  "updatedAt": "2026-08-09T13:45:47.471Z",
+  "updatedAt": "2026-08-09T14:30:18.774Z",
   "source": "github-actions",
   "count": 69
 }
