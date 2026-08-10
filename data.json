@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Flaming Dodgeball Girl Danko",
+      "titreJp": "Honoo no Toukyuujo: Dodge Danko",
+      "ep": 6,
+      "ago": "?",
+      "img": "t7nlu",
+      "ahId": "usbqy"
+    },
+    {
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 19,
-      "ago": "3h",
+      "ago": "4h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -20,7 +28,7 @@
       "titre": "Oh Boy, Was I Wrong About Her",
       "titreJp": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
       "ep": 6,
-      "ago": "4h",
+      "ago": "5h",
       "img": "vse6w",
       "ahId": "7e6hd"
     },
@@ -52,7 +60,7 @@
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 6,
-      "ago": "6h",
+      "ago": "7h",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -60,7 +68,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 6,
-      "ago": "6h",
+      "ago": "7h",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "fctsy",
       "ahId": "mvh9u"
-    },
-    {
-      "titre": "I Want to Love You Till Your Dying Day",
-      "titreJp": "Kimi ga Shinu made Koi wo Shitai",
-      "ep": 5,
-      "ago": "6d",
-      "img": "5kivb",
-      "ahId": "f6u2m"
     }
   ],
-  "updatedAt": "2026-08-10T19:52:44.931Z",
+  "updatedAt": "2026-08-10T20:37:48.802Z",
   "source": "github-actions",
   "count": 69
 }
