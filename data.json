@@ -4,7 +4,7 @@
       "titre": "Sparks of Tomorrow",
       "titreJp": "Nijusseiki Denki Mokuroku: Eureka Evrika, 20 Seiki Denki Mokuroku: Eureka Evrika",
       "ep": 6,
-      "ago": "14h",
+      "ago": "15h",
       "img": "2e371",
       "ahId": "1wghj"
     },
@@ -12,7 +12,7 @@
       "titre": "Azur Lane: Slow Ahead! 2nd Season",
       "titreJp": "Azur Lane: Bisoku Zenshin! 2nd Season",
       "ep": 6,
-      "ago": "16h",
+      "ago": "18h",
       "img": "8j4y6",
       "ahId": "marhn"
     },
@@ -20,7 +20,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1173,
-      "ago": "17h",
+      "ago": "18h",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -28,7 +28,7 @@
       "titre": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
       "titreJp": "Futsutsuka na Akujo de wa Gozaimasu ga: Hina Miya Chou Nezumi Torikaeden",
       "ep": 5,
-      "ago": "17h",
+      "ago": "19h",
       "img": "0jvwd",
       "ahId": "f7d85"
     },
@@ -36,7 +36,7 @@
       "titre": "Goodbye, Lara",
       "titreJp": "Sayonara Lara",
       "ep": 6,
-      "ago": "17h",
+      "ago": "19h",
       "img": "c5pih",
       "ahId": "f76b2"
     },
@@ -44,7 +44,7 @@
       "titre": "Mushoku Tensei: Jobless Reincarnation 3rd Season",
       "titreJp": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
       "ep": 7,
-      "ago": "17h",
+      "ago": "19h",
       "img": "b1dg7",
       "ahId": "sfvog"
     },
@@ -52,7 +52,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 18,
-      "ago": "18h",
+      "ago": "19h",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -60,7 +60,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 6,
-      "ago": "19h",
+      "ago": "20h",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -68,7 +68,7 @@
       "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
       "titreJp": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
       "ep": 6,
-      "ago": "20h",
+      "ago": "21h",
       "img": "tak3w",
       "ahId": "y01g1"
     },
@@ -204,7 +204,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 17,
-      "ago": "1d",
+      "ago": "2d",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -553,7 +553,7 @@
       "ahId": "1oaxo"
     }
   ],
-  "updatedAt": "2026-08-10T09:15:28.469Z",
+  "updatedAt": "2026-08-10T11:04:11.152Z",
   "source": "github-actions",
   "count": 69
 }
