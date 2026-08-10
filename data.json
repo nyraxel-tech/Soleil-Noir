@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Love Unseen Beneath the Clear Night Sky",
+      "titreJp": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+      "ep": 6,
+      "ago": "?",
+      "img": "2qfc1",
+      "ahId": "fn31g"
+    },
+    {
       "titre": "Sparks of Tomorrow",
       "titreJp": "Nijusseiki Denki Mokuroku: Eureka Evrika, 20 Seiki Denki Mokuroku: Eureka Evrika",
       "ep": 6,
-      "ago": "15h",
+      "ago": "17h",
       "img": "2e371",
       "ahId": "1wghj"
     },
@@ -12,7 +20,7 @@
       "titre": "Azur Lane: Slow Ahead! 2nd Season",
       "titreJp": "Azur Lane: Bisoku Zenshin! 2nd Season",
       "ep": 6,
-      "ago": "18h",
+      "ago": "20h",
       "img": "8j4y6",
       "ahId": "marhn"
     },
@@ -20,7 +28,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1173,
-      "ago": "18h",
+      "ago": "20h",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -28,7 +36,7 @@
       "titre": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
       "titreJp": "Futsutsuka na Akujo de wa Gozaimasu ga: Hina Miya Chou Nezumi Torikaeden",
       "ep": 5,
-      "ago": "19h",
+      "ago": "21h",
       "img": "0jvwd",
       "ahId": "f7d85"
     },
@@ -36,7 +44,7 @@
       "titre": "Goodbye, Lara",
       "titreJp": "Sayonara Lara",
       "ep": 6,
-      "ago": "19h",
+      "ago": "21h",
       "img": "c5pih",
       "ahId": "f76b2"
     },
@@ -44,7 +52,7 @@
       "titre": "Mushoku Tensei: Jobless Reincarnation 3rd Season",
       "titreJp": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
       "ep": 7,
-      "ago": "19h",
+      "ago": "21h",
       "img": "b1dg7",
       "ahId": "sfvog"
     },
@@ -52,7 +60,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 18,
-      "ago": "19h",
+      "ago": "21h",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -60,7 +68,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 6,
-      "ago": "20h",
+      "ago": "22h",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -68,7 +76,7 @@
       "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
       "titreJp": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
       "ep": 6,
-      "ago": "21h",
+      "ago": "23h",
       "img": "tak3w",
       "ahId": "y01g1"
     },
@@ -348,7 +356,7 @@
       "titre": "Bungo Stray Dogs Wan! 2",
       "titreJp": "",
       "ep": 6,
-      "ago": "3d",
+      "ago": "4d",
       "img": "gob1n",
       "ahId": "1wtvp"
     },
@@ -356,7 +364,7 @@
       "titre": "Dara-san of Reiwa",
       "titreJp": "Reiwa no Dara-san",
       "ep": 6,
-      "ago": "3d",
+      "ago": "4d",
       "img": "bkz60",
       "ahId": "59rhi"
     },
@@ -428,7 +436,7 @@
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 5,
-      "ago": "4d",
+      "ago": "5d",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -476,7 +484,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 5,
-      "ago": "5d",
+      "ago": "6d",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -484,7 +492,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 5,
-      "ago": "5d",
+      "ago": "6d",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "ob8k9",
       "ahId": "jc70y"
-    },
-    {
-      "titre": "Skeleton Knight in Another World 2",
-      "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
-      "ep": 5,
-      "ago": "6d",
-      "img": "3ol6v",
-      "ahId": "1oaxo"
     }
   ],
-  "updatedAt": "2026-08-10T11:04:11.152Z",
+  "updatedAt": "2026-08-10T12:59:02.841Z",
   "source": "github-actions",
   "count": 69
 }
