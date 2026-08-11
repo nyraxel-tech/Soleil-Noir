@@ -4,7 +4,7 @@
       "titre": "Star Wars: Visions - The Ninth Jedi",
       "titreJp": "",
       "ep": 8,
-      "ago": "3h",
+      "ago": "4h",
       "img": "m0g87",
       "ahId": "svzyo"
     },
@@ -12,7 +12,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 6,
-      "ago": "3h",
+      "ago": "4h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -20,7 +20,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 6,
-      "ago": "4h",
+      "ago": "5h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -28,7 +28,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 6,
-      "ago": "6h",
+      "ago": "7h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -36,7 +36,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 6,
-      "ago": "6h",
+      "ago": "7h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -68,7 +68,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 15,
-      "ago": "17h",
+      "ago": "18h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -553,7 +553,7 @@
       "ahId": "6rmgo"
     }
   ],
-  "updatedAt": "2026-08-11T21:41:12.522Z",
+  "updatedAt": "2026-08-11T22:37:03.810Z",
   "source": "github-actions",
   "count": 69
 }
