@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Star Wars: Visions - The Ninth Jedi",
+      "titreJp": "",
+      "ep": 8,
+      "ago": "?",
+      "img": "m0g87",
+      "ahId": "svzyo"
+    },
+    {
+      "titre": "Red River",
+      "titreJp": "Sora wa Akai Kawa no Hotori",
+      "ep": 6,
+      "ago": "?",
+      "img": "zh355",
+      "ahId": "x48y1"
+    },
+    {
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 6,
-      "ago": "?",
+      "ago": "1h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -12,7 +28,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 6,
-      "ago": "1h",
+      "ago": "2h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -20,7 +36,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 6,
-      "ago": "1h",
+      "ago": "2h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -28,7 +44,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 7,
-      "ago": "3h",
+      "ago": "4h",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -36,7 +52,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 6,
-      "ago": "4h",
+      "ago": "5h",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -44,7 +60,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 6,
-      "ago": "5h",
+      "ago": "6h",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -52,7 +68,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 15,
-      "ago": "12h",
+      "ago": "13h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -60,7 +76,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 6,
-      "ago": "20h",
+      "ago": "21h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -252,7 +268,7 @@
       "titre": "Magilumiere Co. Ltd. 2nd Season",
       "titreJp": "Kabushikigaisha Magi-Lumière 2nd Season",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "a0m9j",
       "ahId": "7776o"
     },
@@ -260,7 +276,7 @@
       "titre": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
       "titreJp": "&quot;Kimi wo Aisuru Ki wa Nai&quot; to Itta Jiki Koushaku-sama ga nazeka Dekiaishitekimasu",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "r5tg3",
       "ahId": "m6wg7"
     },
@@ -268,7 +284,7 @@
       "titre": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
       "titreJp": "",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "zpm54",
       "ahId": "zweu6"
     },
@@ -276,7 +292,7 @@
       "titre": "The Ogre's Bride",
       "titreJp": "Oni no Hanayome",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "csu03",
       "ahId": "u6fdm"
     },
@@ -420,7 +436,7 @@
       "titre": "Kaiju Girl Caramelise",
       "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "gtz8g",
       "ahId": "wfsth"
     },
@@ -492,7 +508,7 @@
       "titre": "Tomb Raider King",
       "titreJp": "Dogurwang",
       "ep": 5,
-      "ago": "5d",
+      "ago": "6d",
       "img": "1i8dr",
       "ahId": "7p85t"
     },
@@ -535,25 +551,9 @@
       "ago": "6d",
       "img": "l7tno",
       "ahId": "6rmgo"
-    },
-    {
-      "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
-      "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
-      "ep": 7,
-      "ago": "6d",
-      "img": "ycs89",
-      "ahId": "q3n2b"
-    },
-    {
-      "titre": "Saga of Tanya the Evil II",
-      "titreJp": "",
-      "ep": 5,
-      "ago": "6d",
-      "img": "wr5w2",
-      "ahId": "jrus1"
     }
   ],
-  "updatedAt": "2026-08-11T16:57:55.735Z",
+  "updatedAt": "2026-08-11T17:58:15.510Z",
   "source": "github-actions",
   "count": 69
 }
