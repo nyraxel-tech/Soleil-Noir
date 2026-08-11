@@ -4,7 +4,7 @@
       "titre": "Star Wars: Visions - The Ninth Jedi",
       "titreJp": "",
       "ep": 8,
-      "ago": "?",
+      "ago": "1h",
       "img": "m0g87",
       "ahId": "svzyo"
     },
@@ -12,7 +12,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 6,
-      "ago": "?",
+      "ago": "1h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -20,7 +20,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 6,
-      "ago": "1h",
+      "ago": "2h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -28,7 +28,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 6,
-      "ago": "2h",
+      "ago": "3h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -36,7 +36,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 6,
-      "ago": "2h",
+      "ago": "3h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -44,7 +44,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 7,
-      "ago": "4h",
+      "ago": "5h",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -52,7 +52,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 6,
-      "ago": "5h",
+      "ago": "6h",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -60,7 +60,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 6,
-      "ago": "6h",
+      "ago": "7h",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -68,7 +68,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 15,
-      "ago": "13h",
+      "ago": "15h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -76,7 +76,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 6,
-      "ago": "21h",
+      "ago": "22h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -260,7 +260,7 @@
       "titre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School.",
       "titreJp": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewasuru Koto ni Narimashita",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "bprh4",
       "ahId": "n2apg"
     },
@@ -553,7 +553,7 @@
       "ahId": "6rmgo"
     }
   ],
-  "updatedAt": "2026-08-11T17:58:15.510Z",
+  "updatedAt": "2026-08-11T19:08:09.543Z",
   "source": "github-actions",
   "count": 69
 }
