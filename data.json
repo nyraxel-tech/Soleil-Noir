@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "The Ghost in the Shell",
+      "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
+      "ep": 6,
+      "ago": "?",
+      "img": "8vo2j",
+      "ahId": "nqbd0"
+    },
+    {
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 6,
-      "ago": "?",
+      "ago": "1h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -12,7 +20,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 6,
-      "ago": "?",
+      "ago": "1h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -20,7 +28,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 7,
-      "ago": "2h",
+      "ago": "3h",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -28,7 +36,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 6,
-      "ago": "3h",
+      "ago": "4h",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -36,7 +44,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 6,
-      "ago": "4h",
+      "ago": "5h",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -44,7 +52,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 15,
-      "ago": "11h",
+      "ago": "12h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -52,7 +60,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 6,
-      "ago": "19h",
+      "ago": "20h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -60,7 +68,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 19,
-      "ago": "23h",
+      "ago": "1d",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -140,7 +148,7 @@
       "titre": "Azur Lane: Slow Ahead! 2nd Season",
       "titreJp": "Azur Lane: Bisoku Zenshin! 2nd Season",
       "ep": 6,
-      "ago": "1d",
+      "ago": "2d",
       "img": "8j4y6",
       "ahId": "marhn"
     },
@@ -148,7 +156,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1173,
-      "ago": "1d",
+      "ago": "2d",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -156,7 +164,7 @@
       "titre": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
       "titreJp": "Futsutsuka na Akujo de wa Gozaimasu ga: Hina Miya Chou Nezumi Torikaeden",
       "ep": 5,
-      "ago": "1d",
+      "ago": "2d",
       "img": "0jvwd",
       "ahId": "f7d85"
     },
@@ -276,7 +284,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 19,
-      "ago": "2d",
+      "ago": "3d",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -284,7 +292,7 @@
       "titre": "Bleach: Thousand-Year Blood War: Part IV - The Calamity",
       "titreJp": "Bleach: Sennen Kessen-hen: Part IV - Wazawai Suzumu-tan",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "bd05n",
       "ahId": "07v8r"
     },
@@ -292,7 +300,7 @@
       "titre": "Jaadugar: A Witch in Mongolia",
       "titreJp": "Tenmaku no Jaadugar",
       "ep": 7,
-      "ago": "2d",
+      "ago": "3d",
       "img": "9ihs5",
       "ahId": "t1ey0"
     },
@@ -300,7 +308,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 18,
-      "ago": "2d",
+      "ago": "3d",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -348,7 +356,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 6,
-      "ago": "3d",
+      "ago": "4d",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -356,7 +364,7 @@
       "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
       "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
       "ep": 6,
-      "ago": "3d",
+      "ago": "4d",
       "img": "c5wg4",
       "ahId": "vnlfg"
     },
@@ -364,7 +372,7 @@
       "titre": "The Elusive Samurai 2nd Season",
       "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
       "ep": 4,
-      "ago": "3d",
+      "ago": "4d",
       "img": "xg229",
       "ahId": "8s06m"
     },
@@ -420,7 +428,7 @@
       "titre": "Chainsmoker Cat",
       "titreJp": "Yani Neko",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "r45h0",
       "ahId": "6hqka"
     },
@@ -428,7 +436,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -436,7 +444,7 @@
       "titre": "Smoking Behind the Supermarket with You",
       "titreJp": "Super no Ura de Yani Suu Futari",
       "ep": 5,
-      "ago": "4d",
+      "ago": "5d",
       "img": "z18pc",
       "ahId": "gnv5p"
     },
@@ -492,7 +500,7 @@
       "titre": "From Old Country Bumpkin to Master Swordsman Season 2",
       "titreJp": "Katainaka no Ossan, Kensei ni Naru II",
       "ep": 5,
-      "ago": "5d",
+      "ago": "6d",
       "img": "8yx8x",
       "ahId": "hoi3i"
     },
@@ -500,7 +508,7 @@
       "titre": "My Stepmother and Stepsisters Aren’t Wicked",
       "titreJp": "Ibitte Konai Gibo to Gishi",
       "ep": 5,
-      "ago": "5d",
+      "ago": "6d",
       "img": "b8zqi",
       "ahId": "8e1k6"
     },
@@ -508,7 +516,7 @@
       "titre": "The Villager of LV999",
       "titreJp": "LV999 no Murabito",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "7vqbp",
       "ahId": "mucnh"
     },
@@ -516,7 +524,7 @@
       "titre": "Hana-Kimi Season 2",
       "titreJp": "Hanazakari no Kimi-tachi e Season 2",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "yzbv7",
       "ahId": "s3cd7"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "wr5w2",
       "ahId": "jrus1"
-    },
-    {
-      "titre": "Clevatess Season 2",
-      "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
-      "ep": 5,
-      "ago": "6d",
-      "img": "lz0uu",
-      "ahId": "d99rj"
     }
   ],
-  "updatedAt": "2026-08-11T15:57:00.058Z",
+  "updatedAt": "2026-08-11T16:57:55.735Z",
   "source": "github-actions",
   "count": 69
 }
