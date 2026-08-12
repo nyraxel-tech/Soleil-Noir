@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Re:ZERO: Starting Life in Another World Season 4",
+      "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
+      "ep": 12,
+      "ago": "?",
+      "img": "7tc0j",
+      "ahId": "ilp9j"
+    },
+    {
+      "titre": "Saga of Tanya the Evil II",
+      "titreJp": "",
+      "ep": 6,
+      "ago": "?",
+      "img": "wr5w2",
+      "ahId": "jrus1"
+    },
+    {
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 6,
-      "ago": "?",
+      "ago": "2h",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -12,7 +28,7 @@
       "titre": "Star Wars: Visions - The Ninth Jedi",
       "titreJp": "",
       "ep": 8,
-      "ago": "19h",
+      "ago": "20h",
       "img": "m0g87",
       "ahId": "svzyo"
     },
@@ -20,7 +36,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 6,
-      "ago": "19h",
+      "ago": "20h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -28,7 +44,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 6,
-      "ago": "20h",
+      "ago": "21h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -36,7 +52,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 6,
-      "ago": "21h",
+      "ago": "23h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -44,7 +60,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 6,
-      "ago": "21h",
+      "ago": "23h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -52,7 +68,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 7,
-      "ago": "23h",
+      "ago": "1d",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -132,7 +148,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -140,7 +156,7 @@
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 6,
-      "ago": "1d",
+      "ago": "2d",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -148,7 +164,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 6,
-      "ago": "1d",
+      "ago": "2d",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -220,7 +236,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -228,7 +244,7 @@
       "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
       "titreJp": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "tak3w",
       "ahId": "y01g1"
     },
@@ -340,7 +356,7 @@
       "titre": "Recommendations from Iwamoto-Senpai",
       "titreJp": "Iwamoto-senpai no Suisen",
       "ep": 6,
-      "ago": "3d",
+      "ago": "4d",
       "img": "gnmlq",
       "ahId": "nn6k9"
     },
@@ -348,7 +364,7 @@
       "titre": "The Cat and the Dragon",
       "titreJp": "Neko to Ryuu",
       "ep": 7,
-      "ago": "3d",
+      "ago": "4d",
       "img": "828yy",
       "ahId": "9zg3f"
     },
@@ -356,7 +372,7 @@
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 6,
-      "ago": "3d",
+      "ago": "4d",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -428,7 +444,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -436,7 +452,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -492,7 +508,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 8,
-      "ago": "5d",
+      "ago": "6d",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -535,25 +551,9 @@
       "ago": "6d",
       "img": "b8zqi",
       "ahId": "8e1k6"
-    },
-    {
-      "titre": "The Villager of LV999",
-      "titreJp": "LV999 no Murabito",
-      "ep": 7,
-      "ago": "6d",
-      "img": "7vqbp",
-      "ahId": "mucnh"
-    },
-    {
-      "titre": "Hana-Kimi Season 2",
-      "titreJp": "Hanazakari no Kimi-tachi e Season 2",
-      "ep": 7,
-      "ago": "6d",
-      "img": "yzbv7",
-      "ahId": "s3cd7"
     }
   ],
-  "updatedAt": "2026-08-12T12:59:50.275Z",
+  "updatedAt": "2026-08-12T14:22:39.280Z",
   "source": "github-actions",
   "count": 69
 }
