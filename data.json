@@ -4,7 +4,7 @@
       "titre": "Star Wars: Visions - The Ninth Jedi",
       "titreJp": "",
       "ep": 8,
-      "ago": "7h",
+      "ago": "10h",
       "img": "m0g87",
       "ahId": "svzyo"
     },
@@ -12,7 +12,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 6,
-      "ago": "7h",
+      "ago": "10h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -20,7 +20,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 6,
-      "ago": "8h",
+      "ago": "11h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -28,7 +28,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 6,
-      "ago": "10h",
+      "ago": "12h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -36,7 +36,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 6,
-      "ago": "10h",
+      "ago": "12h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -44,7 +44,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 7,
-      "ago": "11h",
+      "ago": "14h",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -52,7 +52,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 6,
-      "ago": "12h",
+      "ago": "15h",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -60,7 +60,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 6,
-      "ago": "13h",
+      "ago": "16h",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -68,7 +68,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 15,
-      "ago": "21h",
+      "ago": "23h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -252,7 +252,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 42,
-      "ago": "2d",
+      "ago": "3d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -553,7 +553,7 @@
       "ahId": "6rmgo"
     }
   ],
-  "updatedAt": "2026-08-12T01:38:46.559Z",
+  "updatedAt": "2026-08-12T04:03:09.318Z",
   "source": "github-actions",
   "count": 69
 }
