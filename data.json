@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2nd Season",
+      "titreJp": "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2nd Season",
+      "ep": 6,
+      "ago": "?",
+      "img": "l7tno",
+      "ahId": "6rmgo"
+    },
+    {
+      "titre": "My Stepmother and Stepsisters Aren’t Wicked",
+      "titreJp": "Ibitte Konai Gibo to Gishi",
+      "ep": 6,
+      "ago": "?",
+      "img": "b8zqi",
+      "ahId": "8e1k6"
+    },
+    {
+      "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
+      "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
+      "ep": 8,
+      "ago": "1h",
+      "img": "ycs89",
+      "ahId": "q3n2b"
+    },
+    {
       "titre": "Re:ZERO: Starting Life in Another World Season 4",
       "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
       "ep": 12,
-      "ago": "?",
+      "ago": "1h",
       "img": "7tc0j",
       "ahId": "ilp9j"
     },
@@ -12,7 +36,7 @@
       "titre": "Saga of Tanya the Evil II",
       "titreJp": "",
       "ep": 6,
-      "ago": "?",
+      "ago": "2h",
       "img": "wr5w2",
       "ahId": "jrus1"
     },
@@ -20,7 +44,7 @@
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 6,
-      "ago": "2h",
+      "ago": "3h",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -28,7 +52,7 @@
       "titre": "Star Wars: Visions - The Ninth Jedi",
       "titreJp": "",
       "ep": 8,
-      "ago": "20h",
+      "ago": "21h",
       "img": "m0g87",
       "ahId": "svzyo"
     },
@@ -36,7 +60,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 6,
-      "ago": "20h",
+      "ago": "22h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -44,7 +68,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 6,
-      "ago": "21h",
+      "ago": "23h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -52,7 +76,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 6,
-      "ago": "23h",
+      "ago": "1d",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -60,7 +84,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 6,
-      "ago": "23h",
+      "ago": "1d",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -116,7 +140,7 @@
       "titre": "Grand Blue Season 3",
       "titreJp": "Grand Blue Dreaming Season 3",
       "ep": 6,
-      "ago": "1d",
+      "ago": "2d",
       "img": "o5w0q",
       "ahId": "gwokm"
     },
@@ -124,7 +148,7 @@
       "titre": "Oh Boy, Was I Wrong About Her",
       "titreJp": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
       "ep": 6,
-      "ago": "1d",
+      "ago": "2d",
       "img": "vse6w",
       "ahId": "7e6hd"
     },
@@ -132,7 +156,7 @@
       "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
       "titreJp": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
       "ep": 6,
-      "ago": "1d",
+      "ago": "2d",
       "img": "0vaar",
       "ahId": "x2njz"
     },
@@ -140,7 +164,7 @@
       "titre": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
       "titreJp": "Buchikire Reijou wa Houfuku wo Chikai Mashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
       "ep": 6,
-      "ago": "1d",
+      "ago": "2d",
       "img": "s5q25",
       "ahId": "o0cpo"
     },
@@ -212,7 +236,7 @@
       "titre": "Goodbye, Lara",
       "titreJp": "Sayonara Lara",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "c5pih",
       "ahId": "f76b2"
     },
@@ -220,7 +244,7 @@
       "titre": "Mushoku Tensei: Jobless Reincarnation 3rd Season",
       "titreJp": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
       "ep": 7,
-      "ago": "2d",
+      "ago": "3d",
       "img": "b1dg7",
       "ahId": "sfvog"
     },
@@ -228,7 +252,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 18,
-      "ago": "2d",
+      "ago": "3d",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -420,7 +444,7 @@
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -428,7 +452,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 18,
-      "ago": "4d",
+      "ago": "5d",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -436,7 +460,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 17,
-      "ago": "4d",
+      "ago": "5d",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -492,7 +516,7 @@
       "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "cy9ca",
       "ahId": "ultkb"
     },
@@ -500,7 +524,7 @@
       "titre": "Mebius Dust",
       "titreJp": "",
       "ep": 5,
-      "ago": "5d",
+      "ago": "6d",
       "img": "02htn",
       "ahId": "yv7me"
     },
@@ -527,33 +551,9 @@
       "ago": "6d",
       "img": "bkz60",
       "ahId": "59rhi"
-    },
-    {
-      "titre": "Tomb Raider King",
-      "titreJp": "Dogurwang",
-      "ep": 5,
-      "ago": "6d",
-      "img": "1i8dr",
-      "ahId": "7p85t"
-    },
-    {
-      "titre": "From Old Country Bumpkin to Master Swordsman Season 2",
-      "titreJp": "Katainaka no Ossan, Kensei ni Naru II",
-      "ep": 5,
-      "ago": "6d",
-      "img": "8yx8x",
-      "ahId": "hoi3i"
-    },
-    {
-      "titre": "My Stepmother and Stepsisters Aren’t Wicked",
-      "titreJp": "Ibitte Konai Gibo to Gishi",
-      "ep": 5,
-      "ago": "6d",
-      "img": "b8zqi",
-      "ahId": "8e1k6"
     }
   ],
-  "updatedAt": "2026-08-12T14:22:39.280Z",
+  "updatedAt": "2026-08-12T15:55:42.114Z",
   "source": "github-actions",
   "count": 69
 }
