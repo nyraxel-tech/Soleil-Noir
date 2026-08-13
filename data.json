@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "BanG Dream! Yume∞Mita",
+      "titreJp": "",
+      "ep": 9,
+      "ago": "?",
+      "img": "8z55a",
+      "ahId": "78byl"
+    },
+    {
       "titre": "Bungo Stray Dogs Wan! 2",
       "titreJp": "",
       "ep": 7,
-      "ago": "?",
+      "ago": "2h",
       "img": "gob1n",
       "ahId": "1wtvp"
     },
@@ -12,7 +20,7 @@
       "titre": "Dara-san of Reiwa",
       "titreJp": "Reiwa no Dara-san",
       "ep": 7,
-      "ago": "?",
+      "ago": "2h",
       "img": "bkz60",
       "ahId": "59rhi"
     },
@@ -20,7 +28,7 @@
       "titre": "Tomb Raider King",
       "titreJp": "Dogurwang",
       "ep": 6,
-      "ago": "19h",
+      "ago": "21h",
       "img": "1i8dr",
       "ahId": "7p85t"
     },
@@ -28,7 +36,7 @@
       "titre": "The Villager of LV999",
       "titreJp": "LV999 no Murabito",
       "ep": 8,
-      "ago": "20h",
+      "ago": "22h",
       "img": "7vqbp",
       "ahId": "mucnh"
     },
@@ -36,7 +44,7 @@
       "titre": "From Old Country Bumpkin to Master Swordsman Season 2",
       "titreJp": "Katainaka no Ossan, Kensei ni Naru II",
       "ep": 6,
-      "ago": "20h",
+      "ago": "22h",
       "img": "8yx8x",
       "ahId": "hoi3i"
     },
@@ -44,7 +52,7 @@
       "titre": "Hana-Kimi Season 2",
       "titreJp": "Hanazakari no Kimi-tachi e Season 2",
       "ep": 8,
-      "ago": "20h",
+      "ago": "22h",
       "img": "yzbv7",
       "ahId": "s3cd7"
     },
@@ -52,7 +60,7 @@
       "titre": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2nd Season",
       "titreJp": "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2nd Season",
       "ep": 6,
-      "ago": "21h",
+      "ago": "23h",
       "img": "l7tno",
       "ahId": "6rmgo"
     },
@@ -60,7 +68,7 @@
       "titre": "My Stepmother and Stepsisters Aren’t Wicked",
       "titreJp": "Ibitte Konai Gibo to Gishi",
       "ep": 6,
-      "ago": "21h",
+      "ago": "23h",
       "img": "b8zqi",
       "ahId": "8e1k6"
     },
@@ -68,7 +76,7 @@
       "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
       "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
       "ep": 8,
-      "ago": "22h",
+      "ago": "1d",
       "img": "ycs89",
       "ahId": "q3n2b"
     },
@@ -76,7 +84,7 @@
       "titre": "Re:ZERO: Starting Life in Another World Season 4",
       "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
       "ep": 12,
-      "ago": "22h",
+      "ago": "1d",
       "img": "7tc0j",
       "ahId": "ilp9j"
     },
@@ -84,7 +92,7 @@
       "titre": "Saga of Tanya the Evil II",
       "titreJp": "",
       "ep": 6,
-      "ago": "23h",
+      "ago": "1d",
       "img": "wr5w2",
       "ahId": "jrus1"
     },
@@ -140,7 +148,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -204,7 +212,7 @@
       "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
       "titreJp": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "0vaar",
       "ahId": "x2njz"
     },
@@ -212,7 +220,7 @@
       "titre": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
       "titreJp": "Buchikire Reijou wa Houfuku wo Chikai Mashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "s5q25",
       "ahId": "o0cpo"
     },
@@ -220,7 +228,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 7,
-      "ago": "2d",
+      "ago": "3d",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -228,7 +236,7 @@
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -236,7 +244,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -308,7 +316,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 6,
-      "ago": "3d",
+      "ago": "4d",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -316,7 +324,7 @@
       "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
       "titreJp": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
       "ep": 6,
-      "ago": "3d",
+      "ago": "4d",
       "img": "tak3w",
       "ahId": "y01g1"
     },
@@ -428,7 +436,7 @@
       "titre": "Recommendations from Iwamoto-Senpai",
       "titreJp": "Iwamoto-senpai no Suisen",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "gnmlq",
       "ahId": "nn6k9"
     },
@@ -436,7 +444,7 @@
       "titre": "The Cat and the Dragon",
       "titreJp": "Neko to Ryuu",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "828yy",
       "ahId": "9zg3f"
     },
@@ -444,7 +452,7 @@
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -516,7 +524,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 6,
-      "ago": "5d",
+      "ago": "6d",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -524,7 +532,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 6,
-      "ago": "5d",
+      "ago": "6d",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "r45h0",
       "ahId": "6hqka"
-    },
-    {
-      "titre": "The Exiled Heavy Knight Knows How to Game the System",
-      "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
-      "ep": 6,
-      "ago": "6d",
-      "img": "3ks09",
-      "ahId": "6uopw"
     }
   ],
-  "updatedAt": "2026-08-13T13:00:53.019Z",
+  "updatedAt": "2026-08-13T14:52:44.436Z",
   "source": "github-actions",
   "count": 69
 }
