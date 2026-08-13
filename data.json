@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Kaiju Girl Caramelise",
+      "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
+      "ep": 7,
+      "ago": "?",
+      "img": "gtz8g",
+      "ahId": "wfsth"
+    },
+    {
       "titre": "Chainsmoker Cat",
       "titreJp": "Yani Neko",
       "ep": 7,
-      "ago": "?",
+      "ago": "1h",
       "img": "r45h0",
       "ahId": "6hqka"
     },
@@ -12,7 +20,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 7,
-      "ago": "?",
+      "ago": "1h",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -20,7 +28,7 @@
       "titre": "Smoking Behind the Supermarket with You",
       "titreJp": "Super no Ura de Yani Suu Futari",
       "ep": 6,
-      "ago": "?",
+      "ago": "1h",
       "img": "z18pc",
       "ahId": "gnv5p"
     },
@@ -28,7 +36,7 @@
       "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
       "ep": 8,
-      "ago": "1h",
+      "ago": "2h",
       "img": "cy9ca",
       "ahId": "ultkb"
     },
@@ -36,7 +44,7 @@
       "titre": "Mebius Dust",
       "titreJp": "",
       "ep": 6,
-      "ago": "1h",
+      "ago": "2h",
       "img": "02htn",
       "ahId": "yv7me"
     },
@@ -44,7 +52,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 9,
-      "ago": "2h",
+      "ago": "3h",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -52,7 +60,7 @@
       "titre": "Bungo Stray Dogs Wan! 2",
       "titreJp": "",
       "ep": 7,
-      "ago": "4h",
+      "ago": "5h",
       "img": "gob1n",
       "ahId": "1wtvp"
     },
@@ -60,7 +68,7 @@
       "titre": "Dara-san of Reiwa",
       "titreJp": "Reiwa no Dara-san",
       "ep": 7,
-      "ago": "4h",
+      "ago": "5h",
       "img": "bkz60",
       "ahId": "59rhi"
     },
@@ -68,7 +76,7 @@
       "titre": "Tomb Raider King",
       "titreJp": "Dogurwang",
       "ep": 6,
-      "ago": "23h",
+      "ago": "1d",
       "img": "1i8dr",
       "ahId": "7p85t"
     },
@@ -156,7 +164,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 6,
-      "ago": "1d",
+      "ago": "2d",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -420,7 +428,7 @@
       "titre": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
       "titreJp": "&quot;Kimi wo Aisuru Ki wa Nai&quot; to Itta Jiki Koushaku-sama ga nazeka Dekiaishitekimasu",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "r5tg3",
       "ahId": "m6wg7"
     },
@@ -428,7 +436,7 @@
       "titre": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
       "titreJp": "",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "zpm54",
       "ahId": "zweu6"
     },
@@ -436,7 +444,7 @@
       "titre": "The Ogre's Bride",
       "titreJp": "Oni no Hanayome",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "csu03",
       "ahId": "u6fdm"
     },
@@ -516,7 +524,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 6,
-      "ago": "5d",
+      "ago": "6d",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "6ku09",
       "ahId": "zc42w"
-    },
-    {
-      "titre": "The Drops of God",
-      "titreJp": "Kami no Shizuku",
-      "ep": 18,
-      "ago": "6d",
-      "img": "par8w",
-      "ahId": "m2zjn"
     }
   ],
-  "updatedAt": "2026-08-13T16:53:42.535Z",
+  "updatedAt": "2026-08-13T17:54:53.603Z",
   "source": "github-actions",
   "count": 69
 }
