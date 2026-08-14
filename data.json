@@ -4,7 +4,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 7,
-      "ago": "1h",
+      "ago": "2h",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -20,7 +20,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 7,
-      "ago": "2h",
+      "ago": "3h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -28,7 +28,7 @@
       "titre": "The Elusive Samurai 2nd Season",
       "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
       "ep": 5,
-      "ago": "2h",
+      "ago": "3h",
       "img": "xg229",
       "ahId": "8s06m"
     },
@@ -36,7 +36,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 19,
-      "ago": "3h",
+      "ago": "4h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -44,7 +44,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 18,
-      "ago": "3h",
+      "ago": "4h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -52,7 +52,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 7,
-      "ago": "4h",
+      "ago": "5h",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -60,7 +60,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 7,
-      "ago": "5h",
+      "ago": "6h",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -76,7 +76,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 16,
-      "ago": "14h",
+      "ago": "15h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -380,7 +380,7 @@
       "titre": "Sparks of Tomorrow",
       "titreJp": "Nijusseiki Denki Mokuroku: Eureka Evrika, 20 Seiki Denki Mokuroku: Eureka Evrika",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "2e371",
       "ahId": "1wghj"
     },
@@ -553,7 +553,7 @@
       "ahId": "pm96z"
     }
   ],
-  "updatedAt": "2026-08-14T18:48:00.580Z",
+  "updatedAt": "2026-08-14T19:44:39.585Z",
   "source": "github-actions",
   "count": 69
 }
