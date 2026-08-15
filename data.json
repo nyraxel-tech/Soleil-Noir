@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Daemons of The Shadow Realm",
+      "titreJp": "Yomi no Tsugai",
+      "ep": 19,
+      "ago": "?",
+      "img": "dks5o",
+      "ahId": "pm96z"
+    },
+    {
+      "titre": "Bleach: Thousand-Year Blood War: Part IV - The Calamity",
+      "titreJp": "Bleach: Sennen Kessen-hen: Part IV - Wazawai Suzumu-tan",
+      "ep": 4,
+      "ago": "?",
+      "img": "bd05n",
+      "ahId": "07v8r"
+    },
+    {
       "titre": "Recommendations from Iwamoto-Senpai",
       "titreJp": "Iwamoto-senpai no Suisen",
       "ep": 7,
-      "ago": "1h",
+      "ago": "2h",
       "img": "gnmlq",
       "ahId": "nn6k9"
     },
@@ -12,7 +28,7 @@
       "titre": "The Cat and the Dragon",
       "titreJp": "Neko to Ryuu",
       "ep": 8,
-      "ago": "1h",
+      "ago": "2h",
       "img": "828yy",
       "ahId": "9zg3f"
     },
@@ -20,7 +36,7 @@
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 7,
-      "ago": "2h",
+      "ago": "3h",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -28,7 +44,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 19,
-      "ago": "3h",
+      "ago": "4h",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -36,7 +52,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 18,
-      "ago": "5h",
+      "ago": "6h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -44,7 +60,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 7,
-      "ago": "22h",
+      "ago": "23h",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -52,7 +68,7 @@
       "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
       "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
       "ep": 7,
-      "ago": "22h",
+      "ago": "23h",
       "img": "c5wg4",
       "ahId": "vnlfg"
     },
@@ -60,7 +76,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 7,
-      "ago": "22h",
+      "ago": "23h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -68,7 +84,7 @@
       "titre": "The Elusive Samurai 2nd Season",
       "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
       "ep": 5,
-      "ago": "23h",
+      "ago": "1d",
       "img": "xg229",
       "ahId": "8s06m"
     },
@@ -76,7 +92,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 19,
-      "ago": "23h",
+      "ago": "1d",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -140,7 +156,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -148,7 +164,7 @@
       "titre": "Smoking Behind the Supermarket with You",
       "titreJp": "Super no Ura de Yani Suu Futari",
       "ep": 6,
-      "ago": "1d",
+      "ago": "2d",
       "img": "z18pc",
       "ahId": "gnv5p"
     },
@@ -204,7 +220,7 @@
       "titre": "The Villager of LV999",
       "titreJp": "LV999 no Murabito",
       "ep": 8,
-      "ago": "2d",
+      "ago": "3d",
       "img": "7vqbp",
       "ahId": "mucnh"
     },
@@ -212,7 +228,7 @@
       "titre": "From Old Country Bumpkin to Master Swordsman Season 2",
       "titreJp": "Katainaka no Ossan, Kensei ni Naru II",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "8yx8x",
       "ahId": "hoi3i"
     },
@@ -220,7 +236,7 @@
       "titre": "Hana-Kimi Season 2",
       "titreJp": "Hanazakari no Kimi-tachi e Season 2",
       "ep": 8,
-      "ago": "2d",
+      "ago": "3d",
       "img": "yzbv7",
       "ahId": "s3cd7"
     },
@@ -228,7 +244,7 @@
       "titre": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2nd Season",
       "titreJp": "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2nd Season",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "l7tno",
       "ahId": "6rmgo"
     },
@@ -300,7 +316,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 6,
-      "ago": "3d",
+      "ago": "4d",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -348,7 +364,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 19,
-      "ago": "4d",
+      "ago": "5d",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -356,7 +372,7 @@
       "titre": "Grand Blue Season 3",
       "titreJp": "Grand Blue Dreaming Season 3",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "o5w0q",
       "ahId": "gwokm"
     },
@@ -436,7 +452,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1173,
-      "ago": "5d",
+      "ago": "6d",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -444,7 +460,7 @@
       "titre": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
       "titreJp": "Futsutsuka na Akujo de wa Gozaimasu ga: Hina Miya Chou Nezumi Torikaeden",
       "ep": 5,
-      "ago": "5d",
+      "ago": "6d",
       "img": "0jvwd",
       "ahId": "f7d85"
     },
@@ -452,7 +468,7 @@
       "titre": "Goodbye, Lara",
       "titreJp": "Sayonara Lara",
       "ep": 6,
-      "ago": "5d",
+      "ago": "6d",
       "img": "c5pih",
       "ahId": "f76b2"
     },
@@ -460,7 +476,7 @@
       "titre": "Mushoku Tensei: Jobless Reincarnation 3rd Season",
       "titreJp": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "b1dg7",
       "ahId": "sfvog"
     },
@@ -543,25 +559,9 @@
       "ago": "6d",
       "img": "r5tg3",
       "ahId": "m6wg7"
-    },
-    {
-      "titre": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
-      "titreJp": "",
-      "ep": 6,
-      "ago": "6d",
-      "img": "zpm54",
-      "ahId": "zweu6"
-    },
-    {
-      "titre": "The Ogre's Bride",
-      "titreJp": "Oni no Hanayome",
-      "ep": 6,
-      "ago": "6d",
-      "img": "csu03",
-      "ahId": "u6fdm"
     }
   ],
-  "updatedAt": "2026-08-15T15:15:46.959Z",
+  "updatedAt": "2026-08-15T16:18:57.869Z",
   "source": "github-actions",
   "count": 70
 }
