@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Recommendations from Iwamoto-Senpai",
+      "titreJp": "Iwamoto-senpai no Suisen",
+      "ep": 7,
+      "ago": "?",
+      "img": "gnmlq",
+      "ahId": "nn6k9"
+    },
+    {
+      "titre": "The Cat and the Dragon",
+      "titreJp": "Neko to Ryuu",
+      "ep": 8,
+      "ago": "?",
+      "img": "828yy",
+      "ahId": "9zg3f"
+    },
+    {
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 7,
-      "ago": "?",
+      "ago": "1h",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -12,7 +28,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 19,
-      "ago": "1h",
+      "ago": "2h",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -20,7 +36,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 18,
-      "ago": "3h",
+      "ago": "4h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -28,7 +44,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 7,
-      "ago": "20h",
+      "ago": "21h",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -36,7 +52,7 @@
       "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
       "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
       "ep": 7,
-      "ago": "20h",
+      "ago": "21h",
       "img": "c5wg4",
       "ahId": "vnlfg"
     },
@@ -44,7 +60,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 7,
-      "ago": "20h",
+      "ago": "21h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -52,7 +68,7 @@
       "titre": "The Elusive Samurai 2nd Season",
       "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
       "ep": 5,
-      "ago": "21h",
+      "ago": "22h",
       "img": "xg229",
       "ahId": "8s06m"
     },
@@ -60,7 +76,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 19,
-      "ago": "21h",
+      "ago": "22h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -68,7 +84,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 18,
-      "ago": "22h",
+      "ago": "23h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -76,7 +92,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 7,
-      "ago": "23h",
+      "ago": "1d",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -84,7 +100,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 7,
-      "ago": "23h",
+      "ago": "1d",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -156,7 +172,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 9,
-      "ago": "1d",
+      "ago": "2d",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -236,7 +252,7 @@
       "titre": "Re:ZERO: Starting Life in Another World Season 4",
       "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
       "ep": 12,
-      "ago": "2d",
+      "ago": "3d",
       "img": "7tc0j",
       "ahId": "ilp9j"
     },
@@ -244,7 +260,7 @@
       "titre": "Saga of Tanya the Evil II",
       "titreJp": "",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "wr5w2",
       "ahId": "jrus1"
     },
@@ -300,7 +316,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 7,
-      "ago": "3d",
+      "ago": "4d",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -372,7 +388,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -460,7 +476,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 6,
-      "ago": "5d",
+      "ago": "6d",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -543,25 +559,9 @@
       "ago": "6d",
       "img": "csu03",
       "ahId": "u6fdm"
-    },
-    {
-      "titre": "MAO",
-      "titreJp": "",
-      "ep": 19,
-      "ago": "6d",
-      "img": "topci",
-      "ahId": "qw2g9"
-    },
-    {
-      "titre": "Bleach: Thousand-Year Blood War: Part IV - The Calamity",
-      "titreJp": "Bleach: Sennen Kessen-hen: Part IV - Wazawai Suzumu-tan",
-      "ep": 3,
-      "ago": "6d",
-      "img": "bd05n",
-      "ahId": "07v8r"
     }
   ],
-  "updatedAt": "2026-08-15T13:26:31.599Z",
+  "updatedAt": "2026-08-15T14:17:41.552Z",
   "source": "github-actions",
   "count": 70
 }
