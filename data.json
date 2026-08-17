@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "The World Is Dancing",
+      "titreJp": "World Is Dancing",
+      "ep": 8,
+      "ago": "?",
+      "img": "ob8k9",
+      "ahId": "jc70y"
+    },
+    {
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 7,
-      "ago": "?",
+      "ago": "1h",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -12,7 +20,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 7,
-      "ago": "?",
+      "ago": "1h",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -20,7 +28,7 @@
       "titre": "Love Unseen Beneath the Clear Night Sky",
       "titreJp": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "ep": 7,
-      "ago": "?",
+      "ago": "1h",
       "img": "2qfc1",
       "ahId": "fn31g"
     },
@@ -28,7 +36,7 @@
       "titre": "Azur Lane: Slow Ahead! 2nd Season",
       "titreJp": "Azur Lane: Bisoku Zenshin! 2nd Season",
       "ep": 7,
-      "ago": "20h",
+      "ago": "21h",
       "img": "8j4y6",
       "ahId": "marhn"
     },
@@ -36,7 +44,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1174,
-      "ago": "20h",
+      "ago": "21h",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -44,7 +52,7 @@
       "titre": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
       "titreJp": "Futsutsuka na Akujo de wa Gozaimasu ga: Hina Miya Chou Nezumi Torikaeden",
       "ep": 6,
-      "ago": "21h",
+      "ago": "22h",
       "img": "0jvwd",
       "ahId": "f7d85"
     },
@@ -52,7 +60,7 @@
       "titre": "Goodbye, Lara",
       "titreJp": "Sayonara Lara",
       "ep": 7,
-      "ago": "21h",
+      "ago": "22h",
       "img": "c5pih",
       "ahId": "f76b2"
     },
@@ -60,7 +68,7 @@
       "titre": "Mushoku Tensei: Jobless Reincarnation 3rd Season",
       "titreJp": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
       "ep": 8,
-      "ago": "22h",
+      "ago": "23h",
       "img": "b1dg7",
       "ahId": "sfvog"
     },
@@ -68,7 +76,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 19,
-      "ago": "22h",
+      "ago": "23h",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -84,7 +92,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 7,
-      "ago": "23h",
+      "ago": "1d",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -220,7 +228,7 @@
       "titre": "Recommendations from Iwamoto-Senpai",
       "titreJp": "Iwamoto-senpai no Suisen",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "gnmlq",
       "ahId": "nn6k9"
     },
@@ -228,7 +236,7 @@
       "titre": "The Cat and the Dragon",
       "titreJp": "Neko to Ryuu",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "828yy",
       "ahId": "9zg3f"
     },
@@ -308,7 +316,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 7,
-      "ago": "2d",
+      "ago": "3d",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -316,7 +324,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 7,
-      "ago": "2d",
+      "ago": "3d",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -388,7 +396,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 9,
-      "ago": "3d",
+      "ago": "4d",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -468,7 +476,7 @@
       "titre": "Re:ZERO: Starting Life in Another World Season 4",
       "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "7tc0j",
       "ahId": "ilp9j"
     },
@@ -476,7 +484,7 @@
       "titre": "Saga of Tanya the Evil II",
       "titreJp": "",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "wr5w2",
       "ahId": "jrus1"
     },
@@ -532,7 +540,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "5kivb",
       "ahId": "f6u2m"
-    },
-    {
-      "titre": "Young Ladies Don't Play Fighting Games",
-      "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
-      "ep": 6,
-      "ago": "6d",
-      "img": "q69uk",
-      "ahId": "vgurt"
     }
   ],
-  "updatedAt": "2026-08-17T13:35:59.078Z",
+  "updatedAt": "2026-08-17T14:22:47.447Z",
   "source": "github-actions",
   "count": 69
 }
