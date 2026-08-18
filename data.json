@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Crowned in a Hundred Days",
+      "titreJp": "Bai Ri Cheng Wang",
+      "ep": 17,
+      "ago": "?",
+      "img": "c1n5b",
+      "ahId": "z1cl4"
+    },
+    {
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 20,
-      "ago": "11h",
+      "ago": "12h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -20,7 +28,7 @@
       "titre": "Oh Boy, Was I Wrong About Her",
       "titreJp": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
       "ep": 7,
-      "ago": "12h",
+      "ago": "13h",
       "img": "vse6w",
       "ahId": "7e6hd"
     },
@@ -28,7 +36,7 @@
       "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
       "titreJp": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
       "ep": 7,
-      "ago": "12h",
+      "ago": "13h",
       "img": "0vaar",
       "ahId": "x2njz"
     },
@@ -36,7 +44,7 @@
       "titre": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
       "titreJp": "Buchikire Reijou wa Houfuku wo Chikai Mashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
       "ep": 7,
-      "ago": "12h",
+      "ago": "13h",
       "img": "s5q25",
       "ahId": "o0cpo"
     },
@@ -44,7 +52,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 8,
-      "ago": "13h",
+      "ago": "14h",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -52,7 +60,7 @@
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 7,
-      "ago": "14h",
+      "ago": "15h",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -60,7 +68,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 7,
-      "ago": "14h",
+      "ago": "15h",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -209,7 +217,7 @@
       "ahId": "n2apg"
     },
     {
-      "titre": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
+      "titre": "The Duke��s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
       "titreJp": "&quot;Kimi wo Aisuru Ki wa Nai&quot; to Itta Jiki Koushaku-sama ga nazeka Dekiaishitekimasu",
       "ep": 7,
       "ago": "2d",
@@ -375,14 +383,6 @@
       "ago": "3d",
       "img": "whrba",
       "ahId": "gv7dl"
-    },
-    {
-      "titre": "Crowned in a Hundred Days",
-      "titreJp": "Bai Ri Cheng Wang",
-      "ep": 16,
-      "ago": "3d",
-      "img": "c1n5b",
-      "ahId": "z1cl4"
     },
     {
       "titre": "Kaiju Girl Caramelise",
@@ -553,7 +553,7 @@
       "ahId": "x48y1"
     }
   ],
-  "updatedAt": "2026-08-18T03:40:04.349Z",
+  "updatedAt": "2026-08-18T04:31:10.958Z",
   "source": "github-actions",
   "count": 69
 }
