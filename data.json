@@ -4,7 +4,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 20,
-      "ago": "10h",
+      "ago": "11h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -12,7 +12,7 @@
       "titre": "Grand Blue Season 3",
       "titreJp": "Grand Blue Dreaming Season 3",
       "ep": 7,
-      "ago": "11h",
+      "ago": "12h",
       "img": "o5w0q",
       "ahId": "gwokm"
     },
@@ -20,7 +20,7 @@
       "titre": "Oh Boy, Was I Wrong About Her",
       "titreJp": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
       "ep": 7,
-      "ago": "11h",
+      "ago": "12h",
       "img": "vse6w",
       "ahId": "7e6hd"
     },
@@ -52,7 +52,7 @@
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 7,
-      "ago": "13h",
+      "ago": "14h",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -60,7 +60,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 7,
-      "ago": "13h",
+      "ago": "14h",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -68,7 +68,7 @@
       "titre": "Love Unseen Beneath the Clear Night Sky",
       "titreJp": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "ep": 7,
-      "ago": "14h",
+      "ago": "15h",
       "img": "2qfc1",
       "ahId": "fn31g"
     },
@@ -180,7 +180,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 43,
-      "ago": "1d",
+      "ago": "2d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -553,7 +553,7 @@
       "ahId": "x48y1"
     }
   ],
-  "updatedAt": "2026-08-18T02:51:41.808Z",
+  "updatedAt": "2026-08-18T03:40:04.349Z",
   "source": "github-actions",
   "count": 69
 }
