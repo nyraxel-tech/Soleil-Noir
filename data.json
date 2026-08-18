@@ -4,7 +4,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 7,
-      "ago": "2h",
+      "ago": "3h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -12,7 +12,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 7,
-      "ago": "4h",
+      "ago": "5h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -20,7 +20,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 7,
-      "ago": "5h",
+      "ago": "6h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -28,7 +28,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 7,
-      "ago": "5h",
+      "ago": "6h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -36,7 +36,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 8,
-      "ago": "6h",
+      "ago": "7h",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -44,7 +44,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 7,
-      "ago": "7h",
+      "ago": "8h",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -52,7 +52,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 7,
-      "ago": "8h",
+      "ago": "9h",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -60,7 +60,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 17,
-      "ago": "16h",
+      "ago": "17h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -553,7 +553,7 @@
       "ahId": "6rmgo"
     }
   ],
-  "updatedAt": "2026-08-18T20:18:36.340Z",
+  "updatedAt": "2026-08-18T21:19:35.328Z",
   "source": "github-actions",
   "count": 69
 }
