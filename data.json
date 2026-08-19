@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Flaming Dodgeball Girl Danko",
+      "titreJp": "Honoo no Toukyuujo: Dodge Danko",
+      "ep": 7,
+      "ago": "1h",
+      "img": "t7nlu",
+      "ahId": "usbqy"
+    },
+    {
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 7,
-      "ago": "5h",
+      "ago": "7h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -12,7 +20,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 7,
-      "ago": "7h",
+      "ago": "9h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -20,7 +28,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 7,
-      "ago": "8h",
+      "ago": "9h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -28,7 +36,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 7,
-      "ago": "8h",
+      "ago": "9h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -36,7 +44,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 8,
-      "ago": "9h",
+      "ago": "11h",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -44,7 +52,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 7,
-      "ago": "10h",
+      "ago": "12h",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -52,7 +60,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 7,
-      "ago": "11h",
+      "ago": "13h",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -60,7 +68,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 17,
-      "ago": "19h",
+      "ago": "20h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "yzbv7",
       "ahId": "s3cd7"
-    },
-    {
-      "titre": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2nd Season",
-      "titreJp": "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2nd Season",
-      "ep": 6,
-      "ago": "6d",
-      "img": "l7tno",
-      "ahId": "6rmgo"
     }
   ],
-  "updatedAt": "2026-08-18T23:17:42.011Z",
+  "updatedAt": "2026-08-19T01:01:16.311Z",
   "source": "github-actions",
   "count": 69
 }
