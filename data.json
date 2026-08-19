@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Clevatess Season 2",
+      "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
+      "ep": 7,
+      "ago": "?",
+      "img": "lz0uu",
+      "ahId": "d99rj"
+    },
+    {
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 7,
-      "ago": "11h",
+      "ago": "12h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -12,7 +20,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 7,
-      "ago": "17h",
+      "ago": "18h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -20,7 +28,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 7,
-      "ago": "19h",
+      "ago": "21h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -28,7 +36,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 7,
-      "ago": "20h",
+      "ago": "21h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -36,7 +44,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 7,
-      "ago": "20h",
+      "ago": "21h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -44,7 +52,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 8,
-      "ago": "21h",
+      "ago": "22h",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -52,7 +60,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 7,
-      "ago": "22h",
+      "ago": "23h",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -60,7 +68,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 7,
-      "ago": "23h",
+      "ago": "1d",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -364,7 +372,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 19,
-      "ago": "3d",
+      "ago": "4d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "8yx8x",
       "ahId": "hoi3i"
-    },
-    {
-      "titre": "Hana-Kimi Season 2",
-      "titreJp": "Hanazakari no Kimi-tachi e Season 2",
-      "ep": 8,
-      "ago": "6d",
-      "img": "yzbv7",
-      "ahId": "s3cd7"
     }
   ],
-  "updatedAt": "2026-08-19T11:20:49.670Z",
+  "updatedAt": "2026-08-19T12:38:04.669Z",
   "source": "github-actions",
   "count": 69
 }
