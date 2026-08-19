@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Saga of Tanya the Evil II",
+      "titreJp": "",
+      "ep": 7,
+      "ago": "?",
+      "img": "wr5w2",
+      "ahId": "jrus1"
+    },
+    {
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 7,
-      "ago": "?",
+      "ago": "1h",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -12,7 +20,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 7,
-      "ago": "12h",
+      "ago": "13h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -20,7 +28,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 7,
-      "ago": "18h",
+      "ago": "19h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -28,7 +36,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 7,
-      "ago": "21h",
+      "ago": "22h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -36,7 +44,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 7,
-      "ago": "21h",
+      "ago": "22h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -44,7 +52,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 7,
-      "ago": "21h",
+      "ago": "22h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -52,7 +60,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 8,
-      "ago": "22h",
+      "ago": "1d",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -60,7 +68,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 7,
-      "ago": "23h",
+      "ago": "1d",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -132,7 +140,7 @@
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -140,7 +148,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -148,7 +156,7 @@
       "titre": "Love Unseen Beneath the Clear Night Sky",
       "titreJp": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "2qfc1",
       "ahId": "fn31g"
     },
@@ -220,7 +228,7 @@
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 7,
-      "ago": "2d",
+      "ago": "3d",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -228,7 +236,7 @@
       "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
       "titreJp": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
       "ep": 7,
-      "ago": "2d",
+      "ago": "3d",
       "img": "tak3w",
       "ahId": "y01g1"
     },
@@ -356,7 +364,7 @@
       "titre": "The Cat and the Dragon",
       "titreJp": "Neko to Ryuu",
       "ep": 8,
-      "ago": "3d",
+      "ago": "4d",
       "img": "828yy",
       "ahId": "9zg3f"
     },
@@ -364,7 +372,7 @@
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 7,
-      "ago": "3d",
+      "ago": "4d",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -444,7 +452,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -516,7 +524,7 @@
       "titre": "Bungo Stray Dogs Wan! 2",
       "titreJp": "",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "gob1n",
       "ahId": "1wtvp"
     },
@@ -524,7 +532,7 @@
       "titre": "Dara-san of Reiwa",
       "titreJp": "Reiwa no Dara-san",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "bkz60",
       "ahId": "59rhi"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "7vqbp",
       "ahId": "mucnh"
-    },
-    {
-      "titre": "From Old Country Bumpkin to Master Swordsman Season 2",
-      "titreJp": "Katainaka no Ossan, Kensei ni Naru II",
-      "ep": 6,
-      "ago": "6d",
-      "img": "8yx8x",
-      "ahId": "hoi3i"
     }
   ],
-  "updatedAt": "2026-08-19T12:38:04.669Z",
+  "updatedAt": "2026-08-19T13:40:20.240Z",
   "source": "github-actions",
   "count": 69
 }
