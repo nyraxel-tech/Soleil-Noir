@@ -1,6 +1,14 @@
 {
   "animes": [
     {
+      "titre": "Re:ZERO: Starting Life in Another World Season 4",
+      "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
+      "ep": 13,
+      "ago": "?",
+      "img": "7tc0j",
+      "ahId": "ilp9j"
+    },
+    {
       "titre": "Saga of Tanya the Evil II",
       "titreJp": "",
       "ep": 7,
@@ -12,7 +20,7 @@
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 7,
-      "ago": "1h",
+      "ago": "2h",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -20,7 +28,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 7,
-      "ago": "13h",
+      "ago": "14h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -28,7 +36,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 7,
-      "ago": "19h",
+      "ago": "20h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -36,7 +44,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 7,
-      "ago": "22h",
+      "ago": "23h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -44,7 +52,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 7,
-      "ago": "22h",
+      "ago": "23h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -52,7 +60,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 7,
-      "ago": "22h",
+      "ago": "23h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -132,7 +140,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -220,7 +228,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 7,
-      "ago": "2d",
+      "ago": "3d",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -356,7 +364,7 @@
       "titre": "Recommendations from Iwamoto-Senpai",
       "titreJp": "Iwamoto-senpai no Suisen",
       "ep": 7,
-      "ago": "3d",
+      "ago": "4d",
       "img": "gnmlq",
       "ahId": "nn6k9"
     },
@@ -444,7 +452,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -516,7 +524,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 9,
-      "ago": "5d",
+      "ago": "6d",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "1i8dr",
       "ahId": "7p85t"
-    },
-    {
-      "titre": "The Villager of LV999",
-      "titreJp": "LV999 no Murabito",
-      "ep": 8,
-      "ago": "6d",
-      "img": "7vqbp",
-      "ahId": "mucnh"
     }
   ],
-  "updatedAt": "2026-08-19T13:40:20.240Z",
+  "updatedAt": "2026-08-19T14:28:36.949Z",
   "source": "github-actions",
   "count": 69
 }
