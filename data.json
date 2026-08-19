@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "The Villager of LV999",
+      "titreJp": "LV999 no Murabito",
+      "ep": 9,
+      "ago": "?",
+      "img": "7vqbp",
+      "ahId": "mucnh"
+    },
+    {
+      "titre": "Hana-Kimi Season 2",
+      "titreJp": "Hanazakari no Kimi-tachi e Season 2",
+      "ep": 9,
+      "ago": "?",
+      "img": "yzbv7",
+      "ahId": "s3cd7"
+    },
+    {
+      "titre": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2nd Season",
+      "titreJp": "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2nd Season",
+      "ep": 7,
+      "ago": "?",
+      "img": "l7tno",
+      "ahId": "6rmgo"
+    },
+    {
       "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
       "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
       "ep": 9,
-      "ago": "?",
+      "ago": "1h",
       "img": "ycs89",
       "ahId": "q3n2b"
     },
@@ -12,7 +36,7 @@
       "titre": "Re:ZERO: Starting Life in Another World Season 4",
       "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
       "ep": 13,
-      "ago": "1h",
+      "ago": "2h",
       "img": "7tc0j",
       "ahId": "ilp9j"
     },
@@ -20,7 +44,7 @@
       "titre": "Saga of Tanya the Evil II",
       "titreJp": "",
       "ep": 7,
-      "ago": "1h",
+      "ago": "2h",
       "img": "wr5w2",
       "ahId": "jrus1"
     },
@@ -28,7 +52,7 @@
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 7,
-      "ago": "3h",
+      "ago": "4h",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -36,7 +60,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 7,
-      "ago": "15h",
+      "ago": "16h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -44,7 +68,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 7,
-      "ago": "21h",
+      "ago": "22h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -108,7 +132,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 20,
-      "ago": "1d",
+      "ago": "2d",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -116,7 +140,7 @@
       "titre": "Grand Blue Season 3",
       "titreJp": "Grand Blue Dreaming Season 3",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "o5w0q",
       "ahId": "gwokm"
     },
@@ -196,7 +220,7 @@
       "titre": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
       "titreJp": "Futsutsuka na Akujo de wa Gozaimasu ga: Hina Miya Chou Nezumi Torikaeden",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "0jvwd",
       "ahId": "f7d85"
     },
@@ -204,7 +228,7 @@
       "titre": "Goodbye, Lara",
       "titreJp": "Sayonara Lara",
       "ep": 7,
-      "ago": "2d",
+      "ago": "3d",
       "img": "c5pih",
       "ahId": "f76b2"
     },
@@ -348,7 +372,7 @@
       "titre": "Jaadugar: A Witch in Mongolia",
       "titreJp": "Tenmaku no Jaadugar",
       "ep": 8,
-      "ago": "3d",
+      "ago": "4d",
       "img": "9ihs5",
       "ahId": "t1ey0"
     },
@@ -356,7 +380,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 19,
-      "ago": "3d",
+      "ago": "4d",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -364,7 +388,7 @@
       "titre": "Bleach: Thousand-Year Blood War: Part IV - The Calamity",
       "titreJp": "Bleach: Sennen Kessen-hen: Part IV - Wazawai Suzumu-tan",
       "ep": 4,
-      "ago": "3d",
+      "ago": "4d",
       "img": "bd05n",
       "ahId": "07v8r"
     },
@@ -436,7 +460,7 @@
       "titre": "The Elusive Samurai 2nd Season",
       "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
       "ep": 5,
-      "ago": "4d",
+      "ago": "5d",
       "img": "xg229",
       "ahId": "8s06m"
     },
@@ -444,7 +468,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 19,
-      "ago": "4d",
+      "ago": "5d",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -492,7 +516,7 @@
       "titre": "Chainsmoker Cat",
       "titreJp": "Yani Neko",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "r45h0",
       "ahId": "6hqka"
     },
@@ -500,7 +524,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -508,7 +532,7 @@
       "titre": "Smoking Behind the Supermarket with You",
       "titreJp": "Super no Ura de Yani Suu Futari",
       "ep": 6,
-      "ago": "5d",
+      "ago": "6d",
       "img": "z18pc",
       "ahId": "gnv5p"
     },
@@ -527,33 +551,9 @@
       "ago": "6d",
       "img": "02htn",
       "ahId": "yv7me"
-    },
-    {
-      "titre": "BanG Dream! Yume∞Mita",
-      "titreJp": "",
-      "ep": 9,
-      "ago": "6d",
-      "img": "8z55a",
-      "ahId": "78byl"
-    },
-    {
-      "titre": "Bungo Stray Dogs Wan! 2",
-      "titreJp": "",
-      "ep": 7,
-      "ago": "6d",
-      "img": "gob1n",
-      "ahId": "1wtvp"
-    },
-    {
-      "titre": "Dara-san of Reiwa",
-      "titreJp": "Reiwa no Dara-san",
-      "ep": 7,
-      "ago": "6d",
-      "img": "bkz60",
-      "ahId": "59rhi"
     }
   ],
-  "updatedAt": "2026-08-19T15:26:34.839Z",
+  "updatedAt": "2026-08-19T16:26:47.543Z",
   "source": "github-actions",
   "count": 69
 }
