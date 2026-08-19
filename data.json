@@ -20,7 +20,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 7,
-      "ago": "11h",
+      "ago": "12h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -28,7 +28,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 7,
-      "ago": "11h",
+      "ago": "12h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -36,7 +36,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 7,
-      "ago": "11h",
+      "ago": "12h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -44,7 +44,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 8,
-      "ago": "13h",
+      "ago": "14h",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -52,7 +52,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 7,
-      "ago": "14h",
+      "ago": "15h",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -60,7 +60,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 7,
-      "ago": "15h",
+      "ago": "16h",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -68,7 +68,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 17,
-      "ago": "22h",
+      "ago": "23h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -252,7 +252,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 43,
-      "ago": "2d",
+      "ago": "3d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -553,7 +553,7 @@
       "ahId": "s3cd7"
     }
   ],
-  "updatedAt": "2026-08-19T02:53:12.308Z",
+  "updatedAt": "2026-08-19T03:42:17.896Z",
   "source": "github-actions",
   "count": 69
 }
