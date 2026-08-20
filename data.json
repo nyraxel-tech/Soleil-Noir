@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Chainsmoker Cat",
+      "titreJp": "Yani Neko",
+      "ep": 8,
+      "ago": "?",
+      "img": "r45h0",
+      "ahId": "6hqka"
+    },
+    {
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 8,
-      "ago": "?",
+      "ago": "1h",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -12,7 +20,7 @@
       "titre": "Smoking Behind the Supermarket with You",
       "titreJp": "Super no Ura de Yani Suu Futari",
       "ep": 7,
-      "ago": "?",
+      "ago": "1h",
       "img": "z18pc",
       "ahId": "gnv5p"
     },
@@ -20,7 +28,7 @@
       "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
       "ep": 9,
-      "ago": "1h",
+      "ago": "2h",
       "img": "cy9ca",
       "ahId": "ultkb"
     },
@@ -28,7 +36,7 @@
       "titre": "Mebius Dust",
       "titreJp": "",
       "ep": 7,
-      "ago": "1h",
+      "ago": "2h",
       "img": "02htn",
       "ahId": "yv7me"
     },
@@ -36,7 +44,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 10,
-      "ago": "2h",
+      "ago": "3h",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -44,7 +52,7 @@
       "titre": "Bungo Stray Dogs Wan! 2",
       "titreJp": "",
       "ep": 8,
-      "ago": "3h",
+      "ago": "4h",
       "img": "gob1n",
       "ahId": "1wtvp"
     },
@@ -52,7 +60,7 @@
       "titre": "Dara-san of Reiwa",
       "titreJp": "Reiwa no Dara-san",
       "ep": 8,
-      "ago": "3h",
+      "ago": "4h",
       "img": "bkz60",
       "ahId": "59rhi"
     },
@@ -60,7 +68,7 @@
       "titre": "My Stepmother and Stepsisters Aren’t Wicked",
       "titreJp": "Ibitte Konai Gibo to Gishi",
       "ep": 7,
-      "ago": "21h",
+      "ago": "22h",
       "img": "b8zqi",
       "ahId": "8e1k6"
     },
@@ -68,7 +76,7 @@
       "titre": "From Old Country Bumpkin to Master Swordsman Season 2",
       "titreJp": "Katainaka no Ossan, Kensei ni Naru II",
       "ep": 7,
-      "ago": "21h",
+      "ago": "22h",
       "img": "8yx8x",
       "ahId": "hoi3i"
     },
@@ -76,7 +84,7 @@
       "titre": "Tomb Raider King",
       "titreJp": "Dogurwang",
       "ep": 7,
-      "ago": "22h",
+      "ago": "23h",
       "img": "1i8dr",
       "ahId": "7p85t"
     },
@@ -284,7 +292,7 @@
       "titre": "Azur Lane: Slow Ahead! 2nd Season",
       "titreJp": "Azur Lane: Bisoku Zenshin! 2nd Season",
       "ep": 7,
-      "ago": "3d",
+      "ago": "4d",
       "img": "8j4y6",
       "ahId": "marhn"
     },
@@ -292,7 +300,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1174,
-      "ago": "3d",
+      "ago": "4d",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -428,7 +436,7 @@
       "titre": "The Ogre's Bride",
       "titreJp": "Oni no Hanayome",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "csu03",
       "ahId": "u6fdm"
     },
@@ -436,7 +444,7 @@
       "titre": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
       "titreJp": "",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "zpm54",
       "ahId": "zweu6"
     },
@@ -444,7 +452,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 20,
-      "ago": "4d",
+      "ago": "5d",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -516,7 +524,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -524,7 +532,7 @@
       "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
       "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "c5wg4",
       "ahId": "vnlfg"
     },
@@ -532,7 +540,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "xg229",
       "ahId": "8s06m"
-    },
-    {
-      "titre": "The Drops of God",
-      "titreJp": "Kami no Shizuku",
-      "ep": 19,
-      "ago": "6d",
-      "img": "par8w",
-      "ahId": "m2zjn"
     }
   ],
-  "updatedAt": "2026-08-20T16:30:00.369Z",
+  "updatedAt": "2026-08-20T17:24:25.398Z",
   "source": "github-actions",
   "count": 69
 }
