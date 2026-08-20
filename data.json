@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "BanG Dream! Yume∞Mita",
+      "titreJp": "",
+      "ep": 10,
+      "ago": "?",
+      "img": "8z55a",
+      "ahId": "78byl"
+    },
+    {
       "titre": "Bungo Stray Dogs Wan! 2",
       "titreJp": "",
       "ep": 8,
-      "ago": "?",
+      "ago": "1h",
       "img": "gob1n",
       "ahId": "1wtvp"
     },
@@ -20,7 +28,7 @@
       "titre": "My Stepmother and Stepsisters Aren’t Wicked",
       "titreJp": "Ibitte Konai Gibo to Gishi",
       "ep": 7,
-      "ago": "18h",
+      "ago": "19h",
       "img": "b8zqi",
       "ahId": "8e1k6"
     },
@@ -28,7 +36,7 @@
       "titre": "From Old Country Bumpkin to Master Swordsman Season 2",
       "titreJp": "Katainaka no Ossan, Kensei ni Naru II",
       "ep": 7,
-      "ago": "18h",
+      "ago": "19h",
       "img": "8yx8x",
       "ahId": "hoi3i"
     },
@@ -44,7 +52,7 @@
       "titre": "The Villager of LV999",
       "titreJp": "LV999 no Murabito",
       "ep": 9,
-      "ago": "21h",
+      "ago": "22h",
       "img": "7vqbp",
       "ahId": "mucnh"
     },
@@ -52,7 +60,7 @@
       "titre": "Hana-Kimi Season 2",
       "titreJp": "Hanazakari no Kimi-tachi e Season 2",
       "ep": 9,
-      "ago": "21h",
+      "ago": "22h",
       "img": "yzbv7",
       "ahId": "s3cd7"
     },
@@ -76,7 +84,7 @@
       "titre": "Re:ZERO: Starting Life in Another World Season 4",
       "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
       "ep": 13,
-      "ago": "23h",
+      "ago": "1d",
       "img": "7tc0j",
       "ahId": "ilp9j"
     },
@@ -300,7 +308,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 7,
-      "ago": "3d",
+      "ago": "4d",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -436,7 +444,7 @@
       "titre": "Recommendations from Iwamoto-Senpai",
       "titreJp": "Iwamoto-senpai no Suisen",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "gnmlq",
       "ahId": "nn6k9"
     },
@@ -524,7 +532,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "whrba",
       "ahId": "gv7dl"
-    },
-    {
-      "titre": "Kaiju Girl Caramelise",
-      "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
-      "ep": 7,
-      "ago": "6d",
-      "img": "gtz8g",
-      "ahId": "wfsth"
     }
   ],
-  "updatedAt": "2026-08-20T13:42:08.193Z",
+  "updatedAt": "2026-08-20T14:31:44.312Z",
   "source": "github-actions",
   "count": 69
 }
