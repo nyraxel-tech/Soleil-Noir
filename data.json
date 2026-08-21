@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "The Elusive Samurai 2nd Season",
+      "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
+      "ep": 6,
+      "ago": "?",
+      "img": "xg229",
+      "ahId": "8s06m"
+    },
+    {
+      "titre": "Draw this, then die!",
+      "titreJp": "Kore Kaite Shine",
+      "ep": 7,
+      "ago": "?",
+      "img": "6ku09",
+      "ahId": "zc42w"
+    },
+    {
+      "titre": "The Drops of God",
+      "titreJp": "Kami no Shizuku",
+      "ep": 20,
+      "ago": "?",
+      "img": "par8w",
+      "ahId": "m2zjn"
+    },
+    {
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 19,
-      "ago": "?",
+      "ago": "1h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -12,7 +36,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 8,
-      "ago": "1h",
+      "ago": "2h",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -20,7 +44,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 8,
-      "ago": "1h",
+      "ago": "2h",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -28,7 +52,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 18,
-      "ago": "11h",
+      "ago": "12h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -36,7 +60,7 @@
       "titre": "Link Click 3rd Season",
       "titreJp": "Shiguang Dailiren 3rd Season",
       "ep": 3,
-      "ago": "12h",
+      "ago": "13h",
       "img": "whrba",
       "ahId": "gv7dl"
     },
@@ -44,7 +68,7 @@
       "titre": "Kaiju Girl Caramelise",
       "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
       "ep": 8,
-      "ago": "21h",
+      "ago": "22h",
       "img": "gtz8g",
       "ahId": "wfsth"
     },
@@ -52,7 +76,7 @@
       "titre": "Chainsmoker Cat",
       "titreJp": "Yani Neko",
       "ep": 8,
-      "ago": "22h",
+      "ago": "23h",
       "img": "r45h0",
       "ahId": "6hqka"
     },
@@ -60,7 +84,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 8,
-      "ago": "23h",
+      "ago": "1d",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -68,7 +92,7 @@
       "titre": "Smoking Behind the Supermarket with You",
       "titreJp": "Super no Ura de Yani Suu Futari",
       "ep": 7,
-      "ago": "23h",
+      "ago": "1d",
       "img": "z18pc",
       "ahId": "gnv5p"
     },
@@ -140,7 +164,7 @@
       "titre": "The Villager of LV999",
       "titreJp": "LV999 no Murabito",
       "ep": 9,
-      "ago": "1d",
+      "ago": "2d",
       "img": "7vqbp",
       "ahId": "mucnh"
     },
@@ -148,7 +172,7 @@
       "titre": "Hana-Kimi Season 2",
       "titreJp": "Hanazakari no Kimi-tachi e Season 2",
       "ep": 9,
-      "ago": "1d",
+      "ago": "2d",
       "img": "yzbv7",
       "ahId": "s3cd7"
     },
@@ -156,7 +180,7 @@
       "titre": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2nd Season",
       "titreJp": "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2nd Season",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "l7tno",
       "ahId": "6rmgo"
     },
@@ -260,7 +284,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 20,
-      "ago": "3d",
+      "ago": "4d",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -268,7 +292,7 @@
       "titre": "Grand Blue Season 3",
       "titreJp": "Grand Blue Dreaming Season 3",
       "ep": 7,
-      "ago": "3d",
+      "ago": "4d",
       "img": "o5w0q",
       "ahId": "gwokm"
     },
@@ -348,7 +372,7 @@
       "titre": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
       "titreJp": "Futsutsuka na Akujo de wa Gozaimasu ga: Hina Miya Chou Nezumi Torikaeden",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "0jvwd",
       "ahId": "f7d85"
     },
@@ -356,7 +380,7 @@
       "titre": "Goodbye, Lara",
       "titreJp": "Sayonara Lara",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "c5pih",
       "ahId": "f76b2"
     },
@@ -391,14 +415,6 @@
       "ago": "5d",
       "img": "xtq52",
       "ahId": "atyey"
-    },
-    {
-      "titre": "Draw this, then die!",
-      "titreJp": "Kore Kaite Shine",
-      "ep": 7,
-      "ago": "5d",
-      "img": "6ku09",
-      "ahId": "zc42w"
     },
     {
       "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
@@ -500,7 +516,7 @@
       "titre": "Jaadugar: A Witch in Mongolia",
       "titreJp": "Tenmaku no Jaadugar",
       "ep": 8,
-      "ago": "5d",
+      "ago": "6d",
       "img": "9ihs5",
       "ahId": "t1ey0"
     },
@@ -508,7 +524,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 19,
-      "ago": "5d",
+      "ago": "6d",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -516,7 +532,7 @@
       "titre": "Bleach: Thousand-Year Blood War: Part IV - The Calamity",
       "titreJp": "Bleach: Sennen Kessen-hen: Part IV - Wazawai Suzumu-tan",
       "ep": 4,
-      "ago": "5d",
+      "ago": "6d",
       "img": "bd05n",
       "ahId": "07v8r"
     },
@@ -535,25 +551,9 @@
       "ago": "6d",
       "img": "828yy",
       "ahId": "9zg3f"
-    },
-    {
-      "titre": "Black Torch",
-      "titreJp": "",
-      "ep": 7,
-      "ago": "6d",
-      "img": "xq99f",
-      "ahId": "7tq84"
-    },
-    {
-      "titre": "Welcome to Demon School, Iruma-kun 4",
-      "titreJp": "Mairimashita! Iruma-kun 4",
-      "ep": 19,
-      "ago": "6d",
-      "img": "lkpy4",
-      "ahId": "amsff"
     }
   ],
-  "updatedAt": "2026-08-21T15:28:17.400Z",
+  "updatedAt": "2026-08-21T16:28:13.628Z",
   "source": "github-actions",
   "count": 69
 }
