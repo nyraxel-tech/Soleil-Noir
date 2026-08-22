@@ -975,6 +975,14 @@ function renderGenreFiltersAH() {
 }
 
 const _ahMap = {};
+function posterStatusInfo(realStatut) {
+  if (realStatut === 'Vu') return { label: '✓ Vu', cls: 'added' };
+  if (realStatut === 'En cours') return { label: '▶ En cours', cls: 'status-en-cours' };
+  if (realStatut === 'À voir') return { label: '◎ À voir', cls: 'status-a-voir' };
+  if (realStatut === 'À visionner') return { label: '+ À visionner', cls: 'status-a-visionner' };
+  return { label: 'À regarder', cls: '' };
+}
+
 function renderPosters() {
   const grid = document.getElementById('poster-grid');
   grid.innerHTML = '';
@@ -988,13 +996,8 @@ function renderPosters() {
     _ahMap[a.ahId] = a;
     const g = getG(gId(a.titre));
     const existing = animes.find(x => x.titre.toLowerCase() === a.titre.toLowerCase());
-    const added = !!existing;
     const realStatut = existing ? existing.statut : null;
-    const statusLabel = realStatut === 'Vu' ? '✓ Vu'
-      : realStatut === 'En cours' ? '▶ En cours'
-      : realStatut === 'À voir' ? '◎ À voir'
-      : realStatut === 'À visionner' ? '+ À visionner'
-      : 'À regarder';
+    const { label: statusLabel, cls: statusCls } = posterStatusInfo(realStatut);
     const url = imgUrl(a.img);
     const div = document.createElement('div');
     div.className = 'poster-card';
@@ -1006,7 +1009,7 @@ function renderPosters() {
       <div class="poster-ep">Ep.${a.ep}</div>
       <div class="poster-bottom">
         <div class="poster-title-s">${a.titre}</div>
-        <button class="poster-add ${realStatut === 'Vu' ? 'added' : realStatut === 'En cours' ? 'status-en-cours' : realStatut === 'À voir' ? 'status-a-voir' : realStatut === 'À visionner' ? 'status-a-visionner' : ''}">
+        <button class="poster-add ${statusCls}">
           ${statusLabel}
         </button>
       </div>
@@ -1062,11 +1065,13 @@ function updatePosterButtons() {
     if (!ahid) return;
     const a = _ahMap[ahid];
     if (!a) return;
-    const added = animes.some(x => x.titre.toLowerCase() === a.titre.toLowerCase());
+    const existing = animes.find(x => x.titre.toLowerCase() === a.titre.toLowerCase());
+    const realStatut = existing ? existing.statut : null;
+    const { label, cls } = posterStatusInfo(realStatut);
     const btn = div.querySelector('.poster-add');
     if (btn) {
-      btn.textContent = added ? '✓ Vu' : 'À regarder';
-      btn.className = 'poster-add' + (added ? ' added' : '');
+      btn.textContent = label;
+      btn.className = 'poster-add' + (cls ? ' ' + cls : '');
     }
   });
 }
