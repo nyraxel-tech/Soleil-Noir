@@ -4,7 +4,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 8,
-      "ago": "5h",
+      "ago": "7h",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -12,7 +12,7 @@
       "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
       "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
       "ep": 8,
-      "ago": "6h",
+      "ago": "8h",
       "img": "c5wg4",
       "ahId": "vnlfg"
     },
@@ -20,7 +20,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 8,
-      "ago": "6h",
+      "ago": "8h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -28,7 +28,7 @@
       "titre": "The Elusive Samurai 2nd Season",
       "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
       "ep": 6,
-      "ago": "7h",
+      "ago": "8h",
       "img": "xg229",
       "ahId": "8s06m"
     },
@@ -36,7 +36,7 @@
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 7,
-      "ago": "7h",
+      "ago": "9h",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -44,7 +44,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 20,
-      "ago": "7h",
+      "ago": "9h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -52,7 +52,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 19,
-      "ago": "8h",
+      "ago": "9h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -60,7 +60,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 8,
-      "ago": "9h",
+      "ago": "10h",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -68,7 +68,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 8,
-      "ago": "9h",
+      "ago": "11h",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -76,7 +76,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 18,
-      "ago": "19h",
+      "ago": "20h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -84,7 +84,7 @@
       "titre": "Link Click 3rd Season",
       "titreJp": "Shiguang Dailiren 3rd Season",
       "ep": 3,
-      "ago": "20h",
+      "ago": "21h",
       "img": "whrba",
       "ahId": "gv7dl"
     },
@@ -244,7 +244,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 7,
-      "ago": "2d",
+      "ago": "3d",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -553,7 +553,7 @@
       "ahId": "pm96z"
     }
   ],
-  "updatedAt": "2026-08-21T23:19:32.420Z",
+  "updatedAt": "2026-08-22T01:00:48.572Z",
   "source": "github-actions",
   "count": 69
 }
