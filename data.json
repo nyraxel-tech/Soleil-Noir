@@ -28,7 +28,7 @@
       "titre": "The Elusive Samurai 2nd Season",
       "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
       "ep": 6,
-      "ago": "10h",
+      "ago": "11h",
       "img": "xg229",
       "ahId": "8s06m"
     },
@@ -52,7 +52,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 19,
-      "ago": "11h",
+      "ago": "12h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -60,7 +60,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 8,
-      "ago": "12h",
+      "ago": "13h",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -76,7 +76,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 18,
-      "ago": "22h",
+      "ago": "23h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -84,7 +84,7 @@
       "titre": "Link Click 3rd Season",
       "titreJp": "Shiguang Dailiren 3rd Season",
       "ep": 3,
-      "ago": "23h",
+      "ago": "1d",
       "img": "whrba",
       "ahId": "gv7dl"
     },
@@ -476,7 +476,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 43,
-      "ago": "5d",
+      "ago": "6d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -553,7 +553,7 @@
       "ahId": "pm96z"
     }
   ],
-  "updatedAt": "2026-08-22T02:50:19.407Z",
+  "updatedAt": "2026-08-22T03:38:13.378Z",
   "source": "github-actions",
   "count": 69
 }
