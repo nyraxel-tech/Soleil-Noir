@@ -4,7 +4,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 44,
-      "ago": "?",
+      "ago": "1h",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -20,7 +20,7 @@
       "titre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School.",
       "titreJp": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewasuru Koto ni Narimashita",
       "ep": 8,
-      "ago": "9h",
+      "ago": "10h",
       "img": "bprh4",
       "ahId": "n2apg"
     },
@@ -36,7 +36,7 @@
       "titre": "The Ogre's Bride",
       "titreJp": "Oni no Hanayome",
       "ep": 8,
-      "ago": "10h",
+      "ago": "11h",
       "img": "csu03",
       "ahId": "u6fdm"
     },
@@ -44,7 +44,7 @@
       "titre": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
       "titreJp": "",
       "ep": 8,
-      "ago": "10h",
+      "ago": "11h",
       "img": "zpm54",
       "ahId": "zweu6"
     },
@@ -52,7 +52,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 21,
-      "ago": "10h",
+      "ago": "11h",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -60,7 +60,7 @@
       "titre": "Bleach: Thousand-Year Blood War: Part IV - The Calamity",
       "titreJp": "Bleach: Sennen Kessen-hen: Part IV - Wazawai Suzumu-tan",
       "ep": 5,
-      "ago": "10h",
+      "ago": "11h",
       "img": "bd05n",
       "ahId": "07v8r"
     },
@@ -68,7 +68,7 @@
       "titre": "Jaadugar: A Witch in Mongolia",
       "titreJp": "Tenmaku no Jaadugar",
       "ep": 9,
-      "ago": "11h",
+      "ago": "12h",
       "img": "9ihs5",
       "ahId": "t1ey0"
     },
@@ -76,7 +76,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 20,
-      "ago": "11h",
+      "ago": "12h",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -84,7 +84,7 @@
       "titre": "Recommendations from Iwamoto-Senpai",
       "titreJp": "Iwamoto-senpai no Suisen",
       "ep": 8,
-      "ago": "13h",
+      "ago": "14h",
       "img": "gnmlq",
       "ahId": "nn6k9"
     },
@@ -100,7 +100,7 @@
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 8,
-      "ago": "14h",
+      "ago": "15h",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -116,7 +116,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 146,
-      "ago": "16h",
+      "ago": "17h",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -204,7 +204,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 18,
-      "ago": "1d",
+      "ago": "2d",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -553,7 +553,7 @@
       "ahId": "7p5hz"
     }
   ],
-  "updatedAt": "2026-08-23T03:53:46.251Z",
+  "updatedAt": "2026-08-23T04:32:40.000Z",
   "source": "github-actions",
   "count": 69
 }
