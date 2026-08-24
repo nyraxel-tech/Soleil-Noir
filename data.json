@@ -12,7 +12,7 @@
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 8,
-      "ago": "?",
+      "ago": "1h",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -20,7 +20,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 8,
-      "ago": "?",
+      "ago": "1h",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -44,7 +44,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1175,
-      "ago": "20h",
+      "ago": "21h",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -76,7 +76,7 @@
       "titre": "Mushoku Tensei: Jobless Reincarnation 3rd Season",
       "titreJp": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
       "ep": 9,
-      "ago": "22h",
+      "ago": "23h",
       "img": "b1dg7",
       "ahId": "sfvog"
     },
@@ -84,7 +84,7 @@
       "titre": "Sparks of Tomorrow",
       "titreJp": "Nijusseiki Denki Mokuroku: Eureka Evrika, 20 Seiki Denki Mokuroku: Eureka Evrika",
       "ep": 8,
-      "ago": "22h",
+      "ago": "23h",
       "img": "2e371",
       "ahId": "1wghj"
     },
@@ -92,7 +92,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 20,
-      "ago": "22h",
+      "ago": "23h",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -100,7 +100,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 8,
-      "ago": "23h",
+      "ago": "1d",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -220,7 +220,7 @@
       "titre": "Recommendations from Iwamoto-Senpai",
       "titreJp": "Iwamoto-senpai no Suisen",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "gnmlq",
       "ahId": "nn6k9"
     },
@@ -324,7 +324,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 8,
-      "ago": "2d",
+      "ago": "3d",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -404,7 +404,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 10,
-      "ago": "3d",
+      "ago": "4d",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -484,7 +484,7 @@
       "titre": "Re:ZERO: Starting Life in Another World Season 4",
       "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
       "ep": 13,
-      "ago": "4d",
+      "ago": "5d",
       "img": "7tc0j",
       "ahId": "ilp9j"
     },
@@ -553,7 +553,7 @@
       "ahId": "mvh9u"
     }
   ],
-  "updatedAt": "2026-08-24T13:56:39.162Z",
+  "updatedAt": "2026-08-24T14:36:59.985Z",
   "source": "github-actions",
   "count": 69
 }
