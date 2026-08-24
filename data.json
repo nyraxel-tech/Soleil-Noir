@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "Oh Boy, Was I Wrong About Her",
+      "titreJp": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
+      "ep": 8,
+      "ago": "?",
+      "img": "vse6w",
+      "ahId": "7e6hd"
+    },
+    {
+      "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
+      "titreJp": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
+      "ep": 8,
+      "ago": "?",
+      "img": "0vaar",
+      "ahId": "x2njz"
+    },
+    {
+      "titre": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
+      "titreJp": "Buchikire Reijou wa Houfuku wo Chikai Mashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
+      "ep": 8,
+      "ago": "?",
+      "img": "s5q25",
+      "ahId": "o0cpo"
+    },
+    {
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 9,
-      "ago": "?",
+      "ago": "1h",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -12,7 +36,7 @@
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 8,
-      "ago": "1h",
+      "ago": "2h",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -20,7 +44,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 8,
-      "ago": "1h",
+      "ago": "2h",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -28,7 +52,7 @@
       "titre": "Love Unseen Beneath the Clear Night Sky",
       "titreJp": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "ep": 8,
-      "ago": "1h",
+      "ago": "2h",
       "img": "2qfc1",
       "ahId": "fn31g"
     },
@@ -36,7 +60,7 @@
       "titre": "False Memory (2026)",
       "titreJp": "Jiyi Guanli Ju (2026)",
       "ep": 6,
-      "ago": "19h",
+      "ago": "20h",
       "img": "x4u84",
       "ahId": "8ifaj"
     },
@@ -44,7 +68,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1175,
-      "ago": "21h",
+      "ago": "22h",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -52,7 +76,7 @@
       "titre": "Azur Lane: Slow Ahead! 2nd Season",
       "titreJp": "Azur Lane: Bisoku Zenshin! 2nd Season",
       "ep": 8,
-      "ago": "21h",
+      "ago": "22h",
       "img": "8j4y6",
       "ahId": "marhn"
     },
@@ -60,7 +84,7 @@
       "titre": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
       "titreJp": "Futsutsuka na Akujo de wa Gozaimasu ga: Hina Miya Chou Nezumi Torikaeden",
       "ep": 7,
-      "ago": "22h",
+      "ago": "23h",
       "img": "0jvwd",
       "ahId": "f7d85"
     },
@@ -68,7 +92,7 @@
       "titre": "Goodbye, Lara",
       "titreJp": "Sayonara Lara",
       "ep": 8,
-      "ago": "22h",
+      "ago": "23h",
       "img": "c5pih",
       "ahId": "f76b2"
     },
@@ -76,7 +100,7 @@
       "titre": "Mushoku Tensei: Jobless Reincarnation 3rd Season",
       "titreJp": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
       "ep": 9,
-      "ago": "23h",
+      "ago": "1d",
       "img": "b1dg7",
       "ahId": "sfvog"
     },
@@ -84,7 +108,7 @@
       "titre": "Sparks of Tomorrow",
       "titreJp": "Nijusseiki Denki Mokuroku: Eureka Evrika, 20 Seiki Denki Mokuroku: Eureka Evrika",
       "ep": 8,
-      "ago": "23h",
+      "ago": "1d",
       "img": "2e371",
       "ahId": "1wghj"
     },
@@ -92,7 +116,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 20,
-      "ago": "23h",
+      "ago": "1d",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -316,7 +340,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 19,
-      "ago": "2d",
+      "ago": "3d",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -388,7 +412,7 @@
       "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
       "ep": 9,
-      "ago": "3d",
+      "ago": "4d",
       "img": "cy9ca",
       "ahId": "ultkb"
     },
@@ -396,7 +420,7 @@
       "titre": "Mebius Dust",
       "titreJp": "",
       "ep": 7,
-      "ago": "3d",
+      "ago": "4d",
       "img": "02htn",
       "ahId": "yv7me"
     },
@@ -476,7 +500,7 @@
       "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
       "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
       "ep": 9,
-      "ago": "4d",
+      "ago": "5d",
       "img": "ycs89",
       "ahId": "q3n2b"
     },
@@ -524,36 +548,12 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "pnulh",
       "ahId": "2oq0n"
-    },
-    {
-      "titre": "Victoria of Many Faces",
-      "titreJp": "Tefuda ga Oume no Victoria",
-      "ep": 7,
-      "ago": "5d",
-      "img": "zwc02",
-      "ahId": "lckgk"
-    },
-    {
-      "titre": "The Ghost in the Shell",
-      "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
-      "ep": 7,
-      "ago": "5d",
-      "img": "8vo2j",
-      "ahId": "nqbd0"
-    },
-    {
-      "titre": "The Oblivious Saint Can't Contain Her Power",
-      "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
-      "ep": 8,
-      "ago": "6d",
-      "img": "fctsy",
-      "ahId": "mvh9u"
     }
   ],
-  "updatedAt": "2026-08-24T14:36:59.985Z",
+  "updatedAt": "2026-08-24T15:35:06.109Z",
   "source": "github-actions",
   "count": 69
 }
