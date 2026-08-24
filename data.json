@@ -4,7 +4,7 @@
       "titre": "False Memory (2026)",
       "titreJp": "Jiyi Guanli Ju (2026)",
       "ep": 6,
-      "ago": "8h",
+      "ago": "9h",
       "img": "x4u84",
       "ahId": "8ifaj"
     },
@@ -12,7 +12,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1175,
-      "ago": "9h",
+      "ago": "10h",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -20,7 +20,7 @@
       "titre": "Azur Lane: Slow Ahead! 2nd Season",
       "titreJp": "Azur Lane: Bisoku Zenshin! 2nd Season",
       "ep": 8,
-      "ago": "10h",
+      "ago": "11h",
       "img": "8j4y6",
       "ahId": "marhn"
     },
@@ -28,7 +28,7 @@
       "titre": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
       "titreJp": "Futsutsuka na Akujo de wa Gozaimasu ga: Hina Miya Chou Nezumi Torikaeden",
       "ep": 7,
-      "ago": "11h",
+      "ago": "12h",
       "img": "0jvwd",
       "ahId": "f7d85"
     },
@@ -36,7 +36,7 @@
       "titre": "Goodbye, Lara",
       "titreJp": "Sayonara Lara",
       "ep": 8,
-      "ago": "11h",
+      "ago": "12h",
       "img": "c5pih",
       "ahId": "f76b2"
     },
@@ -44,7 +44,7 @@
       "titre": "Mushoku Tensei: Jobless Reincarnation 3rd Season",
       "titreJp": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
       "ep": 9,
-      "ago": "11h",
+      "ago": "12h",
       "img": "b1dg7",
       "ahId": "sfvog"
     },
@@ -52,7 +52,7 @@
       "titre": "Sparks of Tomorrow",
       "titreJp": "Nijusseiki Denki Mokuroku: Eureka Evrika, 20 Seiki Denki Mokuroku: Eureka Evrika",
       "ep": 8,
-      "ago": "11h",
+      "ago": "12h",
       "img": "2e371",
       "ahId": "1wghj"
     },
@@ -60,7 +60,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 20,
-      "ago": "11h",
+      "ago": "12h",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -68,7 +68,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 8,
-      "ago": "12h",
+      "ago": "13h",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -76,7 +76,7 @@
       "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
       "titreJp": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
       "ep": 8,
-      "ago": "13h",
+      "ago": "14h",
       "img": "tak3w",
       "ahId": "y01g1"
     },
@@ -84,7 +84,7 @@
       "titre": "Magilumiere Co. Ltd. 2nd Season",
       "titreJp": "Kabushikigaisha Magi-Lumière 2nd Season",
       "ep": 8,
-      "ago": "17h",
+      "ago": "18h",
       "img": "a0m9j",
       "ahId": "7776o"
     },
@@ -92,7 +92,7 @@
       "titre": "Iron Wok Jan!",
       "titreJp": "Tetsunabe no Jan!",
       "ep": 8,
-      "ago": "17h",
+      "ago": "18h",
       "img": "5yj1u",
       "ahId": "3l7kl"
     },
@@ -100,7 +100,7 @@
       "titre": "You and I are Polar Opposites 2nd Season",
       "titreJp": "Seihantai na Kimi to Boku 2nd Season",
       "ep": 8,
-      "ago": "18h",
+      "ago": "19h",
       "img": "j1ir5",
       "ahId": "th5p2"
     },
@@ -108,7 +108,7 @@
       "titre": "Let's Go Kaikigumi",
       "titreJp": "",
       "ep": 8,
-      "ago": "18h",
+      "ago": "19h",
       "img": "03516",
       "ahId": "2ydm9"
     },
@@ -116,7 +116,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 44,
-      "ago": "23h",
+      "ago": "1d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -316,7 +316,7 @@
       "titre": "Link Click 3rd Season",
       "titreJp": "Shiguang Dailiren 3rd Season",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "whrba",
       "ahId": "gv7dl"
     },
@@ -553,7 +553,7 @@
       "ahId": "gwokm"
     }
   ],
-  "updatedAt": "2026-08-24T02:58:51.170Z",
+  "updatedAt": "2026-08-24T03:58:40.708Z",
   "source": "github-actions",
   "count": 69
 }
