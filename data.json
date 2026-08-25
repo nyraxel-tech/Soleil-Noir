@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Victoria of Many Faces",
+      "titreJp": "Tefuda ga Oume no Victoria",
+      "ep": 8,
+      "ago": "?",
+      "img": "zwc02",
+      "ahId": "lckgk"
+    },
+    {
+      "titre": "Yoroi-Shinden Samurai Troopers - Part II",
+      "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
+      "ep": 8,
+      "ago": "?",
+      "img": "pnulh",
+      "ahId": "2oq0n"
+    },
+    {
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 9,
-      "ago": "?",
+      "ago": "1h",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -20,7 +36,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 8,
-      "ago": "2h",
+      "ago": "3h",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -28,7 +44,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 19,
-      "ago": "10h",
+      "ago": "11h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -36,7 +52,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 21,
-      "ago": "22h",
+      "ago": "23h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -44,7 +60,7 @@
       "titre": "Grand Blue Season 3",
       "titreJp": "Grand Blue Dreaming Season 3",
       "ep": 8,
-      "ago": "22h",
+      "ago": "23h",
       "img": "o5w0q",
       "ahId": "gwokm"
     },
@@ -52,7 +68,7 @@
       "titre": "Oh Boy, Was I Wrong About Her",
       "titreJp": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
       "ep": 8,
-      "ago": "23h",
+      "ago": "1d",
       "img": "vse6w",
       "ahId": "7e6hd"
     },
@@ -60,7 +76,7 @@
       "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
       "titreJp": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
       "ep": 8,
-      "ago": "23h",
+      "ago": "1d",
       "img": "0vaar",
       "ahId": "x2njz"
     },
@@ -68,7 +84,7 @@
       "titre": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
       "titreJp": "Buchikire Reijou wa Houfuku wo Chikai Mashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
       "ep": 8,
-      "ago": "23h",
+      "ago": "1d",
       "img": "s5q25",
       "ahId": "o0cpo"
     },
@@ -148,7 +164,7 @@
       "titre": "Mushoku Tensei: Jobless Reincarnation 3rd Season",
       "titreJp": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
       "ep": 9,
-      "ago": "1d",
+      "ago": "2d",
       "img": "b1dg7",
       "ahId": "sfvog"
     },
@@ -156,7 +172,7 @@
       "titre": "Sparks of Tomorrow",
       "titreJp": "Nijusseiki Denki Mokuroku: Eureka Evrika, 20 Seiki Denki Mokuroku: Eureka Evrika",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "2e371",
       "ahId": "1wghj"
     },
@@ -164,7 +180,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 20,
-      "ago": "1d",
+      "ago": "2d",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -388,7 +404,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 19,
-      "ago": "3d",
+      "ago": "4d",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -452,7 +468,7 @@
       "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
       "ep": 9,
-      "ago": "4d",
+      "ago": "5d",
       "img": "cy9ca",
       "ahId": "ultkb"
     },
@@ -460,7 +476,7 @@
       "titre": "Mebius Dust",
       "titreJp": "",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "02htn",
       "ahId": "yv7me"
     },
@@ -535,25 +551,9 @@
       "ago": "5d",
       "img": "l7tno",
       "ahId": "6rmgo"
-    },
-    {
-      "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
-      "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
-      "ep": 9,
-      "ago": "5d",
-      "img": "ycs89",
-      "ahId": "q3n2b"
-    },
-    {
-      "titre": "Re:ZERO: Starting Life in Another World Season 4",
-      "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
-      "ep": 13,
-      "ago": "6d",
-      "img": "7tc0j",
-      "ahId": "ilp9j"
     }
   ],
-  "updatedAt": "2026-08-25T14:40:17.492Z",
+  "updatedAt": "2026-08-25T15:38:02.316Z",
   "source": "github-actions",
   "count": 69
 }
