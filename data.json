@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Flaming Dodgeball Girl Danko",
+      "titreJp": "Honoo no Toukyuujo: Dodge Danko",
+      "ep": 8,
+      "ago": "?",
+      "img": "t7nlu",
+      "ahId": "usbqy"
+    },
+    {
+      "titre": "The Ghost in the Shell",
+      "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
+      "ep": 8,
+      "ago": "?",
+      "img": "8vo2j",
+      "ahId": "nqbd0"
+    },
+    {
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 8,
-      "ago": "?",
+      "ago": "1h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -12,7 +28,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 8,
-      "ago": "?",
+      "ago": "1h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -20,7 +36,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 9,
-      "ago": "1h",
+      "ago": "2h",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -28,7 +44,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 8,
-      "ago": "2h",
+      "ago": "3h",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -36,7 +52,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 8,
-      "ago": "3h",
+      "ago": "4h",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -44,7 +60,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 19,
-      "ago": "11h",
+      "ago": "12h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -52,7 +68,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 21,
-      "ago": "23h",
+      "ago": "1d",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -60,7 +76,7 @@
       "titre": "Grand Blue Season 3",
       "titreJp": "Grand Blue Dreaming Season 3",
       "ep": 8,
-      "ago": "23h",
+      "ago": "1d",
       "img": "o5w0q",
       "ahId": "gwokm"
     },
@@ -148,7 +164,7 @@
       "titre": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
       "titreJp": "Futsutsuka na Akujo de wa Gozaimasu ga: Hina Miya Chou Nezumi Torikaeden",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "0jvwd",
       "ahId": "f7d85"
     },
@@ -156,7 +172,7 @@
       "titre": "Goodbye, Lara",
       "titreJp": "Sayonara Lara",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "c5pih",
       "ahId": "f76b2"
     },
@@ -292,7 +308,7 @@
       "titre": "Jaadugar: A Witch in Mongolia",
       "titreJp": "Tenmaku no Jaadugar",
       "ep": 9,
-      "ago": "2d",
+      "ago": "3d",
       "img": "9ihs5",
       "ahId": "t1ey0"
     },
@@ -300,7 +316,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 20,
-      "ago": "2d",
+      "ago": "3d",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -380,7 +396,7 @@
       "titre": "The Elusive Samurai 2nd Season",
       "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
       "ep": 6,
-      "ago": "3d",
+      "ago": "4d",
       "img": "xg229",
       "ahId": "8s06m"
     },
@@ -388,7 +404,7 @@
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 7,
-      "ago": "3d",
+      "ago": "4d",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -396,7 +412,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 20,
-      "ago": "3d",
+      "ago": "4d",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -452,7 +468,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 8,
-      "ago": "4d",
+      "ago": "5d",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -460,7 +476,7 @@
       "titre": "Smoking Behind the Supermarket with You",
       "titreJp": "Super no Ura de Yani Suu Futari",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "z18pc",
       "ahId": "gnv5p"
     },
@@ -532,28 +548,12 @@
       "titre": "The Villager of LV999",
       "titreJp": "LV999 no Murabito",
       "ep": 9,
-      "ago": "5d",
+      "ago": "6d",
       "img": "7vqbp",
       "ahId": "mucnh"
-    },
-    {
-      "titre": "Hana-Kimi Season 2",
-      "titreJp": "Hanazakari no Kimi-tachi e Season 2",
-      "ep": 9,
-      "ago": "5d",
-      "img": "yzbv7",
-      "ahId": "s3cd7"
-    },
-    {
-      "titre": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2nd Season",
-      "titreJp": "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2nd Season",
-      "ep": 7,
-      "ago": "5d",
-      "img": "l7tno",
-      "ahId": "6rmgo"
     }
   ],
-  "updatedAt": "2026-08-25T15:38:02.316Z",
+  "updatedAt": "2026-08-25T16:32:04.519Z",
   "source": "github-actions",
   "count": 69
 }
