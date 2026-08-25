@@ -4,7 +4,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 21,
-      "ago": "10h",
+      "ago": "11h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -12,7 +12,7 @@
       "titre": "Grand Blue Season 3",
       "titreJp": "Grand Blue Dreaming Season 3",
       "ep": 8,
-      "ago": "11h",
+      "ago": "12h",
       "img": "o5w0q",
       "ahId": "gwokm"
     },
@@ -20,7 +20,7 @@
       "titre": "Oh Boy, Was I Wrong About Her",
       "titreJp": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
       "ep": 8,
-      "ago": "11h",
+      "ago": "12h",
       "img": "vse6w",
       "ahId": "7e6hd"
     },
@@ -36,7 +36,7 @@
       "titre": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
       "titreJp": "Buchikire Reijou wa Houfuku wo Chikai Mashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
       "ep": 8,
-      "ago": "12h",
+      "ago": "13h",
       "img": "s5q25",
       "ahId": "o0cpo"
     },
@@ -44,7 +44,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 9,
-      "ago": "13h",
+      "ago": "14h",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -52,7 +52,7 @@
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 8,
-      "ago": "13h",
+      "ago": "14h",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -60,7 +60,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 8,
-      "ago": "13h",
+      "ago": "14h",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -68,7 +68,7 @@
       "titre": "Love Unseen Beneath the Clear Night Sky",
       "titreJp": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "ep": 8,
-      "ago": "14h",
+      "ago": "15h",
       "img": "2qfc1",
       "ahId": "fn31g"
     },
@@ -188,7 +188,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 44,
-      "ago": "1d",
+      "ago": "2d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -388,7 +388,7 @@
       "titre": "Link Click 3rd Season",
       "titreJp": "Shiguang Dailiren 3rd Season",
       "ep": 3,
-      "ago": "3d",
+      "ago": "4d",
       "img": "whrba",
       "ahId": "gv7dl"
     },
@@ -553,7 +553,7 @@
       "ahId": "usbqy"
     }
   ],
-  "updatedAt": "2026-08-25T02:54:26.948Z",
+  "updatedAt": "2026-08-25T03:44:13.164Z",
   "source": "github-actions",
   "count": 69
 }
