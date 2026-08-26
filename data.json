@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Saga of Tanya the Evil II",
+      "titreJp": "",
+      "ep": 8,
+      "ago": "?",
+      "img": "wr5w2",
+      "ahId": "jrus1"
+    },
+    {
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 8,
-      "ago": "?",
+      "ago": "1h",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -12,7 +20,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 8,
-      "ago": "18h",
+      "ago": "19h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -20,7 +28,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 8,
-      "ago": "20h",
+      "ago": "21h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -28,7 +36,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 8,
-      "ago": "20h",
+      "ago": "21h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -36,7 +44,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 8,
-      "ago": "21h",
+      "ago": "22h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -44,7 +52,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 8,
-      "ago": "21h",
+      "ago": "22h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -52,7 +60,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 9,
-      "ago": "23h",
+      "ago": "1d",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -124,7 +132,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 9,
-      "ago": "1d",
+      "ago": "2d",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -132,7 +140,7 @@
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -140,7 +148,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -228,7 +236,7 @@
       "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
       "titreJp": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
       "ep": 8,
-      "ago": "2d",
+      "ago": "3d",
       "img": "tak3w",
       "ahId": "y01g1"
     },
@@ -348,7 +356,7 @@
       "titre": "The Cat and the Dragon",
       "titreJp": "Neko to Ryuu",
       "ep": 9,
-      "ago": "3d",
+      "ago": "4d",
       "img": "828yy",
       "ahId": "9zg3f"
     },
@@ -356,7 +364,7 @@
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 8,
-      "ago": "3d",
+      "ago": "4d",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -452,7 +460,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 8,
-      "ago": "4d",
+      "ago": "5d",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -524,7 +532,7 @@
       "titre": "Bungo Stray Dogs Wan! 2",
       "titreJp": "",
       "ep": 8,
-      "ago": "5d",
+      "ago": "6d",
       "img": "gob1n",
       "ahId": "1wtvp"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "b8zqi",
       "ahId": "8e1k6"
-    },
-    {
-      "titre": "From Old Country Bumpkin to Master Swordsman Season 2",
-      "titreJp": "Katainaka no Ossan, Kensei ni Naru II",
-      "ep": 7,
-      "ago": "6d",
-      "img": "8yx8x",
-      "ahId": "hoi3i"
     }
   ],
-  "updatedAt": "2026-08-26T12:43:27.463Z",
+  "updatedAt": "2026-08-26T13:51:26.157Z",
   "source": "github-actions",
   "count": 69
 }
