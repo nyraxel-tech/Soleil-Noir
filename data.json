@@ -4,7 +4,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 8,
-      "ago": "13h",
+      "ago": "14h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -12,7 +12,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 8,
-      "ago": "15h",
+      "ago": "16h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -20,7 +20,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 8,
-      "ago": "15h",
+      "ago": "16h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -28,7 +28,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 8,
-      "ago": "16h",
+      "ago": "17h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -36,7 +36,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 8,
-      "ago": "16h",
+      "ago": "17h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -553,7 +553,7 @@
       "ahId": "7p85t"
     }
   ],
-  "updatedAt": "2026-08-26T07:41:33.963Z",
+  "updatedAt": "2026-08-26T08:37:59.770Z",
   "source": "github-actions",
   "count": 69
 }
