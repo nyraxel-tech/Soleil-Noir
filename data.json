@@ -1,6 +1,22 @@
 {
   "animes": [
     {
+      "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
+      "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
+      "ep": 10,
+      "ago": "?",
+      "img": "ycs89",
+      "ahId": "q3n2b"
+    },
+    {
+      "titre": "Re:ZERO: Starting Life in Another World Season 4",
+      "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
+      "ep": 14,
+      "ago": "?",
+      "img": "7tc0j",
+      "ahId": "ilp9j"
+    },
+    {
       "titre": "Saga of Tanya the Evil II",
       "titreJp": "",
       "ep": 8,
@@ -12,7 +28,7 @@
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 8,
-      "ago": "1h",
+      "ago": "2h",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -20,7 +36,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 8,
-      "ago": "19h",
+      "ago": "20h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -28,7 +44,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 8,
-      "ago": "21h",
+      "ago": "22h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -36,7 +52,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 8,
-      "ago": "21h",
+      "ago": "22h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -44,7 +60,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 8,
-      "ago": "22h",
+      "ago": "23h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -52,7 +68,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 8,
-      "ago": "22h",
+      "ago": "23h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -228,7 +244,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 8,
-      "ago": "2d",
+      "ago": "3d",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -348,7 +364,7 @@
       "titre": "Recommendations from Iwamoto-Senpai",
       "titreJp": "Iwamoto-senpai no Suisen",
       "ep": 8,
-      "ago": "3d",
+      "ago": "4d",
       "img": "gnmlq",
       "ahId": "nn6k9"
     },
@@ -452,7 +468,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 8,
-      "ago": "4d",
+      "ago": "5d",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -524,7 +540,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 10,
-      "ago": "5d",
+      "ago": "6d",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -535,25 +551,9 @@
       "ago": "6d",
       "img": "gob1n",
       "ahId": "1wtvp"
-    },
-    {
-      "titre": "Dara-san of Reiwa",
-      "titreJp": "Reiwa no Dara-san",
-      "ep": 8,
-      "ago": "6d",
-      "img": "bkz60",
-      "ahId": "59rhi"
-    },
-    {
-      "titre": "My Stepmother and Stepsisters Aren’t Wicked",
-      "titreJp": "Ibitte Konai Gibo to Gishi",
-      "ep": 7,
-      "ago": "6d",
-      "img": "b8zqi",
-      "ahId": "8e1k6"
     }
   ],
-  "updatedAt": "2026-08-26T13:51:26.157Z",
+  "updatedAt": "2026-08-26T14:39:58.834Z",
   "source": "github-actions",
   "count": 69
 }
