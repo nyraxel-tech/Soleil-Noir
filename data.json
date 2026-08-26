@@ -1,10 +1,50 @@
 {
   "animes": [
     {
+      "titre": "Hana-Kimi Season 2",
+      "titreJp": "Hanazakari no Kimi-tachi e Season 2",
+      "ep": 10,
+      "ago": "?",
+      "img": "yzbv7",
+      "ahId": "s3cd7"
+    },
+    {
+      "titre": "The Villager of LV999",
+      "titreJp": "LV999 no Murabito",
+      "ep": 10,
+      "ago": "?",
+      "img": "7vqbp",
+      "ahId": "mucnh"
+    },
+    {
+      "titre": "From Old Country Bumpkin to Master Swordsman Season 2",
+      "titreJp": "Katainaka no Ossan, Kensei ni Naru II",
+      "ep": 8,
+      "ago": "?",
+      "img": "8yx8x",
+      "ahId": "hoi3i"
+    },
+    {
+      "titre": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2nd Season",
+      "titreJp": "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2nd Season",
+      "ep": 8,
+      "ago": "?",
+      "img": "l7tno",
+      "ahId": "6rmgo"
+    },
+    {
+      "titre": "My Stepmother and Stepsisters Aren’t Wicked",
+      "titreJp": "Ibitte Konai Gibo to Gishi",
+      "ep": 8,
+      "ago": "1h",
+      "img": "b8zqi",
+      "ahId": "8e1k6"
+    },
+    {
       "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
       "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
       "ep": 10,
-      "ago": "?",
+      "ago": "1h",
       "img": "ycs89",
       "ahId": "q3n2b"
     },
@@ -12,7 +52,7 @@
       "titre": "Re:ZERO: Starting Life in Another World Season 4",
       "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
       "ep": 14,
-      "ago": "?",
+      "ago": "2h",
       "img": "7tc0j",
       "ahId": "ilp9j"
     },
@@ -20,7 +60,7 @@
       "titre": "Saga of Tanya the Evil II",
       "titreJp": "",
       "ep": 8,
-      "ago": "?",
+      "ago": "2h",
       "img": "wr5w2",
       "ahId": "jrus1"
     },
@@ -28,7 +68,7 @@
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 8,
-      "ago": "2h",
+      "ago": "4h",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -36,7 +76,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 8,
-      "ago": "20h",
+      "ago": "22h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -44,7 +84,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 8,
-      "ago": "22h",
+      "ago": "23h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -52,7 +92,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 8,
-      "ago": "22h",
+      "ago": "23h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -60,7 +100,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 8,
-      "ago": "23h",
+      "ago": "1d",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -68,7 +108,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 8,
-      "ago": "23h",
+      "ago": "1d",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -108,7 +148,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 21,
-      "ago": "1d",
+      "ago": "2d",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -116,7 +156,7 @@
       "titre": "Grand Blue Season 3",
       "titreJp": "Grand Blue Dreaming Season 3",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "o5w0q",
       "ahId": "gwokm"
     },
@@ -124,7 +164,7 @@
       "titre": "Oh Boy, Was I Wrong About Her",
       "titreJp": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "vse6w",
       "ahId": "7e6hd"
     },
@@ -132,7 +172,7 @@
       "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
       "titreJp": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "0vaar",
       "ahId": "x2njz"
     },
@@ -140,7 +180,7 @@
       "titre": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
       "titreJp": "Buchikire Reijou wa Houfuku wo Chikai Mashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "s5q25",
       "ahId": "o0cpo"
     },
@@ -204,7 +244,7 @@
       "titre": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
       "titreJp": "Futsutsuka na Akujo de wa Gozaimasu ga: Hina Miya Chou Nezumi Torikaeden",
       "ep": 7,
-      "ago": "2d",
+      "ago": "3d",
       "img": "0jvwd",
       "ahId": "f7d85"
     },
@@ -212,7 +252,7 @@
       "titre": "Goodbye, Lara",
       "titreJp": "Sayonara Lara",
       "ep": 8,
-      "ago": "2d",
+      "ago": "3d",
       "img": "c5pih",
       "ahId": "f76b2"
     },
@@ -220,7 +260,7 @@
       "titre": "Mushoku Tensei: Jobless Reincarnation 3rd Season",
       "titreJp": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
       "ep": 9,
-      "ago": "2d",
+      "ago": "3d",
       "img": "b1dg7",
       "ahId": "sfvog"
     },
@@ -228,7 +268,7 @@
       "titre": "Sparks of Tomorrow",
       "titreJp": "Nijusseiki Denki Mokuroku: Eureka Evrika, 20 Seiki Denki Mokuroku: Eureka Evrika",
       "ep": 8,
-      "ago": "2d",
+      "ago": "3d",
       "img": "2e371",
       "ahId": "1wghj"
     },
@@ -236,7 +276,7 @@
       "titre": "The Classroom of a Black Cat and a Witch",
       "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
       "ep": 20,
-      "ago": "2d",
+      "ago": "3d",
       "img": "cs0bn",
       "ahId": "7p5hz"
     },
@@ -356,7 +396,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 20,
-      "ago": "3d",
+      "ago": "4d",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -444,7 +484,7 @@
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -452,7 +492,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 20,
-      "ago": "4d",
+      "ago": "5d",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -460,7 +500,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 19,
-      "ago": "4d",
+      "ago": "5d",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -511,49 +551,9 @@
       "ago": "5d",
       "img": "3ks09",
       "ahId": "6uopw"
-    },
-    {
-      "titre": "Smoking Behind the Supermarket with You",
-      "titreJp": "Super no Ura de Yani Suu Futari",
-      "ep": 7,
-      "ago": "5d",
-      "img": "z18pc",
-      "ahId": "gnv5p"
-    },
-    {
-      "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
-      "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
-      "ep": 9,
-      "ago": "5d",
-      "img": "cy9ca",
-      "ahId": "ultkb"
-    },
-    {
-      "titre": "Mebius Dust",
-      "titreJp": "",
-      "ep": 7,
-      "ago": "5d",
-      "img": "02htn",
-      "ahId": "yv7me"
-    },
-    {
-      "titre": "BanG Dream! Yume∞Mita",
-      "titreJp": "",
-      "ep": 10,
-      "ago": "6d",
-      "img": "8z55a",
-      "ahId": "78byl"
-    },
-    {
-      "titre": "Bungo Stray Dogs Wan! 2",
-      "titreJp": "",
-      "ep": 8,
-      "ago": "6d",
-      "img": "gob1n",
-      "ahId": "1wtvp"
     }
   ],
-  "updatedAt": "2026-08-26T14:39:58.834Z",
+  "updatedAt": "2026-08-26T16:14:18.814Z",
   "source": "github-actions",
   "count": 69
 }
