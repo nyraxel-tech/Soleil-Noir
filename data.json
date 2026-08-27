@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Bungo Stray Dogs Wan! 2",
+      "titreJp": "",
+      "ep": 9,
+      "ago": "?",
+      "img": "gob1n",
+      "ahId": "1wtvp"
+    },
+    {
+      "titre": "Dara-san of Reiwa",
+      "titreJp": "Reiwa no Dara-san",
+      "ep": 9,
+      "ago": "1h",
+      "img": "bkz60",
+      "ahId": "59rhi"
+    },
+    {
       "titre": "Tomb Raider King",
       "titreJp": "Dogurwang",
       "ep": 8,
-      "ago": "9h",
+      "ago": "20h",
       "img": "1i8dr",
       "ahId": "7p85t"
     },
@@ -12,7 +28,7 @@
       "titre": "Hana-Kimi Season 2",
       "titreJp": "Hanazakari no Kimi-tachi e Season 2",
       "ep": 10,
-      "ago": "10h",
+      "ago": "21h",
       "img": "yzbv7",
       "ahId": "s3cd7"
     },
@@ -20,7 +36,7 @@
       "titre": "The Villager of LV999",
       "titreJp": "LV999 no Murabito",
       "ep": 10,
-      "ago": "10h",
+      "ago": "21h",
       "img": "7vqbp",
       "ahId": "mucnh"
     },
@@ -28,7 +44,7 @@
       "titre": "From Old Country Bumpkin to Master Swordsman Season 2",
       "titreJp": "Katainaka no Ossan, Kensei ni Naru II",
       "ep": 8,
-      "ago": "11h",
+      "ago": "21h",
       "img": "8yx8x",
       "ahId": "hoi3i"
     },
@@ -36,7 +52,7 @@
       "titre": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2nd Season",
       "titreJp": "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2nd Season",
       "ep": 8,
-      "ago": "11h",
+      "ago": "22h",
       "img": "l7tno",
       "ahId": "6rmgo"
     },
@@ -44,7 +60,7 @@
       "titre": "My Stepmother and Stepsisters Aren’t Wicked",
       "titreJp": "Ibitte Konai Gibo to Gishi",
       "ep": 8,
-      "ago": "11h",
+      "ago": "22h",
       "img": "b8zqi",
       "ahId": "8e1k6"
     },
@@ -52,7 +68,7 @@
       "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
       "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
       "ep": 10,
-      "ago": "12h",
+      "ago": "23h",
       "img": "ycs89",
       "ahId": "q3n2b"
     },
@@ -60,7 +76,7 @@
       "titre": "Re:ZERO: Starting Life in Another World Season 4",
       "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
       "ep": 14,
-      "ago": "12h",
+      "ago": "23h",
       "img": "7tc0j",
       "ahId": "ilp9j"
     },
@@ -68,7 +84,7 @@
       "titre": "Saga of Tanya the Evil II",
       "titreJp": "",
       "ep": 8,
-      "ago": "13h",
+      "ago": "1d",
       "img": "wr5w2",
       "ahId": "jrus1"
     },
@@ -76,7 +92,7 @@
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 8,
-      "ago": "14h",
+      "ago": "1d",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -124,7 +140,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 9,
-      "ago": "1d",
+      "ago": "2d",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -132,7 +148,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -140,7 +156,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -148,7 +164,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 19,
-      "ago": "1d",
+      "ago": "2d",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -204,7 +220,7 @@
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 8,
-      "ago": "2d",
+      "ago": "3d",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -212,7 +228,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 8,
-      "ago": "2d",
+      "ago": "3d",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -220,7 +236,7 @@
       "titre": "Love Unseen Beneath the Clear Night Sky",
       "titreJp": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "ep": 8,
-      "ago": "2d",
+      "ago": "3d",
       "img": "2qfc1",
       "ahId": "fn31g"
     },
@@ -300,7 +316,7 @@
       "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
       "titreJp": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
       "ep": 8,
-      "ago": "3d",
+      "ago": "4d",
       "img": "tak3w",
       "ahId": "y01g1"
     },
@@ -308,7 +324,7 @@
       "titre": "Magilumiere Co. Ltd. 2nd Season",
       "titreJp": "Kabushikigaisha Magi-Lumière 2nd Season",
       "ep": 8,
-      "ago": "3d",
+      "ago": "4d",
       "img": "a0m9j",
       "ahId": "7776o"
     },
@@ -316,7 +332,7 @@
       "titre": "Iron Wok Jan!",
       "titreJp": "Tetsunabe no Jan!",
       "ep": 8,
-      "ago": "3d",
+      "ago": "4d",
       "img": "5yj1u",
       "ahId": "3l7kl"
     },
@@ -324,7 +340,7 @@
       "titre": "You and I are Polar Opposites 2nd Season",
       "titreJp": "Seihantai na Kimi to Boku 2nd Season",
       "ep": 8,
-      "ago": "3d",
+      "ago": "4d",
       "img": "j1ir5",
       "ahId": "th5p2"
     },
@@ -332,7 +348,7 @@
       "titre": "Let's Go Kaikigumi",
       "titreJp": "",
       "ep": 8,
-      "ago": "3d",
+      "ago": "4d",
       "img": "03516",
       "ahId": "2ydm9"
     },
@@ -340,7 +356,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 44,
-      "ago": "3d",
+      "ago": "4d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -420,7 +436,7 @@
       "titre": "The Cat and the Dragon",
       "titreJp": "Neko to Ryuu",
       "ep": 9,
-      "ago": "4d",
+      "ago": "5d",
       "img": "828yy",
       "ahId": "9zg3f"
     },
@@ -428,7 +444,7 @@
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 8,
-      "ago": "4d",
+      "ago": "5d",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -436,7 +452,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1210,
-      "ago": "4d",
+      "ago": "5d",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -444,7 +460,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 146,
-      "ago": "4d",
+      "ago": "5d",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -452,7 +468,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 19,
-      "ago": "4d",
+      "ago": "5d",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -524,7 +540,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 8,
-      "ago": "5d",
+      "ago": "6d",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -532,28 +548,12 @@
       "titre": "Link Click 3rd Season",
       "titreJp": "Shiguang Dailiren 3rd Season",
       "ep": 3,
-      "ago": "5d",
+      "ago": "6d",
       "img": "whrba",
       "ahId": "gv7dl"
-    },
-    {
-      "titre": "Kaiju Girl Caramelise",
-      "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
-      "ep": 8,
-      "ago": "6d",
-      "img": "gtz8g",
-      "ahId": "wfsth"
-    },
-    {
-      "titre": "Chainsmoker Cat",
-      "titreJp": "Yani Neko",
-      "ep": 8,
-      "ago": "6d",
-      "img": "r45h0",
-      "ahId": "6hqka"
     }
   ],
-  "updatedAt": "2026-08-27T02:51:43.608Z",
+  "updatedAt": "2026-08-27T13:42:23.178Z",
   "source": "github-actions",
   "count": 69
 }
