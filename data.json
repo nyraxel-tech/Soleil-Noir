@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Crowned in a Hundred Days",
+      "titreJp": "Bai Ri Cheng Wang",
+      "ep": 20,
+      "ago": "4h",
+      "img": "c1n5b",
+      "ahId": "z1cl4"
+    },
+    {
+      "titre": "Link Click 3rd Season",
+      "titreJp": "Shiguang Dailiren 3rd Season",
+      "ep": 4,
+      "ago": "5h",
+      "img": "whrba",
+      "ahId": "gv7dl"
+    },
+    {
       "titre": "Kaiju Girl Caramelise",
       "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
       "ep": 9,
-      "ago": "5h",
+      "ago": "15h",
       "img": "gtz8g",
       "ahId": "wfsth"
     },
@@ -12,7 +28,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 9,
-      "ago": "7h",
+      "ago": "16h",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -20,7 +36,7 @@
       "titre": "Smoking Behind the Supermarket with You",
       "titreJp": "Super no Ura de Yani Suu Futari",
       "ep": 8,
-      "ago": "7h",
+      "ago": "16h",
       "img": "z18pc",
       "ahId": "gnv5p"
     },
@@ -28,7 +44,7 @@
       "titre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "titreJp": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku, The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer&#039;s Post-Rebirth Adventurer Log",
       "ep": 10,
-      "ago": "8h",
+      "ago": "17h",
       "img": "cy9ca",
       "ahId": "ultkb"
     },
@@ -36,7 +52,7 @@
       "titre": "Mebius Dust",
       "titreJp": "",
       "ep": 8,
-      "ago": "8h",
+      "ago": "17h",
       "img": "02htn",
       "ahId": "yv7me"
     },
@@ -44,7 +60,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 11,
-      "ago": "9h",
+      "ago": "18h",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -52,7 +68,7 @@
       "titre": "Bungo Stray Dogs Wan! 2",
       "titreJp": "",
       "ep": 9,
-      "ago": "10h",
+      "ago": "20h",
       "img": "gob1n",
       "ahId": "1wtvp"
     },
@@ -60,7 +76,7 @@
       "titre": "Dara-san of Reiwa",
       "titreJp": "Reiwa no Dara-san",
       "ep": 9,
-      "ago": "10h",
+      "ago": "20h",
       "img": "bkz60",
       "ahId": "59rhi"
     },
@@ -207,14 +223,6 @@
       "ago": "2d",
       "img": "q69uk",
       "ahId": "vgurt"
-    },
-    {
-      "titre": "Crowned in a Hundred Days",
-      "titreJp": "Bai Ri Cheng Wang",
-      "ep": 19,
-      "ago": "2d",
-      "img": "c1n5b",
-      "ahId": "z1cl4"
     },
     {
       "titre": "Liar Game",
@@ -388,7 +396,7 @@
       "titre": "You and I are Polar Opposites 2nd Season",
       "titreJp": "Seihantai na Kimi to Boku 2nd Season",
       "ep": 8,
-      "ago": "4d",
+      "ago": "5d",
       "img": "j1ir5",
       "ahId": "th5p2"
     },
@@ -396,7 +404,7 @@
       "titre": "Let's Go Kaikigumi",
       "titreJp": "",
       "ep": 8,
-      "ago": "4d",
+      "ago": "5d",
       "img": "03516",
       "ahId": "2ydm9"
     },
@@ -404,7 +412,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 44,
-      "ago": "4d",
+      "ago": "5d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "9jn5c",
       "ahId": "ldpso"
-    },
-    {
-      "titre": "The Elusive Samurai 2nd Season",
-      "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
-      "ep": 6,
-      "ago": "6d",
-      "img": "xg229",
-      "ahId": "8s06m"
     }
   ],
-  "updatedAt": "2026-08-27T23:32:28.232Z",
+  "updatedAt": "2026-08-28T08:53:44.840Z",
   "source": "github-actions",
   "count": 69
 }
