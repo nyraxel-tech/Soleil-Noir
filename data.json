@@ -4,7 +4,7 @@
       "titre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School.",
       "titreJp": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewasuru Koto ni Narimashita",
       "ep": 9,
-      "ago": "?",
+      "ago": "3h",
       "img": "bprh4",
       "ahId": "n2apg"
     },
@@ -12,7 +12,7 @@
       "titre": "The Ogre's Bride",
       "titreJp": "Oni no Hanayome",
       "ep": 9,
-      "ago": "1h",
+      "ago": "4h",
       "img": "csu03",
       "ahId": "u6fdm"
     },
@@ -20,7 +20,7 @@
       "titre": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
       "titreJp": "&quot;Kimi wo Aisuru Ki wa Nai&quot; to Itta Jiki Koushaku-sama ga nazeka Dekiaishitekimasu",
       "ep": 9,
-      "ago": "1h",
+      "ago": "5h",
       "img": "r5tg3",
       "ahId": "m6wg7"
     },
@@ -28,7 +28,7 @@
       "titre": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
       "titreJp": "",
       "ep": 9,
-      "ago": "1h",
+      "ago": "5h",
       "img": "zpm54",
       "ahId": "zweu6"
     },
@@ -36,7 +36,7 @@
       "titre": "Jaadugar: A Witch in Mongolia",
       "titreJp": "Tenmaku no Jaadugar",
       "ep": 10,
-      "ago": "2h",
+      "ago": "5h",
       "img": "9ihs5",
       "ahId": "t1ey0"
     },
@@ -44,7 +44,7 @@
       "titre": "Daemons of The Shadow Realm",
       "titreJp": "Yomi no Tsugai",
       "ep": 21,
-      "ago": "2h",
+      "ago": "6h",
       "img": "dks5o",
       "ahId": "pm96z"
     },
@@ -52,7 +52,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 22,
-      "ago": "3h",
+      "ago": "6h",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -60,7 +60,7 @@
       "titre": "Bleach: Thousand-Year Blood War: Part IV - The Calamity",
       "titreJp": "Bleach: Sennen Kessen-hen: Part IV - Wazawai Suzumu-tan",
       "ep": 6,
-      "ago": "3h",
+      "ago": "6h",
       "img": "bd05n",
       "ahId": "07v8r"
     },
@@ -68,7 +68,7 @@
       "titre": "Recommendations from Iwamoto-Senpai",
       "titreJp": "Iwamoto-senpai no Suisen",
       "ep": 9,
-      "ago": "4h",
+      "ago": "8h",
       "img": "gnmlq",
       "ahId": "nn6k9"
     },
@@ -76,7 +76,7 @@
       "titre": "The Cat and the Dragon",
       "titreJp": "Neko to Ryuu",
       "ep": 10,
-      "ago": "5h",
+      "ago": "8h",
       "img": "828yy",
       "ahId": "9zg3f"
     },
@@ -84,7 +84,7 @@
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 9,
-      "ago": "5h",
+      "ago": "9h",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -92,7 +92,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 20,
-      "ago": "6h",
+      "ago": "10h",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -100,7 +100,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1211,
-      "ago": "7h",
+      "ago": "10h",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -108,7 +108,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 147,
-      "ago": "8h",
+      "ago": "11h",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -553,7 +553,7 @@
       "ahId": "atyey"
     }
   ],
-  "updatedAt": "2026-08-29T19:08:41.110Z",
+  "updatedAt": "2026-08-29T22:17:11.625Z",
   "source": "github-actions",
   "count": 69
 }
