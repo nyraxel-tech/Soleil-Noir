@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Red River",
+      "titreJp": "Sora wa Akai Kawa no Hotori",
+      "ep": 9,
+      "ago": "2h",
+      "img": "zh355",
+      "ahId": "x48y1"
+    },
+    {
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 9,
-      "ago": "2h",
+      "ago": "5h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -12,7 +20,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 9,
-      "ago": "2h",
+      "ago": "5h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -20,7 +28,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 9,
-      "ago": "2h",
+      "ago": "5h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -28,7 +36,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 10,
-      "ago": "3h",
+      "ago": "6h",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -36,7 +44,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 9,
-      "ago": "4h",
+      "ago": "7h",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -44,7 +52,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 9,
-      "ago": "5h",
+      "ago": "8h",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -52,7 +60,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 9,
-      "ago": "11h",
+      "ago": "14h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -60,7 +68,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 21,
-      "ago": "13h",
+      "ago": "16h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -140,7 +148,7 @@
       "titre": "Mobile Suit Gundam: Hathaway's Flash - The Sorcery of Nymph Circe",
       "titreJp": "Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "4yvlf",
       "ahId": "jfkxz"
     },
@@ -260,7 +268,7 @@
       "titre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School.",
       "titreJp": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewasuru Koto ni Narimashita",
       "ep": 9,
-      "ago": "2d",
+      "ago": "3d",
       "img": "bprh4",
       "ahId": "n2apg"
     },
@@ -452,7 +460,7 @@
       "titre": "Kaiju Girl Caramelise",
       "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
       "ep": 9,
-      "ago": "4d",
+      "ago": "5d",
       "img": "gtz8g",
       "ahId": "wfsth"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "8yx8x",
       "ahId": "hoi3i"
-    },
-    {
-      "titre": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2nd Season",
-      "titreJp": "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2nd Season",
-      "ep": 8,
-      "ago": "6d",
-      "img": "l7tno",
-      "ahId": "6rmgo"
     }
   ],
-  "updatedAt": "2026-09-01T17:33:24.056Z",
+  "updatedAt": "2026-09-01T20:29:20.675Z",
   "source": "github-actions",
   "count": 69
 }
