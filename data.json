@@ -4,7 +4,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 9,
-      "ago": "7h",
+      "ago": "11h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -12,7 +12,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 9,
-      "ago": "9h",
+      "ago": "14h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -20,7 +20,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 9,
-      "ago": "9h",
+      "ago": "14h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -28,7 +28,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 9,
-      "ago": "10h",
+      "ago": "14h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -36,7 +36,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 10,
-      "ago": "11h",
+      "ago": "15h",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -44,7 +44,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 9,
-      "ago": "12h",
+      "ago": "16h",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -52,7 +52,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 9,
-      "ago": "13h",
+      "ago": "17h",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -60,7 +60,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 9,
-      "ago": "18h",
+      "ago": "23h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -68,7 +68,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 21,
-      "ago": "20h",
+      "ago": "1d",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -252,7 +252,7 @@
       "titre": "False Memory (2026)",
       "titreJp": "Jiyi Guanli Ju (2026)",
       "ep": 7,
-      "ago": "2d",
+      "ago": "3d",
       "img": "x4u84",
       "ahId": "8ifaj"
     },
@@ -260,7 +260,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 45,
-      "ago": "2d",
+      "ago": "3d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -452,7 +452,7 @@
       "titre": "Link Click 3rd Season",
       "titreJp": "Shiguang Dailiren 3rd Season",
       "ep": 4,
-      "ago": "4d",
+      "ago": "5d",
       "img": "whrba",
       "ahId": "gv7dl"
     },
@@ -553,7 +553,7 @@
       "ahId": "hoi3i"
     }
   ],
-  "updatedAt": "2026-09-02T00:55:01.439Z",
+  "updatedAt": "2026-09-02T05:24:53.593Z",
   "source": "github-actions",
   "count": 69
 }
