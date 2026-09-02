@@ -1,10 +1,42 @@
 {
   "animes": [
     {
+      "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
+      "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
+      "ep": 11,
+      "ago": "?",
+      "img": "ycs89",
+      "ahId": "q3n2b"
+    },
+    {
+      "titre": "Re:ZERO: Starting Life in Another World Season 4",
+      "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
+      "ep": 15,
+      "ago": "?",
+      "img": "7tc0j",
+      "ahId": "ilp9j"
+    },
+    {
+      "titre": "Saga of Tanya the Evil II",
+      "titreJp": "",
+      "ep": 9,
+      "ago": "1h",
+      "img": "wr5w2",
+      "ahId": "jrus1"
+    },
+    {
+      "titre": "Clevatess Season 2",
+      "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
+      "ep": 9,
+      "ago": "2h",
+      "img": "lz0uu",
+      "ahId": "d99rj"
+    },
+    {
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 9,
-      "ago": "16h",
+      "ago": "21h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -12,7 +44,7 @@
       "titre": "Victoria of Many Faces",
       "titreJp": "Tefuda ga Oume no Victoria",
       "ep": 9,
-      "ago": "19h",
+      "ago": "23h",
       "img": "zwc02",
       "ahId": "lckgk"
     },
@@ -20,7 +52,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 9,
-      "ago": "19h",
+      "ago": "23h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -28,7 +60,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 9,
-      "ago": "19h",
+      "ago": "1d",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -36,7 +68,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 10,
-      "ago": "20h",
+      "ago": "1d",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -44,7 +76,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 9,
-      "ago": "21h",
+      "ago": "1d",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -52,7 +84,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 9,
-      "ago": "22h",
+      "ago": "1d",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -100,7 +132,7 @@
       "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
       "titreJp": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
       "ep": 9,
-      "ago": "1d",
+      "ago": "2d",
       "img": "0vaar",
       "ahId": "x2njz"
     },
@@ -108,7 +140,7 @@
       "titre": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
       "titreJp": "Buchikire Reijou wa Houfuku wo Chikai Mashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
       "ep": 9,
-      "ago": "1d",
+      "ago": "2d",
       "img": "s5q25",
       "ahId": "o0cpo"
     },
@@ -116,7 +148,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 10,
-      "ago": "1d",
+      "ago": "2d",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -124,7 +156,7 @@
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 9,
-      "ago": "1d",
+      "ago": "2d",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -132,7 +164,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 9,
-      "ago": "1d",
+      "ago": "2d",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -140,7 +172,7 @@
       "titre": "Love Unseen Beneath the Clear Night Sky",
       "titreJp": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "ep": 9,
-      "ago": "1d",
+      "ago": "2d",
       "img": "2qfc1",
       "ahId": "fn31g"
     },
@@ -212,7 +244,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 9,
-      "ago": "2d",
+      "ago": "3d",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -220,7 +252,7 @@
       "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
       "titreJp": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
       "ep": 9,
-      "ago": "2d",
+      "ago": "3d",
       "img": "tak3w",
       "ahId": "y01g1"
     },
@@ -332,7 +364,7 @@
       "titre": "Recommendations from Iwamoto-Senpai",
       "titreJp": "Iwamoto-senpai no Suisen",
       "ep": 9,
-      "ago": "3d",
+      "ago": "4d",
       "img": "gnmlq",
       "ahId": "nn6k9"
     },
@@ -340,7 +372,7 @@
       "titre": "The Cat and the Dragon",
       "titreJp": "Neko to Ryuu",
       "ep": 10,
-      "ago": "3d",
+      "ago": "4d",
       "img": "828yy",
       "ahId": "9zg3f"
     },
@@ -348,7 +380,7 @@
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 9,
-      "ago": "3d",
+      "ago": "4d",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -356,7 +388,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 20,
-      "ago": "3d",
+      "ago": "4d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -364,7 +396,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1211,
-      "ago": "3d",
+      "ago": "4d",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -372,7 +404,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 147,
-      "ago": "3d",
+      "ago": "4d",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -436,7 +468,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 9,
-      "ago": "4d",
+      "ago": "5d",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -444,7 +476,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 9,
-      "ago": "4d",
+      "ago": "5d",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -500,7 +532,7 @@
       "titre": "BanG Dream! Yume∞Mita",
       "titreJp": "",
       "ep": 11,
-      "ago": "5d",
+      "ago": "6d",
       "img": "8z55a",
       "ahId": "78byl"
     },
@@ -508,7 +540,7 @@
       "titre": "Bungo Stray Dogs Wan! 2",
       "titreJp": "",
       "ep": 9,
-      "ago": "5d",
+      "ago": "6d",
       "img": "gob1n",
       "ahId": "1wtvp"
     },
@@ -516,44 +548,12 @@
       "titre": "Dara-san of Reiwa",
       "titreJp": "Reiwa no Dara-san",
       "ep": 9,
-      "ago": "5d",
+      "ago": "6d",
       "img": "bkz60",
       "ahId": "59rhi"
-    },
-    {
-      "titre": "Tomb Raider King",
-      "titreJp": "Dogurwang",
-      "ep": 8,
-      "ago": "6d",
-      "img": "1i8dr",
-      "ahId": "7p85t"
-    },
-    {
-      "titre": "Hana-Kimi Season 2",
-      "titreJp": "Hanazakari no Kimi-tachi e Season 2",
-      "ep": 10,
-      "ago": "6d",
-      "img": "yzbv7",
-      "ahId": "s3cd7"
-    },
-    {
-      "titre": "The Villager of LV999",
-      "titreJp": "LV999 no Murabito",
-      "ep": 10,
-      "ago": "6d",
-      "img": "7vqbp",
-      "ahId": "mucnh"
-    },
-    {
-      "titre": "From Old Country Bumpkin to Master Swordsman Season 2",
-      "titreJp": "Katainaka no Ossan, Kensei ni Naru II",
-      "ep": 8,
-      "ago": "6d",
-      "img": "8yx8x",
-      "ahId": "hoi3i"
     }
   ],
-  "updatedAt": "2026-09-02T10:33:07.811Z",
+  "updatedAt": "2026-09-02T14:56:07.760Z",
   "source": "github-actions",
   "count": 69
 }
