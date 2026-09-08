@@ -4,7 +4,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 10,
-      "ago": "?",
+      "ago": "3h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -12,7 +12,7 @@
       "titre": "The Ghost in the Shell",
       "titreJp": "Koukaku Kidoutai: The Ghost in the Shell",
       "ep": 10,
-      "ago": "1h",
+      "ago": "4h",
       "img": "8vo2j",
       "ahId": "nqbd0"
     },
@@ -20,7 +20,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 10,
-      "ago": "2h",
+      "ago": "5h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -28,7 +28,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 11,
-      "ago": "4h",
+      "ago": "6h",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -36,7 +36,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 10,
-      "ago": "5h",
+      "ago": "8h",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -44,7 +44,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 10,
-      "ago": "6h",
+      "ago": "8h",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -52,7 +52,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 23,
-      "ago": "13h",
+      "ago": "16h",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -60,7 +60,7 @@
       "titre": "I Want to Eat Your Pancreas",
       "titreJp": "Kimi no Suizou wo Tabetai",
       "ep": 1,
-      "ago": "18h",
+      "ago": "21h",
       "img": "pyk3y",
       "ahId": "kwgiv"
     },
@@ -68,7 +68,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 10,
-      "ago": "20h",
+      "ago": "23h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -260,7 +260,7 @@
       "titre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School.",
       "titreJp": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewasuru Koto ni Narimashita",
       "ep": 10,
-      "ago": "2d",
+      "ago": "3d",
       "img": "bprh4",
       "ahId": "n2apg"
     },
@@ -553,7 +553,7 @@
       "ahId": "7p85t"
     }
   ],
-  "updatedAt": "2026-09-08T17:43:42.556Z",
+  "updatedAt": "2026-09-08T20:39:56.654Z",
   "source": "github-actions",
   "count": 69
 }
