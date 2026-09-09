@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Tomb Raider King",
+      "titreJp": "Dogurwang",
+      "ep": 10,
+      "ago": "2h",
+      "img": "1i8dr",
+      "ahId": "7p85t"
+    },
+    {
       "titre": "The Villager of LV999",
       "titreJp": "LV999 no Murabito",
       "ep": 12,
-      "ago": "?",
+      "ago": "4h",
       "img": "7vqbp",
       "ahId": "mucnh"
     },
@@ -12,7 +20,7 @@
       "titre": "From Old Country Bumpkin to Master Swordsman Season 2",
       "titreJp": "Katainaka no Ossan, Kensei ni Naru II",
       "ep": 10,
-      "ago": "?",
+      "ago": "4h",
       "img": "8yx8x",
       "ahId": "hoi3i"
     },
@@ -20,7 +28,7 @@
       "titre": "Hana-Kimi Season 2",
       "titreJp": "Hanazakari no Kimi-tachi e Season 2",
       "ep": 12,
-      "ago": "?",
+      "ago": "4h",
       "img": "yzbv7",
       "ahId": "s3cd7"
     },
@@ -28,7 +36,7 @@
       "titre": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2nd Season",
       "titreJp": "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2nd Season",
       "ep": 10,
-      "ago": "1h",
+      "ago": "4h",
       "img": "l7tno",
       "ahId": "6rmgo"
     },
@@ -36,7 +44,7 @@
       "titre": "My Stepmother and Stepsisters Aren’t Wicked",
       "titreJp": "Ibitte Konai Gibo to Gishi",
       "ep": 10,
-      "ago": "2h",
+      "ago": "5h",
       "img": "b8zqi",
       "ahId": "8e1k6"
     },
@@ -44,7 +52,7 @@
       "titre": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
       "titreJp": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
       "ep": 12,
-      "ago": "2h",
+      "ago": "5h",
       "img": "ycs89",
       "ahId": "q3n2b"
     },
@@ -52,7 +60,7 @@
       "titre": "Re:ZERO: Starting Life in Another World Season 4",
       "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
       "ep": 16,
-      "ago": "2h",
+      "ago": "6h",
       "img": "7tc0j",
       "ahId": "ilp9j"
     },
@@ -60,7 +68,7 @@
       "titre": "Saga of Tanya the Evil II",
       "titreJp": "",
       "ep": 10,
-      "ago": "3h",
+      "ago": "6h",
       "img": "wr5w2",
       "ahId": "jrus1"
     },
@@ -68,7 +76,7 @@
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 10,
-      "ago": "4h",
+      "ago": "8h",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -76,7 +84,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 10,
-      "ago": "23h",
+      "ago": "1d",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -332,7 +340,7 @@
       "titre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School.",
       "titreJp": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewasuru Koto ni Narimashita",
       "ep": 10,
-      "ago": "3d",
+      "ago": "4d",
       "img": "bprh4",
       "ahId": "n2apg"
     },
@@ -340,7 +348,7 @@
       "titre": "Magilumiere Co. Ltd. 2nd Season",
       "titreJp": "Kabushikigaisha Magi-Lumière 2nd Season",
       "ep": 9,
-      "ago": "3d",
+      "ago": "4d",
       "img": "a0m9j",
       "ahId": "7776o"
     },
@@ -348,7 +356,7 @@
       "titre": "The Ogre's Bride",
       "titreJp": "Oni no Hanayome",
       "ep": 10,
-      "ago": "3d",
+      "ago": "4d",
       "img": "csu03",
       "ahId": "u6fdm"
     },
@@ -356,7 +364,7 @@
       "titre": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
       "titreJp": "&quot;Kimi wo Aisuru Ki wa Nai&quot; to Itta Jiki Koushaku-sama ga nazeka Dekiaishitekimasu",
       "ep": 10,
-      "ago": "3d",
+      "ago": "4d",
       "img": "r5tg3",
       "ahId": "m6wg7"
     },
@@ -364,7 +372,7 @@
       "titre": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
       "titreJp": "",
       "ep": 10,
-      "ago": "3d",
+      "ago": "4d",
       "img": "zpm54",
       "ahId": "zweu6"
     },
@@ -543,17 +551,9 @@
       "ago": "5d",
       "img": "whrba",
       "ahId": "gv7dl"
-    },
-    {
-      "titre": "Kaiju Girl Caramelise",
-      "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
-      "ep": 10,
-      "ago": "5d",
-      "img": "gtz8g",
-      "ahId": "wfsth"
     }
   ],
-  "updatedAt": "2026-09-09T17:00:35.535Z",
+  "updatedAt": "2026-09-09T20:20:53.358Z",
   "source": "github-actions",
   "count": 69
 }
