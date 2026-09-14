@@ -4,7 +4,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 11,
-      "ago": "?",
+      "ago": "3h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -12,7 +12,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 24,
-      "ago": "1h",
+      "ago": "5h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -20,7 +20,7 @@
       "titre": "Grand Blue Season 3",
       "titreJp": "Grand Blue Dreaming Season 3",
       "ep": 11,
-      "ago": "1h",
+      "ago": "5h",
       "img": "o5w0q",
       "ahId": "gwokm"
     },
@@ -28,7 +28,7 @@
       "titre": "Oh Boy, Was I Wrong About Her",
       "titreJp": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
       "ep": 11,
-      "ago": "2h",
+      "ago": "6h",
       "img": "vse6w",
       "ahId": "7e6hd"
     },
@@ -36,7 +36,7 @@
       "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
       "titreJp": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
       "ep": 11,
-      "ago": "2h",
+      "ago": "6h",
       "img": "0vaar",
       "ahId": "x2njz"
     },
@@ -44,7 +44,7 @@
       "titre": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
       "titreJp": "Buchikire Reijou wa Houfuku wo Chikai Mashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
       "ep": 11,
-      "ago": "2h",
+      "ago": "6h",
       "img": "s5q25",
       "ahId": "o0cpo"
     },
@@ -52,7 +52,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 12,
-      "ago": "3h",
+      "ago": "7h",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -60,7 +60,7 @@
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 11,
-      "ago": "4h",
+      "ago": "8h",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -68,7 +68,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 11,
-      "ago": "4h",
+      "ago": "8h",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -76,7 +76,7 @@
       "titre": "Love Unseen Beneath the Clear Night Sky",
       "titreJp": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "ep": 11,
-      "ago": "4h",
+      "ago": "8h",
       "img": "2qfc1",
       "ahId": "fn31g"
     },
@@ -188,7 +188,7 @@
       "titre": "Violet Evergarden Movie",
       "titreJp": "",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "34k2m",
       "ahId": "ehtv9"
     },
@@ -196,7 +196,7 @@
       "titre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School.",
       "titreJp": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewasuru Koto ni Narimashita",
       "ep": 11,
-      "ago": "1d",
+      "ago": "2d",
       "img": "bprh4",
       "ahId": "n2apg"
     },
@@ -204,7 +204,7 @@
       "titre": "Magilumiere Co. Ltd. 2nd Season",
       "titreJp": "Kabushikigaisha Magi-Lumière 2nd Season",
       "ep": 10,
-      "ago": "1d",
+      "ago": "2d",
       "img": "a0m9j",
       "ahId": "7776o"
     },
@@ -428,7 +428,7 @@
       "titre": "Kaiju Girl Caramelise",
       "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
       "ep": 11,
-      "ago": "3d",
+      "ago": "4d",
       "img": "gtz8g",
       "ahId": "wfsth"
     },
@@ -553,7 +553,7 @@
       "ahId": "q3n2b"
     }
   ],
-  "updatedAt": "2026-09-14T17:36:14.048Z",
+  "updatedAt": "2026-09-14T21:24:43.443Z",
   "source": "github-actions",
   "count": 69
 }
