@@ -4,7 +4,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 11,
-      "ago": "7h",
+      "ago": "13h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -12,7 +12,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 11,
-      "ago": "9h",
+      "ago": "15h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -20,7 +20,7 @@
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 12,
-      "ago": "11h",
+      "ago": "17h",
       "img": "fctsy",
       "ahId": "mvh9u"
     },
@@ -28,7 +28,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 11,
-      "ago": "12h",
+      "ago": "18h",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -36,7 +36,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 11,
-      "ago": "13h",
+      "ago": "19h",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -44,7 +44,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 25,
-      "ago": "20h",
+      "ago": "1d",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -228,7 +228,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 47,
-      "ago": "2d",
+      "ago": "3d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -460,7 +460,7 @@
       "titre": "Link Click 3rd Season",
       "titreJp": "Shiguang Dailiren 3rd Season",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "whrba",
       "ahId": "gv7dl"
     },
@@ -553,7 +553,7 @@
       "ahId": "mucnh"
     }
   ],
-  "updatedAt": "2026-09-16T01:02:23.128Z",
+  "updatedAt": "2026-09-16T07:09:43.427Z",
   "source": "github-actions",
   "count": 69
 }
