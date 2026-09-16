@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Hunter x Hunter (2011)",
+      "titreJp": "",
+      "ep": 75,
+      "ago": "?",
+      "img": "xtqit",
+      "ahId": "ac4cz"
+    },
+    {
       "titre": "Tomb Raider King",
       "titreJp": "Dogurwang",
       "ep": 11,
-      "ago": "?",
+      "ago": "3h",
       "img": "1i8dr",
       "ahId": "7p85t"
     },
@@ -12,7 +20,7 @@
       "titre": "Fate/Zero 2",
       "titreJp": "",
       "ep": 12,
-      "ago": "?",
+      "ago": "3h",
       "img": "mqki6",
       "ahId": "7o7hj"
     },
@@ -20,7 +28,7 @@
       "titre": "Hana-Kimi Season 2",
       "titreJp": "Hanazakari no Kimi-tachi e Season 2",
       "ep": 13,
-      "ago": "1h",
+      "ago": "4h",
       "img": "yzbv7",
       "ahId": "s3cd7"
     },
@@ -28,7 +36,7 @@
       "titre": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2nd Season",
       "titreJp": "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2nd Season",
       "ep": 11,
-      "ago": "2h",
+      "ago": "5h",
       "img": "l7tno",
       "ahId": "6rmgo"
     },
@@ -36,7 +44,7 @@
       "titre": "From Old Country Bumpkin to Master Swordsman Season 2",
       "titreJp": "Katainaka no Ossan, Kensei ni Naru II",
       "ep": 11,
-      "ago": "2h",
+      "ago": "5h",
       "img": "8yx8x",
       "ahId": "hoi3i"
     },
@@ -44,7 +52,7 @@
       "titre": "My Stepmother and Stepsisters Aren’t Wicked",
       "titreJp": "Ibitte Konai Gibo to Gishi",
       "ep": 11,
-      "ago": "3h",
+      "ago": "6h",
       "img": "b8zqi",
       "ahId": "8e1k6"
     },
@@ -52,7 +60,7 @@
       "titre": "Re:ZERO: Starting Life in Another World Season 4",
       "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
       "ep": 17,
-      "ago": "3h",
+      "ago": "6h",
       "img": "7tc0j",
       "ahId": "ilp9j"
     },
@@ -60,7 +68,7 @@
       "titre": "Saga of Tanya the Evil II",
       "titreJp": "",
       "ep": 11,
-      "ago": "4h",
+      "ago": "7h",
       "img": "wr5w2",
       "ahId": "jrus1"
     },
@@ -68,7 +76,7 @@
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 11,
-      "ago": "5h",
+      "ago": "8h",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -308,7 +316,7 @@
       "titre": "Violet Evergarden Movie",
       "titreJp": "",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "34k2m",
       "ahId": "ehtv9"
     },
@@ -316,7 +324,7 @@
       "titre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School.",
       "titreJp": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewasuru Koto ni Narimashita",
       "ep": 11,
-      "ago": "3d",
+      "ago": "4d",
       "img": "bprh4",
       "ahId": "n2apg"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "gtz8g",
       "ahId": "wfsth"
-    },
-    {
-      "titre": "The Exiled Heavy Knight Knows How to Game the System",
-      "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
-      "ep": 11,
-      "ago": "6d",
-      "img": "3ks09",
-      "ahId": "6uopw"
     }
   ],
-  "updatedAt": "2026-09-16T17:56:12.700Z",
+  "updatedAt": "2026-09-16T20:54:43.488Z",
   "source": "github-actions",
   "count": 69
 }
