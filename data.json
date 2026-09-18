@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "The Classroom of a Black Cat and a Witch",
+      "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
+      "ep": 23,
+      "ago": "1h",
+      "img": "cs0bn",
+      "ahId": "7p5hz"
+    },
+    {
+      "titre": "Kamui-san Directly Behind You",
+      "titreJp": "Ushirou no Shoumen Kamui-san",
+      "ep": 12,
+      "ago": "2h",
+      "img": "e9nx0",
+      "ahId": "cc9vg"
+    },
+    {
       "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
       "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
       "ep": 12,
-      "ago": "?",
+      "ago": "3h",
       "img": "c5wg4",
       "ahId": "vnlfg"
     },
@@ -12,7 +28,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 12,
-      "ago": "?",
+      "ago": "3h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -20,7 +36,7 @@
       "titre": "The Elusive Samurai 2nd Season",
       "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
       "ep": 10,
-      "ago": "1h",
+      "ago": "4h",
       "img": "xg229",
       "ahId": "8s06m"
     },
@@ -28,7 +44,7 @@
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 11,
-      "ago": "1h",
+      "ago": "4h",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -36,7 +52,7 @@
       "titre": "The Drops of God",
       "titreJp": "Kami no Shizuku",
       "ep": 24,
-      "ago": "1h",
+      "ago": "4h",
       "img": "par8w",
       "ahId": "m2zjn"
     },
@@ -44,7 +60,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 23,
-      "ago": "2h",
+      "ago": "5h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -52,7 +68,7 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 12,
-      "ago": "3h",
+      "ago": "6h",
       "img": "atd9e",
       "ahId": "4cpxl"
     },
@@ -60,7 +76,7 @@
       "titre": "The Frontier Lord Begins with Zero Subjects",
       "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "ep": 12,
-      "ago": "3h",
+      "ago": "6h",
       "img": "lq61b",
       "ahId": "wj4jh"
     },
@@ -68,7 +84,7 @@
       "titre": "Link Click 3rd Season",
       "titreJp": "Shiguang Dailiren 3rd Season",
       "ep": 7,
-      "ago": "14h",
+      "ago": "17h",
       "img": "whrba",
       "ahId": "gv7dl"
     },
@@ -76,7 +92,7 @@
       "titre": "Kaiju Girl Caramelise",
       "titreJp": "Otome Kaijuu Caramelise, Meiden Kaiju Carameliser",
       "ep": 12,
-      "ago": "23h",
+      "ago": "1d",
       "img": "gtz8g",
       "ahId": "wfsth"
     },
@@ -132,7 +148,7 @@
       "titre": "Hunter x Hunter (2011)",
       "titreJp": "",
       "ep": 75,
-      "ago": "1d",
+      "ago": "2d",
       "img": "xtqit",
       "ahId": "ac4cz"
     },
@@ -140,7 +156,7 @@
       "titre": "Tomb Raider King",
       "titreJp": "Dogurwang",
       "ep": 11,
-      "ago": "1d",
+      "ago": "2d",
       "img": "1i8dr",
       "ahId": "7p85t"
     },
@@ -212,7 +228,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 11,
-      "ago": "2d",
+      "ago": "3d",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -260,7 +276,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 11,
-      "ago": "3d",
+      "ago": "4d",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -377,14 +393,6 @@
       "ahId": "sfvog"
     },
     {
-      "titre": "The Classroom of a Black Cat and a Witch",
-      "titreJp": "Kuroneko to Majo no Kyoushitsu, The Black Cat and the Witch Classroom",
-      "ep": 23,
-      "ago": "5d",
-      "img": "cs0bn",
-      "ahId": "7p5hz"
-    },
-    {
       "titre": "Sparks of Tomorrow",
       "titreJp": "Nijusseiki Denki Mokuroku: Eureka Evrika, 20 Seiki Denki Mokuroku: Eureka Evrika",
       "ep": 11,
@@ -444,7 +452,7 @@
       "titre": "Violet Evergarden Movie",
       "titreJp": "",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "34k2m",
       "ahId": "ehtv9"
     },
@@ -452,7 +460,7 @@
       "titre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School.",
       "titreJp": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewasuru Koto ni Narimashita",
       "ep": 11,
-      "ago": "5d",
+      "ago": "6d",
       "img": "bprh4",
       "ahId": "n2apg"
     },
@@ -460,7 +468,7 @@
       "titre": "Magilumiere Co. Ltd. 2nd Season",
       "titreJp": "Kabushikigaisha Magi-Lumière 2nd Season",
       "ep": 10,
-      "ago": "5d",
+      "ago": "6d",
       "img": "a0m9j",
       "ahId": "7776o"
     },
@@ -543,17 +551,9 @@
       "ago": "6d",
       "img": "828yy",
       "ahId": "9zg3f"
-    },
-    {
-      "titre": "Black Torch",
-      "titreJp": "",
-      "ep": 11,
-      "ago": "6d",
-      "img": "xq99f",
-      "ahId": "7tq84"
     }
   ],
-  "updatedAt": "2026-09-18T17:27:20.916Z",
+  "updatedAt": "2026-09-18T20:20:47.987Z",
   "source": "github-actions",
   "count": 69
 }
