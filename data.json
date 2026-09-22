@@ -4,7 +4,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 25,
-      "ago": "8h",
+      "ago": "13h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -12,7 +12,7 @@
       "titre": "Grand Blue Season 3",
       "titreJp": "Grand Blue Dreaming Season 3",
       "ep": 12,
-      "ago": "8h",
+      "ago": "14h",
       "img": "o5w0q",
       "ahId": "gwokm"
     },
@@ -20,7 +20,7 @@
       "titre": "Oh Boy, Was I Wrong About Her",
       "titreJp": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
       "ep": 12,
-      "ago": "9h",
+      "ago": "14h",
       "img": "vse6w",
       "ahId": "7e6hd"
     },
@@ -28,7 +28,7 @@
       "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
       "titreJp": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
       "ep": 12,
-      "ago": "9h",
+      "ago": "15h",
       "img": "0vaar",
       "ahId": "x2njz"
     },
@@ -36,7 +36,7 @@
       "titre": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
       "titreJp": "Buchikire Reijou wa Houfuku wo Chikai Mashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
       "ep": 12,
-      "ago": "9h",
+      "ago": "15h",
       "img": "s5q25",
       "ahId": "o0cpo"
     },
@@ -44,7 +44,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 13,
-      "ago": "10h",
+      "ago": "16h",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -52,7 +52,7 @@
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 12,
-      "ago": "11h",
+      "ago": "16h",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -60,7 +60,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 12,
-      "ago": "11h",
+      "ago": "16h",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -68,7 +68,7 @@
       "titre": "Love Unseen Beneath the Clear Night Sky",
       "titreJp": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "ep": 12,
-      "ago": "11h",
+      "ago": "17h",
       "img": "2qfc1",
       "ahId": "fn31g"
     },
@@ -156,7 +156,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 48,
-      "ago": "1d",
+      "ago": "2d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -348,7 +348,7 @@
       "titre": "Link Click 3rd Season",
       "titreJp": "Shiguang Dailiren 3rd Season",
       "ep": 7,
-      "ago": "3d",
+      "ago": "4d",
       "img": "whrba",
       "ahId": "gv7dl"
     },
@@ -532,7 +532,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 25,
-      "ago": "6d",
+      "ago": "7d",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -553,7 +553,7 @@
       "ahId": "th5p2"
     }
   ],
-  "updatedAt": "2026-09-22T00:33:40.222Z",
+  "updatedAt": "2026-09-22T05:49:05.488Z",
   "source": "github-actions",
   "count": 69
 }
