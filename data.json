@@ -4,7 +4,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 12,
-      "ago": "4h",
+      "ago": "7h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -12,7 +12,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 12,
-      "ago": "5h",
+      "ago": "8h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -20,7 +20,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 12,
-      "ago": "7h",
+      "ago": "10h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -28,7 +28,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 12,
-      "ago": "10h",
+      "ago": "12h",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -36,7 +36,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 12,
-      "ago": "11h",
+      "ago": "13h",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -553,7 +553,7 @@
       "ahId": "th5p2"
     }
   ],
-  "updatedAt": "2026-09-22T22:42:02.214Z",
+  "updatedAt": "2026-09-23T01:12:55.841Z",
   "source": "github-actions",
   "count": 69
 }
