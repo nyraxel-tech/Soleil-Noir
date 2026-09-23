@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Clevatess Season 2",
+      "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
+      "ep": 12,
+      "ago": "1h",
+      "img": "lz0uu",
+      "ahId": "d99rj"
+    },
+    {
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 12,
-      "ago": "13h",
+      "ago": "19h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -12,7 +20,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 12,
-      "ago": "14h",
+      "ago": "20h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -20,7 +28,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 12,
-      "ago": "16h",
+      "ago": "22h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -28,7 +36,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 12,
-      "ago": "18h",
+      "ago": "1d",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -36,7 +44,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 12,
-      "ago": "19h",
+      "ago": "1d",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -92,7 +100,7 @@
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 12,
-      "ago": "1d",
+      "ago": "2d",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -100,7 +108,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 12,
-      "ago": "1d",
+      "ago": "2d",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -108,7 +116,7 @@
       "titre": "Love Unseen Beneath the Clear Night Sky",
       "titreJp": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "ep": 12,
-      "ago": "1d",
+      "ago": "2d",
       "img": "2qfc1",
       "ahId": "fn31g"
     },
@@ -180,7 +188,7 @@
       "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
       "titreJp": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
       "ep": 12,
-      "ago": "2d",
+      "ago": "3d",
       "img": "tak3w",
       "ahId": "y01g1"
     },
@@ -188,7 +196,7 @@
       "titre": "Iron Wok Jan!",
       "titreJp": "Tetsunabe no Jan!",
       "ep": 12,
-      "ago": "2d",
+      "ago": "3d",
       "img": "5yj1u",
       "ahId": "3l7kl"
     },
@@ -268,7 +276,7 @@
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 12,
-      "ago": "3d",
+      "ago": "4d",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -276,7 +284,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 23,
-      "ago": "3d",
+      "ago": "4d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -284,7 +292,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1213,
-      "ago": "3d",
+      "ago": "4d",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -292,7 +300,7 @@
       "titre": "Kaiju No. 8: Narumi's Week at Work",
       "titreJp": "Kaijuu 8-gou: Narumi no Heijitsu",
       "ep": 3,
-      "ago": "3d",
+      "ago": "4d",
       "img": "xrbx4",
       "ahId": "uor7t"
     },
@@ -300,7 +308,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 150,
-      "ago": "3d",
+      "ago": "4d",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -308,7 +316,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 22,
-      "ago": "3d",
+      "ago": "4d",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -436,7 +444,7 @@
       "titre": "Bungo Stray Dogs Wan! 2",
       "titreJp": "",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "gob1n",
       "ahId": "1wtvp"
     },
@@ -444,7 +452,7 @@
       "titre": "Dara-san of Reiwa",
       "titreJp": "Reiwa no Dara-san",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "bkz60",
       "ahId": "59rhi"
     },
@@ -521,14 +529,6 @@
       "ahId": "jrus1"
     },
     {
-      "titre": "Clevatess Season 2",
-      "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
-      "ep": 11,
-      "ago": "6d",
-      "img": "lz0uu",
-      "ahId": "d99rj"
-    },
-    {
       "titre": "The Oblivious Saint Can't Contain Her Power",
       "titreJp": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
       "ep": 12,
@@ -548,12 +548,12 @@
       "titre": "You and I are Polar Opposites 2nd Season",
       "titreJp": "Seihantai na Kimi to Boku 2nd Season",
       "ep": 11,
-      "ago": "9d",
+      "ago": "10d",
       "img": "j1ir5",
       "ahId": "th5p2"
     }
   ],
-  "updatedAt": "2026-09-23T07:17:00.845Z",
+  "updatedAt": "2026-09-23T13:19:00.425Z",
   "source": "github-actions",
   "count": 69
 }
