@@ -4,7 +4,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 12,
-      "ago": "7h",
+      "ago": "13h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -12,7 +12,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 12,
-      "ago": "8h",
+      "ago": "14h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -20,7 +20,7 @@
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
       "titreJp": "Yoroi Shin Den Samurai Troopers - Part II, Ronin Warriors - Part II",
       "ep": 12,
-      "ago": "10h",
+      "ago": "16h",
       "img": "pnulh",
       "ahId": "2oq0n"
     },
@@ -28,7 +28,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 12,
-      "ago": "12h",
+      "ago": "18h",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -36,7 +36,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 12,
-      "ago": "13h",
+      "ago": "19h",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -196,7 +196,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 48,
-      "ago": "2d",
+      "ago": "3d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -388,7 +388,7 @@
       "titre": "Link Click 3rd Season",
       "titreJp": "Shiguang Dailiren 3rd Season",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "whrba",
       "ahId": "gv7dl"
     },
@@ -540,7 +540,7 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 25,
-      "ago": "7d",
+      "ago": "8d",
       "img": "c1n5b",
       "ahId": "z1cl4"
     },
@@ -553,7 +553,7 @@
       "ahId": "th5p2"
     }
   ],
-  "updatedAt": "2026-09-23T01:12:55.841Z",
+  "updatedAt": "2026-09-23T07:17:00.845Z",
   "source": "github-actions",
   "count": 69
 }
