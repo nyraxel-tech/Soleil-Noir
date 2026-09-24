@@ -4,7 +4,7 @@
       "titre": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2nd Season",
       "titreJp": "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2nd Season",
       "ep": 12,
-      "ago": "6h",
+      "ago": "9h",
       "img": "l7tno",
       "ahId": "6rmgo"
     },
@@ -12,7 +12,7 @@
       "titre": "From Old Country Bumpkin to Master Swordsman Season 2",
       "titreJp": "Katainaka no Ossan, Kensei ni Naru II",
       "ep": 12,
-      "ago": "6h",
+      "ago": "9h",
       "img": "8yx8x",
       "ahId": "hoi3i"
     },
@@ -20,7 +20,7 @@
       "titre": "Re:ZERO: Starting Life in Another World Season 4",
       "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
       "ep": 18,
-      "ago": "7h",
+      "ago": "10h",
       "img": "7tc0j",
       "ahId": "ilp9j"
     },
@@ -28,7 +28,7 @@
       "titre": "Saga of Tanya the Evil II",
       "titreJp": "",
       "ep": 12,
-      "ago": "8h",
+      "ago": "11h",
       "img": "wr5w2",
       "ahId": "jrus1"
     },
@@ -36,7 +36,7 @@
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 12,
-      "ago": "9h",
+      "ago": "12h",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -553,7 +553,7 @@
       "ahId": "th5p2"
     }
   ],
-  "updatedAt": "2026-09-23T22:00:30.486Z",
+  "updatedAt": "2026-09-24T01:01:23.423Z",
   "source": "github-actions",
   "count": 69
 }
