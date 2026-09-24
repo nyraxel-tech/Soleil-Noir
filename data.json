@@ -4,7 +4,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 12,
-      "ago": "?",
+      "ago": "3h",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -12,7 +12,7 @@
       "titre": "Tomb Raider King",
       "titreJp": "Dogurwang",
       "ep": 13,
-      "ago": "?",
+      "ago": "3h",
       "img": "1i8dr",
       "ahId": "7p85t"
     },
@@ -20,7 +20,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 13,
-      "ago": "1h",
+      "ago": "5h",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -28,7 +28,7 @@
       "titre": "Smoking Behind the Supermarket with You",
       "titreJp": "Super no Ura de Yani Suu Futari",
       "ep": 12,
-      "ago": "1h",
+      "ago": "5h",
       "img": "z18pc",
       "ahId": "gnv5p"
     },
@@ -36,7 +36,7 @@
       "titre": "Mebius Dust",
       "titreJp": "",
       "ep": 12,
-      "ago": "2h",
+      "ago": "6h",
       "img": "02htn",
       "ahId": "yv7me"
     },
@@ -44,7 +44,7 @@
       "titre": "Dara-san of Reiwa",
       "titreJp": "Reiwa no Dara-san",
       "ep": 13,
-      "ago": "5h",
+      "ago": "9h",
       "img": "bkz60",
       "ahId": "59rhi"
     },
@@ -284,7 +284,7 @@
       "titre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School.",
       "titreJp": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewasuru Koto ni Narimashita",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "bprh4",
       "ahId": "n2apg"
     },
@@ -500,7 +500,7 @@
       "titre": "Hunter x Hunter (2011)",
       "titreJp": "",
       "ep": 75,
-      "ago": "7d",
+      "ago": "8d",
       "img": "xtqit",
       "ahId": "ac4cz"
     },
@@ -553,7 +553,7 @@
       "ahId": "th5p2"
     }
   ],
-  "updatedAt": "2026-09-24T18:08:17.678Z",
+  "updatedAt": "2026-09-24T21:55:50.437Z",
   "source": "github-actions",
   "count": 69
 }
