@@ -4,7 +4,7 @@
       "titre": "My Stepmother and Stepsisters Aren’t Wicked",
       "titreJp": "Ibitte Konai Gibo to Gishi",
       "ep": 12,
-      "ago": "2h",
+      "ago": "6h",
       "img": "b8zqi",
       "ahId": "8e1k6"
     },
@@ -12,7 +12,7 @@
       "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
       "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
       "ep": 13,
-      "ago": "3h",
+      "ago": "6h",
       "img": "c5wg4",
       "ahId": "vnlfg"
     },
@@ -20,7 +20,7 @@
       "titre": "The Elusive Samurai 2nd Season",
       "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
       "ep": 11,
-      "ago": "4h",
+      "ago": "7h",
       "img": "xg229",
       "ahId": "8s06m"
     },
@@ -28,7 +28,7 @@
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 12,
-      "ago": "4h",
+      "ago": "8h",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -36,7 +36,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 24,
-      "ago": "5h",
+      "ago": "8h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -44,7 +44,7 @@
       "titre": "JoJo's Bizarre Adventure: Steel Ball Run",
       "titreJp": "Jojo no Kimyou na Bouken: Steel Ball Run",
       "ep": 2,
-      "ago": "11h",
+      "ago": "15h",
       "img": "ftqmf",
       "ahId": "u6jkm"
     },
@@ -52,7 +52,7 @@
       "titre": "Chainsmoker Cat",
       "titreJp": "Yani Neko",
       "ep": 12,
-      "ago": "12h",
+      "ago": "15h",
       "img": "r45h0",
       "ahId": "6hqka"
     },
@@ -60,7 +60,7 @@
       "titre": "Link Click 3rd Season",
       "titreJp": "Shiguang Dailiren 3rd Season",
       "ep": 8,
-      "ago": "17h",
+      "ago": "20h",
       "img": "whrba",
       "ahId": "gv7dl"
     },
@@ -553,7 +553,7 @@
       "ahId": "z1cl4"
     }
   ],
-  "updatedAt": "2026-09-25T20:12:50.458Z",
+  "updatedAt": "2026-09-25T23:46:23.884Z",
   "source": "github-actions",
   "count": 69
 }
