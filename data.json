@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Pokemon Horizons: The Series",
+      "titreJp": "Pocket Monsters (2023)",
+      "ep": 151,
+      "ago": "?",
+      "img": "9fsft",
+      "ahId": "9v661"
+    },
+    {
       "titre": "My Stepmother and Stepsisters Aren’t Wicked",
       "titreJp": "Ibitte Konai Gibo to Gishi",
       "ep": 12,
-      "ago": "9h",
+      "ago": "15h",
       "img": "b8zqi",
       "ahId": "8e1k6"
     },
@@ -12,7 +20,7 @@
       "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
       "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
       "ep": 13,
-      "ago": "10h",
+      "ago": "16h",
       "img": "c5wg4",
       "ahId": "vnlfg"
     },
@@ -20,7 +28,7 @@
       "titre": "The Elusive Samurai 2nd Season",
       "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
       "ep": 11,
-      "ago": "11h",
+      "ago": "16h",
       "img": "xg229",
       "ahId": "8s06m"
     },
@@ -28,7 +36,7 @@
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 12,
-      "ago": "11h",
+      "ago": "17h",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -36,7 +44,7 @@
       "titre": "That Time I Got Reincarnated as a Slime Season 4",
       "titreJp": "Tensei Shitara Slime Datta Ken Season 4",
       "ep": 24,
-      "ago": "12h",
+      "ago": "17h",
       "img": "pjoyd",
       "ahId": "aplyf"
     },
@@ -44,7 +52,7 @@
       "titre": "JoJo's Bizarre Adventure: Steel Ball Run",
       "titreJp": "Jojo no Kimyou na Bouken: Steel Ball Run",
       "ep": 2,
-      "ago": "18h",
+      "ago": "1d",
       "img": "ftqmf",
       "ahId": "u6jkm"
     },
@@ -52,7 +60,7 @@
       "titre": "Chainsmoker Cat",
       "titreJp": "Yani Neko",
       "ep": 12,
-      "ago": "19h",
+      "ago": "1d",
       "img": "r45h0",
       "ahId": "6hqka"
     },
@@ -441,14 +449,6 @@
       "ahId": "uor7t"
     },
     {
-      "titre": "Pokemon Horizons: The Series",
-      "titreJp": "Pocket Monsters (2023)",
-      "ep": 150,
-      "ago": "6d",
-      "img": "9fsft",
-      "ahId": "9v661"
-    },
-    {
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 22,
@@ -548,12 +548,12 @@
       "titre": "Crowned in a Hundred Days",
       "titreJp": "Bai Ri Cheng Wang",
       "ep": 25,
-      "ago": "10d",
+      "ago": "11d",
       "img": "c1n5b",
       "ahId": "z1cl4"
     }
   ],
-  "updatedAt": "2026-09-26T03:21:17.134Z",
+  "updatedAt": "2026-09-26T09:03:02.963Z",
   "source": "github-actions",
   "count": 69
 }
