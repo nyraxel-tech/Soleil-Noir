@@ -4,7 +4,7 @@
       "titre": "Magilumiere Co. Ltd. 2nd Season",
       "titreJp": "Kabushikigaisha Magi-Lumière 2nd Season",
       "ep": 12,
-      "ago": "4h",
+      "ago": "6h",
       "img": "a0m9j",
       "ahId": "7776o"
     },
@@ -12,7 +12,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 26,
-      "ago": "4h",
+      "ago": "6h",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -20,7 +20,7 @@
       "titre": "A Wild Last Boss Appeared! 2",
       "titreJp": "Yasei no Last Boss ga Arawareta! 2",
       "ep": 1,
-      "ago": "8h",
+      "ago": "10h",
       "img": "6vzxm",
       "ahId": "39l08"
     },
@@ -28,7 +28,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 24,
-      "ago": "9h",
+      "ago": "11h",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -36,7 +36,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1214,
-      "ago": "10h",
+      "ago": "12h",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -44,7 +44,7 @@
       "titre": "Kaiju No. 8: Narumi's Week at Work",
       "titreJp": "Kaijuu 8-gou: Narumi no Heijitsu",
       "ep": 4,
-      "ago": "10h",
+      "ago": "13h",
       "img": "xrbx4",
       "ahId": "uor7t"
     },
@@ -52,7 +52,7 @@
       "titre": "A Wild Last Boss Appeared!",
       "titreJp": "Yasei no Last Boss ga Arawareta!",
       "ep": 6,
-      "ago": "10h",
+      "ago": "13h",
       "img": "ycz8p",
       "ahId": "2upvy"
     },
@@ -60,7 +60,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 23,
-      "ago": "12h",
+      "ago": "14h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -68,7 +68,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 151,
-      "ago": "13h",
+      "ago": "15h",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -553,7 +553,7 @@
       "ahId": "s3cd7"
     }
   ],
-  "updatedAt": "2026-09-26T21:46:59.877Z",
+  "updatedAt": "2026-09-27T00:11:07.109Z",
   "source": "github-actions",
   "count": 69
 }
