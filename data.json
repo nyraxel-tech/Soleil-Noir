@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "You and I are Polar Opposites 2nd Season",
+      "titreJp": "Seihantai na Kimi to Boku 2nd Season",
+      "ep": 12,
+      "ago": "3h",
+      "img": "j1ir5",
+      "ahId": "th5p2"
+    },
+    {
+      "titre": "Let's Go Kaikigumi",
+      "titreJp": "",
+      "ep": 12,
+      "ago": "4h",
+      "img": "03516",
+      "ahId": "2ydm9"
+    },
+    {
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 49,
-      "ago": "2h",
+      "ago": "9h",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -12,7 +28,7 @@
       "titre": "Magilumiere Co. Ltd. 2nd Season",
       "titreJp": "Kabushikigaisha Magi-Lumière 2nd Season",
       "ep": 12,
-      "ago": "12h",
+      "ago": "18h",
       "img": "a0m9j",
       "ahId": "7776o"
     },
@@ -20,7 +36,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 26,
-      "ago": "12h",
+      "ago": "19h",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -28,7 +44,7 @@
       "titre": "A Wild Last Boss Appeared! 2",
       "titreJp": "Yasei no Last Boss ga Arawareta! 2",
       "ep": 1,
-      "ago": "16h",
+      "ago": "22h",
       "img": "6vzxm",
       "ahId": "39l08"
     },
@@ -36,7 +52,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 24,
-      "ago": "17h",
+      "ago": "1d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -44,7 +60,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1214,
-      "ago": "18h",
+      "ago": "1d",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -52,7 +68,7 @@
       "titre": "Kaiju No. 8: Narumi's Week at Work",
       "titreJp": "Kaijuu 8-gou: Narumi no Heijitsu",
       "ep": 4,
-      "ago": "19h",
+      "ago": "1d",
       "img": "xrbx4",
       "ahId": "uor7t"
     },
@@ -60,7 +76,7 @@
       "titre": "A Wild Last Boss Appeared!",
       "titreJp": "Yasei no Last Boss ga Arawareta!",
       "ep": 6,
-      "ago": "19h",
+      "ago": "1d",
       "img": "ycz8p",
       "ahId": "2upvy"
     },
@@ -68,7 +84,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 23,
-      "ago": "20h",
+      "ago": "1d",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -76,7 +92,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 151,
-      "ago": "21h",
+      "ago": "1d",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -124,7 +140,7 @@
       "titre": "JoJo's Bizarre Adventure: Steel Ball Run",
       "titreJp": "Jojo no Kimyou na Bouken: Steel Ball Run",
       "ep": 2,
-      "ago": "1d",
+      "ago": "2d",
       "img": "ftqmf",
       "ahId": "u6jkm"
     },
@@ -132,7 +148,7 @@
       "titre": "Chainsmoker Cat",
       "titreJp": "Yani Neko",
       "ep": 12,
-      "ago": "1d",
+      "ago": "2d",
       "img": "r45h0",
       "ahId": "6hqka"
     },
@@ -188,7 +204,7 @@
       "titre": "Dara-san of Reiwa",
       "titreJp": "Reiwa no Dara-san",
       "ep": 13,
-      "ago": "2d",
+      "ago": "3d",
       "img": "bkz60",
       "ahId": "59rhi"
     },
@@ -228,7 +244,7 @@
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 12,
-      "ago": "3d",
+      "ago": "4d",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -252,7 +268,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -260,7 +276,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -332,7 +348,7 @@
       "titre": "Love Unseen Beneath the Clear Night Sky",
       "titreJp": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "ep": 12,
-      "ago": "5d",
+      "ago": "6d",
       "img": "2qfc1",
       "ahId": "fn31g"
     },
@@ -412,7 +428,7 @@
       "titre": "Iron Wok Jan!",
       "titreJp": "Tetsunabe no Jan!",
       "ep": 12,
-      "ago": "6d",
+      "ago": "7d",
       "img": "5yj1u",
       "ahId": "3l7kl"
     },
@@ -535,25 +551,9 @@
       "ago": "10d",
       "img": "xtqit",
       "ahId": "ac4cz"
-    },
-    {
-      "titre": "Fate/Zero 2",
-      "titreJp": "",
-      "ep": 12,
-      "ago": "10d",
-      "img": "mqki6",
-      "ahId": "7o7hj"
-    },
-    {
-      "titre": "Hana-Kimi Season 2",
-      "titreJp": "Hanazakari no Kimi-tachi e Season 2",
-      "ep": 13,
-      "ago": "10d",
-      "img": "yzbv7",
-      "ahId": "s3cd7"
     }
   ],
-  "updatedAt": "2026-09-27T06:09:13.525Z",
+  "updatedAt": "2026-09-27T12:41:44.065Z",
   "source": "github-actions",
   "count": 69
 }
