@@ -4,7 +4,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1180,
-      "ago": "6h",
+      "ago": "10h",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -12,7 +12,7 @@
       "titre": "As a Reincarnated Aristocrat, I’ll Use My Appraisal Skill to Rise in the World Season 3",
       "titreJp": "Tensei Kizoku, Kantei Skill de Nariagaru Season 3",
       "ep": 1,
-      "ago": "8h",
+      "ago": "12h",
       "img": "3pmr7",
       "ahId": "tx0yl"
     },
@@ -20,7 +20,7 @@
       "titre": "Mushoku Tensei: Jobless Reincarnation 3rd Season",
       "titreJp": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
       "ep": 14,
-      "ago": "8h",
+      "ago": "12h",
       "img": "b1dg7",
       "ahId": "sfvog"
     },
@@ -28,7 +28,7 @@
       "titre": "Overgeared",
       "titreJp": "Tempal: Item no Chikara",
       "ep": 1,
-      "ago": "8h",
+      "ago": "12h",
       "img": "reduh",
       "ahId": "khonj"
     },
@@ -36,7 +36,7 @@
       "titre": "Sparks of Tomorrow",
       "titreJp": "Nijusseiki Denki Mokuroku: Eureka Evrika, 20 Seiki Denki Mokuroku: Eureka Evrika",
       "ep": 13,
-      "ago": "8h",
+      "ago": "12h",
       "img": "2e371",
       "ahId": "1wghj"
     },
@@ -44,7 +44,7 @@
       "titre": "As a Reincarnated Aristocrat, I’ll Use My Appraisal Skill to Rise in the World Season 2",
       "titreJp": "Tensei Kizoku, Kantei Skill de Nariagaru Season 2",
       "ep": 12,
-      "ago": "9h",
+      "ago": "13h",
       "img": "wd3oo",
       "ahId": "pltkk"
     },
@@ -52,7 +52,7 @@
       "titre": "You and I are Polar Opposites 2nd Season",
       "titreJp": "Seihantai na Kimi to Boku 2nd Season",
       "ep": 12,
-      "ago": "14h",
+      "ago": "18h",
       "img": "j1ir5",
       "ahId": "th5p2"
     },
@@ -60,7 +60,7 @@
       "titre": "Let's Go Kaikigumi",
       "titreJp": "",
       "ep": 12,
-      "ago": "14h",
+      "ago": "18h",
       "img": "03516",
       "ahId": "2ydm9"
     },
@@ -68,7 +68,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 49,
-      "ago": "20h",
+      "ago": "23h",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -204,7 +204,7 @@
       "titre": "Link Click 3rd Season",
       "titreJp": "Shiguang Dailiren 3rd Season",
       "ep": 8,
-      "ago": "2d",
+      "ago": "3d",
       "img": "whrba",
       "ahId": "gv7dl"
     },
@@ -553,7 +553,7 @@
       "ahId": "wj4jh"
     }
   ],
-  "updatedAt": "2026-09-27T23:36:04.940Z",
+  "updatedAt": "2026-09-28T03:27:19.267Z",
   "source": "github-actions",
   "count": 69
 }
