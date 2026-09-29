@@ -4,7 +4,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 26,
-      "ago": "7h",
+      "ago": "11h",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -76,7 +76,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 49,
-      "ago": "1d",
+      "ago": "2d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -212,7 +212,7 @@
       "titre": "Link Click 3rd Season",
       "titreJp": "Shiguang Dailiren 3rd Season",
       "ep": 8,
-      "ago": "3d",
+      "ago": "4d",
       "img": "whrba",
       "ahId": "gv7dl"
     },
@@ -553,7 +553,7 @@
       "ahId": "wj4jh"
     }
   ],
-  "updatedAt": "2026-09-28T23:39:40.191Z",
+  "updatedAt": "2026-09-29T04:03:04.379Z",
   "source": "github-actions",
   "count": 69
 }
