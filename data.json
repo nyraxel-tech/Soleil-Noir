@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Asobi Asobase",
+      "titreJp": "Asobi Asobase - workshop of fun -",
+      "ep": 15,
+      "ago": "2h",
+      "img": "ekokd",
+      "ahId": "3nlnu"
+    },
+    {
+      "titre": "Red River",
+      "titreJp": "Sora wa Akai Kawa no Hotori",
+      "ep": 13,
+      "ago": "4h",
+      "img": "zh355",
+      "ahId": "x48y1"
+    },
+    {
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 13,
-      "ago": "4h",
+      "ago": "9h",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -92,7 +108,7 @@
       "titre": "Magilumiere Co. Ltd. 2nd Season",
       "titreJp": "Kabushikigaisha Magi-Lumière 2nd Season",
       "ep": 12,
-      "ago": "2d",
+      "ago": "3d",
       "img": "a0m9j",
       "ahId": "7776o"
     },
@@ -164,7 +180,7 @@
       "titre": "My Stepmother and Stepsisters Aren’t Wicked",
       "titreJp": "Ibitte Konai Gibo to Gishi",
       "ep": 12,
-      "ago": "3d",
+      "ago": "4d",
       "img": "b8zqi",
       "ahId": "8e1k6"
     },
@@ -228,7 +244,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -236,7 +252,7 @@
       "titre": "Tomb Raider King",
       "titreJp": "Dogurwang",
       "ep": 13,
-      "ago": "4d",
+      "ago": "5d",
       "img": "1i8dr",
       "ahId": "7p85t"
     },
@@ -311,14 +327,6 @@
       "ago": "6d",
       "img": "lz0uu",
       "ahId": "d99rj"
-    },
-    {
-      "titre": "Red River",
-      "titreJp": "Sora wa Akai Kawa no Hotori",
-      "ep": 12,
-      "ago": "6d",
-      "img": "zh355",
-      "ahId": "x48y1"
     },
     {
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
@@ -460,7 +468,7 @@
       "titre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School.",
       "titreJp": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewasuru Koto ni Narimashita",
       "ep": 12,
-      "ago": "9d",
+      "ago": "10d",
       "img": "bprh4",
       "ahId": "n2apg"
     },
@@ -516,7 +524,7 @@
       "titre": "Kamui-san Directly Behind You",
       "titreJp": "Ushirou no Shoumen Kamui-san",
       "ep": 12,
-      "ago": "10d",
+      "ago": "11d",
       "img": "e9nx0",
       "ahId": "cc9vg"
     },
@@ -543,17 +551,9 @@
       "ago": "11d",
       "img": "atd9e",
       "ahId": "4cpxl"
-    },
-    {
-      "titre": "The Frontier Lord Begins with Zero Subjects",
-      "titreJp": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
-      "ep": 12,
-      "ago": "11d",
-      "img": "lq61b",
-      "ahId": "wj4jh"
     }
   ],
-  "updatedAt": "2026-09-29T17:33:25.791Z",
+  "updatedAt": "2026-09-29T21:48:23.432Z",
   "source": "github-actions",
   "count": 69
 }
