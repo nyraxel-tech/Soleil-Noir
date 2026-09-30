@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Re:ZERO: Starting Life in Another World Season 4",
+      "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
+      "ep": 19,
+      "ago": "?",
+      "img": "7tc0j",
+      "ahId": "ilp9j"
+    },
+    {
+      "titre": "Clevatess Season 2",
+      "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
+      "ep": 13,
+      "ago": "1h",
+      "img": "lz0uu",
+      "ahId": "d99rj"
+    },
+    {
       "titre": "Asobi Asobase",
       "titreJp": "Asobi Asobase - workshop of fun -",
       "ep": 15,
-      "ago": "12h",
+      "ago": "18h",
       "img": "ekokd",
       "ahId": "3nlnu"
     },
@@ -12,7 +28,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 13,
-      "ago": "14h",
+      "ago": "20h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -20,7 +36,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 13,
-      "ago": "19h",
+      "ago": "1d",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -76,7 +92,7 @@
       "titre": "As a Reincarnated Aristocrat, I’ll Use My Appraisal Skill to Rise in the World Season 2",
       "titreJp": "Tensei Kizoku, Kantei Skill de Nariagaru Season 2",
       "ep": 12,
-      "ago": "2d",
+      "ago": "3d",
       "img": "wd3oo",
       "ahId": "pltkk"
     },
@@ -84,7 +100,7 @@
       "titre": "You and I are Polar Opposites 2nd Season",
       "titreJp": "Seihantai na Kimi to Boku 2nd Season",
       "ep": 12,
-      "ago": "2d",
+      "ago": "3d",
       "img": "j1ir5",
       "ahId": "th5p2"
     },
@@ -92,7 +108,7 @@
       "titre": "Let's Go Kaikigumi",
       "titreJp": "",
       "ep": 12,
-      "ago": "2d",
+      "ago": "3d",
       "img": "03516",
       "ahId": "2ydm9"
     },
@@ -124,7 +140,7 @@
       "titre": "A Wild Last Boss Appeared! 2",
       "titreJp": "Yasei no Last Boss ga Arawareta! 2",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "6vzxm",
       "ahId": "39l08"
     },
@@ -132,7 +148,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 24,
-      "ago": "3d",
+      "ago": "4d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -140,7 +156,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1214,
-      "ago": "3d",
+      "ago": "4d",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -148,7 +164,7 @@
       "titre": "Kaiju No. 8: Narumi's Week at Work",
       "titreJp": "Kaijuu 8-gou: Narumi no Heijitsu",
       "ep": 4,
-      "ago": "3d",
+      "ago": "4d",
       "img": "xrbx4",
       "ahId": "uor7t"
     },
@@ -156,7 +172,7 @@
       "titre": "A Wild Last Boss Appeared!",
       "titreJp": "Yasei no Last Boss ga Arawareta!",
       "ep": 6,
-      "ago": "3d",
+      "ago": "4d",
       "img": "ycz8p",
       "ahId": "2upvy"
     },
@@ -164,7 +180,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 23,
-      "ago": "3d",
+      "ago": "4d",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -172,7 +188,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 151,
-      "ago": "3d",
+      "ago": "4d",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -220,7 +236,7 @@
       "titre": "JoJo's Bizarre Adventure: Steel Ball Run",
       "titreJp": "Jojo no Kimyou na Bouken: Steel Ball Run",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "ftqmf",
       "ahId": "u6jkm"
     },
@@ -284,7 +300,7 @@
       "titre": "Dara-san of Reiwa",
       "titreJp": "Reiwa no Dara-san",
       "ep": 13,
-      "ago": "5d",
+      "ago": "6d",
       "img": "bkz60",
       "ahId": "59rhi"
     },
@@ -305,28 +321,12 @@
       "ahId": "hoi3i"
     },
     {
-      "titre": "Re:ZERO: Starting Life in Another World Season 4",
-      "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
-      "ep": 18,
-      "ago": "6d",
-      "img": "7tc0j",
-      "ahId": "ilp9j"
-    },
-    {
       "titre": "Saga of Tanya the Evil II",
       "titreJp": "",
       "ep": 12,
-      "ago": "6d",
+      "ago": "7d",
       "img": "wr5w2",
       "ahId": "jrus1"
-    },
-    {
-      "titre": "Clevatess Season 2",
-      "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
-      "ep": 12,
-      "ago": "6d",
-      "img": "lz0uu",
-      "ahId": "d99rj"
     },
     {
       "titre": "Yoroi-Shinden Samurai Troopers - Part II",
@@ -340,7 +340,7 @@
       "titre": "Young Ladies Don't Play Fighting Games",
       "titreJp": "Tai-Ari deshita. Ojou-sama wa Kakutou Game Nante Shinai",
       "ep": 12,
-      "ago": "7d",
+      "ago": "8d",
       "img": "q69uk",
       "ahId": "vgurt"
     },
@@ -380,7 +380,7 @@
       "titre": "The World Is Dancing",
       "titreJp": "World Is Dancing",
       "ep": 13,
-      "ago": "8d",
+      "ago": "9d",
       "img": "ob8k9",
       "ahId": "jc70y"
     },
@@ -388,7 +388,7 @@
       "titre": "Skeleton Knight in Another World 2",
       "titreJp": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II",
       "ep": 12,
-      "ago": "8d",
+      "ago": "9d",
       "img": "3ol6v",
       "ahId": "1oaxo"
     },
@@ -396,7 +396,7 @@
       "titre": "The Insipid Prince's Furtive Grab for The Throne",
       "titreJp": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi, The Strongest Dull Prince&#039;s Secret Battle for the Throne",
       "ep": 12,
-      "ago": "8d",
+      "ago": "9d",
       "img": "lzwax",
       "ahId": "jdq4y"
     },
@@ -404,7 +404,7 @@
       "titre": "Love Unseen Beneath the Clear Night Sky",
       "titreJp": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "ep": 12,
-      "ago": "8d",
+      "ago": "9d",
       "img": "2qfc1",
       "ahId": "fn31g"
     },
@@ -444,7 +444,7 @@
       "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "titreJp": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
       "ep": 12,
-      "ago": "9d",
+      "ago": "10d",
       "img": "xtq52",
       "ahId": "atyey"
     },
@@ -452,7 +452,7 @@
       "titre": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker",
       "titreJp": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
       "ep": 12,
-      "ago": "9d",
+      "ago": "10d",
       "img": "tak3w",
       "ahId": "y01g1"
     },
@@ -460,7 +460,7 @@
       "titre": "Iron Wok Jan!",
       "titreJp": "Tetsunabe no Jan!",
       "ep": 12,
-      "ago": "9d",
+      "ago": "10d",
       "img": "5yj1u",
       "ahId": "3l7kl"
     },
@@ -508,7 +508,7 @@
       "titre": "Recommendations from Iwamoto-Senpai",
       "titreJp": "Iwamoto-senpai no Suisen",
       "ep": 12,
-      "ago": "10d",
+      "ago": "11d",
       "img": "gnmlq",
       "ahId": "nn6k9"
     },
@@ -516,7 +516,7 @@
       "titre": "Black Torch",
       "titreJp": "",
       "ep": 12,
-      "ago": "10d",
+      "ago": "11d",
       "img": "xq99f",
       "ahId": "7tq84"
     },
@@ -548,12 +548,12 @@
       "titre": "I Became a Legend after My 10 Year-Long Last Stand",
       "titreJp": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
       "ep": 12,
-      "ago": "11d",
+      "ago": "12d",
       "img": "atd9e",
       "ahId": "4cpxl"
     }
   ],
-  "updatedAt": "2026-09-30T07:54:05.372Z",
+  "updatedAt": "2026-09-30T14:34:10.551Z",
   "source": "github-actions",
   "count": 69
 }
