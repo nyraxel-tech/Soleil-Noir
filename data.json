@@ -4,7 +4,7 @@
       "titre": "Asobi Asobase",
       "titreJp": "Asobi Asobase - workshop of fun -",
       "ep": 15,
-      "ago": "5h",
+      "ago": "12h",
       "img": "ekokd",
       "ahId": "3nlnu"
     },
@@ -12,7 +12,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 13,
-      "ago": "7h",
+      "ago": "14h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -20,7 +20,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 13,
-      "ago": "12h",
+      "ago": "19h",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -100,7 +100,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 49,
-      "ago": "2d",
+      "ago": "3d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -228,7 +228,7 @@
       "titre": "Chainsmoker Cat",
       "titreJp": "Yani Neko",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "r45h0",
       "ahId": "6hqka"
     },
@@ -236,7 +236,7 @@
       "titre": "Link Click 3rd Season",
       "titreJp": "Shiguang Dailiren 3rd Season",
       "ep": 8,
-      "ago": "4d",
+      "ago": "5d",
       "img": "whrba",
       "ahId": "gv7dl"
     },
@@ -553,7 +553,7 @@
       "ahId": "4cpxl"
     }
   ],
-  "updatedAt": "2026-09-30T01:01:05.180Z",
+  "updatedAt": "2026-09-30T07:54:05.372Z",
   "source": "github-actions",
   "count": 69
 }
