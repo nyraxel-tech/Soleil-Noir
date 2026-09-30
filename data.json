@@ -4,7 +4,7 @@
       "titre": "Asobi Asobase",
       "titreJp": "Asobi Asobase - workshop of fun -",
       "ep": 15,
-      "ago": "2h",
+      "ago": "5h",
       "img": "ekokd",
       "ahId": "3nlnu"
     },
@@ -12,7 +12,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 13,
-      "ago": "4h",
+      "ago": "7h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -20,7 +20,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 13,
-      "ago": "9h",
+      "ago": "12h",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -553,7 +553,7 @@
       "ahId": "4cpxl"
     }
   ],
-  "updatedAt": "2026-09-29T21:48:23.432Z",
+  "updatedAt": "2026-09-30T01:01:05.180Z",
   "source": "github-actions",
   "count": 69
 }
