@@ -12,7 +12,7 @@
       "titre": "Reincarnated as a Sword 2nd Season",
       "titreJp": "Tensei Shitara Ken deshita 2nd Season",
       "ep": 1,
-      "ago": "4h",
+      "ago": "8h",
       "img": "x4uyc",
       "ahId": "x0r48"
     },
@@ -20,7 +20,7 @@
       "titre": "The Prince of Tennis II U-17 WORLD CUP Final Member Selection Match",
       "titreJp": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
       "ep": 1,
-      "ago": "7h",
+      "ago": "11h",
       "img": "9d6qa",
       "ahId": "12iu3"
     },
@@ -28,7 +28,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 19,
-      "ago": "8h",
+      "ago": "12h",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -36,7 +36,7 @@
       "titre": "Re:ZERO: Starting Life in Another World Season 4",
       "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
       "ep": 19,
-      "ago": "9h",
+      "ago": "13h",
       "img": "7tc0j",
       "ahId": "ilp9j"
     },
@@ -44,7 +44,7 @@
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 13,
-      "ago": "9h",
+      "ago": "14h",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -148,7 +148,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 49,
-      "ago": "3d",
+      "ago": "4d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -276,7 +276,7 @@
       "titre": "Link Click 3rd Season",
       "titreJp": "Shiguang Dailiren 3rd Season",
       "ep": 8,
-      "ago": "5d",
+      "ago": "6d",
       "img": "whrba",
       "ahId": "gv7dl"
     },
@@ -553,7 +553,7 @@
       "ahId": "ldpso"
     }
   ],
-  "updatedAt": "2026-09-30T23:24:53.085Z",
+  "updatedAt": "2026-10-01T03:58:13.074Z",
   "source": "github-actions",
   "count": 69
 }
