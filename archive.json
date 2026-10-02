@@ -1588,8 +1588,22 @@
       "img": "pra1c",
       "ahId": "3vz59",
       "addedAt": "2026-10-01T17:15:04.841Z"
+    },
+    {
+      "titre": "The Apothecary Diaries 2nd Season",
+      "titreJp": "Kusuriya no Hitorigoto 2nd Season",
+      "img": "crzuc",
+      "ahId": "us0bt",
+      "addedAt": "2026-10-02T15:19:32.001Z"
+    },
+    {
+      "titre": "Tokyo Revengers: Battle of Three Deities",
+      "titreJp": "Tokyo Revengers: Santen Sensou-hen",
+      "img": "puty1",
+      "ahId": "kybuw",
+      "addedAt": "2026-10-02T15:19:32.001Z"
     }
   ],
-  "updatedAt": "2026-10-02T08:08:41.783Z",
-  "count": 227
+  "updatedAt": "2026-10-02T15:19:32.001Z",
+  "count": 229
 }
