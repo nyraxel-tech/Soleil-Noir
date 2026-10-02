@@ -1602,8 +1602,22 @@
       "img": "puty1",
       "ahId": "kybuw",
       "addedAt": "2026-10-02T15:19:32.001Z"
+    },
+    {
+      "titre": "The Apothecary Diaries 3rd Season",
+      "titreJp": "Kusuriya no Hitorigoto 3rd Season",
+      "img": "tv772",
+      "ahId": "igk5o",
+      "addedAt": "2026-10-02T20:18:32.308Z"
+    },
+    {
+      "titre": "Welsh & Shedar",
+      "titreJp": "Aoki Denshou Welsh &amp; Shedar",
+      "img": "zf9ws",
+      "ahId": "azod8",
+      "addedAt": "2026-10-02T20:18:32.308Z"
     }
   ],
-  "updatedAt": "2026-10-02T15:19:32.001Z",
-  "count": 229
+  "updatedAt": "2026-10-02T20:18:32.308Z",
+  "count": 231
 }
