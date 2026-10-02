@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Link Click 3rd Season",
+      "titreJp": "Shiguang Dailiren 3rd Season",
+      "ep": 9,
+      "ago": "4h",
+      "img": "whrba",
+      "ahId": "gv7dl"
+    },
+    {
       "titre": "Umayuru: Pretty Gray",
       "titreJp": "",
       "ep": 4,
-      "ago": "3h",
+      "ago": "9h",
       "img": "ebkru",
       "ahId": "e1t42"
     },
@@ -12,7 +20,7 @@
       "titre": "Tougen Anki: Nikko Kegon Falls Arc",
       "titreJp": "Tougen Anki: Nikko Kegon no Taki-hen",
       "ep": 1,
-      "ago": "8h",
+      "ago": "14h",
       "img": "5mopt",
       "ahId": "w5qns"
     },
@@ -20,7 +28,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 14,
-      "ago": "9h",
+      "ago": "15h",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -28,7 +36,7 @@
       "titre": "Umayuru: Full Gate!",
       "titreJp": "&quot;Umayuru&quot; is a short anime series featuring pint-sized Uma Musume! This time, it’s a &quot;Full-Gate&quot; three-minute race where *all* the Uma Musume take to the track! A super-sized, laid-back gathering with everyone!",
       "ep": 1,
-      "ago": "10h",
+      "ago": "16h",
       "img": "cahob",
       "ahId": "7p4ok"
     },
@@ -36,7 +44,7 @@
       "titre": "Umayuru",
       "titreJp": "",
       "ep": 24,
-      "ago": "10h",
+      "ago": "16h",
       "img": "p9np0",
       "ahId": "rty6d"
     },
@@ -44,7 +52,7 @@
       "titre": "The Ramparts of Ice Season 2",
       "titreJp": "Koori no Jouheki Season 2, Ice Castle Wall Season 2",
       "ep": 1,
-      "ago": "10h",
+      "ago": "16h",
       "img": "3r8wc",
       "ahId": "l70lj"
     },
@@ -52,7 +60,7 @@
       "titre": "Ghost Meets Gal!",
       "titreJp": "",
       "ep": 4,
-      "ago": "10h",
+      "ago": "16h",
       "img": "3jxai",
       "ahId": "k921x"
     },
@@ -60,7 +68,7 @@
       "titre": "FX Fighter Kurumi-chan",
       "titreJp": "FX Senshi Kurumi-chan",
       "ep": 1,
-      "ago": "13h",
+      "ago": "19h",
       "img": "pra1c",
       "ahId": "3vz59"
     },
@@ -68,7 +76,7 @@
       "titre": "Tomb Raider King",
       "titreJp": "Dogurwang",
       "ep": 12,
-      "ago": "23h",
+      "ago": "1d",
       "img": "1i8dr",
       "ahId": "7p85t"
     },
@@ -212,7 +220,7 @@
       "titre": "Digimon Beatbreak",
       "titreJp": "",
       "ep": 49,
-      "ago": "4d",
+      "ago": "5d",
       "img": "88ts8",
       "ahId": "kqa66"
     },
@@ -332,17 +340,9 @@
       "titre": "Chainsmoker Cat",
       "titreJp": "Yani Neko",
       "ep": 12,
-      "ago": "6d",
+      "ago": "7d",
       "img": "r45h0",
       "ahId": "6hqka"
-    },
-    {
-      "titre": "Link Click 3rd Season",
-      "titreJp": "Shiguang Dailiren 3rd Season",
-      "ep": 8,
-      "ago": "6d",
-      "img": "whrba",
-      "ahId": "gv7dl"
     },
     {
       "titre": "Flaming Dodgeball Girl Danko",
@@ -553,7 +553,7 @@
       "ahId": "u6fdm"
     }
   ],
-  "updatedAt": "2026-10-02T01:57:44.884Z",
+  "updatedAt": "2026-10-02T08:08:41.725Z",
   "source": "github-actions",
   "count": 69
 }
