@@ -1,10 +1,42 @@
 {
   "animes": [
     {
+      "titre": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
+      "titreJp": "Kashita Maryoku wa &quot;Revolving Barai&quot; de Kyousei Choushuu",
+      "ep": 1,
+      "ago": "?",
+      "img": "rg75s",
+      "ahId": "vm4bk"
+    },
+    {
+      "titre": "Magical Explorer",
+      "titreJp": "",
+      "ep": 1,
+      "ago": "1h",
+      "img": "x1xv9",
+      "ahId": "gve9a"
+    },
+    {
+      "titre": "Vertex Force",
+      "titreJp": "",
+      "ep": 1,
+      "ago": "2h",
+      "img": "jvyhy",
+      "ahId": "og3o4"
+    },
+    {
+      "titre": "Gensou Suikoden",
+      "titreJp": "",
+      "ep": 1,
+      "ago": "3h",
+      "img": "pyp4h",
+      "ahId": "byfec"
+    },
+    {
       "titre": "The Seven Knights of the Marronnier Kingdom",
       "titreJp": "Marronnier Oukoku no Shichinin no Kishi",
       "ep": 1,
-      "ago": "?",
+      "ago": "3h",
       "img": "cf05c",
       "ahId": "lcc9t"
     },
@@ -12,7 +44,7 @@
       "titre": "Black Clover 2nd Season",
       "titreJp": "",
       "ep": 1,
-      "ago": "?",
+      "ago": "3h",
       "img": "82gob",
       "ahId": "0pqfl"
     },
@@ -20,7 +52,7 @@
       "titre": "Black Clover",
       "titreJp": "",
       "ep": 171,
-      "ago": "?",
+      "ago": "3h",
       "img": "mg1oq",
       "ahId": "l1cen"
     },
@@ -28,7 +60,7 @@
       "titre": "#I'm Looking For a Zombie",
       "titreJp": "#Zombie Sagashitemasu",
       "ep": 1,
-      "ago": "?",
+      "ago": "3h",
       "img": "j5hvj",
       "ahId": "lfdvl"
     },
@@ -36,7 +68,7 @@
       "titre": "A Wild Last Boss Appeared! 2",
       "titreJp": "Yasei no Last Boss ga Arawareta! 2",
       "ep": 2,
-      "ago": "1h",
+      "ago": "5h",
       "img": "6vzxm",
       "ahId": "39l08"
     },
@@ -44,7 +76,7 @@
       "titre": "A Tale of the Secret Saint",
       "titreJp": "Tenseishita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
       "ep": 2,
-      "ago": "2h",
+      "ago": "5h",
       "img": "ffres",
       "ahId": "tbd2z"
     },
@@ -52,7 +84,7 @@
       "titre": "Romelia War Chronicle",
       "titreJp": "Romelia Senki: Hakushaku Reijou, Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshikisuru",
       "ep": 1,
-      "ago": "2h",
+      "ago": "5h",
       "img": "ucpu2",
       "ahId": "5u4aa"
     },
@@ -60,7 +92,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1215,
-      "ago": "3h",
+      "ago": "7h",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -68,7 +100,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 24,
-      "ago": "5h",
+      "ago": "9h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -76,7 +108,7 @@
       "titre": "Sgt. Frog (2026)",
       "titreJp": "Keroro Gunsou☆ (2026)",
       "ep": 1,
-      "ago": "8h",
+      "ago": "11h",
       "img": "la1qi",
       "ahId": "kk3xm"
     },
@@ -84,7 +116,7 @@
       "titre": "The Apothecary Diaries 3rd Season",
       "titreJp": "Kusuriya no Hitorigoto 3rd Season",
       "ep": 1,
-      "ago": "20h",
+      "ago": "23h",
       "img": "tv772",
       "ahId": "igk5o"
     },
@@ -92,7 +124,7 @@
       "titre": "Welsh & Shedar",
       "titreJp": "Aoki Denshou Welsh &amp; Shedar",
       "ep": 13,
-      "ago": "21h",
+      "ago": "1d",
       "img": "zf9ws",
       "ahId": "azod8"
     },
@@ -100,7 +132,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 13,
-      "ago": "21h",
+      "ago": "1d",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -108,7 +140,7 @@
       "titre": "Tougen Anki: Nikko Kegon Falls Arc",
       "titreJp": "Tougen Anki: Nikko Kegon no Taki-hen",
       "ep": 1,
-      "ago": "23h",
+      "ago": "1d",
       "img": "5mopt",
       "ahId": "w5qns"
     },
@@ -116,7 +148,7 @@
       "titre": "The Elusive Samurai 2nd Season",
       "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
       "ep": 12,
-      "ago": "23h",
+      "ago": "1d",
       "img": "xg229",
       "ahId": "8s06m"
     },
@@ -164,7 +196,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 14,
-      "ago": "1d",
+      "ago": "2d",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -172,7 +204,7 @@
       "titre": "Umayuru: Full Gate!",
       "titreJp": "&quot;Umayuru&quot; is a short anime series featuring pint-sized Uma Musume! This time, it’s a &quot;Full-Gate&quot; three-minute race where *all* the Uma Musume take to the track! A super-sized, laid-back gathering with everyone!",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "cahob",
       "ahId": "7p4ok"
     },
@@ -180,7 +212,7 @@
       "titre": "Umayuru",
       "titreJp": "",
       "ep": 24,
-      "ago": "1d",
+      "ago": "2d",
       "img": "p9np0",
       "ahId": "rty6d"
     },
@@ -188,7 +220,7 @@
       "titre": "The Ramparts of Ice Season 2",
       "titreJp": "Koori no Jouheki Season 2, Ice Castle Wall Season 2",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "3r8wc",
       "ahId": "l70lj"
     },
@@ -228,7 +260,7 @@
       "titre": "The Prince of Tennis II U-17 WORLD CUP Final Member Selection Match",
       "titreJp": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "9d6qa",
       "ahId": "12iu3"
     },
@@ -260,7 +292,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 13,
-      "ago": "3d",
+      "ago": "4d",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -276,7 +308,7 @@
       "titre": "Liar Game",
       "titreJp": "",
       "ep": 26,
-      "ago": "4d",
+      "ago": "5d",
       "img": "csbrl",
       "ahId": "l3kxg"
     },
@@ -284,7 +316,7 @@
       "titre": "One Piece",
       "titreJp": "",
       "ep": 1180,
-      "ago": "5d",
+      "ago": "6d",
       "img": "zbt7y",
       "ahId": "1ht8d"
     },
@@ -356,7 +388,7 @@
       "titre": "Magilumiere Co. Ltd. 2nd Season",
       "titreJp": "Kabushikigaisha Magi-Lumière 2nd Season",
       "ep": 12,
-      "ago": "6d",
+      "ago": "7d",
       "img": "a0m9j",
       "ahId": "7776o"
     },
@@ -364,7 +396,7 @@
       "titre": "MAO",
       "titreJp": "",
       "ep": 26,
-      "ago": "6d",
+      "ago": "7d",
       "img": "topci",
       "ahId": "qw2g9"
     },
@@ -404,7 +436,7 @@
       "titre": "My Stepmother and Stepsisters Aren’t Wicked",
       "titreJp": "Ibitte Konai Gibo to Gishi",
       "ep": 12,
-      "ago": "7d",
+      "ago": "8d",
       "img": "b8zqi",
       "ahId": "8e1k6"
     },
@@ -412,7 +444,7 @@
       "titre": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
       "titreJp": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musousuru - Hajimari no Shoukanshi 2nd Season",
       "ep": 13,
-      "ago": "7d",
+      "ago": "8d",
       "img": "c5wg4",
       "ahId": "vnlfg"
     },
@@ -420,7 +452,7 @@
       "titre": "Draw this, then die!",
       "titreJp": "Kore Kaite Shine",
       "ep": 12,
-      "ago": "7d",
+      "ago": "8d",
       "img": "6ku09",
       "ahId": "zc42w"
     },
@@ -444,7 +476,7 @@
       "titre": "Flaming Dodgeball Girl Danko",
       "titreJp": "Honoo no Toukyuujo: Dodge Danko",
       "ep": 12,
-      "ago": "8d",
+      "ago": "9d",
       "img": "t7nlu",
       "ahId": "usbqy"
     },
@@ -452,7 +484,7 @@
       "titre": "Smoking Behind the Supermarket with You",
       "titreJp": "Super no Ura de Yani Suu Futari",
       "ep": 12,
-      "ago": "8d",
+      "ago": "9d",
       "img": "z18pc",
       "ahId": "gnv5p"
     },
@@ -476,7 +508,7 @@
       "titre": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2nd Season",
       "titreJp": "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2nd Season",
       "ep": 12,
-      "ago": "9d",
+      "ago": "10d",
       "img": "l7tno",
       "ahId": "6rmgo"
     },
@@ -516,44 +548,12 @@
       "titre": "Grand Blue Season 3",
       "titreJp": "Grand Blue Dreaming Season 3",
       "ep": 12,
-      "ago": "11d",
+      "ago": "12d",
       "img": "o5w0q",
       "ahId": "gwokm"
-    },
-    {
-      "titre": "Oh Boy, Was I Wrong About Her",
-      "titreJp": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
-      "ep": 12,
-      "ago": "12d",
-      "img": "vse6w",
-      "ahId": "7e6hd"
-    },
-    {
-      "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
-      "titreJp": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
-      "ep": 12,
-      "ago": "12d",
-      "img": "0vaar",
-      "ahId": "x2njz"
-    },
-    {
-      "titre": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
-      "titreJp": "Buchikire Reijou wa Houfuku wo Chikai Mashita. Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
-      "ep": 12,
-      "ago": "12d",
-      "img": "s5q25",
-      "ahId": "o0cpo"
-    },
-    {
-      "titre": "The World Is Dancing",
-      "titreJp": "World Is Dancing",
-      "ep": 13,
-      "ago": "12d",
-      "img": "ob8k9",
-      "ahId": "jc70y"
     }
   ],
-  "updatedAt": "2026-10-03T15:39:37.899Z",
+  "updatedAt": "2026-10-03T18:58:12.973Z",
   "source": "github-actions",
   "count": 69
 }
