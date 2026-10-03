@@ -4,7 +4,7 @@
       "titre": "The Apothecary Diaries 3rd Season",
       "titreJp": "Kusuriya no Hitorigoto 3rd Season",
       "ep": 1,
-      "ago": "?",
+      "ago": "4h",
       "img": "tv772",
       "ahId": "igk5o"
     },
@@ -12,7 +12,7 @@
       "titre": "Welsh & Shedar",
       "titreJp": "Aoki Denshou Welsh &amp; Shedar",
       "ep": 13,
-      "ago": "2h",
+      "ago": "6h",
       "img": "zf9ws",
       "ahId": "azod8"
     },
@@ -20,7 +20,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 13,
-      "ago": "2h",
+      "ago": "6h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -28,7 +28,7 @@
       "titre": "Tougen Anki: Nikko Kegon Falls Arc",
       "titreJp": "Tougen Anki: Nikko Kegon no Taki-hen",
       "ep": 1,
-      "ago": "3h",
+      "ago": "7h",
       "img": "5mopt",
       "ahId": "w5qns"
     },
@@ -36,7 +36,7 @@
       "titre": "The Elusive Samurai 2nd Season",
       "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
       "ep": 12,
-      "ago": "4h",
+      "ago": "7h",
       "img": "xg229",
       "ahId": "8s06m"
     },
@@ -44,7 +44,7 @@
       "titre": "The Apothecary Diaries 2nd Season",
       "titreJp": "Kusuriya no Hitorigoto 2nd Season",
       "ep": 16,
-      "ago": "8h",
+      "ago": "12h",
       "img": "crzuc",
       "ahId": "us0bt"
     },
@@ -52,7 +52,7 @@
       "titre": "Tokyo Revengers: Battle of Three Deities",
       "titreJp": "Tokyo Revengers: Santen Sensou-hen",
       "ep": 1,
-      "ago": "11h",
+      "ago": "15h",
       "img": "puty1",
       "ahId": "kybuw"
     },
@@ -60,7 +60,7 @@
       "titre": "JoJo's Bizarre Adventure: Steel Ball Run",
       "titreJp": "Jojo no Kimyou na Bouken: Steel Ball Run",
       "ep": 3,
-      "ago": "12h",
+      "ago": "15h",
       "img": "ftqmf",
       "ahId": "u6jkm"
     },
@@ -68,7 +68,7 @@
       "titre": "Link Click 3rd Season",
       "titreJp": "Shiguang Dailiren 3rd Season",
       "ep": 9,
-      "ago": "17h",
+      "ago": "20h",
       "img": "whrba",
       "ahId": "gv7dl"
     },
@@ -76,7 +76,7 @@
       "titre": "Umayuru: Pretty Gray",
       "titreJp": "",
       "ep": 4,
-      "ago": "21h",
+      "ago": "1d",
       "img": "ebkru",
       "ahId": "e1t42"
     },
@@ -553,7 +553,7 @@
       "ahId": "7p5hz"
     }
   ],
-  "updatedAt": "2026-10-02T20:18:32.195Z",
+  "updatedAt": "2026-10-03T00:07:23.719Z",
   "source": "github-actions",
   "count": 69
 }
