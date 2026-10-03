@@ -1616,8 +1616,22 @@
       "img": "zf9ws",
       "ahId": "azod8",
       "addedAt": "2026-10-02T20:18:32.308Z"
+    },
+    {
+      "titre": "The Seven Knights of the Marronnier Kingdom",
+      "titreJp": "Marronnier Oukoku no Shichinin no Kishi",
+      "img": "cf05c",
+      "ahId": "lcc9t",
+      "addedAt": "2026-10-03T11:31:56.821Z"
+    },
+    {
+      "titre": "Sgt. Frog (2026)",
+      "titreJp": "Keroro Gunsou☆ (2026)",
+      "img": "la1qi",
+      "ahId": "kk3xm",
+      "addedAt": "2026-10-03T11:31:56.821Z"
     }
   ],
-  "updatedAt": "2026-10-03T05:59:29.886Z",
-  "count": 231
+  "updatedAt": "2026-10-03T11:31:56.821Z",
+  "count": 233
 }
