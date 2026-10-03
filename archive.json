@@ -1630,8 +1630,43 @@
       "img": "la1qi",
       "ahId": "kk3xm",
       "addedAt": "2026-10-03T11:31:56.821Z"
+    },
+    {
+      "titre": "Black Clover 2nd Season",
+      "titreJp": "",
+      "img": "82gob",
+      "ahId": "0pqfl",
+      "addedAt": "2026-10-03T15:39:37.905Z"
+    },
+    {
+      "titre": "Black Clover",
+      "titreJp": "",
+      "img": "mg1oq",
+      "ahId": "l1cen",
+      "addedAt": "2026-10-03T15:39:37.905Z"
+    },
+    {
+      "titre": "#I'm Looking For a Zombie",
+      "titreJp": "#Zombie Sagashitemasu",
+      "img": "j5hvj",
+      "ahId": "lfdvl",
+      "addedAt": "2026-10-03T15:39:37.905Z"
+    },
+    {
+      "titre": "A Tale of the Secret Saint",
+      "titreJp": "Tenseishita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
+      "img": "ffres",
+      "ahId": "tbd2z",
+      "addedAt": "2026-10-03T15:39:37.905Z"
+    },
+    {
+      "titre": "Romelia War Chronicle",
+      "titreJp": "Romelia Senki: Hakushaku Reijou, Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshikisuru",
+      "img": "ucpu2",
+      "ahId": "5u4aa",
+      "addedAt": "2026-10-03T15:39:37.905Z"
     }
   ],
-  "updatedAt": "2026-10-03T11:31:56.821Z",
-  "count": 233
+  "updatedAt": "2026-10-03T15:39:37.906Z",
+  "count": 238
 }
