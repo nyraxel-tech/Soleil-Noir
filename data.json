@@ -4,7 +4,7 @@
       "titre": "The Apothecary Diaries 3rd Season",
       "titreJp": "Kusuriya no Hitorigoto 3rd Season",
       "ep": 1,
-      "ago": "2h",
+      "ago": "7h",
       "img": "tv772",
       "ahId": "igk5o"
     },
@@ -12,7 +12,7 @@
       "titre": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
       "titreJp": "Kashita Maryoku wa &quot;Revolving Barai&quot; de Kyousei Choushuu",
       "ep": 1,
-      "ago": "3h",
+      "ago": "8h",
       "img": "rg75s",
       "ahId": "vm4bk"
     },
@@ -20,7 +20,7 @@
       "titre": "Magical Explorer",
       "titreJp": "",
       "ep": 1,
-      "ago": "4h",
+      "ago": "8h",
       "img": "x1xv9",
       "ahId": "gve9a"
     },
@@ -28,7 +28,7 @@
       "titre": "Vertex Force",
       "titreJp": "",
       "ep": 1,
-      "ago": "5h",
+      "ago": "10h",
       "img": "jvyhy",
       "ahId": "og3o4"
     },
@@ -36,7 +36,7 @@
       "titre": "Gensou Suikoden",
       "titreJp": "",
       "ep": 1,
-      "ago": "6h",
+      "ago": "10h",
       "img": "pyp4h",
       "ahId": "byfec"
     },
@@ -44,7 +44,7 @@
       "titre": "The Seven Knights of the Marronnier Kingdom",
       "titreJp": "Marronnier Oukoku no Shichinin no Kishi",
       "ep": 1,
-      "ago": "6h",
+      "ago": "10h",
       "img": "cf05c",
       "ahId": "lcc9t"
     },
@@ -52,7 +52,7 @@
       "titre": "Black Clover 2nd Season",
       "titreJp": "",
       "ep": 1,
-      "ago": "6h",
+      "ago": "10h",
       "img": "82gob",
       "ahId": "0pqfl"
     },
@@ -60,7 +60,7 @@
       "titre": "Black Clover",
       "titreJp": "",
       "ep": 171,
-      "ago": "6h",
+      "ago": "10h",
       "img": "mg1oq",
       "ahId": "l1cen"
     },
@@ -68,7 +68,7 @@
       "titre": "#I'm Looking For a Zombie",
       "titreJp": "#Zombie Sagashitemasu",
       "ep": 1,
-      "ago": "6h",
+      "ago": "11h",
       "img": "j5hvj",
       "ahId": "lfdvl"
     },
@@ -76,7 +76,7 @@
       "titre": "A Wild Last Boss Appeared! 2",
       "titreJp": "Yasei no Last Boss ga Arawareta! 2",
       "ep": 2,
-      "ago": "8h",
+      "ago": "12h",
       "img": "6vzxm",
       "ahId": "39l08"
     },
@@ -84,7 +84,7 @@
       "titre": "A Tale of the Secret Saint",
       "titreJp": "Tenseishita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
       "ep": 2,
-      "ago": "8h",
+      "ago": "12h",
       "img": "ffres",
       "ahId": "tbd2z"
     },
@@ -92,7 +92,7 @@
       "titre": "Romelia War Chronicle",
       "titreJp": "Romelia Senki: Hakushaku Reijou, Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshikisuru",
       "ep": 1,
-      "ago": "8h",
+      "ago": "13h",
       "img": "ucpu2",
       "ahId": "5u4aa"
     },
@@ -100,7 +100,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1215,
-      "ago": "10h",
+      "ago": "14h",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -108,7 +108,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 24,
-      "ago": "12h",
+      "ago": "16h",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -116,7 +116,7 @@
       "titre": "Sgt. Frog (2026)",
       "titreJp": "Keroro Gunsou☆ (2026)",
       "ep": 1,
-      "ago": "15h",
+      "ago": "19h",
       "img": "la1qi",
       "ahId": "kk3xm"
     },
@@ -188,7 +188,7 @@
       "titre": "Umayuru: Pretty Gray",
       "titreJp": "",
       "ep": 4,
-      "ago": "1d",
+      "ago": "2d",
       "img": "ebkru",
       "ahId": "e1t42"
     },
@@ -553,7 +553,7 @@
       "ahId": "gwokm"
     }
   ],
-  "updatedAt": "2026-10-03T22:03:04.737Z",
+  "updatedAt": "2026-10-04T02:21:26.835Z",
   "source": "github-actions",
   "count": 69
 }
