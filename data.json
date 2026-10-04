@@ -1,10 +1,50 @@
 {
   "animes": [
     {
+      "titre": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
+      "titreJp": "Yowaki MAX Reijou nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
+      "ep": 1,
+      "ago": "?",
+      "img": "q2sw8",
+      "ahId": "c2c8d"
+    },
+    {
+      "titre": "Overgeared",
+      "titreJp": "Tempal: Item no Chikara",
+      "ep": 2,
+      "ago": "?",
+      "img": "reduh",
+      "ahId": "khonj"
+    },
+    {
+      "titre": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+      "titreJp": "Mezametara Saikyou Soubi to Uchuusen-mochi datta no de, Ikkodate Mezashite Youhei Toshite Jiyuu ni Ikitai",
+      "ep": 1,
+      "ago": "?",
+      "img": "s96ye",
+      "ahId": "d6wf8"
+    },
+    {
+      "titre": "Uncle's Obsession with Cute Things",
+      "titreJp": "Oji-san wa Kawaii Mono ga Osuki.",
+      "ep": 1,
+      "ago": "?",
+      "img": "gv3m0",
+      "ahId": "shbkv"
+    },
+    {
+      "titre": "Hotel Inhumans",
+      "titreJp": "",
+      "ep": 12,
+      "ago": "5h",
+      "img": "qeag0",
+      "ahId": "xhk17"
+    },
+    {
       "titre": "Aoashi Season 2",
       "titreJp": "",
       "ep": 1,
-      "ago": "?",
+      "ago": "5h",
       "img": "ph45t",
       "ahId": "zgjwm"
     },
@@ -12,7 +52,7 @@
       "titre": "You and I are Polar Opposites 2nd Season",
       "titreJp": "Seihantai na Kimi to Boku 2nd Season",
       "ep": 13,
-      "ago": "?",
+      "ago": "6h",
       "img": "j1ir5",
       "ahId": "th5p2"
     },
@@ -20,7 +60,7 @@
       "titre": "The Apothecary Diaries 3rd Season",
       "titreJp": "Kusuriya no Hitorigoto 3rd Season",
       "ep": 1,
-      "ago": "?",
+      "ago": "6h",
       "img": "tv772",
       "ahId": "igk5o"
     },
@@ -28,7 +68,7 @@
       "titre": "Gensou Suikoden",
       "titreJp": "",
       "ep": 1,
-      "ago": "?",
+      "ago": "6h",
       "img": "pyp4h",
       "ahId": "byfec"
     },
@@ -36,7 +76,7 @@
       "titre": "Blue Box Season 2",
       "titreJp": "Ao no Hako Season 2",
       "ep": 1,
-      "ago": "?",
+      "ago": "6h",
       "img": "d49hw",
       "ahId": "9f807"
     },
@@ -44,7 +84,7 @@
       "titre": "Ranma 1/2 Season 3",
       "titreJp": "",
       "ep": 1,
-      "ago": "1h",
+      "ago": "6h",
       "img": "mzg0v",
       "ahId": "y5vk1"
     },
@@ -52,7 +92,7 @@
       "titre": "Even the Student Council Has Its Holes!",
       "titreJp": "Seitokai ni mo Ana wa Aru!",
       "ep": 1,
-      "ago": "5h",
+      "ago": "11h",
       "img": "srr3a",
       "ahId": "9sero"
     },
@@ -60,7 +100,7 @@
       "titre": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
       "titreJp": "Kashita Maryoku wa &quot;Revolving Barai&quot; de Kyousei Choushuu",
       "ep": 1,
-      "ago": "15h",
+      "ago": "20h",
       "img": "rg75s",
       "ahId": "vm4bk"
     },
@@ -68,7 +108,7 @@
       "titre": "Magical Explorer",
       "titreJp": "",
       "ep": 1,
-      "ago": "15h",
+      "ago": "21h",
       "img": "x1xv9",
       "ahId": "gve9a"
     },
@@ -76,7 +116,7 @@
       "titre": "Vertex Force",
       "titreJp": "",
       "ep": 1,
-      "ago": "17h",
+      "ago": "22h",
       "img": "jvyhy",
       "ahId": "og3o4"
     },
@@ -84,7 +124,7 @@
       "titre": "The Seven Knights of the Marronnier Kingdom",
       "titreJp": "Marronnier Oukoku no Shichinin no Kishi",
       "ep": 1,
-      "ago": "17h",
+      "ago": "23h",
       "img": "cf05c",
       "ahId": "lcc9t"
     },
@@ -92,7 +132,7 @@
       "titre": "Black Clover 2nd Season",
       "titreJp": "",
       "ep": 1,
-      "ago": "17h",
+      "ago": "23h",
       "img": "82gob",
       "ahId": "0pqfl"
     },
@@ -100,7 +140,7 @@
       "titre": "Black Clover",
       "titreJp": "",
       "ep": 171,
-      "ago": "17h",
+      "ago": "23h",
       "img": "mg1oq",
       "ahId": "l1cen"
     },
@@ -108,7 +148,7 @@
       "titre": "#I'm Looking For a Zombie",
       "titreJp": "#Zombie Sagashitemasu",
       "ep": 1,
-      "ago": "18h",
+      "ago": "23h",
       "img": "j5hvj",
       "ahId": "lfdvl"
     },
@@ -116,7 +156,7 @@
       "titre": "A Wild Last Boss Appeared! 2",
       "titreJp": "Yasei no Last Boss ga Arawareta! 2",
       "ep": 2,
-      "ago": "19h",
+      "ago": "1d",
       "img": "6vzxm",
       "ahId": "39l08"
     },
@@ -124,7 +164,7 @@
       "titre": "A Tale of the Secret Saint",
       "titreJp": "Tenseishita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
       "ep": 2,
-      "ago": "19h",
+      "ago": "1d",
       "img": "ffres",
       "ahId": "tbd2z"
     },
@@ -132,7 +172,7 @@
       "titre": "Romelia War Chronicle",
       "titreJp": "Romelia Senki: Hakushaku Reijou, Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshikisuru",
       "ep": 1,
-      "ago": "20h",
+      "ago": "1d",
       "img": "ucpu2",
       "ahId": "5u4aa"
     },
@@ -140,7 +180,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1215,
-      "ago": "21h",
+      "ago": "1d",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -148,7 +188,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 24,
-      "ago": "23h",
+      "ago": "1d",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -196,7 +236,7 @@
       "titre": "The Apothecary Diaries 2nd Season",
       "titreJp": "Kusuriya no Hitorigoto 2nd Season",
       "ep": 16,
-      "ago": "1d",
+      "ago": "2d",
       "img": "crzuc",
       "ahId": "us0bt"
     },
@@ -276,7 +316,7 @@
       "titre": "FX Fighter Kurumi-chan",
       "titreJp": "FX Senshi Kurumi-chan",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "pra1c",
       "ahId": "3vz59"
     },
@@ -308,7 +348,7 @@
       "titre": "Re:ZERO: Starting Life in Another World Season 4",
       "titreJp": "Re:Zero kara Hajimeru Isekai Seikatsu 4th season",
       "ep": 19,
-      "ago": "3d",
+      "ago": "4d",
       "img": "7tc0j",
       "ahId": "ilp9j"
     },
@@ -316,7 +356,7 @@
       "titre": "Clevatess Season 2",
       "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
       "ep": 13,
-      "ago": "3d",
+      "ago": "4d",
       "img": "lz0uu",
       "ahId": "d99rj"
     },
@@ -340,7 +380,7 @@
       "titre": "I Want to Love You Till Your Dying Day",
       "titreJp": "Kimi ga Shinu made Koi wo Shitai",
       "ep": 13,
-      "ago": "4d",
+      "ago": "5d",
       "img": "5kivb",
       "ahId": "f6u2m"
     },
@@ -377,18 +417,10 @@
       "ahId": "sfvog"
     },
     {
-      "titre": "Overgeared",
-      "titreJp": "Tempal: Item no Chikara",
-      "ep": 1,
-      "ago": "6d",
-      "img": "reduh",
-      "ahId": "khonj"
-    },
-    {
       "titre": "Sparks of Tomorrow",
       "titreJp": "Nijusseiki Denki Mokuroku: Eureka Evrika, 20 Seiki Denki Mokuroku: Eureka Evrika",
       "ep": 13,
-      "ago": "6d",
+      "ago": "7d",
       "img": "2e371",
       "ahId": "1wghj"
     },
@@ -396,7 +428,7 @@
       "titre": "As a Reincarnated Aristocrat, I’ll Use My Appraisal Skill to Rise in the World Season 2",
       "titreJp": "Tensei Kizoku, Kantei Skill de Nariagaru Season 2",
       "ep": 12,
-      "ago": "6d",
+      "ago": "7d",
       "img": "wd3oo",
       "ahId": "pltkk"
     },
@@ -436,7 +468,7 @@
       "titre": "Welcome to Demon School, Iruma-kun 4",
       "titreJp": "Mairimashita! Iruma-kun 4",
       "ep": 24,
-      "ago": "7d",
+      "ago": "8d",
       "img": "lkpy4",
       "ahId": "amsff"
     },
@@ -444,7 +476,7 @@
       "titre": "Kaiju No. 8: Narumi's Week at Work",
       "titreJp": "Kaijuu 8-gou: Narumi no Heijitsu",
       "ep": 4,
-      "ago": "7d",
+      "ago": "8d",
       "img": "xrbx4",
       "ahId": "uor7t"
     },
@@ -452,7 +484,7 @@
       "titre": "A Wild Last Boss Appeared!",
       "titreJp": "Yasei no Last Boss ga Arawareta!",
       "ep": 6,
-      "ago": "7d",
+      "ago": "8d",
       "img": "ycz8p",
       "ahId": "2upvy"
     },
@@ -519,41 +551,9 @@
       "ago": "9d",
       "img": "z18pc",
       "ahId": "gnv5p"
-    },
-    {
-      "titre": "Mebius Dust",
-      "titreJp": "",
-      "ep": 12,
-      "ago": "9d",
-      "img": "02htn",
-      "ahId": "yv7me"
-    },
-    {
-      "titre": "Dara-san of Reiwa",
-      "titreJp": "Reiwa no Dara-san",
-      "ep": 13,
-      "ago": "9d",
-      "img": "bkz60",
-      "ahId": "59rhi"
-    },
-    {
-      "titre": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2nd Season",
-      "titreJp": "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2nd Season",
-      "ep": 12,
-      "ago": "10d",
-      "img": "l7tno",
-      "ahId": "6rmgo"
-    },
-    {
-      "titre": "From Old Country Bumpkin to Master Swordsman Season 2",
-      "titreJp": "Katainaka no Ossan, Kensei ni Naru II",
-      "ep": 12,
-      "ago": "10d",
-      "img": "8yx8x",
-      "ahId": "hoi3i"
     }
   ],
-  "updatedAt": "2026-10-04T09:17:46.335Z",
+  "updatedAt": "2026-10-04T15:06:51.952Z",
   "source": "github-actions",
   "count": 69
 }
