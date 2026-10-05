@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Magical Girl Raising Project: Restart",
+      "titreJp": "Mahou Shoujo Ikusei Keikaku: Restart",
+      "ep": 1,
+      "ago": "5h",
+      "img": "nb877",
+      "ahId": "nj39s"
+    },
+    {
       "titre": "Psyren",
       "titreJp": "PSYЯEN",
       "ep": 1,
-      "ago": "3h",
+      "ago": "9h",
       "img": "w80sn",
       "ahId": "mc642"
     },
@@ -12,7 +20,7 @@
       "titre": "So What's Wrong with Getting Reborn as a Goblin?",
       "titreJp": "Tensei Goblin Dakedo Shitsumon Aru?",
       "ep": 2,
-      "ago": "4h",
+      "ago": "10h",
       "img": "tj4k5",
       "ahId": "b61c3"
     },
@@ -20,7 +28,7 @@
       "titre": "Hi, I'm a Witch, and My Crush Wants Me to Make a Love Potion",
       "titreJp": "Doumo, Suki na Hito ni Horegusuri wo Iraisareta Majo desu.",
       "ep": 1,
-      "ago": "5h",
+      "ago": "11h",
       "img": "s3978",
       "ahId": "wdmtv"
     },
@@ -28,7 +36,7 @@
       "titre": "Magical Sisters Lulutto Lilly: Part II",
       "titreJp": "Mahou no Shimai Lulutto Lilly: Part II",
       "ep": 1,
-      "ago": "6h",
+      "ago": "12h",
       "img": "ff4ox",
       "ahId": "1klqo"
     },
@@ -196,7 +204,7 @@
       "titre": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
       "titreJp": "Kashita Maryoku wa &quot;Revolving Barai&quot; de Kyousei Choushuu",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "rg75s",
       "ahId": "vm4bk"
     },
@@ -204,7 +212,7 @@
       "titre": "Magical Explorer",
       "titreJp": "",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "x1xv9",
       "ahId": "gve9a"
     },
@@ -364,7 +372,7 @@
       "titre": "Umayuru: Pretty Gray",
       "titreJp": "",
       "ep": 4,
-      "ago": "3d",
+      "ago": "4d",
       "img": "ebkru",
       "ahId": "e1t42"
     },
@@ -420,7 +428,7 @@
       "titre": "Reincarnated as a Sword 2nd Season",
       "titreJp": "Tensei Shitara Ken deshita 2nd Season",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "x4uyc",
       "ahId": "x0r48"
     },
@@ -452,7 +460,7 @@
       "titre": "Asobi Asobase",
       "titreJp": "Asobi Asobase - workshop of fun -",
       "ep": 15,
-      "ago": "5d",
+      "ago": "6d",
       "img": "ekokd",
       "ahId": "3nlnu"
     },
@@ -543,17 +551,9 @@
       "ago": "9d",
       "img": "topci",
       "ahId": "qw2g9"
-    },
-    {
-      "titre": "Welcome to Demon School, Iruma-kun 4",
-      "titreJp": "Mairimashita! Iruma-kun 4",
-      "ep": 24,
-      "ago": "9d",
-      "img": "lkpy4",
-      "ahId": "amsff"
     }
   ],
-  "updatedAt": "2026-10-05T17:49:04.795Z",
+  "updatedAt": "2026-10-05T23:40:58.194Z",
   "source": "github-actions",
   "count": 69
 }
