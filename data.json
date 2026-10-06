@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Magic Knight Rayearth (2026)",
+      "titreJp": "Mahou Kishi Rayearth (2026)",
+      "ep": 1,
+      "ago": "4h",
+      "img": "8lnlp",
+      "ahId": "tbwu1"
+    },
+    {
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 14,
-      "ago": "?",
+      "ago": "4h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -12,7 +20,7 @@
       "titre": "Chitose Is in the Ramune Bottle",
       "titreJp": "Chitose-kun wa Ramune Bin no Naka",
       "ep": 1,
-      "ago": "1h",
+      "ago": "5h",
       "img": "ra4af",
       "ahId": "yrmrw"
     },
@@ -20,7 +28,7 @@
       "titre": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
       "titreJp": "Tsuihousareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Oukasuru. Ore wa Buki dake ja Naku, Arayuru Mono ni \\&quot;Kyouka Point\\&quot; wo Fuyo Dekiru Shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hito-tachi Daijoubu?",
       "ep": 1,
-      "ago": "2h",
+      "ago": "6h",
       "img": "3itp2",
       "ahId": "p3rtm"
     },
@@ -28,7 +36,7 @@
       "titre": "Battle Spirits [Re] Zekkai no Ku",
       "titreJp": "",
       "ep": 1,
-      "ago": "2h",
+      "ago": "7h",
       "img": "j18dk",
       "ahId": "1q18l"
     },
@@ -36,7 +44,7 @@
       "titre": "Super Psychic Policeman Chojo",
       "titreJp": "Choujun! Choujou-senpai",
       "ep": 1,
-      "ago": "2h",
+      "ago": "7h",
       "img": "h139a",
       "ahId": "zgr43"
     },
@@ -44,7 +52,7 @@
       "titre": "The Cold Sato-san is Only Sweet to Me",
       "titreJp": "Shio Taiou no Sato-san ga Ore ni dake Amai",
       "ep": 1,
-      "ago": "4h",
+      "ago": "8h",
       "img": "bxwjz",
       "ahId": "inver"
     },
@@ -52,7 +60,7 @@
       "titre": "Nia Liston: The Merciless Maiden",
       "titreJp": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
       "ep": 1,
-      "ago": "4h",
+      "ago": "9h",
       "img": "bp9jr",
       "ahId": "5um3o"
     },
@@ -60,7 +68,7 @@
       "titre": "Magical Girl Raising Project: Restart",
       "titreJp": "Mahou Shoujo Ikusei Keikaku: Restart",
       "ep": 1,
-      "ago": "23h",
+      "ago": "1d",
       "img": "nb877",
       "ahId": "nj39s"
     },
@@ -260,7 +268,7 @@
       "titre": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
       "titreJp": "Kashita Maryoku wa &quot;Revolving Barai&quot; de Kyousei Choushuu",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "rg75s",
       "ahId": "vm4bk"
     },
@@ -268,7 +276,7 @@
       "titre": "Magical Explorer",
       "titreJp": "",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "x1xv9",
       "ahId": "gve9a"
     },
@@ -484,7 +492,7 @@
       "titre": "Reincarnated as a Sword 2nd Season",
       "titreJp": "Tensei Shitara Ken deshita 2nd Season",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "x4uyc",
       "ahId": "x0r48"
     },
@@ -516,7 +524,7 @@
       "titre": "Asobi Asobase",
       "titreJp": "Asobi Asobase - workshop of fun -",
       "ep": 15,
-      "ago": "6d",
+      "ago": "7d",
       "img": "ekokd",
       "ahId": "3nlnu"
     },
@@ -559,17 +567,9 @@
       "ago": "9d",
       "img": "2e371",
       "ahId": "1wghj"
-    },
-    {
-      "titre": "As a Reincarnated Aristocrat, I’ll Use My Appraisal Skill to Rise in the World Season 2",
-      "titreJp": "Tensei Kizoku, Kantei Skill de Nariagaru Season 2",
-      "ep": 12,
-      "ago": "9d",
-      "img": "wd3oo",
-      "ahId": "pltkk"
     }
   ],
-  "updatedAt": "2026-10-06T17:51:51.419Z",
+  "updatedAt": "2026-10-06T22:16:06.884Z",
   "source": "github-actions",
   "count": 71
 }
