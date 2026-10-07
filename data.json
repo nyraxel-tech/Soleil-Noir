@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Ghost Meets Gal!",
+      "titreJp": "",
+      "ep": 5,
+      "ago": "2h",
+      "img": "3jxai",
+      "ahId": "k921x"
+    },
+    {
+      "titre": "A Returner's Magic Should Be Special",
+      "titreJp": "Gwihwanjaui Mabeobeun Teugbyeolhaeya Habnida, Kikansha no Mahou wa Tokubetsu desu",
+      "ep": 11,
+      "ago": "3h",
+      "img": "uni2x",
+      "ahId": "4mr9k"
+    },
+    {
       "titre": "Magic Knight Rayearth (2026)",
       "titreJp": "Mahou Kishi Rayearth (2026)",
       "ep": 1,
-      "ago": "4h",
+      "ago": "7h",
       "img": "8lnlp",
       "ahId": "tbwu1"
     },
@@ -12,7 +28,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 14,
-      "ago": "4h",
+      "ago": "8h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -20,7 +36,7 @@
       "titre": "Chitose Is in the Ramune Bottle",
       "titreJp": "Chitose-kun wa Ramune Bin no Naka",
       "ep": 1,
-      "ago": "5h",
+      "ago": "9h",
       "img": "ra4af",
       "ahId": "yrmrw"
     },
@@ -28,7 +44,7 @@
       "titre": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
       "titreJp": "Tsuihousareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Oukasuru. Ore wa Buki dake ja Naku, Arayuru Mono ni \\&quot;Kyouka Point\\&quot; wo Fuyo Dekiru Shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hito-tachi Daijoubu?",
       "ep": 1,
-      "ago": "6h",
+      "ago": "10h",
       "img": "3itp2",
       "ahId": "p3rtm"
     },
@@ -36,7 +52,7 @@
       "titre": "Battle Spirits [Re] Zekkai no Ku",
       "titreJp": "",
       "ep": 1,
-      "ago": "7h",
+      "ago": "10h",
       "img": "j18dk",
       "ahId": "1q18l"
     },
@@ -44,7 +60,7 @@
       "titre": "Super Psychic Policeman Chojo",
       "titreJp": "Choujun! Choujou-senpai",
       "ep": 1,
-      "ago": "7h",
+      "ago": "11h",
       "img": "h139a",
       "ahId": "zgr43"
     },
@@ -52,7 +68,7 @@
       "titre": "The Cold Sato-san is Only Sweet to Me",
       "titreJp": "Shio Taiou no Sato-san ga Ore ni dake Amai",
       "ep": 1,
-      "ago": "8h",
+      "ago": "12h",
       "img": "bxwjz",
       "ahId": "inver"
     },
@@ -60,7 +76,7 @@
       "titre": "Nia Liston: The Merciless Maiden",
       "titreJp": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
       "ep": 1,
-      "ago": "9h",
+      "ago": "12h",
       "img": "bp9jr",
       "ahId": "5um3o"
     },
@@ -436,7 +452,7 @@
       "titre": "Umayuru: Pretty Gray",
       "titreJp": "",
       "ep": 4,
-      "ago": "4d",
+      "ago": "5d",
       "img": "ebkru",
       "ahId": "e1t42"
     },
@@ -463,14 +479,6 @@
       "ago": "5d",
       "img": "3r8wc",
       "ahId": "l70lj"
-    },
-    {
-      "titre": "Ghost Meets Gal!",
-      "titreJp": "",
-      "ep": 4,
-      "ago": "5d",
-      "img": "3jxai",
-      "ahId": "k921x"
     },
     {
       "titre": "FX Fighter Kurumi-chan",
@@ -559,17 +567,9 @@
       "ago": "9d",
       "img": "b1dg7",
       "ahId": "sfvog"
-    },
-    {
-      "titre": "Sparks of Tomorrow",
-      "titreJp": "Nijusseiki Denki Mokuroku: Eureka Evrika, 20 Seiki Denki Mokuroku: Eureka Evrika",
-      "ep": 13,
-      "ago": "9d",
-      "img": "2e371",
-      "ahId": "1wghj"
     }
   ],
-  "updatedAt": "2026-10-06T22:16:06.884Z",
+  "updatedAt": "2026-10-07T02:02:25.295Z",
   "source": "github-actions",
   "count": 71
 }
