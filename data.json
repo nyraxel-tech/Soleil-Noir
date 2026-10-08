@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "One Outs",
+      "titreJp": "",
+      "ep": 25,
+      "ago": "?",
+      "img": "l8khj",
+      "ahId": "w7e2s"
+    },
+    {
       "titre": "A Returner's Magic Should Be Special Season 2",
       "titreJp": "Kikansha no Mahou wa Tokubetsu desu 2nd Season, Gwihwanjaui Mabeobeun Teugbyeolhaeya Habnida 2nd Season",
       "ep": 1,
-      "ago": "5h",
+      "ago": "9h",
       "img": "d2tbz",
       "ahId": "9lgbi"
     },
@@ -12,7 +20,7 @@
       "titre": "Dandivine",
       "titreJp": "Juuou Bushin Dandivine",
       "ep": 1,
-      "ago": "5h",
+      "ago": "9h",
       "img": "4shz4",
       "ahId": "n6eej"
     },
@@ -20,7 +28,7 @@
       "titre": "The Prince of Tennis II U-17 WORLD CUP Final Member Selection Match",
       "titreJp": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
       "ep": 2,
-      "ago": "6h",
+      "ago": "10h",
       "img": "9d6qa",
       "ahId": "12iu3"
     },
@@ -28,7 +36,7 @@
       "titre": "Reincarnated as a Sword 2nd Season",
       "titreJp": "Tensei Shitara Ken deshita 2nd Season",
       "ep": 2,
-      "ago": "6h",
+      "ago": "10h",
       "img": "x4uyc",
       "ahId": "x0r48"
     },
@@ -36,7 +44,7 @@
       "titre": "The World’s Strongest Witch",
       "titreJp": "Sekai Saikyou no Majo, Hajimemashita: Watashi dake &quot;Kouryaku Site&quot; wo Mireru Sekai de Jiyuu ni Ikimasu",
       "ep": 1,
-      "ago": "8h",
+      "ago": "11h",
       "img": "5ulec",
       "ahId": "b8gl1"
     },
@@ -44,7 +52,7 @@
       "titre": "The Detective Is Already Dead. Season 2",
       "titreJp": "Tanmoshi, Tantei wa mou, Shindeiru. Season 2",
       "ep": 1,
-      "ago": "8h",
+      "ago": "12h",
       "img": "wve78",
       "ahId": "9j16y"
     },
@@ -52,7 +60,7 @@
       "titre": "Sasaki and Peeps Season 2",
       "titreJp": "Sasaki to Pi-chan Season 2",
       "ep": 1,
-      "ago": "9h",
+      "ago": "13h",
       "img": "a1k9a",
       "ahId": "ick60"
     },
@@ -60,7 +68,7 @@
       "titre": "Ghost Meets Gal!",
       "titreJp": "",
       "ep": 5,
-      "ago": "23h",
+      "ago": "1d",
       "img": "3jxai",
       "ahId": "k921x"
     },
@@ -559,17 +567,9 @@
       "ago": "7d",
       "img": "7tc0j",
       "ahId": "ilp9j"
-    },
-    {
-      "titre": "Clevatess Season 2",
-      "titreJp": "Clevatess 2: Majuu no Ou to Akago to Shikabane no Yuusha,",
-      "ep": 13,
-      "ago": "7d",
-      "img": "lz0uu",
-      "ahId": "d99rj"
     }
   ],
-  "updatedAt": "2026-10-07T22:37:59.043Z",
+  "updatedAt": "2026-10-08T02:27:08.546Z",
   "source": "github-actions",
   "count": 71
 }
