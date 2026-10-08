@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "The Iceblade Sorcerer Shall Rule the World II",
+      "titreJp": "Hyouken no Majutsushi ga Sekai wo Suberu II: Sekai Saikyou no Majutsushi de Aru Shounen wa, Majutsu Gakuin ni Nyuugakusuru",
+      "ep": 1,
+      "ago": "5h",
+      "img": "zyq79",
+      "ahId": "pnz3r"
+    },
+    {
       "titre": "TETSURYO! Meet with Tetsudou Musume",
       "titreJp": "Tetsuryou! Meet with Tetsudou Musume",
       "ep": 1,
-      "ago": "?",
+      "ago": "6h",
       "img": "o1rup",
       "ahId": "n7bzz"
     },
@@ -12,7 +20,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 15,
-      "ago": "?",
+      "ago": "6h",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -20,7 +28,7 @@
       "titre": "The Ramparts of Ice Season 2",
       "titreJp": "Koori no Jouheki Season 2, Ice Castle Wall Season 2",
       "ep": 2,
-      "ago": "1h",
+      "ago": "6h",
       "img": "3r8wc",
       "ahId": "l70lj"
     },
@@ -28,7 +36,7 @@
       "titre": "FX Fighter Kurumi-chan",
       "titreJp": "FX Senshi Kurumi-chan",
       "ep": 2,
-      "ago": "4h",
+      "ago": "10h",
       "img": "pra1c",
       "ahId": "3vz59"
     },
@@ -36,7 +44,7 @@
       "titre": "One Outs",
       "titreJp": "",
       "ep": 25,
-      "ago": "14h",
+      "ago": "20h",
       "img": "l8khj",
       "ahId": "w7e2s"
     },
@@ -44,7 +52,7 @@
       "titre": "A Returner's Magic Should Be Special Season 2",
       "titreJp": "Kikansha no Mahou wa Tokubetsu desu 2nd Season, Gwihwanjaui Mabeobeun Teugbyeolhaeya Habnida 2nd Season",
       "ep": 1,
-      "ago": "23h",
+      "ago": "1d",
       "img": "d2tbz",
       "ahId": "9lgbi"
     },
@@ -52,7 +60,7 @@
       "titre": "Dandivine",
       "titreJp": "Juuou Bushin Dandivine",
       "ep": 1,
-      "ago": "23h",
+      "ago": "1d",
       "img": "4shz4",
       "ahId": "n6eej"
     },
@@ -108,7 +116,7 @@
       "titre": "A Returner's Magic Should Be Special",
       "titreJp": "Gwihwanjaui Mabeobeun Teugbyeolhaeya Habnida, Kikansha no Mahou wa Tokubetsu desu",
       "ep": 11,
-      "ago": "1d",
+      "ago": "2d",
       "img": "uni2x",
       "ahId": "4mr9k"
     },
@@ -116,7 +124,7 @@
       "titre": "Magic Knight Rayearth (2026)",
       "titreJp": "Mahou Kishi Rayearth (2026)",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "8lnlp",
       "ahId": "tbwu1"
     },
@@ -124,7 +132,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 14,
-      "ago": "1d",
+      "ago": "2d",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -180,7 +188,7 @@
       "titre": "Magical Girl Raising Project: Restart",
       "titreJp": "Mahou Shoujo Ikusei Keikaku: Restart",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "nb877",
       "ahId": "nj39s"
     },
@@ -220,7 +228,7 @@
       "titre": "From Far Away",
       "titreJp": "Kanata Kara",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "kvxvi",
       "ahId": "n05fh"
     },
@@ -228,7 +236,7 @@
       "titre": "Click Me All Over",
       "titreJp": "Mouse Cursor de Genjitsu wo Sousa Dekiru you ni Natta node, Onnanoko wo Ippai Click Shimasu",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "cekmu",
       "ahId": "seeqp"
     },
@@ -236,7 +244,7 @@
       "titre": "My Girlfriend's Friend",
       "titreJp": "Kanojo no Tomodachi",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "mkfn9",
       "ahId": "qbeo7"
     },
@@ -380,7 +388,7 @@
       "titre": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
       "titreJp": "Kashita Maryoku wa &quot;Revolving Barai&quot; de Kyousei Choushuu",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "rg75s",
       "ahId": "vm4bk"
     },
@@ -388,7 +396,7 @@
       "titre": "Magical Explorer",
       "titreJp": "",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "x1xv9",
       "ahId": "gve9a"
     },
@@ -484,7 +492,7 @@
       "titre": "Welsh & Shedar",
       "titreJp": "Aoki Denshou Welsh &amp; Shedar",
       "ep": 13,
-      "ago": "5d",
+      "ago": "6d",
       "img": "zf9ws",
       "ahId": "azod8"
     },
@@ -492,7 +500,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 13,
-      "ago": "5d",
+      "ago": "6d",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -548,7 +556,7 @@
       "titre": "Umayuru: Pretty Gray",
       "titreJp": "",
       "ep": 4,
-      "ago": "6d",
+      "ago": "7d",
       "img": "ebkru",
       "ahId": "e1t42"
     },
@@ -559,17 +567,9 @@
       "ago": "7d",
       "img": "p9np0",
       "ahId": "rty6d"
-    },
-    {
-      "titre": "Tomb Raider King",
-      "titreJp": "Dogurwang",
-      "ep": 12,
-      "ago": "7d",
-      "img": "1i8dr",
-      "ahId": "7p85t"
     }
   ],
-  "updatedAt": "2026-10-08T17:10:06.171Z",
+  "updatedAt": "2026-10-08T22:49:38.217Z",
   "source": "github-actions",
   "count": 71
 }
