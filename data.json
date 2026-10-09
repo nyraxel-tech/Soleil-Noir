@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Link Click 3rd Season",
+      "titreJp": "Shiguang Dailiren 3rd Season",
+      "ep": 10,
+      "ago": "6h",
+      "img": "whrba",
+      "ahId": "gv7dl"
+    },
+    {
       "titre": "The Iceblade Sorcerer Shall Rule the World II",
       "titreJp": "Hyouken no Majutsushi ga Sekai wo Suberu II: Sekai Saikyou no Majutsushi de Aru Shounen wa, Majutsu Gakuin ni Nyuugakusuru",
       "ep": 1,
-      "ago": "9h",
+      "ago": "16h",
       "img": "zyq79",
       "ahId": "pnz3r"
     },
@@ -12,7 +20,7 @@
       "titre": "TETSURYO! Meet with Tetsudou Musume",
       "titreJp": "Tetsuryou! Meet with Tetsudou Musume",
       "ep": 1,
-      "ago": "10h",
+      "ago": "17h",
       "img": "o1rup",
       "ahId": "n7bzz"
     },
@@ -20,7 +28,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 15,
-      "ago": "10h",
+      "ago": "17h",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -28,7 +36,7 @@
       "titre": "The Ramparts of Ice Season 2",
       "titreJp": "Koori no Jouheki Season 2, Ice Castle Wall Season 2",
       "ep": 2,
-      "ago": "10h",
+      "ago": "18h",
       "img": "3r8wc",
       "ahId": "l70lj"
     },
@@ -36,7 +44,7 @@
       "titre": "FX Fighter Kurumi-chan",
       "titreJp": "FX Senshi Kurumi-chan",
       "ep": 2,
-      "ago": "14h",
+      "ago": "21h",
       "img": "pra1c",
       "ahId": "3vz59"
     },
@@ -332,7 +340,7 @@
       "titre": "Aoashi Season 2",
       "titreJp": "",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "ph45t",
       "ahId": "zgjwm"
     },
@@ -340,7 +348,7 @@
       "titre": "You and I are Polar Opposites 2nd Season",
       "titreJp": "Seihantai na Kimi to Boku 2nd Season",
       "ep": 13,
-      "ago": "4d",
+      "ago": "5d",
       "img": "j1ir5",
       "ahId": "th5p2"
     },
@@ -348,7 +356,7 @@
       "titre": "The Apothecary Diaries 3rd Season",
       "titreJp": "Kusuriya no Hitorigoto 3rd Season",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "tv772",
       "ahId": "igk5o"
     },
@@ -356,7 +364,7 @@
       "titre": "Gensou Suikoden",
       "titreJp": "",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "pyp4h",
       "ahId": "byfec"
     },
@@ -364,7 +372,7 @@
       "titre": "Blue Box Season 2",
       "titreJp": "Ao no Hako Season 2",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "d49hw",
       "ahId": "9f807"
     },
@@ -372,7 +380,7 @@
       "titre": "Ranma 1/2 Season 3",
       "titreJp": "",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "mzg0v",
       "ahId": "y5vk1"
     },
@@ -380,7 +388,7 @@
       "titre": "Even the Student Council Has Its Holes!",
       "titreJp": "Seitokai ni mo Ana wa Aru!",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "srr3a",
       "ahId": "9sero"
     },
@@ -476,7 +484,7 @@
       "titre": "Ascendance of a Bookworm Season 4",
       "titreJp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season - Ryoushu no Youjo",
       "ep": 24,
-      "ago": "5d",
+      "ago": "6d",
       "img": "2m22z",
       "ahId": "yeyrm"
     },
@@ -484,7 +492,7 @@
       "titre": "Sgt. Frog (2026)",
       "titreJp": "Keroro Gunsou☆ (2026)",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "la1qi",
       "ahId": "kk3xm"
     },
@@ -532,7 +540,7 @@
       "titre": "Tokyo Revengers: Battle of Three Deities",
       "titreJp": "Tokyo Revengers: Santen Sensou-hen",
       "ep": 1,
-      "ago": "6d",
+      "ago": "7d",
       "img": "puty1",
       "ahId": "kybuw"
     },
@@ -540,17 +548,9 @@
       "titre": "JoJo's Bizarre Adventure: Steel Ball Run",
       "titreJp": "Jojo no Kimyou na Bouken: Steel Ball Run",
       "ep": 3,
-      "ago": "6d",
+      "ago": "7d",
       "img": "ftqmf",
       "ahId": "u6jkm"
-    },
-    {
-      "titre": "Link Click 3rd Season",
-      "titreJp": "Shiguang Dailiren 3rd Season",
-      "ep": 9,
-      "ago": "6d",
-      "img": "whrba",
-      "ahId": "gv7dl"
     },
     {
       "titre": "Umayuru: Pretty Gray",
@@ -569,7 +569,7 @@
       "ahId": "rty6d"
     }
   ],
-  "updatedAt": "2026-10-09T02:43:58.309Z",
+  "updatedAt": "2026-10-09T09:59:22.879Z",
   "source": "github-actions",
   "count": 71
 }
