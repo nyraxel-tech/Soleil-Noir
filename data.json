@@ -1,10 +1,74 @@
 {
   "animes": [
     {
+      "titre": "Sorry About My Little Brothers",
+      "titreJp": "Uchi no Otouto-domo ga Sumimasen",
+      "ep": 14,
+      "ago": "?",
+      "img": "9jn5c",
+      "ahId": "ldpso"
+    },
+    {
+      "titre": "Tougen Anki: Nikko Kegon Falls Arc",
+      "titreJp": "Tougen Anki: Nikko Kegon no Taki-hen",
+      "ep": 2,
+      "ago": "?",
+      "img": "5mopt",
+      "ahId": "w5qns"
+    },
+    {
+      "titre": "Firefly Wedding",
+      "titreJp": "Hotaru no Yomeiri",
+      "ep": 1,
+      "ago": "?",
+      "img": "3gndp",
+      "ahId": "bhbnn"
+    },
+    {
+      "titre": "A Certain Dark Side's Item",
+      "titreJp": "Toaru Anbu no ITEM",
+      "ep": 1,
+      "ago": "1h",
+      "img": "rc25t",
+      "ahId": "21bae"
+    },
+    {
+      "titre": "The Apothecary Diaries 3rd Season",
+      "titreJp": "Kusuriya no Hitorigoto 3rd Season",
+      "ep": 2,
+      "ago": "1h",
+      "img": "tv772",
+      "ahId": "igk5o"
+    },
+    {
+      "titre": "Welsh & Shedar",
+      "titreJp": "Aoki Denshou Welsh &amp; Shedar",
+      "ep": 2,
+      "ago": "3h",
+      "img": "zf9ws",
+      "ahId": "azod8"
+    },
+    {
+      "titre": "Tokyo Revengers: Battle of Three Deities",
+      "titreJp": "Tokyo Revengers: Santen Sensou-hen",
+      "ep": 2,
+      "ago": "6h",
+      "img": "puty1",
+      "ahId": "kybuw"
+    },
+    {
+      "titre": "JoJo's Bizarre Adventure: Steel Ball Run",
+      "titreJp": "Jojo no Kimyou na Bouken: Steel Ball Run",
+      "ep": 4,
+      "ago": "6h",
+      "img": "ftqmf",
+      "ahId": "u6jkm"
+    },
+    {
       "titre": "Link Click 3rd Season",
       "titreJp": "Shiguang Dailiren 3rd Season",
       "ep": 10,
-      "ago": "6h",
+      "ago": "13h",
       "img": "whrba",
       "ahId": "gv7dl"
     },
@@ -12,7 +76,7 @@
       "titre": "The Iceblade Sorcerer Shall Rule the World II",
       "titreJp": "Hyouken no Majutsushi ga Sekai wo Suberu II: Sekai Saikyou no Majutsushi de Aru Shounen wa, Majutsu Gakuin ni Nyuugakusuru",
       "ep": 1,
-      "ago": "16h",
+      "ago": "23h",
       "img": "zyq79",
       "ahId": "pnz3r"
     },
@@ -20,7 +84,7 @@
       "titre": "TETSURYO! Meet with Tetsudou Musume",
       "titreJp": "Tetsuryou! Meet with Tetsudou Musume",
       "ep": 1,
-      "ago": "17h",
+      "ago": "1d",
       "img": "o1rup",
       "ahId": "n7bzz"
     },
@@ -28,7 +92,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 15,
-      "ago": "17h",
+      "ago": "1d",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -36,7 +100,7 @@
       "titre": "The Ramparts of Ice Season 2",
       "titreJp": "Koori no Jouheki Season 2, Ice Castle Wall Season 2",
       "ep": 2,
-      "ago": "18h",
+      "ago": "1d",
       "img": "3r8wc",
       "ahId": "l70lj"
     },
@@ -44,7 +108,7 @@
       "titre": "FX Fighter Kurumi-chan",
       "titreJp": "FX Senshi Kurumi-chan",
       "ep": 2,
-      "ago": "21h",
+      "ago": "1d",
       "img": "pra1c",
       "ahId": "3vz59"
     },
@@ -76,7 +140,7 @@
       "titre": "The Prince of Tennis II U-17 WORLD CUP Final Member Selection Match",
       "titreJp": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
       "ep": 2,
-      "ago": "1d",
+      "ago": "2d",
       "img": "9d6qa",
       "ahId": "12iu3"
     },
@@ -84,7 +148,7 @@
       "titre": "Reincarnated as a Sword 2nd Season",
       "titreJp": "Tensei Shitara Ken deshita 2nd Season",
       "ep": 2,
-      "ago": "1d",
+      "ago": "2d",
       "img": "x4uyc",
       "ahId": "x0r48"
     },
@@ -92,7 +156,7 @@
       "titre": "The World’s Strongest Witch",
       "titreJp": "Sekai Saikyou no Majo, Hajimemashita: Watashi dake &quot;Kouryaku Site&quot; wo Mireru Sekai de Jiyuu ni Ikimasu",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "5ulec",
       "ahId": "b8gl1"
     },
@@ -100,7 +164,7 @@
       "titre": "The Detective Is Already Dead. Season 2",
       "titreJp": "Tanmoshi, Tantei wa mou, Shindeiru. Season 2",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "wve78",
       "ahId": "9j16y"
     },
@@ -108,7 +172,7 @@
       "titre": "Sasaki and Peeps Season 2",
       "titreJp": "Sasaki to Pi-chan Season 2",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "a1k9a",
       "ahId": "ick60"
     },
@@ -148,7 +212,7 @@
       "titre": "Chitose Is in the Ramune Bottle",
       "titreJp": "Chitose-kun wa Ramune Bin no Naka",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "ra4af",
       "ahId": "yrmrw"
     },
@@ -156,7 +220,7 @@
       "titre": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
       "titreJp": "Tsuihousareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Oukasuru. Ore wa Buki dake ja Naku, Arayuru Mono ni \\&quot;Kyouka Point\\&quot; wo Fuyo Dekiru Shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hito-tachi Daijoubu?",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "3itp2",
       "ahId": "p3rtm"
     },
@@ -164,7 +228,7 @@
       "titre": "Battle Spirits [Re] Zekkai no Ku",
       "titreJp": "",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "j18dk",
       "ahId": "1q18l"
     },
@@ -172,7 +236,7 @@
       "titre": "Super Psychic Policeman Chojo",
       "titreJp": "Choujun! Choujou-senpai",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "h139a",
       "ahId": "zgr43"
     },
@@ -180,7 +244,7 @@
       "titre": "The Cold Sato-san is Only Sweet to Me",
       "titreJp": "Shio Taiou no Sato-san ga Ore ni dake Amai",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "bxwjz",
       "ahId": "inver"
     },
@@ -188,7 +252,7 @@
       "titre": "Nia Liston: The Merciless Maiden",
       "titreJp": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "bp9jr",
       "ahId": "5um3o"
     },
@@ -204,7 +268,7 @@
       "titre": "Psyren",
       "titreJp": "PSYЯEN",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "w80sn",
       "ahId": "mc642"
     },
@@ -212,7 +276,7 @@
       "titre": "So What's Wrong with Getting Reborn as a Goblin?",
       "titreJp": "Tensei Goblin Dakedo Shitsumon Aru?",
       "ep": 2,
-      "ago": "3d",
+      "ago": "4d",
       "img": "tj4k5",
       "ahId": "b61c3"
     },
@@ -220,7 +284,7 @@
       "titre": "Hi, I'm a Witch, and My Crush Wants Me to Make a Love Potion",
       "titreJp": "Doumo, Suki na Hito ni Horegusuri wo Iraisareta Majo desu.",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "s3978",
       "ahId": "wdmtv"
     },
@@ -228,7 +292,7 @@
       "titre": "Magical Sisters Lulutto Lilly: Part II",
       "titreJp": "Mahou no Shimai Lulutto Lilly: Part II",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "ff4ox",
       "ahId": "1klqo"
     },
@@ -260,7 +324,7 @@
       "titre": "I'm Dating a Dark Summoner",
       "titreJp": "Dark Summoner to Dekiteiru",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "9fe3j",
       "ahId": "ostyz"
     },
@@ -268,7 +332,7 @@
       "titre": "Tank Chair",
       "titreJp": "Sensha Isu",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "pva6o",
       "ahId": "oe1qg"
     },
@@ -276,7 +340,7 @@
       "titre": "Hotel Inhumans 2nd Season",
       "titreJp": "",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "slc2u",
       "ahId": "avgch"
     },
@@ -284,7 +348,7 @@
       "titre": "Umayuru: Full Gate!",
       "titreJp": "&quot;Umayuru&quot; is a short anime series featuring pint-sized Uma Musume! This time, it’s a &quot;Full-Gate&quot; three-minute race where *all* the Uma Musume take to the track! A super-sized, laid-back gathering with everyone!",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "cahob",
       "ahId": "7p4ok"
     },
@@ -292,7 +356,7 @@
       "titre": "As a Reincarnated Aristocrat, I’ll Use My Appraisal Skill to Rise in the World Season 3",
       "titreJp": "Tensei Kizoku, Kantei Skill de Nariagaru Season 3",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "3pmr7",
       "ahId": "tx0yl"
     },
@@ -300,7 +364,7 @@
       "titre": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
       "titreJp": "Yowaki MAX Reijou nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "q2sw8",
       "ahId": "c2c8d"
     },
@@ -308,7 +372,7 @@
       "titre": "Overgeared",
       "titreJp": "Tempal: Item no Chikara",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "reduh",
       "ahId": "khonj"
     },
@@ -316,7 +380,7 @@
       "titre": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
       "titreJp": "Mezametara Saikyou Soubi to Uchuusen-mochi datta no de, Ikkodate Mezashite Youhei Toshite Jiyuu ni Ikitai",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "s96ye",
       "ahId": "d6wf8"
     },
@@ -324,7 +388,7 @@
       "titre": "Uncle's Obsession with Cute Things",
       "titreJp": "Oji-san wa Kawaii Mono ga Osuki.",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "gv3m0",
       "ahId": "shbkv"
     },
@@ -332,7 +396,7 @@
       "titre": "Hotel Inhumans",
       "titreJp": "",
       "ep": 12,
-      "ago": "4d",
+      "ago": "5d",
       "img": "qeag0",
       "ahId": "xhk17"
     },
@@ -351,14 +415,6 @@
       "ago": "5d",
       "img": "j1ir5",
       "ahId": "th5p2"
-    },
-    {
-      "titre": "The Apothecary Diaries 3rd Season",
-      "titreJp": "Kusuriya no Hitorigoto 3rd Season",
-      "ep": 1,
-      "ago": "5d",
-      "img": "tv772",
-      "ahId": "igk5o"
     },
     {
       "titre": "Gensou Suikoden",
@@ -412,7 +468,7 @@
       "titre": "Vertex Force",
       "titreJp": "",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "jvyhy",
       "ahId": "og3o4"
     },
@@ -420,7 +476,7 @@
       "titre": "The Seven Knights of the Marronnier Kingdom",
       "titreJp": "Marronnier Oukoku no Shichinin no Kishi",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "cf05c",
       "ahId": "lcc9t"
     },
@@ -428,7 +484,7 @@
       "titre": "Black Clover 2nd Season",
       "titreJp": "",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "82gob",
       "ahId": "0pqfl"
     },
@@ -436,7 +492,7 @@
       "titre": "Black Clover",
       "titreJp": "",
       "ep": 171,
-      "ago": "5d",
+      "ago": "6d",
       "img": "mg1oq",
       "ahId": "l1cen"
     },
@@ -444,7 +500,7 @@
       "titre": "#I'm Looking For a Zombie",
       "titreJp": "#Zombie Sagashitemasu",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "j5hvj",
       "ahId": "lfdvl"
     },
@@ -452,7 +508,7 @@
       "titre": "A Wild Last Boss Appeared! 2",
       "titreJp": "Yasei no Last Boss ga Arawareta! 2",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "6vzxm",
       "ahId": "39l08"
     },
@@ -460,7 +516,7 @@
       "titre": "A Tale of the Secret Saint",
       "titreJp": "Tenseishita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "ffres",
       "ahId": "tbd2z"
     },
@@ -468,7 +524,7 @@
       "titre": "Romelia War Chronicle",
       "titreJp": "Romelia Senki: Hakushaku Reijou, Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshikisuru",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "ucpu2",
       "ahId": "5u4aa"
     },
@@ -476,7 +532,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1215,
-      "ago": "5d",
+      "ago": "6d",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -497,34 +553,10 @@
       "ahId": "kk3xm"
     },
     {
-      "titre": "Welsh & Shedar",
-      "titreJp": "Aoki Denshou Welsh &amp; Shedar",
-      "ep": 13,
-      "ago": "6d",
-      "img": "zf9ws",
-      "ahId": "azod8"
-    },
-    {
-      "titre": "Sorry About My Little Brothers",
-      "titreJp": "Uchi no Otouto-domo ga Sumimasen",
-      "ep": 13,
-      "ago": "6d",
-      "img": "9jn5c",
-      "ahId": "ldpso"
-    },
-    {
-      "titre": "Tougen Anki: Nikko Kegon Falls Arc",
-      "titreJp": "Tougen Anki: Nikko Kegon no Taki-hen",
-      "ep": 1,
-      "ago": "6d",
-      "img": "5mopt",
-      "ahId": "w5qns"
-    },
-    {
       "titre": "The Elusive Samurai 2nd Season",
       "titreJp": "Nige Jouzu no Wakagimi 2nd Season,",
       "ep": 12,
-      "ago": "6d",
+      "ago": "7d",
       "img": "xg229",
       "ahId": "8s06m"
     },
@@ -532,44 +564,12 @@
       "titre": "The Apothecary Diaries 2nd Season",
       "titreJp": "Kusuriya no Hitorigoto 2nd Season",
       "ep": 16,
-      "ago": "6d",
+      "ago": "7d",
       "img": "crzuc",
       "ahId": "us0bt"
-    },
-    {
-      "titre": "Tokyo Revengers: Battle of Three Deities",
-      "titreJp": "Tokyo Revengers: Santen Sensou-hen",
-      "ep": 1,
-      "ago": "7d",
-      "img": "puty1",
-      "ahId": "kybuw"
-    },
-    {
-      "titre": "JoJo's Bizarre Adventure: Steel Ball Run",
-      "titreJp": "Jojo no Kimyou na Bouken: Steel Ball Run",
-      "ep": 3,
-      "ago": "7d",
-      "img": "ftqmf",
-      "ahId": "u6jkm"
-    },
-    {
-      "titre": "Umayuru: Pretty Gray",
-      "titreJp": "",
-      "ep": 4,
-      "ago": "7d",
-      "img": "ebkru",
-      "ahId": "e1t42"
-    },
-    {
-      "titre": "Umayuru",
-      "titreJp": "",
-      "ep": 24,
-      "ago": "7d",
-      "img": "p9np0",
-      "ahId": "rty6d"
     }
   ],
-  "updatedAt": "2026-10-09T09:59:22.879Z",
+  "updatedAt": "2026-10-09T16:54:33.042Z",
   "source": "github-actions",
   "count": 71
 }
