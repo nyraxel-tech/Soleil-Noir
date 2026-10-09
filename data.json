@@ -4,7 +4,7 @@
       "titre": "The Iceblade Sorcerer Shall Rule the World II",
       "titreJp": "Hyouken no Majutsushi ga Sekai wo Suberu II: Sekai Saikyou no Majutsushi de Aru Shounen wa, Majutsu Gakuin ni Nyuugakusuru",
       "ep": 1,
-      "ago": "5h",
+      "ago": "9h",
       "img": "zyq79",
       "ahId": "pnz3r"
     },
@@ -12,7 +12,7 @@
       "titre": "TETSURYO! Meet with Tetsudou Musume",
       "titreJp": "Tetsuryou! Meet with Tetsudou Musume",
       "ep": 1,
-      "ago": "6h",
+      "ago": "10h",
       "img": "o1rup",
       "ahId": "n7bzz"
     },
@@ -20,7 +20,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 15,
-      "ago": "6h",
+      "ago": "10h",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -28,7 +28,7 @@
       "titre": "The Ramparts of Ice Season 2",
       "titreJp": "Koori no Jouheki Season 2, Ice Castle Wall Season 2",
       "ep": 2,
-      "ago": "6h",
+      "ago": "10h",
       "img": "3r8wc",
       "ahId": "l70lj"
     },
@@ -36,7 +36,7 @@
       "titre": "FX Fighter Kurumi-chan",
       "titreJp": "FX Senshi Kurumi-chan",
       "ep": 2,
-      "ago": "10h",
+      "ago": "14h",
       "img": "pra1c",
       "ahId": "3vz59"
     },
@@ -44,7 +44,7 @@
       "titre": "One Outs",
       "titreJp": "",
       "ep": 25,
-      "ago": "20h",
+      "ago": "1d",
       "img": "l8khj",
       "ahId": "w7e2s"
     },
@@ -108,7 +108,7 @@
       "titre": "Ghost Meets Gal!",
       "titreJp": "",
       "ep": 5,
-      "ago": "1d",
+      "ago": "2d",
       "img": "3jxai",
       "ahId": "k921x"
     },
@@ -569,7 +569,7 @@
       "ahId": "rty6d"
     }
   ],
-  "updatedAt": "2026-10-08T22:49:38.217Z",
+  "updatedAt": "2026-10-09T02:43:58.309Z",
   "source": "github-actions",
   "count": 71
 }
