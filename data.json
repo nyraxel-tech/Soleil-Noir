@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Ace of the Diamond: Act II 2nd Season",
+      "titreJp": "Diamond no Ace: Act II 2nd Season",
+      "ep": 12,
+      "ago": "?",
+      "img": "c50pz",
+      "ahId": "dd464"
+    },
+    {
       "titre": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
       "titreJp": "Kashita Maryoku wa &quot;Revolving Barai&quot; de Kyousei Choushuu",
       "ep": 2,
-      "ago": "1h",
+      "ago": "4h",
       "img": "rg75s",
       "ahId": "vm4bk"
     },
@@ -12,7 +20,7 @@
       "titre": "Ranma 1/2 Season 3",
       "titreJp": "",
       "ep": 2,
-      "ago": "2h",
+      "ago": "5h",
       "img": "mzg0v",
       "ahId": "y5vk1"
     },
@@ -20,7 +28,7 @@
       "titre": "Even the Student Council Has Its Holes!",
       "titreJp": "Seitokai ni mo Ana wa Aru!",
       "ep": 2,
-      "ago": "2h",
+      "ago": "5h",
       "img": "srr3a",
       "ahId": "9sero"
     },
@@ -28,7 +36,7 @@
       "titre": "Horror Collector",
       "titreJp": "Kyoufu Collector",
       "ep": 1,
-      "ago": "2h",
+      "ago": "5h",
       "img": "od2aa",
       "ahId": "zt75v"
     },
@@ -36,7 +44,7 @@
       "titre": "Magical Explorer",
       "titreJp": "",
       "ep": 3,
-      "ago": "3h",
+      "ago": "6h",
       "img": "x1xv9",
       "ahId": "gve9a"
     },
@@ -44,7 +52,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1216,
-      "ago": "3h",
+      "ago": "6h",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -52,7 +60,7 @@
       "titre": "Vertex Force",
       "titreJp": "",
       "ep": 2,
-      "ago": "3h",
+      "ago": "6h",
       "img": "jvyhy",
       "ahId": "og3o4"
     },
@@ -60,7 +68,7 @@
       "titre": "Black Clover 2nd Season",
       "titreJp": "",
       "ep": 2,
-      "ago": "4h",
+      "ago": "7h",
       "img": "82gob",
       "ahId": "0pqfl"
     },
@@ -68,7 +76,7 @@
       "titre": "Black Clover",
       "titreJp": "",
       "ep": 172,
-      "ago": "4h",
+      "ago": "7h",
       "img": "mg1oq",
       "ahId": "l1cen"
     },
@@ -76,7 +84,7 @@
       "titre": "#I'm Looking For a Zombie",
       "titreJp": "#Zombie Sagashitemasu",
       "ep": 2,
-      "ago": "4h",
+      "ago": "7h",
       "img": "j5hvj",
       "ahId": "lfdvl"
     },
@@ -84,7 +92,7 @@
       "titre": "The Seven Knights of the Marronnier Kingdom",
       "titreJp": "Marronnier Oukoku no Shichinin no Kishi",
       "ep": 2,
-      "ago": "4h",
+      "ago": "7h",
       "img": "cf05c",
       "ahId": "lcc9t"
     },
@@ -92,7 +100,7 @@
       "titre": "Ghost Meets Gal!",
       "titreJp": "",
       "ep": 6,
-      "ago": "5h",
+      "ago": "9h",
       "img": "3jxai",
       "ahId": "k921x"
     },
@@ -100,7 +108,7 @@
       "titre": "A Wild Last Boss Appeared! 2",
       "titreJp": "Yasei no Last Boss ga Arawareta! 2",
       "ep": 3,
-      "ago": "5h",
+      "ago": "9h",
       "img": "6vzxm",
       "ahId": "39l08"
     },
@@ -108,7 +116,7 @@
       "titre": "Romelia War Chronicle",
       "titreJp": "Romelia Senki: Hakushaku Reijou, Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshikisuru",
       "ep": 2,
-      "ago": "6h",
+      "ago": "9h",
       "img": "ucpu2",
       "ahId": "5u4aa"
     },
@@ -116,7 +124,7 @@
       "titre": "A Tale of the Secret Saint",
       "titreJp": "Tenseishita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
       "ep": 3,
-      "ago": "6h",
+      "ago": "9h",
       "img": "ffres",
       "ahId": "tbd2z"
     },
@@ -124,7 +132,7 @@
       "titre": "Paws & Palaces",
       "titreJp": "Zi Jin: Yu Miao Fang, Forbidden City: Impurrial  Cat Room",
       "ep": 4,
-      "ago": "6h",
+      "ago": "10h",
       "img": "xjf8h",
       "ahId": "rlpm0"
     },
@@ -132,7 +140,7 @@
       "titre": "The Vermilion Mask",
       "titreJp": "Shuiro no Kamen",
       "ep": 1,
-      "ago": "10h",
+      "ago": "13h",
       "img": "mmdhs",
       "ahId": "j1ywu"
     },
@@ -140,7 +148,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 152,
-      "ago": "10h",
+      "ago": "14h",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -148,7 +156,7 @@
       "titre": "Sgt. Frog (2026)",
       "titreJp": "Keroro Gunsou☆ (2026)",
       "ep": 2,
-      "ago": "18h",
+      "ago": "22h",
       "img": "la1qi",
       "ahId": "kk3xm"
     },
@@ -156,7 +164,7 @@
       "titre": "Fushigi no Kuni de Alice to: Dive in Wonderland",
       "titreJp": "",
       "ep": 1,
-      "ago": "20h",
+      "ago": "23h",
       "img": "8xydl",
       "ahId": "348c7"
     },
@@ -164,7 +172,7 @@
       "titre": "Tokyo Revengers: Battle of Three Deities",
       "titreJp": "Tokyo Revengers: Santen Sensou-hen",
       "ep": 2,
-      "ago": "21h",
+      "ago": "1d",
       "img": "puty1",
       "ahId": "kybuw"
     },
@@ -340,7 +348,7 @@
       "titre": "A Returner's Magic Should Be Special",
       "titreJp": "Gwihwanjaui Mabeobeun Teugbyeolhaeya Habnida, Kikansha no Mahou wa Tokubetsu desu",
       "ep": 11,
-      "ago": "3d",
+      "ago": "4d",
       "img": "uni2x",
       "ahId": "4mr9k"
     },
@@ -559,17 +567,9 @@
       "ago": "6d",
       "img": "ph45t",
       "ahId": "zgjwm"
-    },
-    {
-      "titre": "You and I are Polar Opposites 2nd Season",
-      "titreJp": "Seihantai na Kimi to Boku 2nd Season",
-      "ep": 13,
-      "ago": "6d",
-      "img": "j1ir5",
-      "ahId": "th5p2"
     }
   ],
-  "updatedAt": "2026-10-10T19:42:02.574Z",
+  "updatedAt": "2026-10-10T23:10:43.455Z",
   "source": "github-actions",
   "count": 71
 }
