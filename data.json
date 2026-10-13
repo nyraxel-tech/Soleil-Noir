@@ -4,7 +4,7 @@
       "titre": "Magical Girl Raising Project: Restart",
       "titreJp": "Mahou Shoujo Ikusei Keikaku: Restart",
       "ep": 2,
-      "ago": "3h",
+      "ago": "9h",
       "img": "nb877",
       "ahId": "nj39s"
     },
@@ -12,7 +12,7 @@
       "titre": "Psyren",
       "titreJp": "PSYЯEN",
       "ep": 2,
-      "ago": "8h",
+      "ago": "14h",
       "img": "w80sn",
       "ahId": "mc642"
     },
@@ -20,7 +20,7 @@
       "titre": "So What's Wrong with Getting Reborn as a Goblin?",
       "titreJp": "Tensei Goblin Dakedo Shitsumon Aru?",
       "ep": 3,
-      "ago": "10h",
+      "ago": "16h",
       "img": "tj4k5",
       "ahId": "b61c3"
     },
@@ -28,7 +28,7 @@
       "titre": "Hi, I'm a Witch, and My Crush Wants Me to Make a Love Potion",
       "titreJp": "Doumo, Suki na Hito ni Horegusuri wo Iraisareta Majo desu.",
       "ep": 2,
-      "ago": "10h",
+      "ago": "16h",
       "img": "s3978",
       "ahId": "wdmtv"
     },
@@ -36,7 +36,7 @@
       "titre": "From Far Away",
       "titreJp": "Kanata Kara",
       "ep": 2,
-      "ago": "11h",
+      "ago": "17h",
       "img": "kvxvi",
       "ahId": "n05fh"
     },
@@ -44,7 +44,7 @@
       "titre": "Magical Sisters Lulutto Lilly: Part II",
       "titreJp": "Mahou no Shimai Lulutto Lilly: Part II",
       "ep": 2,
-      "ago": "12h",
+      "ago": "18h",
       "img": "ff4ox",
       "ahId": "1klqo"
     },
@@ -340,7 +340,7 @@
       "titre": "Sgt. Frog (2026)",
       "titreJp": "Keroro Gunsou☆ (2026)",
       "ep": 2,
-      "ago": "2d",
+      "ago": "3d",
       "img": "la1qi",
       "ahId": "kk3xm"
     },
@@ -348,7 +348,7 @@
       "titre": "Fushigi no Kuni de Alice to: Dive in Wonderland",
       "titreJp": "",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "8xydl",
       "ahId": "348c7"
     },
@@ -420,7 +420,7 @@
       "titre": "Link Click 3rd Season",
       "titreJp": "Shiguang Dailiren 3rd Season",
       "ep": 10,
-      "ago": "3d",
+      "ago": "4d",
       "img": "whrba",
       "ahId": "gv7dl"
     },
@@ -468,7 +468,7 @@
       "titre": "One Outs",
       "titreJp": "",
       "ep": 25,
-      "ago": "4d",
+      "ago": "5d",
       "img": "l8khj",
       "ahId": "w7e2s"
     },
@@ -569,7 +569,7 @@
       "ahId": "p3rtm"
     }
   ],
-  "updatedAt": "2026-10-12T23:27:01.780Z",
+  "updatedAt": "2026-10-13T05:19:04.575Z",
   "source": "github-actions",
   "count": 71
 }
