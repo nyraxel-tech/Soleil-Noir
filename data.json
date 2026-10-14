@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "A Returner's Magic Should Be Special Season 2",
+      "titreJp": "Kikansha no Mahou wa Tokubetsu desu 2nd Season, Gwihwanjaui Mabeobeun Teugbyeolhaeya Habnida 2nd Season",
+      "ep": 2,
+      "ago": "2h",
+      "img": "d2tbz",
+      "ahId": "9lgbi"
+    },
+    {
+      "titre": "Dandivine",
+      "titreJp": "Juuou Bushin Dandivine",
+      "ep": 2,
+      "ago": "3h",
+      "img": "4shz4",
+      "ahId": "n6eej"
+    },
+    {
       "titre": "The Prince of Tennis II U-17 WORLD CUP Final Member Selection Match",
       "titreJp": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
       "ep": 3,
-      "ago": "?",
+      "ago": "4h",
       "img": "9d6qa",
       "ahId": "12iu3"
     },
@@ -12,7 +28,7 @@
       "titre": "Reincarnated as a Sword 2nd Season",
       "titreJp": "Tensei Shitara Ken deshita 2nd Season",
       "ep": 3,
-      "ago": "?",
+      "ago": "4h",
       "img": "x4uyc",
       "ahId": "x0r48"
     },
@@ -20,7 +36,7 @@
       "titre": "Magic Knight Rayearth (2026)",
       "titreJp": "Mahou Kishi Rayearth (2026)",
       "ep": 2,
-      "ago": "1h",
+      "ago": "4h",
       "img": "8lnlp",
       "ahId": "tbwu1"
     },
@@ -28,7 +44,7 @@
       "titre": "Paws & Palaces",
       "titreJp": "Zi Jin: Yu Miao Fang, Forbidden City: Impurrial  Cat Room",
       "ep": 5,
-      "ago": "1h",
+      "ago": "5h",
       "img": "xjf8h",
       "ahId": "rlpm0"
     },
@@ -36,7 +52,7 @@
       "titre": "The Detective Is Already Dead. Season 2",
       "titreJp": "Tanmoshi, Tantei wa mou, Shindeiru. Season 2",
       "ep": 2,
-      "ago": "2h",
+      "ago": "6h",
       "img": "wve78",
       "ahId": "9j16y"
     },
@@ -44,7 +60,7 @@
       "titre": "Sasaki and Peeps Season 2",
       "titreJp": "Sasaki to Pi-chan Season 2",
       "ep": 2,
-      "ago": "3h",
+      "ago": "7h",
       "img": "a1k9a",
       "ahId": "ick60"
     },
@@ -52,7 +68,7 @@
       "titre": "The World’s Strongest Witch",
       "titreJp": "Sekai Saikyou no Majo, Hajimemashita: Watashi dake &quot;Kouryaku Site&quot; wo Mireru Sekai de Jiyuu ni Ikimasu",
       "ep": 2,
-      "ago": "3h",
+      "ago": "7h",
       "img": "5ulec",
       "ahId": "b8gl1"
     },
@@ -60,7 +76,7 @@
       "titre": "Dark Machine: The Animation",
       "titreJp": "",
       "ep": 1,
-      "ago": "22h",
+      "ago": "1d",
       "img": "omysj",
       "ahId": "ds7ri"
     },
@@ -68,7 +84,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 15,
-      "ago": "22h",
+      "ago": "1d",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -76,7 +92,7 @@
       "titre": "Chitose Is in the Ramune Bottle: Part II",
       "titreJp": "Chitose-kun wa Ramune Bin no Naka: Part II",
       "ep": 1,
-      "ago": "23h",
+      "ago": "1d",
       "img": "t9yu1",
       "ahId": "heqac"
     },
@@ -188,7 +204,7 @@
       "titre": "My Girlfriend's Friend",
       "titreJp": "Kanojo no Tomodachi",
       "ep": 2,
-      "ago": "2d",
+      "ago": "3d",
       "img": "mkfn9",
       "ahId": "qbeo7"
     },
@@ -196,7 +212,7 @@
       "titre": "Click Me All Over",
       "titreJp": "Mouse Cursor de Genjitsu wo Sousa Dekiru you ni Natta node, Onnanoko wo Ippai Click Shimasu",
       "ep": 2,
-      "ago": "2d",
+      "ago": "3d",
       "img": "cekmu",
       "ahId": "seeqp"
     },
@@ -204,7 +220,7 @@
       "titre": "I'm Dating a Dark Summoner",
       "titreJp": "Dark Summoner to Dekiteiru",
       "ep": 2,
-      "ago": "2d",
+      "ago": "3d",
       "img": "9fe3j",
       "ahId": "ostyz"
     },
@@ -332,7 +348,7 @@
       "titre": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
       "titreJp": "Kashita Maryoku wa &quot;Revolving Barai&quot; de Kyousei Choushuu",
       "ep": 2,
-      "ago": "3d",
+      "ago": "4d",
       "img": "rg75s",
       "ahId": "vm4bk"
     },
@@ -340,7 +356,7 @@
       "titre": "Ranma 1/2 Season 3",
       "titreJp": "",
       "ep": 2,
-      "ago": "3d",
+      "ago": "4d",
       "img": "mzg0v",
       "ahId": "y5vk1"
     },
@@ -348,7 +364,7 @@
       "titre": "Even the Student Council Has Its Holes!",
       "titreJp": "Seitokai ni mo Ana wa Aru!",
       "ep": 2,
-      "ago": "3d",
+      "ago": "4d",
       "img": "srr3a",
       "ahId": "9sero"
     },
@@ -356,7 +372,7 @@
       "titre": "Horror Collector",
       "titreJp": "Kyoufu Collector",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "od2aa",
       "ahId": "zt75v"
     },
@@ -364,7 +380,7 @@
       "titre": "Magical Explorer",
       "titreJp": "",
       "ep": 3,
-      "ago": "3d",
+      "ago": "4d",
       "img": "x1xv9",
       "ahId": "gve9a"
     },
@@ -492,7 +508,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 14,
-      "ago": "4d",
+      "ago": "5d",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -551,25 +567,9 @@
       "ago": "5d",
       "img": "whrba",
       "ahId": "gv7dl"
-    },
-    {
-      "titre": "The Iceblade Sorcerer Shall Rule the World II",
-      "titreJp": "Hyouken no Majutsushi ga Sekai wo Suberu II: Sekai Saikyou no Majutsushi de Aru Shounen wa, Majutsu Gakuin ni Nyuugakusuru",
-      "ep": 1,
-      "ago": "5d",
-      "img": "zyq79",
-      "ahId": "pnz3r"
-    },
-    {
-      "titre": "TETSURYO! Meet with Tetsudou Musume",
-      "titreJp": "Tetsuryou! Meet with Tetsudou Musume",
-      "ep": 1,
-      "ago": "6d",
-      "img": "o1rup",
-      "ahId": "n7bzz"
     }
   ],
-  "updatedAt": "2026-10-14T16:27:25.428Z",
+  "updatedAt": "2026-10-14T20:24:51.047Z",
   "source": "github-actions",
   "count": 71
 }
