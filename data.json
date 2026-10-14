@@ -4,7 +4,7 @@
       "titre": "Dark Machine: The Animation",
       "titreJp": "",
       "ep": 1,
-      "ago": "5h",
+      "ago": "11h",
       "img": "omysj",
       "ahId": "ds7ri"
     },
@@ -12,7 +12,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 15,
-      "ago": "6h",
+      "ago": "12h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -20,7 +20,7 @@
       "titre": "Chitose Is in the Ramune Bottle: Part II",
       "titreJp": "Chitose-kun wa Ramune Bin no Naka: Part II",
       "ep": 1,
-      "ago": "7h",
+      "ago": "13h",
       "img": "t9yu1",
       "ahId": "heqac"
     },
@@ -28,7 +28,7 @@
       "titre": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
       "titreJp": "Tsuihousareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Oukasuru. Ore wa Buki dake ja Naku, Arayuru Mono ni \\&quot;Kyouka Point\\&quot; wo Fuyo Dekiru Shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hito-tachi Daijoubu?",
       "ep": 2,
-      "ago": "8h",
+      "ago": "14h",
       "img": "3itp2",
       "ahId": "p3rtm"
     },
@@ -36,7 +36,7 @@
       "titre": "Chitose Is in the Ramune Bottle",
       "titreJp": "Chitose-kun wa Ramune Bin no Naka",
       "ep": 1,
-      "ago": "8h",
+      "ago": "14h",
       "img": "ra4af",
       "ahId": "yrmrw"
     },
@@ -44,7 +44,7 @@
       "titre": "Gensou Suikoden",
       "titreJp": "",
       "ep": 2,
-      "ago": "8h",
+      "ago": "14h",
       "img": "pyp4h",
       "ahId": "byfec"
     },
@@ -52,7 +52,7 @@
       "titre": "Super Psychic Policeman Chojo",
       "titreJp": "Choujun! Choujou-senpai",
       "ep": 2,
-      "ago": "9h",
+      "ago": "14h",
       "img": "h139a",
       "ahId": "zgr43"
     },
@@ -60,7 +60,7 @@
       "titre": "Battle Spirits [Re] Zekkai no Ku",
       "titreJp": "",
       "ep": 2,
-      "ago": "9h",
+      "ago": "15h",
       "img": "j18dk",
       "ahId": "1q18l"
     },
@@ -68,7 +68,7 @@
       "titre": "The Cold Sato-san is Only Sweet to Me",
       "titreJp": "Shio Taiou no Sato-san ga Ore ni dake Amai",
       "ep": 2,
-      "ago": "10h",
+      "ago": "15h",
       "img": "bxwjz",
       "ahId": "inver"
     },
@@ -76,7 +76,7 @@
       "titre": "Nia Liston: The Merciless Maiden",
       "titreJp": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
       "ep": 2,
-      "ago": "10h",
+      "ago": "16h",
       "img": "bp9jr",
       "ahId": "5um3o"
     },
@@ -84,7 +84,7 @@
       "titre": "Magical Girl Raising Project: Restart",
       "titreJp": "Mahou Shoujo Ikusei Keikaku: Restart",
       "ep": 2,
-      "ago": "11h",
+      "ago": "17h",
       "img": "nb877",
       "ahId": "nj39s"
     },
@@ -92,7 +92,7 @@
       "titre": "From Far Away",
       "titreJp": "Kanata Kara",
       "ep": 1,
-      "ago": "11h",
+      "ago": "17h",
       "img": "kvxvi",
       "ahId": "n05fh"
     },
@@ -420,7 +420,7 @@
       "titre": "Sgt. Frog (2026)",
       "titreJp": "Keroro Gunsou☆ (2026)",
       "ep": 2,
-      "ago": "3d",
+      "ago": "4d",
       "img": "la1qi",
       "ahId": "kk3xm"
     },
@@ -500,7 +500,7 @@
       "titre": "Link Click 3rd Season",
       "titreJp": "Shiguang Dailiren 3rd Season",
       "ep": 10,
-      "ago": "4d",
+      "ago": "5d",
       "img": "whrba",
       "ahId": "gv7dl"
     },
@@ -548,7 +548,7 @@
       "titre": "One Outs",
       "titreJp": "",
       "ep": 25,
-      "ago": "5d",
+      "ago": "6d",
       "img": "l8khj",
       "ahId": "w7e2s"
     },
@@ -569,7 +569,7 @@
       "ahId": "n6eej"
     }
   ],
-  "updatedAt": "2026-10-14T00:06:26.182Z",
+  "updatedAt": "2026-10-14T05:45:37.152Z",
   "source": "github-actions",
   "count": 71
 }
