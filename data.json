@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Link Click 3rd Season",
+      "titreJp": "Shiguang Dailiren 3rd Season",
+      "ep": 11,
+      "ago": "2h",
+      "img": "whrba",
+      "ahId": "gv7dl"
+    },
+    {
       "titre": "The Iceblade Sorcerer Shall Rule the World II",
       "titreJp": "Hyouken no Majutsushi ga Sekai wo Suberu II: Sekai Saikyou no Majutsushi de Aru Shounen wa, Majutsu Gakuin ni Nyuugakusuru",
       "ep": 2,
-      "ago": "6h",
+      "ago": "12h",
       "img": "zyq79",
       "ahId": "pnz3r"
     },
@@ -12,7 +20,7 @@
       "titre": "TETSURYO! Meet with Tetsudou Musume",
       "titreJp": "Tetsuryou! Meet with Tetsudou Musume",
       "ep": 2,
-      "ago": "7h",
+      "ago": "13h",
       "img": "o1rup",
       "ahId": "n7bzz"
     },
@@ -20,7 +28,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 16,
-      "ago": "7h",
+      "ago": "13h",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -28,7 +36,7 @@
       "titre": "The Ramparts of Ice Season 2",
       "titreJp": "Koori no Jouheki Season 2, Ice Castle Wall Season 2",
       "ep": 3,
-      "ago": "8h",
+      "ago": "13h",
       "img": "3r8wc",
       "ahId": "l70lj"
     },
@@ -36,7 +44,7 @@
       "titre": "FX Fighter Kurumi-chan",
       "titreJp": "FX Senshi Kurumi-chan",
       "ep": 3,
-      "ago": "11h",
+      "ago": "16h",
       "img": "pra1c",
       "ahId": "3vz59"
     },
@@ -524,7 +532,7 @@
       "titre": "Sgt. Frog (2026)",
       "titreJp": "Keroro Gunsou☆ (2026)",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "la1qi",
       "ahId": "kk3xm"
     },
@@ -559,17 +567,9 @@
       "ago": "6d",
       "img": "5mopt",
       "ahId": "w5qns"
-    },
-    {
-      "titre": "Firefly Wedding",
-      "titreJp": "Hotaru no Yomeiri",
-      "ep": 1,
-      "ago": "6d",
-      "img": "3gndp",
-      "ahId": "bhbnn"
     }
   ],
-  "updatedAt": "2026-10-16T00:02:52.054Z",
+  "updatedAt": "2026-10-16T05:23:39.023Z",
   "source": "github-actions",
   "count": 71
 }
