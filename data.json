@@ -4,7 +4,7 @@
       "titre": "Link Click 3rd Season",
       "titreJp": "Shiguang Dailiren 3rd Season",
       "ep": 11,
-      "ago": "2h",
+      "ago": "7h",
       "img": "whrba",
       "ahId": "gv7dl"
     },
@@ -12,7 +12,7 @@
       "titre": "The Iceblade Sorcerer Shall Rule the World II",
       "titreJp": "Hyouken no Majutsushi ga Sekai wo Suberu II: Sekai Saikyou no Majutsushi de Aru Shounen wa, Majutsu Gakuin ni Nyuugakusuru",
       "ep": 2,
-      "ago": "12h",
+      "ago": "17h",
       "img": "zyq79",
       "ahId": "pnz3r"
     },
@@ -20,7 +20,7 @@
       "titre": "TETSURYO! Meet with Tetsudou Musume",
       "titreJp": "Tetsuryou! Meet with Tetsudou Musume",
       "ep": 2,
-      "ago": "13h",
+      "ago": "18h",
       "img": "o1rup",
       "ahId": "n7bzz"
     },
@@ -28,7 +28,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 16,
-      "ago": "13h",
+      "ago": "18h",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -36,7 +36,7 @@
       "titre": "The Ramparts of Ice Season 2",
       "titreJp": "Koori no Jouheki Season 2, Ice Castle Wall Season 2",
       "ep": 3,
-      "ago": "13h",
+      "ago": "18h",
       "img": "3r8wc",
       "ahId": "l70lj"
     },
@@ -44,7 +44,7 @@
       "titre": "FX Fighter Kurumi-chan",
       "titreJp": "FX Senshi Kurumi-chan",
       "ep": 3,
-      "ago": "16h",
+      "ago": "21h",
       "img": "pra1c",
       "ahId": "3vz59"
     },
@@ -372,7 +372,7 @@
       "titre": "Aoashi Season 2",
       "titreJp": "",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "ph45t",
       "ahId": "zgjwm"
     },
@@ -380,7 +380,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season - Part II",
       "titreJp": "Diamond no Ace: Act II 2nd Season - Part II,",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "8c9hh",
       "ahId": "6zcxf"
     },
@@ -516,7 +516,7 @@
       "titre": "The Vermilion Mask",
       "titreJp": "Shuiro no Kamen",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "mmdhs",
       "ahId": "j1ywu"
     },
@@ -524,7 +524,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 152,
-      "ago": "5d",
+      "ago": "6d",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -569,7 +569,7 @@
       "ahId": "w5qns"
     }
   ],
-  "updatedAt": "2026-10-16T05:23:39.023Z",
+  "updatedAt": "2026-10-16T10:37:41.151Z",
   "source": "github-actions",
   "count": 71
 }
