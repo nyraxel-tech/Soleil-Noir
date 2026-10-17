@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Sgt. Frog (2026)",
+      "titreJp": "Keroro Gunsou☆ (2026)",
+      "ep": 3,
+      "ago": "5h",
+      "img": "la1qi",
+      "ahId": "kk3xm"
+    },
+    {
       "titre": "Welsh & Shedar",
       "titreJp": "Aoki Denshou Welsh &amp; Shedar",
       "ep": 15,
-      "ago": "5h",
+      "ago": "11h",
       "img": "zf9ws",
       "ahId": "azod8"
     },
@@ -12,7 +20,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 15,
-      "ago": "8h",
+      "ago": "13h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -20,7 +28,7 @@
       "titre": "Tougen Anki: Nikko Kegon Falls Arc",
       "titreJp": "Tougen Anki: Nikko Kegon no Taki-hen",
       "ep": 3,
-      "ago": "8h",
+      "ago": "14h",
       "img": "5mopt",
       "ahId": "w5qns"
     },
@@ -28,7 +36,7 @@
       "titre": "Firefly Wedding",
       "titreJp": "Hotaru no Yomeiri",
       "ep": 2,
-      "ago": "8h",
+      "ago": "14h",
       "img": "3gndp",
       "ahId": "bhbnn"
     },
@@ -36,7 +44,7 @@
       "titre": "A Certain Dark Side's Item",
       "titreJp": "Toaru Anbu no ITEM",
       "ep": 2,
-      "ago": "9h",
+      "ago": "14h",
       "img": "rc25t",
       "ahId": "21bae"
     },
@@ -44,7 +52,7 @@
       "titre": "The Apothecary Diaries 3rd Season",
       "titreJp": "Kusuriya no Hitorigoto 3rd Season",
       "ep": 3,
-      "ago": "9h",
+      "ago": "15h",
       "img": "tv772",
       "ahId": "igk5o"
     },
@@ -52,7 +60,7 @@
       "titre": "JoJo's Bizarre Adventure: Steel Ball Run",
       "titreJp": "Jojo no Kimyou na Bouken: Steel Ball Run",
       "ep": 5,
-      "ago": "9h",
+      "ago": "15h",
       "img": "ftqmf",
       "ahId": "u6jkm"
     },
@@ -60,7 +68,7 @@
       "titre": "Tokyo Revengers: Battle of Three Deities",
       "titreJp": "Tokyo Revengers: Santen Sensou-hen",
       "ep": 3,
-      "ago": "10h",
+      "ago": "15h",
       "img": "puty1",
       "ahId": "kybuw"
     },
@@ -68,7 +76,7 @@
       "titre": "Link Click 3rd Season",
       "titreJp": "Shiguang Dailiren 3rd Season",
       "ep": 11,
-      "ago": "21h",
+      "ago": "1d",
       "img": "whrba",
       "ahId": "gv7dl"
     },
@@ -559,17 +567,9 @@
       "ago": "6d",
       "img": "6vzxm",
       "ahId": "39l08"
-    },
-    {
-      "titre": "Romelia War Chronicle",
-      "titreJp": "Romelia Senki: Hakushaku Reijou, Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshikisuru",
-      "ep": 2,
-      "ago": "6d",
-      "img": "ucpu2",
-      "ahId": "5u4aa"
     }
   ],
-  "updatedAt": "2026-10-17T01:00:17.636Z",
+  "updatedAt": "2026-10-17T06:30:14.935Z",
   "source": "github-actions",
   "count": 71
 }
