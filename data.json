@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "Ghost Meets Gal!",
+      "titreJp": "",
+      "ep": 7,
+      "ago": "?",
+      "img": "3jxai",
+      "ahId": "k921x"
+    },
+    {
+      "titre": "The Vermilion Mask",
+      "titreJp": "Shuiro no Kamen",
+      "ep": 2,
+      "ago": "1h",
+      "img": "mmdhs",
+      "ahId": "j1ywu"
+    },
+    {
+      "titre": "Pokemon Horizons: The Series",
+      "titreJp": "Pocket Monsters (2023)",
+      "ep": 153,
+      "ago": "2h",
+      "img": "9fsft",
+      "ahId": "9v661"
+    },
+    {
       "titre": "Sgt. Frog (2026)",
       "titreJp": "Keroro Gunsou☆ (2026)",
       "ep": 3,
-      "ago": "5h",
+      "ago": "10h",
       "img": "la1qi",
       "ahId": "kk3xm"
     },
@@ -12,7 +36,7 @@
       "titre": "Welsh & Shedar",
       "titreJp": "Aoki Denshou Welsh &amp; Shedar",
       "ep": 15,
-      "ago": "11h",
+      "ago": "16h",
       "img": "zf9ws",
       "ahId": "azod8"
     },
@@ -20,7 +44,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 15,
-      "ago": "13h",
+      "ago": "18h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -28,7 +52,7 @@
       "titre": "Tougen Anki: Nikko Kegon Falls Arc",
       "titreJp": "Tougen Anki: Nikko Kegon no Taki-hen",
       "ep": 3,
-      "ago": "14h",
+      "ago": "19h",
       "img": "5mopt",
       "ahId": "w5qns"
     },
@@ -36,7 +60,7 @@
       "titre": "Firefly Wedding",
       "titreJp": "Hotaru no Yomeiri",
       "ep": 2,
-      "ago": "14h",
+      "ago": "19h",
       "img": "3gndp",
       "ahId": "bhbnn"
     },
@@ -44,7 +68,7 @@
       "titre": "A Certain Dark Side's Item",
       "titreJp": "Toaru Anbu no ITEM",
       "ep": 2,
-      "ago": "14h",
+      "ago": "19h",
       "img": "rc25t",
       "ahId": "21bae"
     },
@@ -52,7 +76,7 @@
       "titre": "The Apothecary Diaries 3rd Season",
       "titreJp": "Kusuriya no Hitorigoto 3rd Season",
       "ep": 3,
-      "ago": "15h",
+      "ago": "20h",
       "img": "tv772",
       "ahId": "igk5o"
     },
@@ -60,7 +84,7 @@
       "titre": "JoJo's Bizarre Adventure: Steel Ball Run",
       "titreJp": "Jojo no Kimyou na Bouken: Steel Ball Run",
       "ep": 5,
-      "ago": "15h",
+      "ago": "20h",
       "img": "ftqmf",
       "ahId": "u6jkm"
     },
@@ -68,7 +92,7 @@
       "titre": "Tokyo Revengers: Battle of Three Deities",
       "titreJp": "Tokyo Revengers: Santen Sensou-hen",
       "ep": 3,
-      "ago": "15h",
+      "ago": "20h",
       "img": "puty1",
       "ahId": "kybuw"
     },
@@ -316,7 +340,7 @@
       "titre": "Magical Sisters Lulutto Lilly: Part II",
       "titreJp": "Mahou no Shimai Lulutto Lilly: Part II",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "ff4ox",
       "ahId": "1klqo"
     },
@@ -436,7 +460,7 @@
       "titre": "Blue Box Season 2",
       "titreJp": "Ao no Hako Season 2",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "d49hw",
       "ahId": "9f807"
     },
@@ -444,7 +468,7 @@
       "titre": "Aoashi Season 2",
       "titreJp": "",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "ph45t",
       "ahId": "zgjwm"
     },
@@ -452,7 +476,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season - Part II",
       "titreJp": "Diamond no Ace: Act II 2nd Season - Part II,",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "8c9hh",
       "ahId": "6zcxf"
     },
@@ -543,33 +567,9 @@
       "ago": "6d",
       "img": "j5hvj",
       "ahId": "lfdvl"
-    },
-    {
-      "titre": "The Seven Knights of the Marronnier Kingdom",
-      "titreJp": "Marronnier Oukoku no Shichinin no Kishi",
-      "ep": 2,
-      "ago": "6d",
-      "img": "cf05c",
-      "ahId": "lcc9t"
-    },
-    {
-      "titre": "Ghost Meets Gal!",
-      "titreJp": "",
-      "ep": 6,
-      "ago": "6d",
-      "img": "3jxai",
-      "ahId": "k921x"
-    },
-    {
-      "titre": "A Wild Last Boss Appeared! 2",
-      "titreJp": "Yasei no Last Boss ga Arawareta! 2",
-      "ep": 3,
-      "ago": "6d",
-      "img": "6vzxm",
-      "ahId": "39l08"
     }
   ],
-  "updatedAt": "2026-10-17T06:30:14.935Z",
+  "updatedAt": "2026-10-17T11:19:39.512Z",
   "source": "github-actions",
   "count": 71
 }
