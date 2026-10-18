@@ -1,10 +1,50 @@
 {
   "animes": [
     {
+      "titre": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+      "titreJp": "Mezametara Saikyou Soubi to Uchuusen-mochi datta no de, Ikkodate Mezashite Youhei Toshite Jiyuu ni Ikitai",
+      "ep": 3,
+      "ago": "?",
+      "img": "s96ye",
+      "ahId": "d6wf8"
+    },
+    {
+      "titre": "Uncle's Obsession with Cute Things",
+      "titreJp": "Oji-san wa Kawaii Mono ga Osuki.",
+      "ep": 3,
+      "ago": "?",
+      "img": "gv3m0",
+      "ahId": "shbkv"
+    },
+    {
+      "titre": "Umayuru: Full Gate!",
+      "titreJp": "&quot;Umayuru&quot; is a short anime series featuring pint-sized Uma Musume! This time, it’s a &quot;Full-Gate&quot; three-minute race where *all* the Uma Musume take to the track! A super-sized, laid-back gathering with everyone!",
+      "ep": 4,
+      "ago": "1h",
+      "img": "cahob",
+      "ahId": "7p4ok"
+    },
+    {
+      "titre": "Mission: Yozakura Family Season 2 - Part II",
+      "titreJp": "Yozakura-san Chi no Daisakusen Season 2 - Part II",
+      "ep": 2,
+      "ago": "3h",
+      "img": "du10m",
+      "ahId": "e0es6"
+    },
+    {
+      "titre": "Blue Box Season 2",
+      "titreJp": "Ao no Hako Season 2",
+      "ep": 3,
+      "ago": "3h",
+      "img": "d49hw",
+      "ahId": "9f807"
+    },
+    {
       "titre": "Aoashi Season 2",
       "titreJp": "",
       "ep": 3,
-      "ago": "1h",
+      "ago": "5h",
       "img": "ph45t",
       "ahId": "zgjwm"
     },
@@ -12,7 +52,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season - Part II",
       "titreJp": "Diamond no Ace: Act II 2nd Season - Part II,",
       "ep": 2,
-      "ago": "1h",
+      "ago": "5h",
       "img": "8c9hh",
       "ahId": "6zcxf"
     },
@@ -20,7 +60,7 @@
       "titre": "Dreamland",
       "titreJp": "",
       "ep": 1,
-      "ago": "12h",
+      "ago": "16h",
       "img": "295vq",
       "ahId": "usmn1"
     },
@@ -28,7 +68,7 @@
       "titre": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
       "titreJp": "Kashita Maryoku wa &quot;Revolving Barai&quot; de Kyousei Choushuu",
       "ep": 3,
-      "ago": "16h",
+      "ago": "20h",
       "img": "rg75s",
       "ahId": "vm4bk"
     },
@@ -36,7 +76,7 @@
       "titre": "Horror Collector",
       "titreJp": "Kyoufu Collector",
       "ep": 2,
-      "ago": "16h",
+      "ago": "20h",
       "img": "od2aa",
       "ahId": "zt75v"
     },
@@ -44,7 +84,7 @@
       "titre": "Ranma 1/2 Season 3",
       "titreJp": "",
       "ep": 3,
-      "ago": "17h",
+      "ago": "21h",
       "img": "mzg0v",
       "ahId": "y5vk1"
     },
@@ -52,7 +92,7 @@
       "titre": "Even the Student Council Has Its Holes!",
       "titreJp": "Seitokai ni mo Ana wa Aru!",
       "ep": 3,
-      "ago": "17h",
+      "ago": "21h",
       "img": "srr3a",
       "ahId": "9sero"
     },
@@ -60,7 +100,7 @@
       "titre": "Magical Explorer",
       "titreJp": "",
       "ep": 4,
-      "ago": "17h",
+      "ago": "21h",
       "img": "x1xv9",
       "ahId": "gve9a"
     },
@@ -68,7 +108,7 @@
       "titre": "Vertex Force",
       "titreJp": "",
       "ep": 3,
-      "ago": "18h",
+      "ago": "22h",
       "img": "jvyhy",
       "ahId": "og3o4"
     },
@@ -76,7 +116,7 @@
       "titre": "The Seven Knights of the Marronnier Kingdom",
       "titreJp": "Marronnier Oukoku no Shichinin no Kishi",
       "ep": 3,
-      "ago": "18h",
+      "ago": "22h",
       "img": "cf05c",
       "ahId": "lcc9t"
     },
@@ -84,7 +124,7 @@
       "titre": "Black Clover 2nd Season",
       "titreJp": "",
       "ep": 3,
-      "ago": "18h",
+      "ago": "22h",
       "img": "82gob",
       "ahId": "0pqfl"
     },
@@ -92,7 +132,7 @@
       "titre": "Black Clover",
       "titreJp": "",
       "ep": 173,
-      "ago": "18h",
+      "ago": "22h",
       "img": "mg1oq",
       "ahId": "l1cen"
     },
@@ -100,7 +140,7 @@
       "titre": "#I'm Looking For a Zombie",
       "titreJp": "#Zombie Sagashitemasu",
       "ep": 3,
-      "ago": "19h",
+      "ago": "23h",
       "img": "j5hvj",
       "ahId": "lfdvl"
     },
@@ -108,7 +148,7 @@
       "titre": "A Wild Last Boss Appeared! 2",
       "titreJp": "Yasei no Last Boss ga Arawareta! 2",
       "ep": 4,
-      "ago": "20h",
+      "ago": "1d",
       "img": "6vzxm",
       "ahId": "39l08"
     },
@@ -116,7 +156,7 @@
       "titre": "A Tale of the Secret Saint",
       "titreJp": "Tenseishita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
       "ep": 4,
-      "ago": "21h",
+      "ago": "1d",
       "img": "ffres",
       "ahId": "tbd2z"
     },
@@ -124,7 +164,7 @@
       "titre": "Romelia War Chronicle",
       "titreJp": "Romelia Senki: Hakushaku Reijou, Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshikisuru",
       "ep": 3,
-      "ago": "21h",
+      "ago": "1d",
       "img": "ucpu2",
       "ahId": "5u4aa"
     },
@@ -132,7 +172,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1217,
-      "ago": "22h",
+      "ago": "1d",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -140,7 +180,7 @@
       "titre": "Ghost Meets Gal!",
       "titreJp": "",
       "ep": 7,
-      "ago": "23h",
+      "ago": "1d",
       "img": "3jxai",
       "ahId": "k921x"
     },
@@ -276,7 +316,7 @@
       "titre": "FX Fighter Kurumi-chan",
       "titreJp": "FX Senshi Kurumi-chan",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "pra1c",
       "ahId": "3vz59"
     },
@@ -332,7 +372,7 @@
       "titre": "The Detective Is Already Dead. Season 2",
       "titreJp": "Tanmoshi, Tantei wa mou, Shindeiru. Season 2",
       "ep": 2,
-      "ago": "3d",
+      "ago": "4d",
       "img": "wve78",
       "ahId": "9j16y"
     },
@@ -340,7 +380,7 @@
       "titre": "Sasaki and Peeps Season 2",
       "titreJp": "Sasaki to Pi-chan Season 2",
       "ep": 2,
-      "ago": "3d",
+      "ago": "4d",
       "img": "a1k9a",
       "ahId": "ick60"
     },
@@ -348,7 +388,7 @@
       "titre": "The World’s Strongest Witch",
       "titreJp": "Sekai Saikyou no Majo, Hajimemashita: Watashi dake &quot;Kouryaku Site&quot; wo Mireru Sekai de Jiyuu ni Ikimasu",
       "ep": 2,
-      "ago": "3d",
+      "ago": "4d",
       "img": "5ulec",
       "ahId": "b8gl1"
     },
@@ -420,7 +460,7 @@
       "titre": "The Cold Sato-san is Only Sweet to Me",
       "titreJp": "Shio Taiou no Sato-san ga Ore ni dake Amai",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "bxwjz",
       "ahId": "inver"
     },
@@ -428,7 +468,7 @@
       "titre": "Nia Liston: The Merciless Maiden",
       "titreJp": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "bp9jr",
       "ahId": "5um3o"
     },
@@ -436,7 +476,7 @@
       "titre": "Magical Girl Raising Project: Restart",
       "titreJp": "Mahou Shoujo Ikusei Keikaku: Restart",
       "ep": 2,
-      "ago": "4d",
+      "ago": "5d",
       "img": "nb877",
       "ahId": "nj39s"
     },
@@ -444,7 +484,7 @@
       "titre": "From Far Away",
       "titreJp": "Kanata Kara",
       "ep": 1,
-      "ago": "4d",
+      "ago": "5d",
       "img": "kvxvi",
       "ahId": "n05fh"
     },
@@ -460,7 +500,7 @@
       "titre": "So What's Wrong with Getting Reborn as a Goblin?",
       "titreJp": "Tensei Goblin Dakedo Shitsumon Aru?",
       "ep": 3,
-      "ago": "5d",
+      "ago": "6d",
       "img": "tj4k5",
       "ahId": "b61c3"
     },
@@ -468,7 +508,7 @@
       "titre": "Hi, I'm a Witch, and My Crush Wants Me to Make a Love Potion",
       "titreJp": "Doumo, Suki na Hito ni Horegusuri wo Iraisareta Majo desu.",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "s3978",
       "ahId": "wdmtv"
     },
@@ -476,7 +516,7 @@
       "titre": "Magical Sisters Lulutto Lilly: Part II",
       "titreJp": "Mahou no Shimai Lulutto Lilly: Part II",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "ff4ox",
       "ahId": "1klqo"
     },
@@ -527,49 +567,9 @@
       "ago": "6d",
       "img": "3pmr7",
       "ahId": "tx0yl"
-    },
-    {
-      "titre": "Tank Chair",
-      "titreJp": "Sensha Isu",
-      "ep": 2,
-      "ago": "6d",
-      "img": "pva6o",
-      "ahId": "oe1qg"
-    },
-    {
-      "titre": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
-      "titreJp": "Yowaki MAX Reijou nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
-      "ep": 2,
-      "ago": "6d",
-      "img": "q2sw8",
-      "ahId": "c2c8d"
-    },
-    {
-      "titre": "Full Clearing Another World under a Goddess with Zero Believers",
-      "titreJp": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
-      "ep": 1,
-      "ago": "6d",
-      "img": "qst8x",
-      "ahId": "klx41"
-    },
-    {
-      "titre": "Overgeared",
-      "titreJp": "Tempal: Item no Chikara",
-      "ep": 3,
-      "ago": "6d",
-      "img": "reduh",
-      "ahId": "khonj"
-    },
-    {
-      "titre": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
-      "titreJp": "Mezametara Saikyou Soubi to Uchuusen-mochi datta no de, Ikkodate Mezashite Youhei Toshite Jiyuu ni Ikitai",
-      "ep": 2,
-      "ago": "6d",
-      "img": "s96ye",
-      "ahId": "d6wf8"
     }
   ],
-  "updatedAt": "2026-10-18T10:19:28.324Z",
+  "updatedAt": "2026-10-18T14:16:22.576Z",
   "source": "github-actions",
   "count": 71
 }
