@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Magical Girl Raising Project: Restart",
+      "titreJp": "Mahou Shoujo Ikusei Keikaku: Restart",
+      "ep": 3,
+      "ago": "2h",
+      "img": "nb877",
+      "ahId": "nj39s"
+    },
+    {
       "titre": "Your Letter",
       "titreJp": "Yeonui Pyeonji",
       "ep": 1,
-      "ago": "1h",
+      "ago": "5h",
       "img": "9s7jy",
       "ahId": "tixxj"
     },
@@ -12,7 +20,7 @@
       "titre": "Bleach: Thousand-Year Blood War: Part IV - The Calamity",
       "titreJp": "Bleach: Sennen Kessen-hen: Part IV - Wazawai Suzumu-tan",
       "ep": 9,
-      "ago": "1h",
+      "ago": "5h",
       "img": "bd05n",
       "ahId": "07v8r"
     },
@@ -20,7 +28,7 @@
       "titre": "Psyren",
       "titreJp": "PSYЯEN",
       "ep": 3,
-      "ago": "4h",
+      "ago": "8h",
       "img": "w80sn",
       "ahId": "mc642"
     },
@@ -28,7 +36,7 @@
       "titre": "Magical Sisters Lulutto Lilly: Part II",
       "titreJp": "Mahou no Shimai Lulutto Lilly: Part II",
       "ep": 3,
-      "ago": "4h",
+      "ago": "8h",
       "img": "ff4ox",
       "ahId": "1klqo"
     },
@@ -36,7 +44,7 @@
       "titre": "So What's Wrong with Getting Reborn as a Goblin?",
       "titreJp": "Tensei Goblin Dakedo Shitsumon Aru?",
       "ep": 4,
-      "ago": "5h",
+      "ago": "9h",
       "img": "tj4k5",
       "ahId": "b61c3"
     },
@@ -44,7 +52,7 @@
       "titre": "Hi, I'm a Witch, and My Crush Wants Me to Make a Love Potion",
       "titreJp": "Doumo, Suki na Hito ni Horegusuri wo Iraisareta Majo desu.",
       "ep": 3,
-      "ago": "6h",
+      "ago": "10h",
       "img": "s3978",
       "ahId": "wdmtv"
     },
@@ -196,7 +204,7 @@
       "titre": "Dreamland",
       "titreJp": "",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "295vq",
       "ahId": "usmn1"
     },
@@ -348,7 +356,7 @@
       "titre": "Welsh & Shedar",
       "titreJp": "Aoki Denshou Welsh &amp; Shedar",
       "ep": 15,
-      "ago": "2d",
+      "ago": "3d",
       "img": "zf9ws",
       "ahId": "azod8"
     },
@@ -559,17 +567,9 @@
       "ago": "6d",
       "img": "3itp2",
       "ahId": "p3rtm"
-    },
-    {
-      "titre": "Chitose Is in the Ramune Bottle",
-      "titreJp": "Chitose-kun wa Ramune Bin no Naka",
-      "ep": 1,
-      "ago": "6d",
-      "img": "ra4af",
-      "ahId": "yrmrw"
     }
   ],
-  "updatedAt": "2026-10-19T18:57:51.643Z",
+  "updatedAt": "2026-10-19T22:49:44.710Z",
   "source": "github-actions",
   "count": 71
 }
