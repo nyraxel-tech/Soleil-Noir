@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Dark Machine: The Animation",
+      "titreJp": "",
+      "ep": 2,
+      "ago": "3h",
+      "img": "omysj",
+      "ahId": "ds7ri"
+    },
+    {
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 16,
-      "ago": "?",
+      "ago": "4h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -12,7 +20,7 @@
       "titre": "Chitose Is in the Ramune Bottle: Part II",
       "titreJp": "Chitose-kun wa Ramune Bin no Naka: Part II",
       "ep": 2,
-      "ago": "1h",
+      "ago": "5h",
       "img": "t9yu1",
       "ahId": "heqac"
     },
@@ -20,7 +28,7 @@
       "titre": "Cyberpunk: Edgerunners 2",
       "titreJp": "",
       "ep": 10,
-      "ago": "1h",
+      "ago": "5h",
       "img": "rbbn7",
       "ahId": "gmnd4"
     },
@@ -28,7 +36,7 @@
       "titre": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
       "titreJp": "Tsuihousareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Oukasuru. Ore wa Buki dake ja Naku, Arayuru Mono ni \\&quot;Kyouka Point\\&quot; wo Fuyo Dekiru Shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hito-tachi Daijoubu?",
       "ep": 3,
-      "ago": "2h",
+      "ago": "6h",
       "img": "3itp2",
       "ahId": "p3rtm"
     },
@@ -36,7 +44,7 @@
       "titre": "Gensou Suikoden",
       "titreJp": "",
       "ep": 3,
-      "ago": "2h",
+      "ago": "6h",
       "img": "pyp4h",
       "ahId": "byfec"
     },
@@ -44,7 +52,7 @@
       "titre": "Super Psychic Policeman Chojo",
       "titreJp": "Choujun! Choujou-senpai",
       "ep": 3,
-      "ago": "3h",
+      "ago": "7h",
       "img": "h139a",
       "ahId": "zgr43"
     },
@@ -52,7 +60,7 @@
       "titre": "Battle Spirits [Re] Zekkai no Ku",
       "titreJp": "",
       "ep": 3,
-      "ago": "3h",
+      "ago": "7h",
       "img": "j18dk",
       "ahId": "1q18l"
     },
@@ -60,7 +68,7 @@
       "titre": "The Cold Sato-san is Only Sweet to Me",
       "titreJp": "Shio Taiou no Sato-san ga Ore ni dake Amai",
       "ep": 3,
-      "ago": "4h",
+      "ago": "8h",
       "img": "bxwjz",
       "ahId": "inver"
     },
@@ -68,7 +76,7 @@
       "titre": "Nia Liston: The Merciless Maiden",
       "titreJp": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
       "ep": 3,
-      "ago": "5h",
+      "ago": "8h",
       "img": "bp9jr",
       "ahId": "5um3o"
     },
@@ -76,7 +84,7 @@
       "titre": "Magical Girl Raising Project: Restart",
       "titreJp": "Mahou Shoujo Ikusei Keikaku: Restart",
       "ep": 3,
-      "ago": "21h",
+      "ago": "1d",
       "img": "nb877",
       "ahId": "nj39s"
     },
@@ -428,7 +436,7 @@
       "titre": "Welsh & Shedar",
       "titreJp": "Aoki Denshou Welsh &amp; Shedar",
       "ep": 15,
-      "ago": "3d",
+      "ago": "4d",
       "img": "zf9ws",
       "ahId": "azod8"
     },
@@ -559,17 +567,9 @@
       "ago": "6d",
       "img": "9d6qa",
       "ahId": "12iu3"
-    },
-    {
-      "titre": "Reincarnated as a Sword 2nd Season",
-      "titreJp": "Tensei Shitara Ken deshita 2nd Season",
-      "ep": 3,
-      "ago": "6d",
-      "img": "x4uyc",
-      "ahId": "x0r48"
     }
   ],
-  "updatedAt": "2026-10-20T18:17:49.712Z",
+  "updatedAt": "2026-10-20T22:03:04.501Z",
   "source": "github-actions",
   "count": 71
 }
