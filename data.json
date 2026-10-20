@@ -4,7 +4,7 @@
       "titre": "Magical Girl Raising Project: Restart",
       "titreJp": "Mahou Shoujo Ikusei Keikaku: Restart",
       "ep": 3,
-      "ago": "4h",
+      "ago": "10h",
       "img": "nb877",
       "ahId": "nj39s"
     },
@@ -12,7 +12,7 @@
       "titre": "Your Letter",
       "titreJp": "Yeonui Pyeonji",
       "ep": 1,
-      "ago": "7h",
+      "ago": "13h",
       "img": "9s7jy",
       "ahId": "tixxj"
     },
@@ -20,7 +20,7 @@
       "titre": "Bleach: Thousand-Year Blood War: Part IV - The Calamity",
       "titreJp": "Bleach: Sennen Kessen-hen: Part IV - Wazawai Suzumu-tan",
       "ep": 9,
-      "ago": "8h",
+      "ago": "13h",
       "img": "bd05n",
       "ahId": "07v8r"
     },
@@ -28,7 +28,7 @@
       "titre": "Psyren",
       "titreJp": "PSYЯEN",
       "ep": 3,
-      "ago": "10h",
+      "ago": "16h",
       "img": "w80sn",
       "ahId": "mc642"
     },
@@ -36,7 +36,7 @@
       "titre": "Magical Sisters Lulutto Lilly: Part II",
       "titreJp": "Mahou no Shimai Lulutto Lilly: Part II",
       "ep": 3,
-      "ago": "11h",
+      "ago": "16h",
       "img": "ff4ox",
       "ahId": "1klqo"
     },
@@ -44,7 +44,7 @@
       "titre": "So What's Wrong with Getting Reborn as a Goblin?",
       "titreJp": "Tensei Goblin Dakedo Shitsumon Aru?",
       "ep": 4,
-      "ago": "12h",
+      "ago": "17h",
       "img": "tj4k5",
       "ahId": "b61c3"
     },
@@ -52,7 +52,7 @@
       "titre": "Hi, I'm a Witch, and My Crush Wants Me to Make a Love Potion",
       "titreJp": "Doumo, Suki na Hito ni Horegusuri wo Iraisareta Majo desu.",
       "ep": 3,
-      "ago": "12h",
+      "ago": "18h",
       "img": "s3978",
       "ahId": "wdmtv"
     },
@@ -420,7 +420,7 @@
       "titre": "Link Click 3rd Season",
       "titreJp": "Shiguang Dailiren 3rd Season",
       "ep": 11,
-      "ago": "3d",
+      "ago": "4d",
       "img": "whrba",
       "ahId": "gv7dl"
     },
@@ -569,7 +569,7 @@
       "ahId": "p3rtm"
     }
   ],
-  "updatedAt": "2026-10-20T01:31:50.206Z",
+  "updatedAt": "2026-10-20T07:06:15.807Z",
   "source": "github-actions",
   "count": 71
 }
