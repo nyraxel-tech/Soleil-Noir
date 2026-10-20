@@ -4,7 +4,7 @@
       "titre": "Magical Girl Raising Project: Restart",
       "titreJp": "Mahou Shoujo Ikusei Keikaku: Restart",
       "ep": 3,
-      "ago": "2h",
+      "ago": "4h",
       "img": "nb877",
       "ahId": "nj39s"
     },
@@ -12,7 +12,7 @@
       "titre": "Your Letter",
       "titreJp": "Yeonui Pyeonji",
       "ep": 1,
-      "ago": "5h",
+      "ago": "7h",
       "img": "9s7jy",
       "ahId": "tixxj"
     },
@@ -20,7 +20,7 @@
       "titre": "Bleach: Thousand-Year Blood War: Part IV - The Calamity",
       "titreJp": "Bleach: Sennen Kessen-hen: Part IV - Wazawai Suzumu-tan",
       "ep": 9,
-      "ago": "5h",
+      "ago": "8h",
       "img": "bd05n",
       "ahId": "07v8r"
     },
@@ -28,7 +28,7 @@
       "titre": "Psyren",
       "titreJp": "PSYЯEN",
       "ep": 3,
-      "ago": "8h",
+      "ago": "10h",
       "img": "w80sn",
       "ahId": "mc642"
     },
@@ -36,7 +36,7 @@
       "titre": "Magical Sisters Lulutto Lilly: Part II",
       "titreJp": "Mahou no Shimai Lulutto Lilly: Part II",
       "ep": 3,
-      "ago": "8h",
+      "ago": "11h",
       "img": "ff4ox",
       "ahId": "1klqo"
     },
@@ -44,7 +44,7 @@
       "titre": "So What's Wrong with Getting Reborn as a Goblin?",
       "titreJp": "Tensei Goblin Dakedo Shitsumon Aru?",
       "ep": 4,
-      "ago": "9h",
+      "ago": "12h",
       "img": "tj4k5",
       "ahId": "b61c3"
     },
@@ -52,7 +52,7 @@
       "titre": "Hi, I'm a Witch, and My Crush Wants Me to Make a Love Potion",
       "titreJp": "Doumo, Suki na Hito ni Horegusuri wo Iraisareta Majo desu.",
       "ep": 3,
-      "ago": "10h",
+      "ago": "12h",
       "img": "s3978",
       "ahId": "wdmtv"
     },
@@ -348,7 +348,7 @@
       "titre": "Sgt. Frog (2026)",
       "titreJp": "Keroro Gunsou☆ (2026)",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "la1qi",
       "ahId": "kk3xm"
     },
@@ -569,7 +569,7 @@
       "ahId": "p3rtm"
     }
   ],
-  "updatedAt": "2026-10-19T22:49:44.710Z",
+  "updatedAt": "2026-10-20T01:31:50.206Z",
   "source": "github-actions",
   "count": 71
 }
