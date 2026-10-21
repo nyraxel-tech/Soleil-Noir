@@ -4,7 +4,7 @@
       "titre": "Dark Machine: The Animation",
       "titreJp": "",
       "ep": 2,
-      "ago": "3h",
+      "ago": "6h",
       "img": "omysj",
       "ahId": "ds7ri"
     },
@@ -12,7 +12,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 16,
-      "ago": "4h",
+      "ago": "7h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -20,7 +20,7 @@
       "titre": "Chitose Is in the Ramune Bottle: Part II",
       "titreJp": "Chitose-kun wa Ramune Bin no Naka: Part II",
       "ep": 2,
-      "ago": "5h",
+      "ago": "8h",
       "img": "t9yu1",
       "ahId": "heqac"
     },
@@ -28,7 +28,7 @@
       "titre": "Cyberpunk: Edgerunners 2",
       "titreJp": "",
       "ep": 10,
-      "ago": "5h",
+      "ago": "8h",
       "img": "rbbn7",
       "ahId": "gmnd4"
     },
@@ -36,7 +36,7 @@
       "titre": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
       "titreJp": "Tsuihousareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Oukasuru. Ore wa Buki dake ja Naku, Arayuru Mono ni \\&quot;Kyouka Point\\&quot; wo Fuyo Dekiru Shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hito-tachi Daijoubu?",
       "ep": 3,
-      "ago": "6h",
+      "ago": "9h",
       "img": "3itp2",
       "ahId": "p3rtm"
     },
@@ -44,7 +44,7 @@
       "titre": "Gensou Suikoden",
       "titreJp": "",
       "ep": 3,
-      "ago": "6h",
+      "ago": "9h",
       "img": "pyp4h",
       "ahId": "byfec"
     },
@@ -52,7 +52,7 @@
       "titre": "Super Psychic Policeman Chojo",
       "titreJp": "Choujun! Choujou-senpai",
       "ep": 3,
-      "ago": "7h",
+      "ago": "10h",
       "img": "h139a",
       "ahId": "zgr43"
     },
@@ -60,7 +60,7 @@
       "titre": "Battle Spirits [Re] Zekkai no Ku",
       "titreJp": "",
       "ep": 3,
-      "ago": "7h",
+      "ago": "10h",
       "img": "j18dk",
       "ahId": "1q18l"
     },
@@ -68,7 +68,7 @@
       "titre": "The Cold Sato-san is Only Sweet to Me",
       "titreJp": "Shio Taiou no Sato-san ga Ore ni dake Amai",
       "ep": 3,
-      "ago": "8h",
+      "ago": "11h",
       "img": "bxwjz",
       "ahId": "inver"
     },
@@ -76,7 +76,7 @@
       "titre": "Nia Liston: The Merciless Maiden",
       "titreJp": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
       "ep": 3,
-      "ago": "8h",
+      "ago": "12h",
       "img": "bp9jr",
       "ahId": "5um3o"
     },
@@ -284,7 +284,7 @@
       "titre": "Dreamland",
       "titreJp": "",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "295vq",
       "ahId": "usmn1"
     },
@@ -428,7 +428,7 @@
       "titre": "Sgt. Frog (2026)",
       "titreJp": "Keroro Gunsou☆ (2026)",
       "ep": 3,
-      "ago": "3d",
+      "ago": "4d",
       "img": "la1qi",
       "ahId": "kk3xm"
     },
@@ -569,7 +569,7 @@
       "ahId": "12iu3"
     }
   ],
-  "updatedAt": "2026-10-20T22:03:04.501Z",
+  "updatedAt": "2026-10-21T01:14:45.042Z",
   "source": "github-actions",
   "count": 71
 }
