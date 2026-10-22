@@ -4,7 +4,7 @@
       "titre": "A Returner's Magic Should Be Special Season 2",
       "titreJp": "Kikansha no Mahou wa Tokubetsu desu 2nd Season, Gwihwanjaui Mabeobeun Teugbyeolhaeya Habnida 2nd Season",
       "ep": 3,
-      "ago": "3h",
+      "ago": "6h",
       "img": "d2tbz",
       "ahId": "9lgbi"
     },
@@ -12,7 +12,7 @@
       "titre": "Dandivine",
       "titreJp": "Juuou Bushin Dandivine",
       "ep": 3,
-      "ago": "4h",
+      "ago": "7h",
       "img": "4shz4",
       "ahId": "n6eej"
     },
@@ -20,7 +20,7 @@
       "titre": "The Prince of Tennis II U-17 WORLD CUP Final Member Selection Match",
       "titreJp": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
       "ep": 4,
-      "ago": "4h",
+      "ago": "8h",
       "img": "9d6qa",
       "ahId": "12iu3"
     },
@@ -28,7 +28,7 @@
       "titre": "Reincarnated as a Sword 2nd Season",
       "titreJp": "Tensei Shitara Ken deshita 2nd Season",
       "ep": 4,
-      "ago": "5h",
+      "ago": "8h",
       "img": "x4uyc",
       "ahId": "x0r48"
     },
@@ -36,7 +36,7 @@
       "titre": "Magic Knight Rayearth (2026)",
       "titreJp": "Mahou Kishi Rayearth (2026)",
       "ep": 3,
-      "ago": "5h",
+      "ago": "8h",
       "img": "8lnlp",
       "ahId": "tbwu1"
     },
@@ -44,7 +44,7 @@
       "titre": "Paws & Palaces",
       "titreJp": "Zi Jin: Yu Miao Fang, Forbidden City: Impurrial  Cat Room",
       "ep": 6,
-      "ago": "6h",
+      "ago": "9h",
       "img": "xjf8h",
       "ahId": "rlpm0"
     },
@@ -52,7 +52,7 @@
       "titre": "The Detective Is Already Dead. Season 2",
       "titreJp": "Tanmoshi, Tantei wa mou, Shindeiru. Season 2",
       "ep": 3,
-      "ago": "7h",
+      "ago": "10h",
       "img": "wve78",
       "ahId": "9j16y"
     },
@@ -60,7 +60,7 @@
       "titre": "The World’s Strongest Witch",
       "titreJp": "Sekai Saikyou no Majo, Hajimemashita: Watashi dake &quot;Kouryaku Site&quot; wo Mireru Sekai de Jiyuu ni Ikimasu",
       "ep": 3,
-      "ago": "7h",
+      "ago": "11h",
       "img": "5ulec",
       "ahId": "b8gl1"
     },
@@ -68,7 +68,7 @@
       "titre": "Sasaki and Peeps Season 2",
       "titreJp": "Sasaki to Pi-chan Season 2",
       "ep": 3,
-      "ago": "8h",
+      "ago": "11h",
       "img": "a1k9a",
       "ahId": "ick60"
     },
@@ -356,7 +356,7 @@
       "titre": "Dreamland",
       "titreJp": "",
       "ep": 1,
-      "ago": "3d",
+      "ago": "4d",
       "img": "295vq",
       "ahId": "usmn1"
     },
@@ -569,7 +569,7 @@
       "ahId": "kybuw"
     }
   ],
-  "updatedAt": "2026-10-21T21:12:16.965Z",
+  "updatedAt": "2026-10-22T00:24:25.992Z",
   "source": "github-actions",
   "count": 71
 }
