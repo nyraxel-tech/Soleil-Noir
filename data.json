@@ -4,7 +4,7 @@
       "titre": "Link Click 3rd Season",
       "titreJp": "Shiguang Dailiren 3rd Season",
       "ep": 12,
-      "ago": "?",
+      "ago": "5h",
       "img": "whrba",
       "ahId": "gv7dl"
     },
@@ -12,7 +12,7 @@
       "titre": "The Iceblade Sorcerer Shall Rule the World II",
       "titreJp": "Hyouken no Majutsushi ga Sekai wo Suberu II: Sekai Saikyou no Majutsushi de Aru Shounen wa, Majutsu Gakuin ni Nyuugakusuru",
       "ep": 3,
-      "ago": "9h",
+      "ago": "15h",
       "img": "zyq79",
       "ahId": "pnz3r"
     },
@@ -20,7 +20,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 17,
-      "ago": "10h",
+      "ago": "16h",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -28,7 +28,7 @@
       "titre": "TETSURYO! Meet with Tetsudou Musume",
       "titreJp": "Tetsuryou! Meet with Tetsudou Musume",
       "ep": 3,
-      "ago": "11h",
+      "ago": "16h",
       "img": "o1rup",
       "ahId": "n7bzz"
     },
@@ -36,7 +36,7 @@
       "titre": "The Ramparts of Ice Season 2",
       "titreJp": "Koori no Jouheki Season 2, Ice Castle Wall Season 2",
       "ep": 4,
-      "ago": "11h",
+      "ago": "16h",
       "img": "3r8wc",
       "ahId": "l70lj"
     },
@@ -44,7 +44,7 @@
       "titre": "FX Fighter Kurumi-chan",
       "titreJp": "FX Senshi Kurumi-chan",
       "ep": 4,
-      "ago": "14h",
+      "ago": "20h",
       "img": "pra1c",
       "ahId": "3vz59"
     },
@@ -569,7 +569,7 @@
       "ahId": "ldpso"
     }
   ],
-  "updatedAt": "2026-10-23T03:14:29.904Z",
+  "updatedAt": "2026-10-23T09:03:50.063Z",
   "source": "github-actions",
   "count": 71
 }
