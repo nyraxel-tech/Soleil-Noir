@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "A Wild Last Boss Appeared! 2",
+      "titreJp": "Yasei no Last Boss ga Arawareta! 2",
+      "ep": 5,
+      "ago": "?",
+      "img": "6vzxm",
+      "ahId": "39l08"
+    },
+    {
+      "titre": "A Tale of the Secret Saint",
+      "titreJp": "Tenseishita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
+      "ep": 5,
+      "ago": "?",
+      "img": "ffres",
+      "ahId": "tbd2z"
+    },
+    {
+      "titre": "Romelia War Chronicle",
+      "titreJp": "Romelia Senki: Hakushaku Reijou, Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshikisuru",
+      "ep": 4,
+      "ago": "1h",
+      "img": "ucpu2",
+      "ahId": "5u4aa"
+    },
+    {
       "titre": "The Vermilion Mask",
       "titreJp": "Shuiro no Kamen",
       "ep": 3,
-      "ago": "?",
+      "ago": "4h",
       "img": "mmdhs",
       "ahId": "j1ywu"
     },
@@ -12,7 +36,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 154,
-      "ago": "1h",
+      "ago": "5h",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -20,7 +44,7 @@
       "titre": "Ghost Meets Gal!",
       "titreJp": "",
       "ep": 8,
-      "ago": "2h",
+      "ago": "6h",
       "img": "3jxai",
       "ahId": "k921x"
     },
@@ -28,7 +52,7 @@
       "titre": "Sgt. Frog (2026)",
       "titreJp": "Keroro Gunsou☆ (2026)",
       "ep": 4,
-      "ago": "9h",
+      "ago": "13h",
       "img": "la1qi",
       "ahId": "kk3xm"
     },
@@ -36,7 +60,7 @@
       "titre": "Welsh & Shedar",
       "titreJp": "Aoki Denshou Welsh &amp; Shedar",
       "ep": 4,
-      "ago": "15h",
+      "ago": "19h",
       "img": "zf9ws",
       "ahId": "azod8"
     },
@@ -44,7 +68,7 @@
       "titre": "Tokyo Revengers: Battle of Three Deities",
       "titreJp": "Tokyo Revengers: Santen Sensou-hen",
       "ep": 4,
-      "ago": "16h",
+      "ago": "20h",
       "img": "puty1",
       "ahId": "kybuw"
     },
@@ -52,7 +76,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 16,
-      "ago": "17h",
+      "ago": "21h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -60,7 +84,7 @@
       "titre": "Firefly Wedding",
       "titreJp": "Hotaru no Yomeiri",
       "ep": 3,
-      "ago": "17h",
+      "ago": "21h",
       "img": "3gndp",
       "ahId": "bhbnn"
     },
@@ -68,7 +92,7 @@
       "titre": "Tougen Anki: Nikko Kegon Falls Arc",
       "titreJp": "Tougen Anki: Nikko Kegon no Taki-hen",
       "ep": 4,
-      "ago": "17h",
+      "ago": "21h",
       "img": "5mopt",
       "ahId": "w5qns"
     },
@@ -76,7 +100,7 @@
       "titre": "A Certain Dark Side's Item",
       "titreJp": "Toaru Anbu no ITEM",
       "ep": 3,
-      "ago": "18h",
+      "ago": "22h",
       "img": "rc25t",
       "ahId": "21bae"
     },
@@ -84,7 +108,7 @@
       "titre": "The Apothecary Diaries 3rd Season",
       "titreJp": "Kusuriya no Hitorigoto 3rd Season",
       "ep": 4,
-      "ago": "19h",
+      "ago": "23h",
       "img": "tv772",
       "ahId": "igk5o"
     },
@@ -92,7 +116,7 @@
       "titre": "JoJo's Bizarre Adventure: Steel Ball Run",
       "titreJp": "Jojo no Kimyou na Bouken: Steel Ball Run",
       "ep": 6,
-      "ago": "20h",
+      "ago": "1d",
       "img": "ftqmf",
       "ahId": "u6jkm"
     },
@@ -140,7 +164,7 @@
       "titre": "FX Fighter Kurumi-chan",
       "titreJp": "FX Senshi Kurumi-chan",
       "ep": 4,
-      "ago": "1d",
+      "ago": "2d",
       "img": "pra1c",
       "ahId": "3vz59"
     },
@@ -196,7 +220,7 @@
       "titre": "The Detective Is Already Dead. Season 2",
       "titreJp": "Tanmoshi, Tantei wa mou, Shindeiru. Season 2",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "wve78",
       "ahId": "9j16y"
     },
@@ -204,7 +228,7 @@
       "titre": "The World’s Strongest Witch",
       "titreJp": "Sekai Saikyou no Majo, Hajimemashita: Watashi dake &quot;Kouryaku Site&quot; wo Mireru Sekai de Jiyuu ni Ikimasu",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "5ulec",
       "ahId": "b8gl1"
     },
@@ -212,7 +236,7 @@
       "titre": "Sasaki and Peeps Season 2",
       "titreJp": "Sasaki to Pi-chan Season 2",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "a1k9a",
       "ahId": "ick60"
     },
@@ -284,7 +308,7 @@
       "titre": "The Cold Sato-san is Only Sweet to Me",
       "titreJp": "Shio Taiou no Sato-san ga Ore ni dake Amai",
       "ep": 3,
-      "ago": "3d",
+      "ago": "4d",
       "img": "bxwjz",
       "ahId": "inver"
     },
@@ -292,7 +316,7 @@
       "titre": "Nia Liston: The Merciless Maiden",
       "titreJp": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
       "ep": 3,
-      "ago": "3d",
+      "ago": "4d",
       "img": "bp9jr",
       "ahId": "5um3o"
     },
@@ -340,7 +364,7 @@
       "titre": "So What's Wrong with Getting Reborn as a Goblin?",
       "titreJp": "Tensei Goblin Dakedo Shitsumon Aru?",
       "ep": 4,
-      "ago": "4d",
+      "ago": "5d",
       "img": "tj4k5",
       "ahId": "b61c3"
     },
@@ -348,7 +372,7 @@
       "titre": "Hi, I'm a Witch, and My Crush Wants Me to Make a Love Potion",
       "titreJp": "Doumo, Suki na Hito ni Horegusuri wo Iraisareta Majo desu.",
       "ep": 3,
-      "ago": "4d",
+      "ago": "5d",
       "img": "s3978",
       "ahId": "wdmtv"
     },
@@ -452,7 +476,7 @@
       "titre": "Uncle's Obsession with Cute Things",
       "titreJp": "Oji-san wa Kawaii Mono ga Osuki.",
       "ep": 3,
-      "ago": "5d",
+      "ago": "6d",
       "img": "gv3m0",
       "ahId": "shbkv"
     },
@@ -460,7 +484,7 @@
       "titre": "Umayuru: Full Gate!",
       "titreJp": "&quot;Umayuru&quot; is a short anime series featuring pint-sized Uma Musume! This time, it’s a &quot;Full-Gate&quot; three-minute race where *all* the Uma Musume take to the track! A super-sized, laid-back gathering with everyone!",
       "ep": 4,
-      "ago": "5d",
+      "ago": "6d",
       "img": "cahob",
       "ahId": "7p4ok"
     },
@@ -468,7 +492,7 @@
       "titre": "Mission: Yozakura Family Season 2 - Part II",
       "titreJp": "Yozakura-san Chi no Daisakusen Season 2 - Part II",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "du10m",
       "ahId": "e0es6"
     },
@@ -476,7 +500,7 @@
       "titre": "Blue Box Season 2",
       "titreJp": "Ao no Hako Season 2",
       "ep": 3,
-      "ago": "5d",
+      "ago": "6d",
       "img": "d49hw",
       "ahId": "9f807"
     },
@@ -543,33 +567,9 @@
       "ago": "6d",
       "img": "x1xv9",
       "ahId": "gve9a"
-    },
-    {
-      "titre": "Vertex Force",
-      "titreJp": "",
-      "ep": 3,
-      "ago": "6d",
-      "img": "jvyhy",
-      "ahId": "og3o4"
-    },
-    {
-      "titre": "The Seven Knights of the Marronnier Kingdom",
-      "titreJp": "Marronnier Oukoku no Shichinin no Kishi",
-      "ep": 3,
-      "ago": "6d",
-      "img": "cf05c",
-      "ahId": "lcc9t"
-    },
-    {
-      "titre": "Black Clover 2nd Season",
-      "titreJp": "",
-      "ep": 3,
-      "ago": "6d",
-      "img": "82gob",
-      "ahId": "0pqfl"
     }
   ],
-  "updatedAt": "2026-10-24T10:13:40.834Z",
+  "updatedAt": "2026-10-24T14:13:32.446Z",
   "source": "github-actions",
   "count": 71
 }
