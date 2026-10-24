@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "The Vermilion Mask",
+      "titreJp": "Shuiro no Kamen",
+      "ep": 3,
+      "ago": "?",
+      "img": "mmdhs",
+      "ahId": "j1ywu"
+    },
+    {
+      "titre": "Pokemon Horizons: The Series",
+      "titreJp": "Pocket Monsters (2023)",
+      "ep": 154,
+      "ago": "1h",
+      "img": "9fsft",
+      "ahId": "9v661"
+    },
+    {
+      "titre": "Ghost Meets Gal!",
+      "titreJp": "",
+      "ep": 8,
+      "ago": "2h",
+      "img": "3jxai",
+      "ahId": "k921x"
+    },
+    {
       "titre": "Sgt. Frog (2026)",
       "titreJp": "Keroro Gunsou☆ (2026)",
       "ep": 4,
-      "ago": "4h",
+      "ago": "9h",
       "img": "la1qi",
       "ahId": "kk3xm"
     },
@@ -12,7 +36,7 @@
       "titre": "Welsh & Shedar",
       "titreJp": "Aoki Denshou Welsh &amp; Shedar",
       "ep": 4,
-      "ago": "10h",
+      "ago": "15h",
       "img": "zf9ws",
       "ahId": "azod8"
     },
@@ -20,7 +44,7 @@
       "titre": "Tokyo Revengers: Battle of Three Deities",
       "titreJp": "Tokyo Revengers: Santen Sensou-hen",
       "ep": 4,
-      "ago": "11h",
+      "ago": "16h",
       "img": "puty1",
       "ahId": "kybuw"
     },
@@ -28,7 +52,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 16,
-      "ago": "12h",
+      "ago": "17h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -36,7 +60,7 @@
       "titre": "Firefly Wedding",
       "titreJp": "Hotaru no Yomeiri",
       "ep": 3,
-      "ago": "13h",
+      "ago": "17h",
       "img": "3gndp",
       "ahId": "bhbnn"
     },
@@ -44,7 +68,7 @@
       "titre": "Tougen Anki: Nikko Kegon Falls Arc",
       "titreJp": "Tougen Anki: Nikko Kegon no Taki-hen",
       "ep": 4,
-      "ago": "13h",
+      "ago": "17h",
       "img": "5mopt",
       "ahId": "w5qns"
     },
@@ -52,7 +76,7 @@
       "titre": "A Certain Dark Side's Item",
       "titreJp": "Toaru Anbu no ITEM",
       "ep": 3,
-      "ago": "13h",
+      "ago": "18h",
       "img": "rc25t",
       "ahId": "21bae"
     },
@@ -60,7 +84,7 @@
       "titre": "The Apothecary Diaries 3rd Season",
       "titreJp": "Kusuriya no Hitorigoto 3rd Season",
       "ep": 4,
-      "ago": "14h",
+      "ago": "19h",
       "img": "tv772",
       "ahId": "igk5o"
     },
@@ -68,7 +92,7 @@
       "titre": "JoJo's Bizarre Adventure: Steel Ball Run",
       "titreJp": "Jojo no Kimyou na Bouken: Steel Ball Run",
       "ep": 6,
-      "ago": "15h",
+      "ago": "20h",
       "img": "ftqmf",
       "ahId": "u6jkm"
     },
@@ -460,7 +484,7 @@
       "titre": "Aoashi Season 2",
       "titreJp": "",
       "ep": 3,
-      "ago": "5d",
+      "ago": "6d",
       "img": "ph45t",
       "ahId": "zgjwm"
     },
@@ -468,7 +492,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season - Part II",
       "titreJp": "Diamond no Ace: Act II 2nd Season - Part II,",
       "ep": 2,
-      "ago": "5d",
+      "ago": "6d",
       "img": "8c9hh",
       "ahId": "6zcxf"
     },
@@ -543,33 +567,9 @@
       "ago": "6d",
       "img": "82gob",
       "ahId": "0pqfl"
-    },
-    {
-      "titre": "Black Clover",
-      "titreJp": "",
-      "ep": 173,
-      "ago": "6d",
-      "img": "mg1oq",
-      "ahId": "l1cen"
-    },
-    {
-      "titre": "#I'm Looking For a Zombie",
-      "titreJp": "#Zombie Sagashitemasu",
-      "ep": 3,
-      "ago": "6d",
-      "img": "j5hvj",
-      "ahId": "lfdvl"
-    },
-    {
-      "titre": "A Wild Last Boss Appeared! 2",
-      "titreJp": "Yasei no Last Boss ga Arawareta! 2",
-      "ep": 4,
-      "ago": "6d",
-      "img": "6vzxm",
-      "ahId": "39l08"
     }
   ],
-  "updatedAt": "2026-10-24T05:21:03.812Z",
+  "updatedAt": "2026-10-24T10:13:40.834Z",
   "source": "github-actions",
   "count": 71
 }
