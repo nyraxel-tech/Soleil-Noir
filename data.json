@@ -1,10 +1,42 @@
 {
   "animes": [
     {
+      "titre": "Mission: Yozakura Family Season 2 - Part II",
+      "titreJp": "Yozakura-san Chi no Daisakusen Season 2 - Part II",
+      "ep": 3,
+      "ago": "1h",
+      "img": "du10m",
+      "ahId": "e0es6"
+    },
+    {
+      "titre": "Blue Box Season 2",
+      "titreJp": "Ao no Hako Season 2",
+      "ep": 4,
+      "ago": "1h",
+      "img": "d49hw",
+      "ahId": "9f807"
+    },
+    {
+      "titre": "Aoashi Season 2",
+      "titreJp": "",
+      "ep": 4,
+      "ago": "1h",
+      "img": "ph45t",
+      "ahId": "zgjwm"
+    },
+    {
+      "titre": "Ace of the Diamond: Act II 2nd Season - Part II",
+      "titreJp": "Diamond no Ace: Act II 2nd Season - Part II,",
+      "ep": 3,
+      "ago": "1h",
+      "img": "8c9hh",
+      "ahId": "6zcxf"
+    },
+    {
       "titre": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
       "titreJp": "Kashita Maryoku wa &quot;Revolving Barai&quot; de Kyousei Choushuu",
       "ep": 4,
-      "ago": "11h",
+      "ago": "16h",
       "img": "rg75s",
       "ahId": "vm4bk"
     },
@@ -12,7 +44,7 @@
       "titre": "Even the Student Council Has Its Holes!",
       "titreJp": "Seitokai ni mo Ana wa Aru!",
       "ep": 4,
-      "ago": "12h",
+      "ago": "17h",
       "img": "srr3a",
       "ahId": "9sero"
     },
@@ -20,7 +52,7 @@
       "titre": "Horror Collector",
       "titreJp": "Kyoufu Collector",
       "ep": 3,
-      "ago": "12h",
+      "ago": "17h",
       "img": "od2aa",
       "ahId": "zt75v"
     },
@@ -28,7 +60,7 @@
       "titre": "Dreamland",
       "titreJp": "",
       "ep": 2,
-      "ago": "12h",
+      "ago": "17h",
       "img": "295vq",
       "ahId": "usmn1"
     },
@@ -36,7 +68,7 @@
       "titre": "Ranma 1/2 Season 3",
       "titreJp": "",
       "ep": 4,
-      "ago": "12h",
+      "ago": "17h",
       "img": "mzg0v",
       "ahId": "y5vk1"
     },
@@ -44,7 +76,7 @@
       "titre": "Magical Explorer",
       "titreJp": "",
       "ep": 5,
-      "ago": "12h",
+      "ago": "17h",
       "img": "x1xv9",
       "ahId": "gve9a"
     },
@@ -52,7 +84,7 @@
       "titre": "Vertex Force",
       "titreJp": "",
       "ep": 4,
-      "ago": "13h",
+      "ago": "18h",
       "img": "jvyhy",
       "ahId": "og3o4"
     },
@@ -60,7 +92,7 @@
       "titre": "Black Clover",
       "titreJp": "",
       "ep": 174,
-      "ago": "13h",
+      "ago": "18h",
       "img": "mg1oq",
       "ahId": "l1cen"
     },
@@ -68,7 +100,7 @@
       "titre": "Black Clover 2nd Season",
       "titreJp": "",
       "ep": 4,
-      "ago": "14h",
+      "ago": "19h",
       "img": "82gob",
       "ahId": "0pqfl"
     },
@@ -76,7 +108,7 @@
       "titre": "The Seven Knights of the Marronnier Kingdom",
       "titreJp": "Marronnier Oukoku no Shichinin no Kishi",
       "ep": 4,
-      "ago": "14h",
+      "ago": "19h",
       "img": "cf05c",
       "ahId": "lcc9t"
     },
@@ -84,7 +116,7 @@
       "titre": "#I'm Looking For a Zombie",
       "titreJp": "#Zombie Sagashitemasu",
       "ep": 4,
-      "ago": "14h",
+      "ago": "19h",
       "img": "j5hvj",
       "ahId": "lfdvl"
     },
@@ -92,7 +124,7 @@
       "titre": "A Wild Last Boss Appeared! 2",
       "titreJp": "Yasei no Last Boss ga Arawareta! 2",
       "ep": 5,
-      "ago": "15h",
+      "ago": "20h",
       "img": "6vzxm",
       "ahId": "39l08"
     },
@@ -100,7 +132,7 @@
       "titre": "A Tale of the Secret Saint",
       "titreJp": "Tenseishita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
       "ep": 5,
-      "ago": "16h",
+      "ago": "21h",
       "img": "ffres",
       "ahId": "tbd2z"
     },
@@ -108,7 +140,7 @@
       "titre": "Romelia War Chronicle",
       "titreJp": "Romelia Senki: Hakushaku Reijou, Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshikisuru",
       "ep": 4,
-      "ago": "16h",
+      "ago": "21h",
       "img": "ucpu2",
       "ahId": "5u4aa"
     },
@@ -116,7 +148,7 @@
       "titre": "The Vermilion Mask",
       "titreJp": "Shuiro no Kamen",
       "ep": 3,
-      "ago": "19h",
+      "ago": "1d",
       "img": "mmdhs",
       "ahId": "j1ywu"
     },
@@ -124,7 +156,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 154,
-      "ago": "21h",
+      "ago": "1d",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -132,7 +164,7 @@
       "titre": "Ghost Meets Gal!",
       "titreJp": "",
       "ep": 8,
-      "ago": "21h",
+      "ago": "1d",
       "img": "3jxai",
       "ahId": "k921x"
     },
@@ -535,41 +567,9 @@
       "ago": "6d",
       "img": "qst8x",
       "ahId": "klx41"
-    },
-    {
-      "titre": "Tank Chair",
-      "titreJp": "Sensha Isu",
-      "ep": 3,
-      "ago": "6d",
-      "img": "pva6o",
-      "ahId": "oe1qg"
-    },
-    {
-      "titre": "Overgeared",
-      "titreJp": "Tempal: Item no Chikara",
-      "ep": 4,
-      "ago": "6d",
-      "img": "reduh",
-      "ahId": "khonj"
-    },
-    {
-      "titre": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
-      "titreJp": "Mezametara Saikyou Soubi to Uchuusen-mochi datta no de, Ikkodate Mezashite Youhei Toshite Jiyuu ni Ikitai",
-      "ep": 3,
-      "ago": "6d",
-      "img": "s96ye",
-      "ahId": "d6wf8"
-    },
-    {
-      "titre": "Uncle's Obsession with Cute Things",
-      "titreJp": "Oji-san wa Kawaii Mono ga Osuki.",
-      "ep": 3,
-      "ago": "6d",
-      "img": "gv3m0",
-      "ahId": "shbkv"
     }
   ],
-  "updatedAt": "2026-10-25T05:37:49.503Z",
+  "updatedAt": "2026-10-25T10:38:28.433Z",
   "source": "github-actions",
   "count": 71
 }
