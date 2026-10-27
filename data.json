@@ -4,7 +4,7 @@
       "titre": "Dark Machine: The Animation",
       "titreJp": "",
       "ep": 3,
-      "ago": "?",
+      "ago": "5h",
       "img": "omysj",
       "ahId": "ds7ri"
     },
@@ -12,7 +12,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 17,
-      "ago": "1h",
+      "ago": "5h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -20,7 +20,7 @@
       "titre": "Chitose Is in the Ramune Bottle: Part II",
       "titreJp": "Chitose-kun wa Ramune Bin no Naka: Part II",
       "ep": 3,
-      "ago": "2h",
+      "ago": "6h",
       "img": "t9yu1",
       "ahId": "heqac"
     },
@@ -28,7 +28,7 @@
       "titre": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
       "titreJp": "Tsuihousareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Oukasuru. Ore wa Buki dake ja Naku, Arayuru Mono ni \\&quot;Kyouka Point\\&quot; wo Fuyo Dekiru Shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hito-tachi Daijoubu?",
       "ep": 4,
-      "ago": "3h",
+      "ago": "7h",
       "img": "3itp2",
       "ahId": "p3rtm"
     },
@@ -36,7 +36,7 @@
       "titre": "Gensou Suikoden",
       "titreJp": "",
       "ep": 4,
-      "ago": "3h",
+      "ago": "7h",
       "img": "pyp4h",
       "ahId": "byfec"
     },
@@ -44,7 +44,7 @@
       "titre": "Super Psychic Policeman Chojo",
       "titreJp": "Choujun! Choujou-senpai",
       "ep": 4,
-      "ago": "4h",
+      "ago": "8h",
       "img": "h139a",
       "ahId": "zgr43"
     },
@@ -52,7 +52,7 @@
       "titre": "Battle Spirits [Re] Zekkai no Ku",
       "titreJp": "",
       "ep": 4,
-      "ago": "4h",
+      "ago": "8h",
       "img": "j18dk",
       "ahId": "1q18l"
     },
@@ -60,7 +60,7 @@
       "titre": "The Cold Sato-san is Only Sweet to Me",
       "titreJp": "Shio Taiou no Sato-san ga Ore ni dake Amai",
       "ep": 4,
-      "ago": "5h",
+      "ago": "9h",
       "img": "bxwjz",
       "ahId": "inver"
     },
@@ -68,7 +68,7 @@
       "titre": "Nia Liston: The Merciless Maiden",
       "titreJp": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
       "ep": 4,
-      "ago": "6h",
+      "ago": "10h",
       "img": "bp9jr",
       "ahId": "5um3o"
     },
@@ -76,7 +76,7 @@
       "titre": "Magical Girl Raising Project: Restart",
       "titreJp": "Mahou Shoujo Ikusei Keikaku: Restart",
       "ep": 4,
-      "ago": "21h",
+      "ago": "1d",
       "img": "nb877",
       "ahId": "nj39s"
     },
@@ -84,7 +84,7 @@
       "titre": "Magical Sisters Lulutto Lilly: Part II",
       "titreJp": "Mahou no Shimai Lulutto Lilly: Part II",
       "ep": 4,
-      "ago": "21h",
+      "ago": "1d",
       "img": "ff4ox",
       "ahId": "1klqo"
     },
@@ -92,7 +92,7 @@
       "titre": "Maid-sama!",
       "titreJp": "Kaichou wa Maid-sama!",
       "ep": 27,
-      "ago": "23h",
+      "ago": "1d",
       "img": "tx60g",
       "ahId": "x1csr"
     },
@@ -559,17 +559,9 @@
       "ago": "6d",
       "img": "x4uyc",
       "ahId": "x0r48"
-    },
-    {
-      "titre": "Magic Knight Rayearth (2026)",
-      "titreJp": "Mahou Kishi Rayearth (2026)",
-      "ep": 3,
-      "ago": "6d",
-      "img": "8lnlp",
-      "ahId": "tbwu1"
     }
   ],
-  "updatedAt": "2026-10-27T19:11:49.068Z",
+  "updatedAt": "2026-10-27T23:26:39.491Z",
   "source": "github-actions",
-  "count": 71
+  "count": 70
 }
