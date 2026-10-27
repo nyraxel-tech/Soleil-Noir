@@ -4,7 +4,7 @@
       "titre": "Magical Girl Raising Project: Restart",
       "titreJp": "Mahou Shoujo Ikusei Keikaku: Restart",
       "ep": 4,
-      "ago": "3h",
+      "ago": "9h",
       "img": "nb877",
       "ahId": "nj39s"
     },
@@ -12,7 +12,7 @@
       "titre": "Magical Sisters Lulutto Lilly: Part II",
       "titreJp": "Mahou no Shimai Lulutto Lilly: Part II",
       "ep": 4,
-      "ago": "3h",
+      "ago": "9h",
       "img": "ff4ox",
       "ahId": "1klqo"
     },
@@ -20,7 +20,7 @@
       "titre": "Maid-sama!",
       "titreJp": "Kaichou wa Maid-sama!",
       "ep": 27,
-      "ago": "5h",
+      "ago": "11h",
       "img": "tx60g",
       "ahId": "x1csr"
     },
@@ -28,7 +28,7 @@
       "titre": "Bleach: Thousand-Year Blood War: Part IV - The Calamity",
       "titreJp": "Bleach: Sennen Kessen-hen: Part IV - Wazawai Suzumu-tan",
       "ep": 10,
-      "ago": "9h",
+      "ago": "15h",
       "img": "bd05n",
       "ahId": "07v8r"
     },
@@ -36,7 +36,7 @@
       "titre": "Psyren",
       "titreJp": "PSYЯEN",
       "ep": 4,
-      "ago": "10h",
+      "ago": "16h",
       "img": "w80sn",
       "ahId": "mc642"
     },
@@ -44,7 +44,7 @@
       "titre": "So What's Wrong with Getting Reborn as a Goblin?",
       "titreJp": "Tensei Goblin Dakedo Shitsumon Aru?",
       "ep": 5,
-      "ago": "11h",
+      "ago": "18h",
       "img": "tj4k5",
       "ahId": "b61c3"
     },
@@ -52,7 +52,7 @@
       "titre": "Hi, I'm a Witch, and My Crush Wants Me to Make a Love Potion",
       "titreJp": "Doumo, Suki na Hito ni Horegusuri wo Iraisareta Majo desu.",
       "ep": 4,
-      "ago": "12h",
+      "ago": "18h",
       "img": "s3978",
       "ahId": "wdmtv"
     },
@@ -340,7 +340,7 @@
       "titre": "Sgt. Frog (2026)",
       "titreJp": "Keroro Gunsou☆ (2026)",
       "ep": 4,
-      "ago": "2d",
+      "ago": "3d",
       "img": "la1qi",
       "ahId": "kk3xm"
     },
@@ -412,7 +412,7 @@
       "titre": "Link Click 3rd Season",
       "titreJp": "Shiguang Dailiren 3rd Season",
       "ep": 12,
-      "ago": "3d",
+      "ago": "4d",
       "img": "whrba",
       "ahId": "gv7dl"
     },
@@ -569,7 +569,7 @@
       "ahId": "p3rtm"
     }
   ],
-  "updatedAt": "2026-10-27T01:04:34.382Z",
+  "updatedAt": "2026-10-27T07:14:20.468Z",
   "source": "github-actions",
   "count": 71
 }
