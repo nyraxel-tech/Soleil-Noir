@@ -4,7 +4,7 @@
       "titre": "Tokyo Revengers: Battle of Three Deities",
       "titreJp": "Tokyo Revengers: Santen Sensou-hen",
       "ep": 5,
-      "ago": "1h",
+      "ago": "5h",
       "img": "puty1",
       "ahId": "kybuw"
     },
@@ -12,7 +12,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 17,
-      "ago": "2h",
+      "ago": "6h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -20,7 +20,7 @@
       "titre": "Tougen Anki: Nikko Kegon Falls Arc",
       "titreJp": "Tougen Anki: Nikko Kegon no Taki-hen",
       "ep": 5,
-      "ago": "2h",
+      "ago": "6h",
       "img": "5mopt",
       "ahId": "w5qns"
     },
@@ -28,7 +28,7 @@
       "titre": "Firefly Wedding",
       "titreJp": "Hotaru no Yomeiri",
       "ep": 4,
-      "ago": "2h",
+      "ago": "6h",
       "img": "3gndp",
       "ahId": "bhbnn"
     },
@@ -36,7 +36,7 @@
       "titre": "The Apothecary Diaries 3rd Season",
       "titreJp": "Kusuriya no Hitorigoto 3rd Season",
       "ep": 5,
-      "ago": "3h",
+      "ago": "6h",
       "img": "tv772",
       "ahId": "igk5o"
     },
@@ -44,7 +44,7 @@
       "titre": "A Certain Dark Side's Item",
       "titreJp": "Toaru Anbu no ITEM",
       "ep": 4,
-      "ago": "3h",
+      "ago": "7h",
       "img": "rc25t",
       "ahId": "21bae"
     },
@@ -52,7 +52,7 @@
       "titre": "Welsh & Shedar",
       "titreJp": "Aoki Denshou Welsh &amp; Shedar",
       "ep": 7,
-      "ago": "3h",
+      "ago": "7h",
       "img": "zf9ws",
       "ahId": "azod8"
     },
@@ -60,7 +60,7 @@
       "titre": "JoJo's Bizarre Adventure: Steel Ball Run",
       "titreJp": "Jojo no Kimyou na Bouken: Steel Ball Run",
       "ep": 7,
-      "ago": "4h",
+      "ago": "8h",
       "img": "ftqmf",
       "ahId": "u6jkm"
     },
@@ -252,7 +252,7 @@
       "titre": "Magical Girl Raising Project: Restart",
       "titreJp": "Mahou Shoujo Ikusei Keikaku: Restart",
       "ep": 4,
-      "ago": "3d",
+      "ago": "4d",
       "img": "nb877",
       "ahId": "nj39s"
     },
@@ -260,7 +260,7 @@
       "titre": "Magical Sisters Lulutto Lilly: Part II",
       "titreJp": "Mahou no Shimai Lulutto Lilly: Part II",
       "ep": 4,
-      "ago": "3d",
+      "ago": "4d",
       "img": "ff4ox",
       "ahId": "1klqo"
     },
@@ -268,7 +268,7 @@
       "titre": "Maid-sama!",
       "titreJp": "Kaichou wa Maid-sama!",
       "ep": 27,
-      "ago": "3d",
+      "ago": "4d",
       "img": "tx60g",
       "ahId": "x1csr"
     },
@@ -561,7 +561,7 @@
       "ahId": "5u4aa"
     }
   ],
-  "updatedAt": "2026-10-30T18:57:27.628Z",
+  "updatedAt": "2026-10-30T22:50:23.269Z",
   "source": "github-actions",
   "count": 70
 }
