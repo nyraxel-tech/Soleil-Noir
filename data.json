@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Sgt. Frog (2026)",
+      "titreJp": "Keroro Gunsou☆ (2026)",
+      "ep": 5,
+      "ago": "?",
+      "img": "la1qi",
+      "ahId": "kk3xm"
+    },
+    {
       "titre": "Tokyo Revengers: Battle of Three Deities",
       "titreJp": "Tokyo Revengers: Santen Sensou-hen",
       "ep": 5,
-      "ago": "5h",
+      "ago": "8h",
       "img": "puty1",
       "ahId": "kybuw"
     },
@@ -12,7 +20,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 17,
-      "ago": "6h",
+      "ago": "9h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -20,7 +28,7 @@
       "titre": "Tougen Anki: Nikko Kegon Falls Arc",
       "titreJp": "Tougen Anki: Nikko Kegon no Taki-hen",
       "ep": 5,
-      "ago": "6h",
+      "ago": "9h",
       "img": "5mopt",
       "ahId": "w5qns"
     },
@@ -28,7 +36,7 @@
       "titre": "Firefly Wedding",
       "titreJp": "Hotaru no Yomeiri",
       "ep": 4,
-      "ago": "6h",
+      "ago": "9h",
       "img": "3gndp",
       "ahId": "bhbnn"
     },
@@ -36,7 +44,7 @@
       "titre": "The Apothecary Diaries 3rd Season",
       "titreJp": "Kusuriya no Hitorigoto 3rd Season",
       "ep": 5,
-      "ago": "6h",
+      "ago": "10h",
       "img": "tv772",
       "ahId": "igk5o"
     },
@@ -44,7 +52,7 @@
       "titre": "A Certain Dark Side's Item",
       "titreJp": "Toaru Anbu no ITEM",
       "ep": 4,
-      "ago": "7h",
+      "ago": "10h",
       "img": "rc25t",
       "ahId": "21bae"
     },
@@ -52,7 +60,7 @@
       "titre": "Welsh & Shedar",
       "titreJp": "Aoki Denshou Welsh &amp; Shedar",
       "ep": 7,
-      "ago": "7h",
+      "ago": "10h",
       "img": "zf9ws",
       "ahId": "azod8"
     },
@@ -60,7 +68,7 @@
       "titre": "JoJo's Bizarre Adventure: Steel Ball Run",
       "titreJp": "Jojo no Kimyou na Bouken: Steel Ball Run",
       "ep": 7,
-      "ago": "8h",
+      "ago": "11h",
       "img": "ftqmf",
       "ahId": "u6jkm"
     },
@@ -551,17 +559,9 @@
       "ago": "6d",
       "img": "ffres",
       "ahId": "tbd2z"
-    },
-    {
-      "titre": "Romelia War Chronicle",
-      "titreJp": "Romelia Senki: Hakushaku Reijou, Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshikisuru",
-      "ep": 4,
-      "ago": "6d",
-      "img": "ucpu2",
-      "ahId": "5u4aa"
     }
   ],
-  "updatedAt": "2026-10-30T22:50:23.269Z",
+  "updatedAt": "2026-10-31T01:58:03.813Z",
   "source": "github-actions",
   "count": 70
 }
