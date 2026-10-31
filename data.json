@@ -4,7 +4,7 @@
       "titre": "Sgt. Frog (2026)",
       "titreJp": "Keroro Gunsou☆ (2026)",
       "ep": 5,
-      "ago": "?",
+      "ago": "7h",
       "img": "la1qi",
       "ahId": "kk3xm"
     },
@@ -12,7 +12,7 @@
       "titre": "Tokyo Revengers: Battle of Three Deities",
       "titreJp": "Tokyo Revengers: Santen Sensou-hen",
       "ep": 5,
-      "ago": "8h",
+      "ago": "14h",
       "img": "puty1",
       "ahId": "kybuw"
     },
@@ -20,7 +20,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 17,
-      "ago": "9h",
+      "ago": "15h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -28,7 +28,7 @@
       "titre": "Tougen Anki: Nikko Kegon Falls Arc",
       "titreJp": "Tougen Anki: Nikko Kegon no Taki-hen",
       "ep": 5,
-      "ago": "9h",
+      "ago": "15h",
       "img": "5mopt",
       "ahId": "w5qns"
     },
@@ -36,7 +36,7 @@
       "titre": "Firefly Wedding",
       "titreJp": "Hotaru no Yomeiri",
       "ep": 4,
-      "ago": "9h",
+      "ago": "16h",
       "img": "3gndp",
       "ahId": "bhbnn"
     },
@@ -44,7 +44,7 @@
       "titre": "The Apothecary Diaries 3rd Season",
       "titreJp": "Kusuriya no Hitorigoto 3rd Season",
       "ep": 5,
-      "ago": "10h",
+      "ago": "16h",
       "img": "tv772",
       "ahId": "igk5o"
     },
@@ -52,7 +52,7 @@
       "titre": "A Certain Dark Side's Item",
       "titreJp": "Toaru Anbu no ITEM",
       "ep": 4,
-      "ago": "10h",
+      "ago": "16h",
       "img": "rc25t",
       "ahId": "21bae"
     },
@@ -60,7 +60,7 @@
       "titre": "Welsh & Shedar",
       "titreJp": "Aoki Denshou Welsh &amp; Shedar",
       "ep": 7,
-      "ago": "10h",
+      "ago": "16h",
       "img": "zf9ws",
       "ahId": "azod8"
     },
@@ -68,7 +68,7 @@
       "titre": "JoJo's Bizarre Adventure: Steel Ball Run",
       "titreJp": "Jojo no Kimyou na Bouken: Steel Ball Run",
       "ep": 7,
-      "ago": "11h",
+      "ago": "17h",
       "img": "ftqmf",
       "ahId": "u6jkm"
     },
@@ -561,7 +561,7 @@
       "ahId": "tbd2z"
     }
   ],
-  "updatedAt": "2026-10-31T01:58:03.813Z",
+  "updatedAt": "2026-10-31T08:11:32.228Z",
   "source": "github-actions",
   "count": 70
 }
