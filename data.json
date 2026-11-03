@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "Dark Machine: The Animation",
+      "titreJp": "",
+      "ep": 4,
+      "ago": "4h",
+      "img": "omysj",
+      "ahId": "ds7ri"
+    },
+    {
+      "titre": "Red River",
+      "titreJp": "Sora wa Akai Kawa no Hotori",
+      "ep": 18,
+      "ago": "4h",
+      "img": "zh355",
+      "ahId": "x48y1"
+    },
+    {
       "titre": "Chitose Is in the Ramune Bottle: Part II",
       "titreJp": "Chitose-kun wa Ramune Bin no Naka: Part II",
       "ep": 4,
-      "ago": "?",
+      "ago": "6h",
       "img": "t9yu1",
       "ahId": "heqac"
     },
@@ -12,7 +28,7 @@
       "titre": "Gensou Suikoden",
       "titreJp": "",
       "ep": 5,
-      "ago": "1h",
+      "ago": "6h",
       "img": "pyp4h",
       "ahId": "byfec"
     },
@@ -20,7 +36,7 @@
       "titre": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
       "titreJp": "Tsuihousareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Oukasuru. Ore wa Buki dake ja Naku, Arayuru Mono ni \\&quot;Kyouka Point\\&quot; wo Fuyo Dekiru Shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hito-tachi Daijoubu?",
       "ep": 5,
-      "ago": "1h",
+      "ago": "6h",
       "img": "3itp2",
       "ahId": "p3rtm"
     },
@@ -28,7 +44,7 @@
       "titre": "Battle Spirits [Re] Zekkai no Ku",
       "titreJp": "",
       "ep": 5,
-      "ago": "2h",
+      "ago": "8h",
       "img": "j18dk",
       "ahId": "1q18l"
     },
@@ -36,7 +52,7 @@
       "titre": "Super Psychic Policeman Chojo",
       "titreJp": "Choujun! Choujou-senpai",
       "ep": 5,
-      "ago": "2h",
+      "ago": "8h",
       "img": "h139a",
       "ahId": "zgr43"
     },
@@ -44,7 +60,7 @@
       "titre": "The Cold Sato-san is Only Sweet to Me",
       "titreJp": "Shio Taiou no Sato-san ga Ore ni dake Amai",
       "ep": 5,
-      "ago": "3h",
+      "ago": "9h",
       "img": "bxwjz",
       "ahId": "inver"
     },
@@ -52,7 +68,7 @@
       "titre": "Nia Liston: The Merciless Maiden",
       "titreJp": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
       "ep": 5,
-      "ago": "4h",
+      "ago": "9h",
       "img": "bp9jr",
       "ahId": "5um3o"
     },
@@ -60,7 +76,7 @@
       "titre": "Magical Girl Raising Project: Restart",
       "titreJp": "Mahou Shoujo Ikusei Keikaku: Restart",
       "ep": 5,
-      "ago": "22h",
+      "ago": "1d",
       "img": "nb877",
       "ahId": "nj39s"
     },
@@ -92,7 +108,7 @@
       "titre": "My Girlfriend's Friend",
       "titreJp": "Kanojo no Tomodachi",
       "ep": 5,
-      "ago": "1d",
+      "ago": "2d",
       "img": "mkfn9",
       "ahId": "qbeo7"
     },
@@ -100,7 +116,7 @@
       "titre": "Click Me All Over",
       "titreJp": "Mouse Cursor de Genjitsu wo Sousa Dekiru you ni Natta node, Onnanoko wo Ippai Click Shimasu",
       "ep": 4,
-      "ago": "1d",
+      "ago": "2d",
       "img": "cekmu",
       "ahId": "seeqp"
     },
@@ -228,7 +244,7 @@
       "titre": "Dreamland",
       "titreJp": "",
       "ep": 3,
-      "ago": "2d",
+      "ago": "3d",
       "img": "295vq",
       "ahId": "usmn1"
     },
@@ -236,7 +252,7 @@
       "titre": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
       "titreJp": "Kashita Maryoku wa &quot;Revolving Barai&quot; de Kyousei Choushuu",
       "ep": 5,
-      "ago": "2d",
+      "ago": "3d",
       "img": "rg75s",
       "ahId": "vm4bk"
     },
@@ -244,7 +260,7 @@
       "titre": "Even the Student Council Has Its Holes!",
       "titreJp": "Seitokai ni mo Ana wa Aru!",
       "ep": 5,
-      "ago": "2d",
+      "ago": "3d",
       "img": "srr3a",
       "ahId": "9sero"
     },
@@ -543,25 +559,9 @@
       "ago": "6d",
       "img": "5ulec",
       "ahId": "b8gl1"
-    },
-    {
-      "titre": "Dark Machine: The Animation",
-      "titreJp": "",
-      "ep": 3,
-      "ago": "6d",
-      "img": "omysj",
-      "ahId": "ds7ri"
-    },
-    {
-      "titre": "Red River",
-      "titreJp": "Sora wa Akai Kawa no Hotori",
-      "ep": 17,
-      "ago": "6d",
-      "img": "zh355",
-      "ahId": "x48y1"
     }
   ],
-  "updatedAt": "2026-11-03T17:29:32.452Z",
+  "updatedAt": "2026-11-03T22:51:00.770Z",
   "source": "github-actions",
   "count": 70
 }
