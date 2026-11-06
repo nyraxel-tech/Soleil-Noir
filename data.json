@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Welsh & Shedar",
+      "titreJp": "Aoki Denshou Welsh &amp; Shedar",
+      "ep": 6,
+      "ago": "3h",
+      "img": "zf9ws",
+      "ahId": "azod8"
+    },
+    {
       "titre": "Tokyo Revengers: Battle of Three Deities",
       "titreJp": "Tokyo Revengers: Santen Sensou-hen",
       "ep": 6,
-      "ago": "1h",
+      "ago": "6h",
       "img": "puty1",
       "ahId": "kybuw"
     },
@@ -12,7 +20,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 18,
-      "ago": "2h",
+      "ago": "6h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -20,7 +28,7 @@
       "titre": "Firefly Wedding",
       "titreJp": "Hotaru no Yomeiri",
       "ep": 5,
-      "ago": "2h",
+      "ago": "7h",
       "img": "3gndp",
       "ahId": "bhbnn"
     },
@@ -28,23 +36,15 @@
       "titre": "Tougen Anki: Nikko Kegon Falls Arc",
       "titreJp": "Tougen Anki: Nikko Kegon no Taki-hen",
       "ep": 6,
-      "ago": "2h",
+      "ago": "7h",
       "img": "5mopt",
       "ahId": "w5qns"
-    },
-    {
-      "titre": "Welsh & Shedar",
-      "titreJp": "Aoki Denshou Welsh &amp; Shedar",
-      "ep": 1,
-      "ago": "2h",
-      "img": "zf9ws",
-      "ahId": "azod8"
     },
     {
       "titre": "A Certain Dark Side's Item",
       "titreJp": "Toaru Anbu no ITEM",
       "ep": 5,
-      "ago": "2h",
+      "ago": "7h",
       "img": "rc25t",
       "ahId": "21bae"
     },
@@ -52,7 +52,7 @@
       "titre": "The Apothecary Diaries 3rd Season",
       "titreJp": "Kusuriya no Hitorigoto 3rd Season",
       "ep": 6,
-      "ago": "3h",
+      "ago": "7h",
       "img": "tv772",
       "ahId": "igk5o"
     },
@@ -60,7 +60,7 @@
       "titre": "Demons' Crest",
       "titreJp": "",
       "ep": 2,
-      "ago": "3h",
+      "ago": "7h",
       "img": "74mxx",
       "ahId": "949d8"
     },
@@ -68,7 +68,7 @@
       "titre": "JoJo's Bizarre Adventure: Steel Ball Run",
       "titreJp": "Jojo no Kimyou na Bouken: Steel Ball Run",
       "ep": 8,
-      "ago": "3h",
+      "ago": "8h",
       "img": "ftqmf",
       "ahId": "u6jkm"
     },
@@ -116,7 +116,7 @@
       "titre": "The Rose of Versailles Movie",
       "titreJp": "Versailles no Bara  Movie",
       "ep": 1,
-      "ago": "1d",
+      "ago": "2d",
       "img": "gduax",
       "ahId": "x7lkm"
     },
@@ -268,7 +268,7 @@
       "titre": "Magical Girl Raising Project: Restart",
       "titreJp": "Mahou Shoujo Ikusei Keikaku: Restart",
       "ep": 5,
-      "ago": "3d",
+      "ago": "4d",
       "img": "nb877",
       "ahId": "nj39s"
     },
@@ -569,7 +569,7 @@
       "ahId": "9v661"
     }
   ],
-  "updatedAt": "2026-11-06T18:50:08.499Z",
+  "updatedAt": "2026-11-06T23:37:30.167Z",
   "source": "github-actions",
   "count": 71
 }
