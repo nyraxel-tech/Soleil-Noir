@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Sgt. Frog (2026)",
+      "titreJp": "Keroro Gunsou☆ (2026)",
+      "ep": 6,
+      "ago": "3h",
+      "img": "la1qi",
+      "ahId": "kk3xm"
+    },
+    {
       "titre": "Welsh & Shedar",
       "titreJp": "Aoki Denshou Welsh &amp; Shedar",
       "ep": 6,
-      "ago": "3h",
+      "ago": "8h",
       "img": "zf9ws",
       "ahId": "azod8"
     },
@@ -12,7 +20,7 @@
       "titre": "Tokyo Revengers: Battle of Three Deities",
       "titreJp": "Tokyo Revengers: Santen Sensou-hen",
       "ep": 6,
-      "ago": "6h",
+      "ago": "11h",
       "img": "puty1",
       "ahId": "kybuw"
     },
@@ -20,7 +28,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 18,
-      "ago": "6h",
+      "ago": "11h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -28,7 +36,7 @@
       "titre": "Firefly Wedding",
       "titreJp": "Hotaru no Yomeiri",
       "ep": 5,
-      "ago": "7h",
+      "ago": "12h",
       "img": "3gndp",
       "ahId": "bhbnn"
     },
@@ -36,7 +44,7 @@
       "titre": "Tougen Anki: Nikko Kegon Falls Arc",
       "titreJp": "Tougen Anki: Nikko Kegon no Taki-hen",
       "ep": 6,
-      "ago": "7h",
+      "ago": "12h",
       "img": "5mopt",
       "ahId": "w5qns"
     },
@@ -44,7 +52,7 @@
       "titre": "A Certain Dark Side's Item",
       "titreJp": "Toaru Anbu no ITEM",
       "ep": 5,
-      "ago": "7h",
+      "ago": "12h",
       "img": "rc25t",
       "ahId": "21bae"
     },
@@ -52,7 +60,7 @@
       "titre": "The Apothecary Diaries 3rd Season",
       "titreJp": "Kusuriya no Hitorigoto 3rd Season",
       "ep": 6,
-      "ago": "7h",
+      "ago": "12h",
       "img": "tv772",
       "ahId": "igk5o"
     },
@@ -60,7 +68,7 @@
       "titre": "Demons' Crest",
       "titreJp": "",
       "ep": 2,
-      "ago": "7h",
+      "ago": "12h",
       "img": "74mxx",
       "ahId": "949d8"
     },
@@ -68,7 +76,7 @@
       "titre": "JoJo's Bizarre Adventure: Steel Ball Run",
       "titreJp": "Jojo no Kimyou na Bouken: Steel Ball Run",
       "ep": 8,
-      "ago": "8h",
+      "ago": "12h",
       "img": "ftqmf",
       "ahId": "u6jkm"
     },
@@ -559,17 +567,9 @@
       "ago": "6d",
       "img": "mmdhs",
       "ahId": "j1ywu"
-    },
-    {
-      "titre": "Pokemon Horizons: The Series",
-      "titreJp": "Pocket Monsters (2023)",
-      "ep": 155,
-      "ago": "6d",
-      "img": "9fsft",
-      "ahId": "9v661"
     }
   ],
-  "updatedAt": "2026-11-06T23:37:30.167Z",
+  "updatedAt": "2026-11-07T04:29:29.046Z",
   "source": "github-actions",
   "count": 71
 }
