@@ -1,10 +1,42 @@
 {
   "animes": [
     {
+      "titre": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
+      "titreJp": "Kashita Maryoku wa &quot;Revolving Barai&quot; de Kyousei Choushuu",
+      "ep": 6,
+      "ago": "2h",
+      "img": "rg75s",
+      "ahId": "vm4bk"
+    },
+    {
+      "titre": "Dreamland",
+      "titreJp": "",
+      "ep": 4,
+      "ago": "3h",
+      "img": "295vq",
+      "ahId": "usmn1"
+    },
+    {
+      "titre": "Horror Collector",
+      "titreJp": "Kyoufu Collector",
+      "ep": 5,
+      "ago": "3h",
+      "img": "od2aa",
+      "ahId": "zt75v"
+    },
+    {
+      "titre": "Ranma 1/2 Season 3",
+      "titreJp": "",
+      "ep": 6,
+      "ago": "4h",
+      "img": "mzg0v",
+      "ahId": "y5vk1"
+    },
+    {
       "titre": "Even the Student Council Has Its Holes!",
       "titreJp": "Seitokai ni mo Ana wa Aru!",
       "ep": 6,
-      "ago": "?",
+      "ago": "4h",
       "img": "srr3a",
       "ahId": "9sero"
     },
@@ -12,7 +44,7 @@
       "titre": "Magical Explorer",
       "titreJp": "",
       "ep": 7,
-      "ago": "?",
+      "ago": "4h",
       "img": "x1xv9",
       "ahId": "gve9a"
     },
@@ -20,7 +52,7 @@
       "titre": "Vertex Force",
       "titreJp": "",
       "ep": 6,
-      "ago": "1h",
+      "ago": "5h",
       "img": "jvyhy",
       "ahId": "og3o4"
     },
@@ -28,7 +60,7 @@
       "titre": "The Seven Knights of the Marronnier Kingdom",
       "titreJp": "Marronnier Oukoku no Shichinin no Kishi",
       "ep": 6,
-      "ago": "1h",
+      "ago": "5h",
       "img": "cf05c",
       "ahId": "lcc9t"
     },
@@ -36,7 +68,7 @@
       "titre": "Black Clover 2nd Season",
       "titreJp": "",
       "ep": 6,
-      "ago": "1h",
+      "ago": "5h",
       "img": "82gob",
       "ahId": "0pqfl"
     },
@@ -44,7 +76,7 @@
       "titre": "Black Clover",
       "titreJp": "",
       "ep": 176,
-      "ago": "2h",
+      "ago": "6h",
       "img": "mg1oq",
       "ahId": "l1cen"
     },
@@ -52,7 +84,7 @@
       "titre": "A Wild Last Boss Appeared! 2",
       "titreJp": "Yasei no Last Boss ga Arawareta! 2",
       "ep": 7,
-      "ago": "3h",
+      "ago": "7h",
       "img": "6vzxm",
       "ahId": "39l08"
     },
@@ -60,7 +92,7 @@
       "titre": "Romelia War Chronicle",
       "titreJp": "Romelia Senki: Hakushaku Reijou, Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshikisuru",
       "ep": 6,
-      "ago": "4h",
+      "ago": "8h",
       "img": "ucpu2",
       "ahId": "5u4aa"
     },
@@ -68,7 +100,7 @@
       "titre": "A Tale of the Secret Saint",
       "titreJp": "Tenseishita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
       "ep": 7,
-      "ago": "4h",
+      "ago": "8h",
       "img": "ffres",
       "ahId": "tbd2z"
     },
@@ -76,7 +108,7 @@
       "titre": "Detective Conan",
       "titreJp": "Case Closed, Meitantei Conan",
       "ep": 1219,
-      "ago": "4h",
+      "ago": "8h",
       "img": "lx86z",
       "ahId": "y9prb"
     },
@@ -84,7 +116,7 @@
       "titre": "The Vermilion Mask",
       "titreJp": "Shuiro no Kamen",
       "ep": 5,
-      "ago": "7h",
+      "ago": "11h",
       "img": "mmdhs",
       "ahId": "j1ywu"
     },
@@ -92,7 +124,7 @@
       "titre": "Ghost Meets Gal!",
       "titreJp": "",
       "ep": 9,
-      "ago": "9h",
+      "ago": "13h",
       "img": "3jxai",
       "ahId": "k921x"
     },
@@ -100,7 +132,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 156,
-      "ago": "9h",
+      "ago": "13h",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -108,7 +140,7 @@
       "titre": "Sgt. Frog (2026)",
       "titreJp": "Keroro Gunsou☆ (2026)",
       "ep": 6,
-      "ago": "16h",
+      "ago": "20h",
       "img": "la1qi",
       "ahId": "kk3xm"
     },
@@ -116,7 +148,7 @@
       "titre": "Welsh & Shedar",
       "titreJp": "Aoki Denshou Welsh &amp; Shedar",
       "ep": 6,
-      "ago": "20h",
+      "ago": "1d",
       "img": "zf9ws",
       "ahId": "azod8"
     },
@@ -228,7 +260,7 @@
       "titre": "The Rose of Versailles Movie",
       "titreJp": "Versailles no Bara  Movie",
       "ep": 1,
-      "ago": "2d",
+      "ago": "3d",
       "img": "gduax",
       "ahId": "x7lkm"
     },
@@ -236,7 +268,7 @@
       "titre": "A Returner's Magic Should Be Special Season 2",
       "titreJp": "Kikansha no Mahou wa Tokubetsu desu 2nd Season, Gwihwanjaui Mabeobeun Teugbyeolhaeya Habnida 2nd Season",
       "ep": 5,
-      "ago": "2d",
+      "ago": "3d",
       "img": "d2tbz",
       "ahId": "9lgbi"
     },
@@ -308,7 +340,7 @@
       "titre": "Dark Machine: The Animation",
       "titreJp": "",
       "ep": 4,
-      "ago": "3d",
+      "ago": "4d",
       "img": "omysj",
       "ahId": "ds7ri"
     },
@@ -316,7 +348,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 18,
-      "ago": "3d",
+      "ago": "4d",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -380,7 +412,7 @@
       "titre": "Magical Girl Raising Project: Restart",
       "titreJp": "Mahou Shoujo Ikusei Keikaku: Restart",
       "ep": 5,
-      "ago": "4d",
+      "ago": "5d",
       "img": "nb877",
       "ahId": "nj39s"
     },
@@ -412,7 +444,7 @@
       "titre": "My Girlfriend's Friend",
       "titreJp": "Kanojo no Tomodachi",
       "ep": 5,
-      "ago": "5d",
+      "ago": "6d",
       "img": "mkfn9",
       "ahId": "qbeo7"
     },
@@ -420,7 +452,7 @@
       "titre": "Click Me All Over",
       "titreJp": "Mouse Cursor de Genjitsu wo Sousa Dekiru you ni Natta node, Onnanoko wo Ippai Click Shimasu",
       "ep": 4,
-      "ago": "5d",
+      "ago": "6d",
       "img": "cekmu",
       "ahId": "seeqp"
     },
@@ -535,41 +567,9 @@
       "ago": "6d",
       "img": "ph45t",
       "ahId": "zgjwm"
-    },
-    {
-      "titre": "Mission: Yozakura Family Season 2 - Part II",
-      "titreJp": "Yozakura-san Chi no Daisakusen Season 2 - Part II",
-      "ep": 4,
-      "ago": "6d",
-      "img": "du10m",
-      "ahId": "e0es6"
-    },
-    {
-      "titre": "Dreamland",
-      "titreJp": "",
-      "ep": 3,
-      "ago": "6d",
-      "img": "295vq",
-      "ahId": "usmn1"
-    },
-    {
-      "titre": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
-      "titreJp": "Kashita Maryoku wa &quot;Revolving Barai&quot; de Kyousei Choushuu",
-      "ep": 5,
-      "ago": "6d",
-      "img": "rg75s",
-      "ahId": "vm4bk"
-    },
-    {
-      "titre": "Horror Collector",
-      "titreJp": "Kyoufu Collector",
-      "ep": 4,
-      "ago": "6d",
-      "img": "od2aa",
-      "ahId": "zt75v"
     }
   ],
-  "updatedAt": "2026-11-07T17:22:18.192Z",
+  "updatedAt": "2026-11-07T21:24:07.076Z",
   "source": "github-actions",
   "count": 71
 }
