@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "Talentless Nana",
+      "titreJp": "Munou na Nana",
+      "ep": 13,
+      "ago": "3h",
+      "img": "l5i4b",
+      "ahId": "jpl58"
+    },
+    {
+      "titre": "Dark Machine: The Animation",
+      "titreJp": "",
+      "ep": 5,
+      "ago": "4h",
+      "img": "omysj",
+      "ahId": "ds7ri"
+    },
+    {
+      "titre": "Red River",
+      "titreJp": "Sora wa Akai Kawa no Hotori",
+      "ep": 19,
+      "ago": "5h",
+      "img": "zh355",
+      "ahId": "x48y1"
+    },
+    {
       "titre": "Chitose Is in the Ramune Bottle: Part II",
       "titreJp": "Chitose-kun wa Ramune Bin no Naka: Part II",
       "ep": 5,
-      "ago": "?",
+      "ago": "6h",
       "img": "t9yu1",
       "ahId": "heqac"
     },
@@ -12,7 +36,7 @@
       "titre": "Magical Sisters Lulutto Lilly: Part II",
       "titreJp": "Mahou no Shimai Lulutto Lilly: Part II",
       "ep": 6,
-      "ago": "1h",
+      "ago": "6h",
       "img": "ff4ox",
       "ahId": "1klqo"
     },
@@ -20,7 +44,7 @@
       "titre": "Gensou Suikoden",
       "titreJp": "",
       "ep": 6,
-      "ago": "1h",
+      "ago": "6h",
       "img": "pyp4h",
       "ahId": "byfec"
     },
@@ -28,7 +52,7 @@
       "titre": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
       "titreJp": "Tsuihousareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Oukasuru. Ore wa Buki dake ja Naku, Arayuru Mono ni \\&quot;Kyouka Point\\&quot; wo Fuyo Dekiru Shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hito-tachi Daijoubu?",
       "ep": 6,
-      "ago": "1h",
+      "ago": "7h",
       "img": "3itp2",
       "ahId": "p3rtm"
     },
@@ -36,7 +60,7 @@
       "titre": "Battle Spirits [Re] Zekkai no Ku",
       "titreJp": "",
       "ep": 6,
-      "ago": "2h",
+      "ago": "7h",
       "img": "j18dk",
       "ahId": "1q18l"
     },
@@ -44,7 +68,7 @@
       "titre": "Super Psychic Policeman Chojo",
       "titreJp": "Choujun! Choujou-senpai",
       "ep": 6,
-      "ago": "2h",
+      "ago": "8h",
       "img": "h139a",
       "ahId": "zgr43"
     },
@@ -52,7 +76,7 @@
       "titre": "The Cold Sato-san is Only Sweet to Me",
       "titreJp": "Shio Taiou no Sato-san ga Ore ni dake Amai",
       "ep": 6,
-      "ago": "3h",
+      "ago": "9h",
       "img": "bxwjz",
       "ahId": "inver"
     },
@@ -60,7 +84,7 @@
       "titre": "Nia Liston: The Merciless Maiden",
       "titreJp": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
       "ep": 6,
-      "ago": "4h",
+      "ago": "9h",
       "img": "bp9jr",
       "ahId": "5um3o"
     },
@@ -68,7 +92,7 @@
       "titre": "Magical Girl Raising Project: Restart",
       "titreJp": "Mahou Shoujo Ikusei Keikaku: Restart",
       "ep": 6,
-      "ago": "22h",
+      "ago": "1d",
       "img": "nb877",
       "ahId": "nj39s"
     },
@@ -228,7 +252,7 @@
       "titre": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
       "titreJp": "Kashita Maryoku wa &quot;Revolving Barai&quot; de Kyousei Choushuu",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "rg75s",
       "ahId": "vm4bk"
     },
@@ -236,7 +260,7 @@
       "titre": "Dreamland",
       "titreJp": "",
       "ep": 4,
-      "ago": "2d",
+      "ago": "3d",
       "img": "295vq",
       "ahId": "usmn1"
     },
@@ -244,7 +268,7 @@
       "titre": "Horror Collector",
       "titreJp": "Kyoufu Collector",
       "ep": 5,
-      "ago": "2d",
+      "ago": "3d",
       "img": "od2aa",
       "ahId": "zt75v"
     },
@@ -372,7 +396,7 @@
       "titre": "Welsh & Shedar",
       "titreJp": "Aoki Denshou Welsh &amp; Shedar",
       "ep": 6,
-      "ago": "3d",
+      "ago": "4d",
       "img": "zf9ws",
       "ahId": "azod8"
     },
@@ -484,7 +508,7 @@
       "titre": "The Rose of Versailles Movie",
       "titreJp": "Versailles no Bara  Movie",
       "ep": 1,
-      "ago": "5d",
+      "ago": "6d",
       "img": "gduax",
       "ahId": "x7lkm"
     },
@@ -492,7 +516,7 @@
       "titre": "A Returner's Magic Should Be Special Season 2",
       "titreJp": "Kikansha no Mahou wa Tokubetsu desu 2nd Season, Gwihwanjaui Mabeobeun Teugbyeolhaeya Habnida 2nd Season",
       "ep": 5,
-      "ago": "5d",
+      "ago": "6d",
       "img": "d2tbz",
       "ahId": "9lgbi"
     },
@@ -543,33 +567,9 @@
       "ago": "6d",
       "img": "wve78",
       "ahId": "9j16y"
-    },
-    {
-      "titre": "Sasaki and Peeps Season 2",
-      "titreJp": "Sasaki to Pi-chan Season 2",
-      "ep": 5,
-      "ago": "6d",
-      "img": "a1k9a",
-      "ahId": "ick60"
-    },
-    {
-      "titre": "The World’s Strongest Witch",
-      "titreJp": "Sekai Saikyou no Majo, Hajimemashita: Watashi dake &quot;Kouryaku Site&quot; wo Mireru Sekai de Jiyuu ni Ikimasu",
-      "ep": 5,
-      "ago": "6d",
-      "img": "5ulec",
-      "ahId": "b8gl1"
-    },
-    {
-      "titre": "Dark Machine: The Animation",
-      "titreJp": "",
-      "ep": 4,
-      "ago": "6d",
-      "img": "omysj",
-      "ahId": "ds7ri"
     }
   ],
-  "updatedAt": "2026-11-10T17:26:53.250Z",
+  "updatedAt": "2026-11-10T22:46:55.045Z",
   "source": "github-actions",
   "count": 71
 }
