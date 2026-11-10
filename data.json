@@ -4,7 +4,7 @@
       "titre": "Magical Girl Raising Project: Restart",
       "titreJp": "Mahou Shoujo Ikusei Keikaku: Restart",
       "ep": 6,
-      "ago": "7h",
+      "ago": "14h",
       "img": "nb877",
       "ahId": "nj39s"
     },
@@ -12,7 +12,7 @@
       "titre": "Psyren",
       "titreJp": "PSYЯEN",
       "ep": 5,
-      "ago": "11h",
+      "ago": "18h",
       "img": "w80sn",
       "ahId": "mc642"
     },
@@ -20,7 +20,7 @@
       "titre": "Hi, I'm a Witch, and My Crush Wants Me to Make a Love Potion",
       "titreJp": "Doumo, Suki na Hito ni Horegusuri wo Iraisareta Majo desu.",
       "ep": 6,
-      "ago": "13h",
+      "ago": "20h",
       "img": "s3978",
       "ahId": "wdmtv"
     },
@@ -284,7 +284,7 @@
       "titre": "Ghost Meets Gal!",
       "titreJp": "",
       "ep": 9,
-      "ago": "2d",
+      "ago": "3d",
       "img": "3jxai",
       "ahId": "k921x"
     },
@@ -292,7 +292,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 156,
-      "ago": "2d",
+      "ago": "3d",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -569,7 +569,7 @@
       "ahId": "5um3o"
     }
   ],
-  "updatedAt": "2026-11-10T01:51:28.610Z",
+  "updatedAt": "2026-11-10T09:10:23.185Z",
   "source": "github-actions",
   "count": 71
 }
