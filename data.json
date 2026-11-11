@@ -4,7 +4,7 @@
       "titre": "Talentless Nana",
       "titreJp": "Munou na Nana",
       "ep": 13,
-      "ago": "7h",
+      "ago": "15h",
       "img": "l5i4b",
       "ahId": "jpl58"
     },
@@ -12,7 +12,7 @@
       "titre": "Dark Machine: The Animation",
       "titreJp": "",
       "ep": 5,
-      "ago": "8h",
+      "ago": "15h",
       "img": "omysj",
       "ahId": "ds7ri"
     },
@@ -20,7 +20,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 19,
-      "ago": "8h",
+      "ago": "16h",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -28,7 +28,7 @@
       "titre": "Chitose Is in the Ramune Bottle: Part II",
       "titreJp": "Chitose-kun wa Ramune Bin no Naka: Part II",
       "ep": 5,
-      "ago": "9h",
+      "ago": "17h",
       "img": "t9yu1",
       "ahId": "heqac"
     },
@@ -36,7 +36,7 @@
       "titre": "Magical Sisters Lulutto Lilly: Part II",
       "titreJp": "Mahou no Shimai Lulutto Lilly: Part II",
       "ep": 6,
-      "ago": "10h",
+      "ago": "17h",
       "img": "ff4ox",
       "ahId": "1klqo"
     },
@@ -44,7 +44,7 @@
       "titre": "Gensou Suikoden",
       "titreJp": "",
       "ep": 6,
-      "ago": "10h",
+      "ago": "18h",
       "img": "pyp4h",
       "ahId": "byfec"
     },
@@ -52,7 +52,7 @@
       "titre": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
       "titreJp": "Tsuihousareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Oukasuru. Ore wa Buki dake ja Naku, Arayuru Mono ni \\&quot;Kyouka Point\\&quot; wo Fuyo Dekiru Shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hito-tachi Daijoubu?",
       "ep": 6,
-      "ago": "10h",
+      "ago": "18h",
       "img": "3itp2",
       "ahId": "p3rtm"
     },
@@ -60,7 +60,7 @@
       "titre": "Battle Spirits [Re] Zekkai no Ku",
       "titreJp": "",
       "ep": 6,
-      "ago": "11h",
+      "ago": "19h",
       "img": "j18dk",
       "ahId": "1q18l"
     },
@@ -68,7 +68,7 @@
       "titre": "Super Psychic Policeman Chojo",
       "titreJp": "Choujun! Choujou-senpai",
       "ep": 6,
-      "ago": "11h",
+      "ago": "19h",
       "img": "h139a",
       "ahId": "zgr43"
     },
@@ -76,7 +76,7 @@
       "titre": "The Cold Sato-san is Only Sweet to Me",
       "titreJp": "Shio Taiou no Sato-san ga Ore ni dake Amai",
       "ep": 6,
-      "ago": "12h",
+      "ago": "20h",
       "img": "bxwjz",
       "ahId": "inver"
     },
@@ -84,7 +84,7 @@
       "titre": "Nia Liston: The Merciless Maiden",
       "titreJp": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
       "ep": 6,
-      "ago": "13h",
+      "ago": "21h",
       "img": "bp9jr",
       "ahId": "5um3o"
     },
@@ -236,7 +236,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season - Part II",
       "titreJp": "Diamond no Ace: Act II 2nd Season - Part II,",
       "ep": 5,
-      "ago": "2d",
+      "ago": "3d",
       "img": "8c9hh",
       "ahId": "6zcxf"
     },
@@ -244,7 +244,7 @@
       "titre": "Aoashi Season 2",
       "titreJp": "",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "ph45t",
       "ahId": "zgjwm"
     },
@@ -364,7 +364,7 @@
       "titre": "The Vermilion Mask",
       "titreJp": "Shuiro no Kamen",
       "ep": 5,
-      "ago": "3d",
+      "ago": "4d",
       "img": "mmdhs",
       "ahId": "j1ywu"
     },
@@ -372,7 +372,7 @@
       "titre": "Ghost Meets Gal!",
       "titreJp": "",
       "ep": 9,
-      "ago": "3d",
+      "ago": "4d",
       "img": "3jxai",
       "ahId": "k921x"
     },
@@ -380,7 +380,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 156,
-      "ago": "3d",
+      "ago": "4d",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -569,7 +569,7 @@
       "ahId": "9j16y"
     }
   ],
-  "updatedAt": "2026-11-11T02:29:28.063Z",
+  "updatedAt": "2026-11-11T10:15:28.271Z",
   "source": "github-actions",
   "count": 71
 }
