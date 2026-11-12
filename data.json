@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Welsh & Shedar",
+      "titreJp": "Aoki Denshou Welsh &amp; Shedar",
+      "ep": 3,
+      "ago": "2h",
+      "img": "zf9ws",
+      "ahId": "azod8"
+    },
+    {
       "titre": "The Iceblade Sorcerer Shall Rule the World II",
       "titreJp": "Hyouken no Majutsushi ga Sekai wo Suberu II: Sekai Saikyou no Majutsushi de Aru Shounen wa, Majutsu Gakuin ni Nyuugakusuru",
       "ep": 6,
-      "ago": "?",
+      "ago": "5h",
       "img": "zyq79",
       "ahId": "pnz3r"
     },
@@ -12,7 +20,7 @@
       "titre": "TETSURYO! Meet with Tetsudou Musume",
       "titreJp": "Tetsuryou! Meet with Tetsudou Musume",
       "ep": 6,
-      "ago": "1h",
+      "ago": "6h",
       "img": "o1rup",
       "ahId": "n7bzz"
     },
@@ -20,7 +28,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 20,
-      "ago": "1h",
+      "ago": "6h",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -28,7 +36,7 @@
       "titre": "The Ramparts of Ice Season 2",
       "titreJp": "Koori no Jouheki Season 2, Ice Castle Wall Season 2",
       "ep": 7,
-      "ago": "2h",
+      "ago": "7h",
       "img": "3r8wc",
       "ahId": "l70lj"
     },
@@ -36,7 +44,7 @@
       "titre": "FX Fighter Kurumi-chan",
       "titreJp": "FX Senshi Kurumi-chan",
       "ep": 7,
-      "ago": "5h",
+      "ago": "10h",
       "img": "pra1c",
       "ahId": "3vz59"
     },
@@ -44,7 +52,7 @@
       "titre": "Umayuru: Full Gate!",
       "titreJp": "&quot;Umayuru&quot; is a short anime series featuring pint-sized Uma Musume! This time, it’s a &quot;Full-Gate&quot; three-minute race where *all* the Uma Musume take to the track! A super-sized, laid-back gathering with everyone!",
       "ep": 7,
-      "ago": "13h",
+      "ago": "18h",
       "img": "cahob",
       "ahId": "7p4ok"
     },
@@ -124,7 +132,7 @@
       "titre": "Talentless Nana",
       "titreJp": "Munou na Nana",
       "ep": 13,
-      "ago": "1d",
+      "ago": "2d",
       "img": "l5i4b",
       "ahId": "jpl58"
     },
@@ -132,7 +140,7 @@
       "titre": "Dark Machine: The Animation",
       "titreJp": "",
       "ep": 5,
-      "ago": "1d",
+      "ago": "2d",
       "img": "omysj",
       "ahId": "ds7ri"
     },
@@ -212,7 +220,7 @@
       "titre": "Magical Girl Raising Project: Restart",
       "titreJp": "Mahou Shoujo Ikusei Keikaku: Restart",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "nb877",
       "ahId": "nj39s"
     },
@@ -372,7 +380,7 @@
       "titre": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
       "titreJp": "Kashita Maryoku wa &quot;Revolving Barai&quot; de Kyousei Choushuu",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "rg75s",
       "ahId": "vm4bk"
     },
@@ -380,7 +388,7 @@
       "titre": "Dreamland",
       "titreJp": "",
       "ep": 4,
-      "ago": "4d",
+      "ago": "5d",
       "img": "295vq",
       "ahId": "usmn1"
     },
@@ -513,14 +521,6 @@
       "ahId": "kk3xm"
     },
     {
-      "titre": "Welsh & Shedar",
-      "titreJp": "Aoki Denshou Welsh &amp; Shedar",
-      "ep": 6,
-      "ago": "5d",
-      "img": "zf9ws",
-      "ahId": "azod8"
-    },
-    {
       "titre": "Tokyo Revengers: Battle of Three Deities",
       "titreJp": "Tokyo Revengers: Santen Sensou-hen",
       "ep": 6,
@@ -569,7 +569,7 @@
       "ahId": "igk5o"
     }
   ],
-  "updatedAt": "2026-11-12T17:53:27.701Z",
+  "updatedAt": "2026-11-12T23:09:53.870Z",
   "source": "github-actions",
   "count": 71
 }
