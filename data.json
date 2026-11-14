@@ -4,7 +4,7 @@
       "titre": "Sgt. Frog (2026)",
       "titreJp": "Keroro Gunsou☆ (2026)",
       "ep": 7,
-      "ago": "?",
+      "ago": "7h",
       "img": "la1qi",
       "ahId": "kk3xm"
     },
@@ -12,7 +12,7 @@
       "titre": "Tokyo Revengers: Battle of Three Deities",
       "titreJp": "Tokyo Revengers: Santen Sensou-hen",
       "ep": 7,
-      "ago": "7h",
+      "ago": "15h",
       "img": "puty1",
       "ahId": "kybuw"
     },
@@ -20,7 +20,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 19,
-      "ago": "8h",
+      "ago": "15h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -28,7 +28,7 @@
       "titre": "Tougen Anki: Nikko Kegon Falls Arc",
       "titreJp": "Tougen Anki: Nikko Kegon no Taki-hen",
       "ep": 7,
-      "ago": "8h",
+      "ago": "16h",
       "img": "5mopt",
       "ahId": "w5qns"
     },
@@ -36,7 +36,7 @@
       "titre": "Firefly Wedding",
       "titreJp": "Hotaru no Yomeiri",
       "ep": 6,
-      "ago": "9h",
+      "ago": "16h",
       "img": "3gndp",
       "ahId": "bhbnn"
     },
@@ -44,7 +44,7 @@
       "titre": "A Certain Dark Side's Item",
       "titreJp": "Toaru Anbu no ITEM",
       "ep": 6,
-      "ago": "9h",
+      "ago": "16h",
       "img": "rc25t",
       "ahId": "21bae"
     },
@@ -52,7 +52,7 @@
       "titre": "The Apothecary Diaries 3rd Season",
       "titreJp": "Kusuriya no Hitorigoto 3rd Season",
       "ep": 7,
-      "ago": "10h",
+      "ago": "17h",
       "img": "tv772",
       "ahId": "igk5o"
     },
@@ -60,7 +60,7 @@
       "titre": "Welsh & Shedar",
       "titreJp": "Aoki Denshou Welsh &amp; Shedar",
       "ep": 3,
-      "ago": "11h",
+      "ago": "18h",
       "img": "zf9ws",
       "ahId": "azod8"
     },
@@ -68,7 +68,7 @@
       "titre": "Demons' Crest",
       "titreJp": "",
       "ep": 3,
-      "ago": "11h",
+      "ago": "18h",
       "img": "74mxx",
       "ahId": "949d8"
     },
@@ -76,7 +76,7 @@
       "titre": "JoJo's Bizarre Adventure: Steel Ball Run",
       "titreJp": "Jojo no Kimyou na Bouken: Steel Ball Run",
       "ep": 9,
-      "ago": "12h",
+      "ago": "19h",
       "img": "ftqmf",
       "ahId": "u6jkm"
     },
@@ -124,7 +124,7 @@
       "titre": "Umayuru: Full Gate!",
       "titreJp": "&quot;Umayuru&quot; is a short anime series featuring pint-sized Uma Musume! This time, it’s a &quot;Full-Gate&quot; three-minute race where *all* the Uma Musume take to the track! A super-sized, laid-back gathering with everyone!",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "cahob",
       "ahId": "7p4ok"
     },
@@ -569,7 +569,7 @@
       "ahId": "j1ywu"
     }
   ],
-  "updatedAt": "2026-11-14T01:13:57.880Z",
+  "updatedAt": "2026-11-14T08:31:44.989Z",
   "source": "github-actions",
   "count": 71
 }
