@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Sgt. Frog (2026)",
+      "titreJp": "Keroro Gunsou☆ (2026)",
+      "ep": 7,
+      "ago": "?",
+      "img": "la1qi",
+      "ahId": "kk3xm"
+    },
+    {
       "titre": "Tokyo Revengers: Battle of Three Deities",
       "titreJp": "Tokyo Revengers: Santen Sensou-hen",
       "ep": 7,
-      "ago": "3h",
+      "ago": "7h",
       "img": "puty1",
       "ahId": "kybuw"
     },
@@ -12,7 +20,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 19,
-      "ago": "3h",
+      "ago": "8h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -20,7 +28,7 @@
       "titre": "Tougen Anki: Nikko Kegon Falls Arc",
       "titreJp": "Tougen Anki: Nikko Kegon no Taki-hen",
       "ep": 7,
-      "ago": "3h",
+      "ago": "8h",
       "img": "5mopt",
       "ahId": "w5qns"
     },
@@ -28,7 +36,7 @@
       "titre": "Firefly Wedding",
       "titreJp": "Hotaru no Yomeiri",
       "ep": 6,
-      "ago": "4h",
+      "ago": "9h",
       "img": "3gndp",
       "ahId": "bhbnn"
     },
@@ -36,7 +44,7 @@
       "titre": "A Certain Dark Side's Item",
       "titreJp": "Toaru Anbu no ITEM",
       "ep": 6,
-      "ago": "4h",
+      "ago": "9h",
       "img": "rc25t",
       "ahId": "21bae"
     },
@@ -44,7 +52,7 @@
       "titre": "The Apothecary Diaries 3rd Season",
       "titreJp": "Kusuriya no Hitorigoto 3rd Season",
       "ep": 7,
-      "ago": "5h",
+      "ago": "10h",
       "img": "tv772",
       "ahId": "igk5o"
     },
@@ -52,7 +60,7 @@
       "titre": "Welsh & Shedar",
       "titreJp": "Aoki Denshou Welsh &amp; Shedar",
       "ep": 3,
-      "ago": "6h",
+      "ago": "11h",
       "img": "zf9ws",
       "ahId": "azod8"
     },
@@ -60,7 +68,7 @@
       "titre": "Demons' Crest",
       "titreJp": "",
       "ep": 3,
-      "ago": "6h",
+      "ago": "11h",
       "img": "74mxx",
       "ahId": "949d8"
     },
@@ -68,7 +76,7 @@
       "titre": "JoJo's Bizarre Adventure: Steel Ball Run",
       "titreJp": "Jojo no Kimyou na Bouken: Steel Ball Run",
       "ep": 9,
-      "ago": "7h",
+      "ago": "12h",
       "img": "ftqmf",
       "ahId": "u6jkm"
     },
@@ -559,17 +567,9 @@
       "ago": "6d",
       "img": "mmdhs",
       "ahId": "j1ywu"
-    },
-    {
-      "titre": "Ghost Meets Gal!",
-      "titreJp": "",
-      "ep": 9,
-      "ago": "6d",
-      "img": "3jxai",
-      "ahId": "k921x"
     }
   ],
-  "updatedAt": "2026-11-13T20:17:01.004Z",
+  "updatedAt": "2026-11-14T01:13:57.880Z",
   "source": "github-actions",
   "count": 71
 }
