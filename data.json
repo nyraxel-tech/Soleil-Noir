@@ -1,10 +1,74 @@
 {
   "animes": [
     {
+      "titre": "#I'm Looking For a Zombie",
+      "titreJp": "#Zombie Sagashitemasu",
+      "ep": 6,
+      "ago": "?",
+      "img": "j5hvj",
+      "ahId": "lfdvl"
+    },
+    {
+      "titre": "Black Clover 2nd Season",
+      "titreJp": "",
+      "ep": 7,
+      "ago": "?",
+      "img": "82gob",
+      "ahId": "0pqfl"
+    },
+    {
+      "titre": "A Wild Last Boss Appeared! 2",
+      "titreJp": "Yasei no Last Boss ga Arawareta! 2",
+      "ep": 8,
+      "ago": "1h",
+      "img": "6vzxm",
+      "ahId": "39l08"
+    },
+    {
+      "titre": "Romelia War Chronicle",
+      "titreJp": "Romelia Senki: Hakushaku Reijou, Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshikisuru",
+      "ep": 7,
+      "ago": "2h",
+      "img": "ucpu2",
+      "ahId": "5u4aa"
+    },
+    {
+      "titre": "A Tale of the Secret Saint",
+      "titreJp": "Tenseishita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
+      "ep": 8,
+      "ago": "2h",
+      "img": "ffres",
+      "ahId": "tbd2z"
+    },
+    {
+      "titre": "Detective Conan",
+      "titreJp": "Case Closed, Meitantei Conan",
+      "ep": 1220,
+      "ago": "2h",
+      "img": "lx86z",
+      "ahId": "y9prb"
+    },
+    {
+      "titre": "The Vermilion Mask",
+      "titreJp": "Shuiro no Kamen",
+      "ep": 6,
+      "ago": "5h",
+      "img": "mmdhs",
+      "ahId": "j1ywu"
+    },
+    {
+      "titre": "Pokemon Horizons: The Series",
+      "titreJp": "Pocket Monsters (2023)",
+      "ep": 157,
+      "ago": "6h",
+      "img": "9fsft",
+      "ahId": "9v661"
+    },
+    {
       "titre": "Sgt. Frog (2026)",
       "titreJp": "Keroro Gunsou☆ (2026)",
       "ep": 7,
-      "ago": "7h",
+      "ago": "14h",
       "img": "la1qi",
       "ahId": "kk3xm"
     },
@@ -12,7 +76,7 @@
       "titre": "Tokyo Revengers: Battle of Three Deities",
       "titreJp": "Tokyo Revengers: Santen Sensou-hen",
       "ep": 7,
-      "ago": "15h",
+      "ago": "22h",
       "img": "puty1",
       "ahId": "kybuw"
     },
@@ -20,7 +84,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 19,
-      "ago": "15h",
+      "ago": "22h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -28,7 +92,7 @@
       "titre": "Tougen Anki: Nikko Kegon Falls Arc",
       "titreJp": "Tougen Anki: Nikko Kegon no Taki-hen",
       "ep": 7,
-      "ago": "16h",
+      "ago": "23h",
       "img": "5mopt",
       "ahId": "w5qns"
     },
@@ -36,7 +100,7 @@
       "titre": "Firefly Wedding",
       "titreJp": "Hotaru no Yomeiri",
       "ep": 6,
-      "ago": "16h",
+      "ago": "23h",
       "img": "3gndp",
       "ahId": "bhbnn"
     },
@@ -44,7 +108,7 @@
       "titre": "A Certain Dark Side's Item",
       "titreJp": "Toaru Anbu no ITEM",
       "ep": 6,
-      "ago": "16h",
+      "ago": "23h",
       "img": "rc25t",
       "ahId": "21bae"
     },
@@ -52,7 +116,7 @@
       "titre": "The Apothecary Diaries 3rd Season",
       "titreJp": "Kusuriya no Hitorigoto 3rd Season",
       "ep": 7,
-      "ago": "17h",
+      "ago": "1d",
       "img": "tv772",
       "ahId": "igk5o"
     },
@@ -60,7 +124,7 @@
       "titre": "Welsh & Shedar",
       "titreJp": "Aoki Denshou Welsh &amp; Shedar",
       "ep": 3,
-      "ago": "18h",
+      "ago": "1d",
       "img": "zf9ws",
       "ahId": "azod8"
     },
@@ -68,7 +132,7 @@
       "titre": "Demons' Crest",
       "titreJp": "",
       "ep": 3,
-      "ago": "18h",
+      "ago": "1d",
       "img": "74mxx",
       "ahId": "949d8"
     },
@@ -76,7 +140,7 @@
       "titre": "JoJo's Bizarre Adventure: Steel Ball Run",
       "titreJp": "Jojo no Kimyou na Bouken: Steel Ball Run",
       "ep": 9,
-      "ago": "19h",
+      "ago": "1d",
       "img": "ftqmf",
       "ahId": "u6jkm"
     },
@@ -116,7 +180,7 @@
       "titre": "FX Fighter Kurumi-chan",
       "titreJp": "FX Senshi Kurumi-chan",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "pra1c",
       "ahId": "3vz59"
     },
@@ -164,7 +228,7 @@
       "titre": "Magic Knight Rayearth (2026)",
       "titreJp": "Mahou Kishi Rayearth (2026)",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "8lnlp",
       "ahId": "tbwu1"
     },
@@ -172,7 +236,7 @@
       "titre": "Paws & Palaces",
       "titreJp": "Zi Jin: Yu Miao Fang, Forbidden City: Impurrial  Cat Room",
       "ep": 9,
-      "ago": "2d",
+      "ago": "3d",
       "img": "xjf8h",
       "ahId": "rlpm0"
     },
@@ -180,7 +244,7 @@
       "titre": "The Detective Is Already Dead. Season 2",
       "titreJp": "Tanmoshi, Tantei wa mou, Shindeiru. Season 2",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "wve78",
       "ahId": "9j16y"
     },
@@ -188,7 +252,7 @@
       "titre": "The World’s Strongest Witch",
       "titreJp": "Sekai Saikyou no Majo, Hajimemashita: Watashi dake &quot;Kouryaku Site&quot; wo Mireru Sekai de Jiyuu ni Ikimasu",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "5ulec",
       "ahId": "b8gl1"
     },
@@ -196,7 +260,7 @@
       "titre": "Sasaki and Peeps Season 2",
       "titreJp": "Sasaki to Pi-chan Season 2",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "a1k9a",
       "ahId": "ick60"
     },
@@ -260,7 +324,7 @@
       "titre": "Battle Spirits [Re] Zekkai no Ku",
       "titreJp": "",
       "ep": 6,
-      "ago": "3d",
+      "ago": "4d",
       "img": "j18dk",
       "ahId": "1q18l"
     },
@@ -268,7 +332,7 @@
       "titre": "Super Psychic Policeman Chojo",
       "titreJp": "Choujun! Choujou-senpai",
       "ep": 6,
-      "ago": "3d",
+      "ago": "4d",
       "img": "h139a",
       "ahId": "zgr43"
     },
@@ -276,7 +340,7 @@
       "titre": "The Cold Sato-san is Only Sweet to Me",
       "titreJp": "Shio Taiou no Sato-san ga Ore ni dake Amai",
       "ep": 6,
-      "ago": "3d",
+      "ago": "4d",
       "img": "bxwjz",
       "ahId": "inver"
     },
@@ -284,7 +348,7 @@
       "titre": "Nia Liston: The Merciless Maiden",
       "titreJp": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
       "ep": 6,
-      "ago": "3d",
+      "ago": "4d",
       "img": "bp9jr",
       "ahId": "5um3o"
     },
@@ -300,7 +364,7 @@
       "titre": "Psyren",
       "titreJp": "PSYЯEN",
       "ep": 5,
-      "ago": "4d",
+      "ago": "5d",
       "img": "w80sn",
       "ahId": "mc642"
     },
@@ -308,7 +372,7 @@
       "titre": "Hi, I'm a Witch, and My Crush Wants Me to Make a Love Potion",
       "titreJp": "Doumo, Suki na Hito ni Horegusuri wo Iraisareta Majo desu.",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "s3978",
       "ahId": "wdmtv"
     },
@@ -356,7 +420,7 @@
       "titre": "Hotel Inhumans 2nd Season",
       "titreJp": "",
       "ep": 6,
-      "ago": "5d",
+      "ago": "6d",
       "img": "slc2u",
       "ahId": "avgch"
     },
@@ -364,7 +428,7 @@
       "titre": "As a Reincarnated Aristocrat, I’ll Use My Appraisal Skill to Rise in the World Season 3",
       "titreJp": "Tensei Kizoku, Kantei Skill de Nariagaru Season 3",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "3pmr7",
       "ahId": "tx0yl"
     },
@@ -372,7 +436,7 @@
       "titre": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
       "titreJp": "Yowaki MAX Reijou nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
       "ep": 6,
-      "ago": "5d",
+      "ago": "6d",
       "img": "q2sw8",
       "ahId": "c2c8d"
     },
@@ -380,7 +444,7 @@
       "titre": "Overgeared",
       "titreJp": "Tempal: Item no Chikara",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "reduh",
       "ahId": "khonj"
     },
@@ -388,7 +452,7 @@
       "titre": "Full Clearing Another World under a Goddess with Zero Believers",
       "titreJp": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
       "ep": 5,
-      "ago": "5d",
+      "ago": "6d",
       "img": "qst8x",
       "ahId": "klx41"
     },
@@ -396,7 +460,7 @@
       "titre": "Tank Chair",
       "titreJp": "Sensha Isu",
       "ep": 6,
-      "ago": "5d",
+      "ago": "6d",
       "img": "pva6o",
       "ahId": "oe1qg"
     },
@@ -404,7 +468,7 @@
       "titre": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
       "titreJp": "Mezametara Saikyou Soubi to Uchuusen-mochi datta no de, Ikkodate Mezashite Youhei Toshite Jiyuu ni Ikitai",
       "ep": 6,
-      "ago": "5d",
+      "ago": "6d",
       "img": "s96ye",
       "ahId": "d6wf8"
     },
@@ -412,7 +476,7 @@
       "titre": "Uncle's Obsession with Cute Things",
       "titreJp": "Oji-san wa Kawaii Mono ga Osuki.",
       "ep": 6,
-      "ago": "5d",
+      "ago": "6d",
       "img": "gv3m0",
       "ahId": "shbkv"
     },
@@ -420,7 +484,7 @@
       "titre": "Mission: Yozakura Family Season 2 - Part II",
       "titreJp": "Yozakura-san Chi no Daisakusen Season 2 - Part II",
       "ep": 5,
-      "ago": "5d",
+      "ago": "6d",
       "img": "du10m",
       "ahId": "e0es6"
     },
@@ -428,7 +492,7 @@
       "titre": "Blue Box Season 2",
       "titreJp": "Ao no Hako Season 2",
       "ep": 5,
-      "ago": "5d",
+      "ago": "6d",
       "img": "d49hw",
       "ahId": "9f807"
     },
@@ -436,7 +500,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season - Part II",
       "titreJp": "Diamond no Ace: Act II 2nd Season - Part II,",
       "ep": 5,
-      "ago": "5d",
+      "ago": "6d",
       "img": "8c9hh",
       "ahId": "6zcxf"
     },
@@ -444,7 +508,7 @@
       "titre": "Aoashi Season 2",
       "titreJp": "",
       "ep": 6,
-      "ago": "5d",
+      "ago": "6d",
       "img": "ph45t",
       "ahId": "zgjwm"
     },
@@ -503,73 +567,9 @@
       "ago": "6d",
       "img": "jvyhy",
       "ahId": "og3o4"
-    },
-    {
-      "titre": "The Seven Knights of the Marronnier Kingdom",
-      "titreJp": "Marronnier Oukoku no Shichinin no Kishi",
-      "ep": 6,
-      "ago": "6d",
-      "img": "cf05c",
-      "ahId": "lcc9t"
-    },
-    {
-      "titre": "Black Clover 2nd Season",
-      "titreJp": "",
-      "ep": 6,
-      "ago": "6d",
-      "img": "82gob",
-      "ahId": "0pqfl"
-    },
-    {
-      "titre": "Black Clover",
-      "titreJp": "",
-      "ep": 176,
-      "ago": "6d",
-      "img": "mg1oq",
-      "ahId": "l1cen"
-    },
-    {
-      "titre": "A Wild Last Boss Appeared! 2",
-      "titreJp": "Yasei no Last Boss ga Arawareta! 2",
-      "ep": 7,
-      "ago": "6d",
-      "img": "6vzxm",
-      "ahId": "39l08"
-    },
-    {
-      "titre": "Romelia War Chronicle",
-      "titreJp": "Romelia Senki: Hakushaku Reijou, Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshikisuru",
-      "ep": 6,
-      "ago": "6d",
-      "img": "ucpu2",
-      "ahId": "5u4aa"
-    },
-    {
-      "titre": "A Tale of the Secret Saint",
-      "titreJp": "Tenseishita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
-      "ep": 7,
-      "ago": "6d",
-      "img": "ffres",
-      "ahId": "tbd2z"
-    },
-    {
-      "titre": "Detective Conan",
-      "titreJp": "Case Closed, Meitantei Conan",
-      "ep": 1219,
-      "ago": "6d",
-      "img": "lx86z",
-      "ahId": "y9prb"
-    },
-    {
-      "titre": "The Vermilion Mask",
-      "titreJp": "Shuiro no Kamen",
-      "ep": 5,
-      "ago": "6d",
-      "img": "mmdhs",
-      "ahId": "j1ywu"
     }
   ],
-  "updatedAt": "2026-11-14T08:31:44.989Z",
+  "updatedAt": "2026-11-14T15:30:34.812Z",
   "source": "github-actions",
   "count": 71
 }
