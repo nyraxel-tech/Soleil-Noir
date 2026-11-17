@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Magical Girl Raising Project: Restart",
+      "titreJp": "Mahou Shoujo Ikusei Keikaku: Restart",
+      "ep": 7,
+      "ago": "6h",
+      "img": "nb877",
+      "ahId": "nj39s"
+    },
+    {
       "titre": "Psyren",
       "titreJp": "PSYЯEN",
       "ep": 6,
-      "ago": "3h",
+      "ago": "10h",
       "img": "w80sn",
       "ahId": "mc642"
     },
@@ -12,7 +20,7 @@
       "titre": "So What's Wrong with Getting Reborn as a Goblin?",
       "titreJp": "Tensei Goblin Dakedo Shitsumon Aru?",
       "ep": 7,
-      "ago": "4h",
+      "ago": "12h",
       "img": "tj4k5",
       "ahId": "b61c3"
     },
@@ -20,7 +28,7 @@
       "titre": "Hi, I'm a Witch, and My Crush Wants Me to Make a Love Potion",
       "titreJp": "Doumo, Suki na Hito ni Horegusuri wo Iraisareta Majo desu.",
       "ep": 7,
-      "ago": "5h",
+      "ago": "12h",
       "img": "s3978",
       "ahId": "wdmtv"
     },
@@ -172,7 +180,7 @@
       "titre": "Dreamland",
       "titreJp": "",
       "ep": 5,
-      "ago": "1d",
+      "ago": "2d",
       "img": "295vq",
       "ahId": "usmn1"
     },
@@ -180,7 +188,7 @@
       "titre": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
       "titreJp": "Kashita Maryoku wa &quot;Revolving Barai&quot; de Kyousei Choushuu",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "rg75s",
       "ahId": "vm4bk"
     },
@@ -308,7 +316,7 @@
       "titre": "Sgt. Frog (2026)",
       "titreJp": "Keroro Gunsou☆ (2026)",
       "ep": 7,
-      "ago": "2d",
+      "ago": "3d",
       "img": "la1qi",
       "ahId": "kk3xm"
     },
@@ -500,7 +508,7 @@
       "titre": "Talentless Nana",
       "titreJp": "Munou na Nana",
       "ep": 13,
-      "ago": "5d",
+      "ago": "6d",
       "img": "l5i4b",
       "ahId": "jpl58"
     },
@@ -508,7 +516,7 @@
       "titre": "Dark Machine: The Animation",
       "titreJp": "",
       "ep": 5,
-      "ago": "5d",
+      "ago": "6d",
       "img": "omysj",
       "ahId": "ds7ri"
     },
@@ -559,17 +567,9 @@
       "ago": "6d",
       "img": "j18dk",
       "ahId": "1q18l"
-    },
-    {
-      "titre": "Super Psychic Policeman Chojo",
-      "titreJp": "Choujun! Choujou-senpai",
-      "ep": 6,
-      "ago": "6d",
-      "img": "h139a",
-      "ahId": "zgr43"
     }
   ],
-  "updatedAt": "2026-11-16T17:52:50.179Z",
+  "updatedAt": "2026-11-17T01:30:39.138Z",
   "source": "github-actions",
   "count": 71
 }
