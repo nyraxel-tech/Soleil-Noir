@@ -4,7 +4,7 @@
       "titre": "A Returner's Magic Should Be Special Season 2",
       "titreJp": "Kikansha no Mahou wa Tokubetsu desu 2nd Season, Gwihwanjaui Mabeobeun Teugbyeolhaeya Habnida 2nd Season",
       "ep": 7,
-      "ago": "8h",
+      "ago": "16h",
       "img": "d2tbz",
       "ahId": "9lgbi"
     },
@@ -12,7 +12,7 @@
       "titre": "Dandivine",
       "titreJp": "Juuou Bushin Dandivine",
       "ep": 7,
-      "ago": "8h",
+      "ago": "16h",
       "img": "4shz4",
       "ahId": "n6eej"
     },
@@ -20,7 +20,7 @@
       "titre": "The Prince of Tennis II U-17 WORLD CUP Final Member Selection Match",
       "titreJp": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
       "ep": 8,
-      "ago": "9h",
+      "ago": "17h",
       "img": "9d6qa",
       "ahId": "12iu3"
     },
@@ -28,7 +28,7 @@
       "titre": "Reincarnated as a Sword 2nd Season",
       "titreJp": "Tensei Shitara Ken deshita 2nd Season",
       "ep": 8,
-      "ago": "9h",
+      "ago": "18h",
       "img": "x4uyc",
       "ahId": "x0r48"
     },
@@ -36,7 +36,7 @@
       "titre": "Magic Knight Rayearth (2026)",
       "titreJp": "Mahou Kishi Rayearth (2026)",
       "ep": 7,
-      "ago": "10h",
+      "ago": "18h",
       "img": "8lnlp",
       "ahId": "tbwu1"
     },
@@ -44,7 +44,7 @@
       "titre": "Paws & Palaces",
       "titreJp": "Zi Jin: Yu Miao Fang, Forbidden City: Impurrial  Cat Room",
       "ep": 10,
-      "ago": "11h",
+      "ago": "19h",
       "img": "xjf8h",
       "ahId": "rlpm0"
     },
@@ -52,7 +52,7 @@
       "titre": "The Detective Is Already Dead. Season 2",
       "titreJp": "Tanmoshi, Tantei wa mou, Shindeiru. Season 2",
       "ep": 7,
-      "ago": "12h",
+      "ago": "20h",
       "img": "wve78",
       "ahId": "9j16y"
     },
@@ -60,7 +60,7 @@
       "titre": "The World’s Strongest Witch",
       "titreJp": "Sekai Saikyou no Majo, Hajimemashita: Watashi dake &quot;Kouryaku Site&quot; wo Mireru Sekai de Jiyuu ni Ikimasu",
       "ep": 7,
-      "ago": "12h",
+      "ago": "20h",
       "img": "5ulec",
       "ahId": "b8gl1"
     },
@@ -68,7 +68,7 @@
       "titre": "Sasaki and Peeps Season 2",
       "titreJp": "Sasaki to Pi-chan Season 2",
       "ep": 7,
-      "ago": "12h",
+      "ago": "20h",
       "img": "a1k9a",
       "ahId": "ick60"
     },
@@ -316,7 +316,7 @@
       "titre": "Aoashi Season 2",
       "titreJp": "",
       "ep": 7,
-      "ago": "3d",
+      "ago": "4d",
       "img": "ph45t",
       "ahId": "zgjwm"
     },
@@ -324,7 +324,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season - Part II",
       "titreJp": "Diamond no Ace: Act II 2nd Season - Part II,",
       "ep": 6,
-      "ago": "3d",
+      "ago": "4d",
       "img": "8c9hh",
       "ahId": "6zcxf"
     },
@@ -452,7 +452,7 @@
       "titre": "The Vermilion Mask",
       "titreJp": "Shuiro no Kamen",
       "ep": 6,
-      "ago": "4d",
+      "ago": "5d",
       "img": "mmdhs",
       "ahId": "j1ywu"
     },
@@ -460,7 +460,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 157,
-      "ago": "4d",
+      "ago": "5d",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -569,7 +569,7 @@
       "ahId": "6uopw"
     }
   ],
-  "updatedAt": "2026-11-19T01:41:04.923Z",
+  "updatedAt": "2026-11-19T09:49:39.617Z",
   "source": "github-actions",
   "count": 71
 }
