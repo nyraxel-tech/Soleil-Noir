@@ -4,7 +4,7 @@
       "titre": "The Iceblade Sorcerer Shall Rule the World II",
       "titreJp": "Hyouken no Majutsushi ga Sekai wo Suberu II: Sekai Saikyou no Majutsushi de Aru Shounen wa, Majutsu Gakuin ni Nyuugakusuru",
       "ep": 7,
-      "ago": "7h",
+      "ago": "15h",
       "img": "zyq79",
       "ahId": "pnz3r"
     },
@@ -12,7 +12,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 21,
-      "ago": "8h",
+      "ago": "16h",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -20,7 +20,7 @@
       "titre": "TETSURYO! Meet with Tetsudou Musume",
       "titreJp": "Tetsuryou! Meet with Tetsudou Musume",
       "ep": 7,
-      "ago": "8h",
+      "ago": "16h",
       "img": "o1rup",
       "ahId": "n7bzz"
     },
@@ -28,7 +28,7 @@
       "titre": "The Ramparts of Ice Season 2",
       "titreJp": "Koori no Jouheki Season 2, Ice Castle Wall Season 2",
       "ep": 8,
-      "ago": "8h",
+      "ago": "16h",
       "img": "3r8wc",
       "ahId": "l70lj"
     },
@@ -36,7 +36,7 @@
       "titre": "FX Fighter Kurumi-chan",
       "titreJp": "FX Senshi Kurumi-chan",
       "ep": 8,
-      "ago": "12h",
+      "ago": "19h",
       "img": "pra1c",
       "ahId": "3vz59"
     },
@@ -508,7 +508,7 @@
       "titre": "Sgt. Frog (2026)",
       "titreJp": "Keroro Gunsou☆ (2026)",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "la1qi",
       "ahId": "kk3xm"
     },
@@ -569,7 +569,7 @@
       "ahId": "azod8"
     }
   ],
-  "updatedAt": "2026-11-20T01:00:06.119Z",
+  "updatedAt": "2026-11-20T08:21:47.057Z",
   "source": "github-actions",
   "count": 71
 }
