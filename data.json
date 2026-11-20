@@ -4,7 +4,7 @@
       "titre": "The Iceblade Sorcerer Shall Rule the World II",
       "titreJp": "Hyouken no Majutsushi ga Sekai wo Suberu II: Sekai Saikyou no Majutsushi de Aru Shounen wa, Majutsu Gakuin ni Nyuugakusuru",
       "ep": 7,
-      "ago": "1h",
+      "ago": "7h",
       "img": "zyq79",
       "ahId": "pnz3r"
     },
@@ -12,7 +12,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 21,
-      "ago": "2h",
+      "ago": "8h",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -20,7 +20,7 @@
       "titre": "TETSURYO! Meet with Tetsudou Musume",
       "titreJp": "Tetsuryou! Meet with Tetsudou Musume",
       "ep": 7,
-      "ago": "2h",
+      "ago": "8h",
       "img": "o1rup",
       "ahId": "n7bzz"
     },
@@ -28,7 +28,7 @@
       "titre": "The Ramparts of Ice Season 2",
       "titreJp": "Koori no Jouheki Season 2, Ice Castle Wall Season 2",
       "ep": 8,
-      "ago": "2h",
+      "ago": "8h",
       "img": "3r8wc",
       "ahId": "l70lj"
     },
@@ -36,7 +36,7 @@
       "titre": "FX Fighter Kurumi-chan",
       "titreJp": "FX Senshi Kurumi-chan",
       "ep": 8,
-      "ago": "6h",
+      "ago": "12h",
       "img": "pra1c",
       "ahId": "3vz59"
     },
@@ -196,7 +196,7 @@
       "titre": "Magical Girl Raising Project: Restart",
       "titreJp": "Mahou Shoujo Ikusei Keikaku: Restart",
       "ep": 7,
-      "ago": "2d",
+      "ago": "3d",
       "img": "nb877",
       "ahId": "nj39s"
     },
@@ -372,7 +372,7 @@
       "titre": "Dreamland",
       "titreJp": "",
       "ep": 5,
-      "ago": "4d",
+      "ago": "5d",
       "img": "295vq",
       "ahId": "usmn1"
     },
@@ -569,7 +569,7 @@
       "ahId": "azod8"
     }
   ],
-  "updatedAt": "2026-11-19T18:49:37.393Z",
+  "updatedAt": "2026-11-20T01:00:06.119Z",
   "source": "github-actions",
   "count": 71
 }
