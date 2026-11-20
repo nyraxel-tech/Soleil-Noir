@@ -3,8 +3,8 @@
     {
       "titre": "Welsh & Shedar",
       "titreJp": "Aoki Denshou Welsh &amp; Shedar",
-      "ep": 4,
-      "ago": "?",
+      "ep": 8,
+      "ago": "6h",
       "img": "zf9ws",
       "ahId": "azod8"
     },
@@ -12,7 +12,7 @@
       "titre": "Tokyo Revengers: Battle of Three Deities",
       "titreJp": "Tokyo Revengers: Santen Sensou-hen",
       "ep": 8,
-      "ago": "?",
+      "ago": "6h",
       "img": "puty1",
       "ahId": "kybuw"
     },
@@ -20,7 +20,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 20,
-      "ago": "?",
+      "ago": "6h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -28,7 +28,7 @@
       "titre": "Firefly Wedding",
       "titreJp": "Hotaru no Yomeiri",
       "ep": 7,
-      "ago": "1h",
+      "ago": "7h",
       "img": "3gndp",
       "ahId": "bhbnn"
     },
@@ -36,7 +36,7 @@
       "titre": "Tougen Anki: Nikko Kegon Falls Arc",
       "titreJp": "Tougen Anki: Nikko Kegon no Taki-hen",
       "ep": 8,
-      "ago": "1h",
+      "ago": "7h",
       "img": "5mopt",
       "ahId": "w5qns"
     },
@@ -44,7 +44,7 @@
       "titre": "A Certain Dark Side's Item",
       "titreJp": "Toaru Anbu no ITEM",
       "ep": 7,
-      "ago": "1h",
+      "ago": "7h",
       "img": "rc25t",
       "ahId": "21bae"
     },
@@ -52,7 +52,7 @@
       "titre": "The Apothecary Diaries 3rd Season",
       "titreJp": "Kusuriya no Hitorigoto 3rd Season",
       "ep": 8,
-      "ago": "2h",
+      "ago": "8h",
       "img": "tv772",
       "ahId": "igk5o"
     },
@@ -60,7 +60,7 @@
       "titre": "JoJo's Bizarre Adventure: Steel Ball Run",
       "titreJp": "Jojo no Kimyou na Bouken: Steel Ball Run",
       "ep": 10,
-      "ago": "2h",
+      "ago": "8h",
       "img": "ftqmf",
       "ahId": "u6jkm"
     },
@@ -68,7 +68,7 @@
       "titre": "Demons' Crest",
       "titreJp": "",
       "ep": 4,
-      "ago": "2h",
+      "ago": "8h",
       "img": "74mxx",
       "ahId": "949d8"
     },
@@ -188,7 +188,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 20,
-      "ago": "2d",
+      "ago": "3d",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -196,7 +196,7 @@
       "titre": "Dark Machine: The Animation",
       "titreJp": "",
       "ep": 6,
-      "ago": "2d",
+      "ago": "3d",
       "img": "omysj",
       "ahId": "ds7ri"
     },
@@ -268,7 +268,7 @@
       "titre": "Magical Girl Raising Project: Restart",
       "titreJp": "Mahou Shoujo Ikusei Keikaku: Restart",
       "ep": 7,
-      "ago": "3d",
+      "ago": "4d",
       "img": "nb877",
       "ahId": "nj39s"
     },
@@ -300,7 +300,7 @@
       "titre": "My Girlfriend's Friend",
       "titreJp": "Kanojo no Tomodachi",
       "ep": 7,
-      "ago": "4d",
+      "ago": "5d",
       "img": "mkfn9",
       "ahId": "qbeo7"
     },
@@ -444,7 +444,7 @@
       "titre": "Dreamland",
       "titreJp": "",
       "ep": 5,
-      "ago": "5d",
+      "ago": "6d",
       "img": "295vq",
       "ahId": "usmn1"
     },
@@ -452,7 +452,7 @@
       "titre": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
       "titreJp": "Kashita Maryoku wa &quot;Revolving Barai&quot; de Kyousei Choushuu",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "rg75s",
       "ahId": "vm4bk"
     },
@@ -569,7 +569,7 @@
       "ahId": "j1ywu"
     }
   ],
-  "updatedAt": "2026-11-20T17:30:19.881Z",
+  "updatedAt": "2026-11-20T23:38:33.391Z",
   "source": "github-actions",
   "count": 71
 }
