@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Sgt. Frog (2026)",
+      "titreJp": "Keroro Gunsou☆ (2026)",
+      "ep": 8,
+      "ago": "4h",
+      "img": "la1qi",
+      "ahId": "kk3xm"
+    },
+    {
       "titre": "Welsh & Shedar",
       "titreJp": "Aoki Denshou Welsh &amp; Shedar",
       "ep": 8,
-      "ago": "6h",
+      "ago": "11h",
       "img": "zf9ws",
       "ahId": "azod8"
     },
@@ -12,7 +20,7 @@
       "titre": "Tokyo Revengers: Battle of Three Deities",
       "titreJp": "Tokyo Revengers: Santen Sensou-hen",
       "ep": 8,
-      "ago": "6h",
+      "ago": "12h",
       "img": "puty1",
       "ahId": "kybuw"
     },
@@ -20,7 +28,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 20,
-      "ago": "6h",
+      "ago": "12h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -28,7 +36,7 @@
       "titre": "Firefly Wedding",
       "titreJp": "Hotaru no Yomeiri",
       "ep": 7,
-      "ago": "7h",
+      "ago": "13h",
       "img": "3gndp",
       "ahId": "bhbnn"
     },
@@ -36,7 +44,7 @@
       "titre": "Tougen Anki: Nikko Kegon Falls Arc",
       "titreJp": "Tougen Anki: Nikko Kegon no Taki-hen",
       "ep": 8,
-      "ago": "7h",
+      "ago": "13h",
       "img": "5mopt",
       "ahId": "w5qns"
     },
@@ -44,7 +52,7 @@
       "titre": "A Certain Dark Side's Item",
       "titreJp": "Toaru Anbu no ITEM",
       "ep": 7,
-      "ago": "7h",
+      "ago": "13h",
       "img": "rc25t",
       "ahId": "21bae"
     },
@@ -52,7 +60,7 @@
       "titre": "The Apothecary Diaries 3rd Season",
       "titreJp": "Kusuriya no Hitorigoto 3rd Season",
       "ep": 8,
-      "ago": "8h",
+      "ago": "14h",
       "img": "tv772",
       "ahId": "igk5o"
     },
@@ -60,7 +68,7 @@
       "titre": "JoJo's Bizarre Adventure: Steel Ball Run",
       "titreJp": "Jojo no Kimyou na Bouken: Steel Ball Run",
       "ep": 10,
-      "ago": "8h",
+      "ago": "14h",
       "img": "ftqmf",
       "ahId": "u6jkm"
     },
@@ -68,7 +76,7 @@
       "titre": "Demons' Crest",
       "titreJp": "",
       "ep": 4,
-      "ago": "8h",
+      "ago": "14h",
       "img": "74mxx",
       "ahId": "949d8"
     },
@@ -559,17 +567,9 @@
       "ago": "6d",
       "img": "lx86z",
       "ahId": "y9prb"
-    },
-    {
-      "titre": "The Vermilion Mask",
-      "titreJp": "Shuiro no Kamen",
-      "ep": 6,
-      "ago": "6d",
-      "img": "mmdhs",
-      "ahId": "j1ywu"
     }
   ],
-  "updatedAt": "2026-11-20T23:38:33.391Z",
+  "updatedAt": "2026-11-21T05:29:25.816Z",
   "source": "github-actions",
   "count": 71
 }
