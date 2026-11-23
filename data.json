@@ -1,10 +1,18 @@
 {
   "animes": [
     {
+      "titre": "Umayuru: Full Gate!",
+      "titreJp": "&quot;Umayuru&quot; is a short anime series featuring pint-sized Uma Musume! This time, it’s a &quot;Full-Gate&quot; three-minute race where *all* the Uma Musume take to the track! A super-sized, laid-back gathering with everyone!",
+      "ep": 9,
+      "ago": "5h",
+      "img": "cahob",
+      "ahId": "7p4ok"
+    },
+    {
       "titre": "I'm Dating a Dark Summoner",
       "titreJp": "Dark Summoner to Dekiteiru",
       "ep": 8,
-      "ago": "9h",
+      "ago": "19h",
       "img": "9fe3j",
       "ahId": "ostyz"
     },
@@ -12,7 +20,7 @@
       "titre": "My Girlfriend's Friend",
       "titreJp": "Kanojo no Tomodachi",
       "ep": 8,
-      "ago": "9h",
+      "ago": "19h",
       "img": "mkfn9",
       "ahId": "qbeo7"
     },
@@ -20,7 +28,7 @@
       "titre": "From Far Away",
       "titreJp": "Kanata Kara",
       "ep": 8,
-      "ago": "9h",
+      "ago": "19h",
       "img": "kvxvi",
       "ahId": "n05fh"
     },
@@ -28,7 +36,7 @@
       "titre": "Dragon Ball Super: Beerus",
       "titreJp": "",
       "ep": 7,
-      "ago": "9h",
+      "ago": "19h",
       "img": "ur0sz",
       "ahId": "pynn3"
     },
@@ -36,7 +44,7 @@
       "titre": "Hotel Inhumans 2nd Season",
       "titreJp": "",
       "ep": 8,
-      "ago": "10h",
+      "ago": "20h",
       "img": "slc2u",
       "ahId": "avgch"
     },
@@ -44,7 +52,7 @@
       "titre": "Tank Chair",
       "titreJp": "Sensha Isu",
       "ep": 8,
-      "ago": "10h",
+      "ago": "20h",
       "img": "pva6o",
       "ahId": "oe1qg"
     },
@@ -52,7 +60,7 @@
       "titre": "As a Reincarnated Aristocrat, I’ll Use My Appraisal Skill to Rise in the World Season 3",
       "titreJp": "Tensei Kizoku, Kantei Skill de Nariagaru Season 3",
       "ep": 9,
-      "ago": "11h",
+      "ago": "20h",
       "img": "3pmr7",
       "ahId": "tx0yl"
     },
@@ -60,7 +68,7 @@
       "titre": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
       "titreJp": "Yowaki MAX Reijou nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
       "ep": 8,
-      "ago": "11h",
+      "ago": "20h",
       "img": "q2sw8",
       "ahId": "c2c8d"
     },
@@ -68,7 +76,7 @@
       "titre": "Overgeared",
       "titreJp": "Tempal: Item no Chikara",
       "ep": 9,
-      "ago": "11h",
+      "ago": "20h",
       "img": "reduh",
       "ahId": "khonj"
     },
@@ -76,7 +84,7 @@
       "titre": "Full Clearing Another World under a Goddess with Zero Believers",
       "titreJp": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
       "ep": 7,
-      "ago": "11h",
+      "ago": "21h",
       "img": "qst8x",
       "ahId": "klx41"
     },
@@ -84,7 +92,7 @@
       "titre": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
       "titreJp": "Mezametara Saikyou Soubi to Uchuusen-mochi datta no de, Ikkodate Mezashite Youhei Toshite Jiyuu ni Ikitai",
       "ep": 8,
-      "ago": "11h",
+      "ago": "21h",
       "img": "s96ye",
       "ahId": "d6wf8"
     },
@@ -92,7 +100,7 @@
       "titre": "Uncle's Obsession with Cute Things",
       "titreJp": "Oji-san wa Kawaii Mono ga Osuki.",
       "ep": 8,
-      "ago": "12h",
+      "ago": "21h",
       "img": "gv3m0",
       "ahId": "shbkv"
     },
@@ -100,7 +108,7 @@
       "titre": "Blue Box Season 2",
       "titreJp": "Ao no Hako Season 2",
       "ep": 7,
-      "ago": "15h",
+      "ago": "1d",
       "img": "d49hw",
       "ahId": "9f807"
     },
@@ -108,7 +116,7 @@
       "titre": "Aoashi Season 2",
       "titreJp": "",
       "ep": 8,
-      "ago": "16h",
+      "ago": "1d",
       "img": "ph45t",
       "ahId": "zgjwm"
     },
@@ -116,7 +124,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season - Part II",
       "titreJp": "Diamond no Ace: Act II 2nd Season - Part II,",
       "ep": 7,
-      "ago": "17h",
+      "ago": "1d",
       "img": "8c9hh",
       "ahId": "6zcxf"
     },
@@ -124,7 +132,7 @@
       "titre": "Mission: Yozakura Family Season 2 - Part II",
       "titreJp": "Yozakura-san Chi no Daisakusen Season 2 - Part II",
       "ep": 7,
-      "ago": "17h",
+      "ago": "1d",
       "img": "du10m",
       "ahId": "e0es6"
     },
@@ -252,7 +260,7 @@
       "titre": "Pokemon Horizons: The Series",
       "titreJp": "Pocket Monsters (2023)",
       "ep": 158,
-      "ago": "1d",
+      "ago": "2d",
       "img": "9fsft",
       "ahId": "9v661"
     },
@@ -260,7 +268,7 @@
       "titre": "The Vermilion Mask",
       "titreJp": "Shuiro no Kamen",
       "ep": 7,
-      "ago": "1d",
+      "ago": "2d",
       "img": "mmdhs",
       "ahId": "j1ywu"
     },
@@ -559,17 +567,9 @@
       "ago": "6d",
       "img": "tj4k5",
       "ahId": "b61c3"
-    },
-    {
-      "titre": "Hi, I'm a Witch, and My Crush Wants Me to Make a Love Potion",
-      "titreJp": "Doumo, Suki na Hito ni Horegusuri wo Iraisareta Majo desu.",
-      "ep": 7,
-      "ago": "6d",
-      "img": "s3978",
-      "ahId": "wdmtv"
     }
   ],
-  "updatedAt": "2026-11-23T02:11:29.054Z",
+  "updatedAt": "2026-11-23T11:44:25.811Z",
   "source": "github-actions",
   "count": 71
 }
