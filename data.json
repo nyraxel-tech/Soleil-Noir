@@ -4,7 +4,7 @@
       "titre": "The Iceblade Sorcerer Shall Rule the World II",
       "titreJp": "Hyouken no Majutsushi ga Sekai wo Suberu II: Sekai Saikyou no Majutsushi de Aru Shounen wa, Majutsu Gakuin ni Nyuugakusuru",
       "ep": 8,
-      "ago": "6h",
+      "ago": "13h",
       "img": "zyq79",
       "ahId": "pnz3r"
     },
@@ -12,7 +12,7 @@
       "titre": "TETSURYO! Meet with Tetsudou Musume",
       "titreJp": "Tetsuryou! Meet with Tetsudou Musume",
       "ep": 8,
-      "ago": "7h",
+      "ago": "14h",
       "img": "o1rup",
       "ahId": "n7bzz"
     },
@@ -20,7 +20,7 @@
       "titre": "The Exiled Heavy Knight Knows How to Game the System",
       "titreJp": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
       "ep": 22,
-      "ago": "7h",
+      "ago": "14h",
       "img": "3ks09",
       "ahId": "6uopw"
     },
@@ -28,7 +28,7 @@
       "titre": "The Ramparts of Ice Season 2",
       "titreJp": "Koori no Jouheki Season 2, Ice Castle Wall Season 2",
       "ep": 9,
-      "ago": "7h",
+      "ago": "14h",
       "img": "3r8wc",
       "ahId": "l70lj"
     },
@@ -36,7 +36,7 @@
       "titre": "Fool Night",
       "titreJp": "",
       "ep": 12,
-      "ago": "9h",
+      "ago": "17h",
       "img": "nlfom",
       "ahId": "9wid6"
     },
@@ -44,7 +44,7 @@
       "titre": "FX Fighter Kurumi-chan",
       "titreJp": "FX Senshi Kurumi-chan",
       "ep": 9,
-      "ago": "10h",
+      "ago": "17h",
       "img": "pra1c",
       "ahId": "3vz59"
     },
@@ -228,7 +228,7 @@
       "titre": "Umayuru: Full Gate!",
       "titreJp": "&quot;Umayuru&quot; is a short anime series featuring pint-sized Uma Musume! This time, it’s a &quot;Full-Gate&quot; three-minute race where *all* the Uma Musume take to the track! A super-sized, laid-back gathering with everyone!",
       "ep": 9,
-      "ago": "3d",
+      "ago": "4d",
       "img": "cahob",
       "ahId": "7p4ok"
     },
@@ -500,7 +500,7 @@
       "titre": "Sgt. Frog (2026)",
       "titreJp": "Keroro Gunsou☆ (2026)",
       "ep": 8,
-      "ago": "5d",
+      "ago": "6d",
       "img": "la1qi",
       "ahId": "kk3xm"
     },
@@ -569,7 +569,7 @@
       "ahId": "u6jkm"
     }
   ],
-  "updatedAt": "2026-11-26T23:28:00.474Z",
+  "updatedAt": "2026-11-27T06:34:09.758Z",
   "source": "github-actions",
   "count": 71
 }
