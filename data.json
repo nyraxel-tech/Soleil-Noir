@@ -1,10 +1,34 @@
 {
   "animes": [
     {
+      "titre": "The Vermilion Mask",
+      "titreJp": "Shuiro no Kamen",
+      "ep": 8,
+      "ago": "?",
+      "img": "mmdhs",
+      "ahId": "j1ywu"
+    },
+    {
+      "titre": "Ghost Meets Gal!",
+      "titreJp": "",
+      "ep": 10,
+      "ago": "?",
+      "img": "3jxai",
+      "ahId": "k921x"
+    },
+    {
+      "titre": "Sgt. Frog (2026)",
+      "titreJp": "Keroro Gunsou☆ (2026)",
+      "ep": 9,
+      "ago": "8h",
+      "img": "la1qi",
+      "ahId": "kk3xm"
+    },
+    {
       "titre": "The Iceblade Sorcerer Shall Rule the World II",
       "titreJp": "Hyouken no Majutsushi ga Sekai wo Suberu II: Sekai Saikyou no Majutsushi de Aru Shounen wa, Majutsu Gakuin ni Nyuugakusuru",
       "ep": 9,
-      "ago": "5h",
+      "ago": "14h",
       "img": "zyq79",
       "ahId": "pnz3r"
     },
@@ -12,7 +36,7 @@
       "titre": "Tokyo Revengers: Battle of Three Deities",
       "titreJp": "Tokyo Revengers: Santen Sensou-hen",
       "ep": 9,
-      "ago": "7h",
+      "ago": "16h",
       "img": "puty1",
       "ahId": "kybuw"
     },
@@ -20,7 +44,7 @@
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 21,
-      "ago": "8h",
+      "ago": "17h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -28,7 +52,7 @@
       "titre": "Tougen Anki: Nikko Kegon Falls Arc",
       "titreJp": "Tougen Anki: Nikko Kegon no Taki-hen",
       "ep": 9,
-      "ago": "8h",
+      "ago": "17h",
       "img": "5mopt",
       "ahId": "w5qns"
     },
@@ -36,7 +60,7 @@
       "titre": "Firefly Wedding",
       "titreJp": "Hotaru no Yomeiri",
       "ep": 8,
-      "ago": "8h",
+      "ago": "17h",
       "img": "3gndp",
       "ahId": "bhbnn"
     },
@@ -44,7 +68,7 @@
       "titre": "A Certain Dark Side's Item",
       "titreJp": "Toaru Anbu no ITEM",
       "ep": 8,
-      "ago": "9h",
+      "ago": "18h",
       "img": "rc25t",
       "ahId": "21bae"
     },
@@ -52,7 +76,7 @@
       "titre": "Welsh & Shedar",
       "titreJp": "Aoki Denshou Welsh &amp; Shedar",
       "ep": 9,
-      "ago": "9h",
+      "ago": "18h",
       "img": "zf9ws",
       "ahId": "azod8"
     },
@@ -60,7 +84,7 @@
       "titre": "The Apothecary Diaries 3rd Season",
       "titreJp": "Kusuriya no Hitorigoto 3rd Season",
       "ep": 9,
-      "ago": "9h",
+      "ago": "18h",
       "img": "tv772",
       "ahId": "igk5o"
     },
@@ -68,7 +92,7 @@
       "titre": "Demons' Crest",
       "titreJp": "",
       "ep": 5,
-      "ago": "12h",
+      "ago": "20h",
       "img": "74mxx",
       "ahId": "949d8"
     },
@@ -76,7 +100,7 @@
       "titre": "JoJo's Bizarre Adventure: Steel Ball Run",
       "titreJp": "Jojo no Kimyou na Bouken: Steel Ball Run",
       "ep": 11,
-      "ago": "16h",
+      "ago": "1d",
       "img": "ftqmf",
       "ahId": "u6jkm"
     },
@@ -300,7 +324,7 @@
       "titre": "Umayuru: Full Gate!",
       "titreJp": "&quot;Umayuru&quot; is a short anime series featuring pint-sized Uma Musume! This time, it’s a &quot;Full-Gate&quot; three-minute race where *all* the Uma Musume take to the track! A super-sized, laid-back gathering with everyone!",
       "ep": 9,
-      "ago": "4d",
+      "ago": "5d",
       "img": "cahob",
       "ahId": "7p4ok"
     },
@@ -412,7 +436,7 @@
       "titre": "Aoashi Season 2",
       "titreJp": "",
       "ep": 8,
-      "ago": "5d",
+      "ago": "6d",
       "img": "ph45t",
       "ahId": "zgjwm"
     },
@@ -420,7 +444,7 @@
       "titre": "Ace of the Diamond: Act II 2nd Season - Part II",
       "titreJp": "Diamond no Ace: Act II 2nd Season - Part II,",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "8c9hh",
       "ahId": "6zcxf"
     },
@@ -428,7 +452,7 @@
       "titre": "Mission: Yozakura Family Season 2 - Part II",
       "titreJp": "Yozakura-san Chi no Daisakusen Season 2 - Part II",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "du10m",
       "ahId": "e0es6"
     },
@@ -543,33 +567,9 @@
       "ago": "6d",
       "img": "ffres",
       "ahId": "tbd2z"
-    },
-    {
-      "titre": "Detective Conan",
-      "titreJp": "Case Closed, Meitantei Conan",
-      "ep": 1221,
-      "ago": "6d",
-      "img": "lx86z",
-      "ahId": "y9prb"
-    },
-    {
-      "titre": "Pokemon Horizons: The Series",
-      "titreJp": "Pocket Monsters (2023)",
-      "ep": 158,
-      "ago": "6d",
-      "img": "9fsft",
-      "ahId": "9v661"
-    },
-    {
-      "titre": "The Vermilion Mask",
-      "titreJp": "Shuiro no Kamen",
-      "ep": 7,
-      "ago": "6d",
-      "img": "mmdhs",
-      "ahId": "j1ywu"
     }
   ],
-  "updatedAt": "2026-11-28T01:01:24.473Z",
+  "updatedAt": "2026-11-28T09:44:58.684Z",
   "source": "github-actions",
   "count": 71
 }
