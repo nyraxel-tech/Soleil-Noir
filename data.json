@@ -1,10 +1,26 @@
 {
   "animes": [
     {
+      "titre": "The Iceblade Sorcerer Shall Rule the World II",
+      "titreJp": "Hyouken no Majutsushi ga Sekai wo Suberu II: Sekai Saikyou no Majutsushi de Aru Shounen wa, Majutsu Gakuin ni Nyuugakusuru",
+      "ep": 9,
+      "ago": "5h",
+      "img": "zyq79",
+      "ahId": "pnz3r"
+    },
+    {
+      "titre": "Tokyo Revengers: Battle of Three Deities",
+      "titreJp": "Tokyo Revengers: Santen Sensou-hen",
+      "ep": 9,
+      "ago": "7h",
+      "img": "puty1",
+      "ahId": "kybuw"
+    },
+    {
       "titre": "Sorry About My Little Brothers",
       "titreJp": "Uchi no Otouto-domo ga Sumimasen",
       "ep": 21,
-      "ago": "?",
+      "ago": "8h",
       "img": "9jn5c",
       "ahId": "ldpso"
     },
@@ -12,7 +28,7 @@
       "titre": "Tougen Anki: Nikko Kegon Falls Arc",
       "titreJp": "Tougen Anki: Nikko Kegon no Taki-hen",
       "ep": 9,
-      "ago": "?",
+      "ago": "8h",
       "img": "5mopt",
       "ahId": "w5qns"
     },
@@ -20,7 +36,7 @@
       "titre": "Firefly Wedding",
       "titreJp": "Hotaru no Yomeiri",
       "ep": 8,
-      "ago": "1h",
+      "ago": "8h",
       "img": "3gndp",
       "ahId": "bhbnn"
     },
@@ -28,7 +44,7 @@
       "titre": "A Certain Dark Side's Item",
       "titreJp": "Toaru Anbu no ITEM",
       "ep": 8,
-      "ago": "1h",
+      "ago": "9h",
       "img": "rc25t",
       "ahId": "21bae"
     },
@@ -36,7 +52,7 @@
       "titre": "Welsh & Shedar",
       "titreJp": "Aoki Denshou Welsh &amp; Shedar",
       "ep": 9,
-      "ago": "1h",
+      "ago": "9h",
       "img": "zf9ws",
       "ahId": "azod8"
     },
@@ -44,7 +60,7 @@
       "titre": "The Apothecary Diaries 3rd Season",
       "titreJp": "Kusuriya no Hitorigoto 3rd Season",
       "ep": 9,
-      "ago": "1h",
+      "ago": "9h",
       "img": "tv772",
       "ahId": "igk5o"
     },
@@ -52,7 +68,7 @@
       "titre": "Demons' Crest",
       "titreJp": "",
       "ep": 5,
-      "ago": "4h",
+      "ago": "12h",
       "img": "74mxx",
       "ahId": "949d8"
     },
@@ -60,17 +76,9 @@
       "titre": "JoJo's Bizarre Adventure: Steel Ball Run",
       "titreJp": "Jojo no Kimyou na Bouken: Steel Ball Run",
       "ep": 11,
-      "ago": "8h",
+      "ago": "16h",
       "img": "ftqmf",
       "ahId": "u6jkm"
-    },
-    {
-      "titre": "The Iceblade Sorcerer Shall Rule the World II",
-      "titreJp": "Hyouken no Majutsushi ga Sekai wo Suberu II: Sekai Saikyou no Majutsushi de Aru Shounen wa, Majutsu Gakuin ni Nyuugakusuru",
-      "ep": 8,
-      "ago": "1d",
-      "img": "zyq79",
-      "ahId": "pnz3r"
     },
     {
       "titre": "TETSURYO! Meet with Tetsudou Musume",
@@ -116,7 +124,7 @@
       "titre": "A Returner's Magic Should Be Special Season 2",
       "titreJp": "Kikansha no Mahou wa Tokubetsu desu 2nd Season, Gwihwanjaui Mabeobeun Teugbyeolhaeya Habnida 2nd Season",
       "ep": 8,
-      "ago": "1d",
+      "ago": "2d",
       "img": "d2tbz",
       "ahId": "9lgbi"
     },
@@ -188,7 +196,7 @@
       "titre": "Dark Machine: The Animation",
       "titreJp": "",
       "ep": 7,
-      "ago": "2d",
+      "ago": "3d",
       "img": "omysj",
       "ahId": "ds7ri"
     },
@@ -196,7 +204,7 @@
       "titre": "Red River",
       "titreJp": "Sora wa Akai Kawa no Hotori",
       "ep": 21,
-      "ago": "2d",
+      "ago": "3d",
       "img": "zh355",
       "ahId": "x48y1"
     },
@@ -268,7 +276,7 @@
       "titre": "Magical Girl Raising Project: Restart",
       "titreJp": "Mahou Shoujo Ikusei Keikaku: Restart",
       "ep": 8,
-      "ago": "3d",
+      "ago": "4d",
       "img": "nb877",
       "ahId": "nj39s"
     },
@@ -428,7 +436,7 @@
       "titre": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
       "titreJp": "Kashita Maryoku wa &quot;Revolving Barai&quot; de Kyousei Choushuu",
       "ep": 8,
-      "ago": "5d",
+      "ago": "6d",
       "img": "rg75s",
       "ahId": "vm4bk"
     },
@@ -436,7 +444,7 @@
       "titre": "Dreamland",
       "titreJp": "",
       "ep": 6,
-      "ago": "5d",
+      "ago": "6d",
       "img": "295vq",
       "ahId": "usmn1"
     },
@@ -444,7 +452,7 @@
       "titre": "Horror Collector",
       "titreJp": "Kyoufu Collector",
       "ep": 7,
-      "ago": "5d",
+      "ago": "6d",
       "img": "od2aa",
       "ahId": "zt75v"
     },
@@ -452,7 +460,7 @@
       "titre": "Ranma 1/2 Season 3",
       "titreJp": "",
       "ep": 8,
-      "ago": "5d",
+      "ago": "6d",
       "img": "mzg0v",
       "ahId": "y5vk1"
     },
@@ -559,17 +567,9 @@
       "ago": "6d",
       "img": "mmdhs",
       "ahId": "j1ywu"
-    },
-    {
-      "titre": "Sgt. Frog (2026)",
-      "titreJp": "Keroro Gunsou☆ (2026)",
-      "ep": 8,
-      "ago": "6d",
-      "img": "la1qi",
-      "ahId": "kk3xm"
     }
   ],
-  "updatedAt": "2026-11-27T17:11:32.807Z",
+  "updatedAt": "2026-11-28T01:01:24.473Z",
   "source": "github-actions",
   "count": 71
 }
